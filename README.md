@@ -3,7 +3,7 @@
 ### Directory Organization
 - src: The code used for data collection and analysis
 - complexity_data: The complexity measurements collected from SonarQube and Metrix++
-- file_data: snapshot lists of the files from all used repositories along with the results of the odds ratios scripts.
+- file_data: snapshot lists of the files from all used repositories along with the results of the odds ratios scripts. This excludes Chromium and Linux as their files are too larger for github
 - output_data: all the final data produced by the scripts specified below.
 
 ### Files to Remove for Metrix++
