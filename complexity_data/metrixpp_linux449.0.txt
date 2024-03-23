@@ -1,0 +1,5433 @@
+./drivers/media/test-drivers/vivid/vivid-radio-rx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-779
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vivid/vivid-radio-rx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-radio-rx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-osd.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-381
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/vivid/vivid-osd.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-osd.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-core.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16623
+	Line numbers   : 1-600
+	Modified       : None
+	std.code.lines:code: 37
+
+./drivers/media/test-drivers/vivid/vivid-core.h:57: info: Metrics per 'vivid_fmt' region
+	Region name    : vivid_fmt
+	Region type    : struct
+	Offsets        : 1663-1922
+	Line numbers   : 57-67
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/vivid/vivid-core.h:72: info: Metrics per 'vivid_buffer' region
+	Region name    : vivid_buffer
+	Region type    : struct
+	Offsets        : 1967-2123
+	Line numbers   : 71-76
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:113: info: Metrics per 'vivid_cec_xfer' region
+	Region name    : vivid_cec_xfer
+	Region type    : struct
+	Offsets        : 2713-2818
+	Line numbers   : 113-118
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vivid/vivid-core.h:120: info: Metrics per 'vivid_dev' region
+	Region name    : vivid_dev
+	Region type    : struct
+	Offsets        : 2821-15790
+	Line numbers   : 120-562
+	Modified       : None
+	std.code.lines:code: 356
+
+./drivers/media/test-drivers/vivid/vivid-core.h:213: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 5522-5619
+	Line numbers   : 213-217
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:235: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6131-6260
+	Line numbers   : 235-239
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:240: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6263-6407
+	Line numbers   : 240-244
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:564: info: Metrics per 'vivid_is_webcam' region
+	Region name    : vivid_is_webcam
+	Region type    : function
+	Offsets        : 15793-15907
+	Line numbers   : 564-567
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:569: info: Metrics per 'vivid_is_tv_cap' region
+	Region name    : vivid_is_tv_cap
+	Region type    : function
+	Offsets        : 15909-16019
+	Line numbers   : 569-572
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:574: info: Metrics per 'vivid_is_svid_cap' region
+	Region name    : vivid_is_svid_cap
+	Region type    : function
+	Offsets        : 16021-16135
+	Line numbers   : 574-577
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:579: info: Metrics per 'vivid_is_hdmi_cap' region
+	Region name    : vivid_is_hdmi_cap
+	Region type    : function
+	Offsets        : 16137-16251
+	Line numbers   : 579-582
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:584: info: Metrics per 'vivid_is_sdtv_cap' region
+	Region name    : vivid_is_sdtv_cap
+	Region type    : function
+	Offsets        : 16253-16378
+	Line numbers   : 584-587
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:589: info: Metrics per 'vivid_is_svid_out' region
+	Region name    : vivid_is_svid_out
+	Region type    : function
+	Offsets        : 16380-16496
+	Line numbers   : 589-592
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:594: info: Metrics per 'vivid_is_hdmi_out' region
+	Region name    : vivid_is_hdmi_out
+	Region type    : function
+	Offsets        : 16498-16614
+	Line numbers   : 594-597
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-core.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.14285714
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.857 : 0.857 : 6	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-core.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 30.26666667
+	Minimum        : 4
+	Maximum        : 356
+	Total          : 454.0
+	Distribution   : 15 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.733 : 0.733 : 11	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.067 : 0.800 :  1	||||||
+	            11 : 0.067 : 0.867 :  1	||||||
+	            37 : 0.067 : 0.933 :  1	||||||
+	           356 : 0.067 : 1.000 :  1	||||||
+
+./drivers/media/test-drivers/vivid/vivid-kthread-touch.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-315
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/test-drivers/vivid/vivid-kthread-touch.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-kthread-touch.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-meta-cap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-677
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vivid/vivid-meta-cap.h:10: info: Metrics per 'vivid_uvc_meta_buf' region
+	Region name    : vivid_uvc_meta_buf
+	Region type    : struct
+	Offsets        : 208-329
+	Line numbers   : 10-16
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vivid/vivid-meta-cap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-meta-cap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 7
+	Maximum        : 8
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-ctrls.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-527
+	Line numbers   : 1-23
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vivid/vivid-ctrls.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-ctrls.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-cec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-383
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-cec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-cec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-vid-out.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2674
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 30
+
+./drivers/media/test-drivers/vivid/vivid-vid-out.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-vid-out.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 30.0
+	Minimum        : 30
+	Maximum        : 30
+	Total          : 30.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            30 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-vp8.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5345
+	Line numbers   : 1-157
+	Modified       : None
+	std.code.lines:code: 53
+
+./drivers/media/test-drivers/visl/visl-trace-vp8.h:42: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 1401-2869
+	Line numbers   : 41-87
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 47
+
+./drivers/media/test-drivers/visl/visl-trace-vp8.h:91: info: Metrics per '__print_array' region
+	Region name    : __print_array
+	Region type    : function
+	Offsets        : 3018-3512
+	Line numbers   : 90-100
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/visl/visl-trace-vp8.h:124: info: Metrics per '__print_array' region
+	Region name    : __print_array
+	Region type    : function
+	Offsets        : 3570-4588
+	Line numbers   : 102-131
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 30
+
+./drivers/media/test-drivers/visl/visl-trace-vp8.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-vp8.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 35.25
+	Minimum        : 11
+	Maximum        : 53
+	Total          : 141.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	            30 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            47 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            53 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-mpeg2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3732
+	Line numbers   : 1-100
+	Modified       : None
+	std.code.lines:code: 63
+
+./drivers/media/test-drivers/visl/visl-trace-mpeg2.h:16: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 466-874
+	Line numbers   : 15-24
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 10
+
+./drivers/media/test-drivers/visl/visl-trace-mpeg2.h:33: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 1096-1423
+	Line numbers   : 32-38
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/visl/visl-trace-mpeg2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-mpeg2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 26.66666667
+	Minimum        : 7
+	Maximum        : 63
+	Total          : 80.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            10 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            63 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-fwht.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2368
+	Line numbers   : 1-67
+	Modified       : None
+	std.code.lines:code: 43
+
+./drivers/media/test-drivers/visl/visl-trace-fwht.h:36: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 1050-1352
+	Line numbers   : 35-39
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/visl/visl-trace-fwht.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-fwht.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 24.0
+	Minimum        : 5
+	Maximum        : 43
+	Total          : 48.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            43 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15962
+	Line numbers   : 1-406
+	Modified       : None
+	std.code.lines:code: 82
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:11: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 249-2756
+	Line numbers   : 11-66
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 56
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:80: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 3366-5052
+	Line numbers   : 80-121
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 42
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:147: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 6597-8870
+	Line numbers   : 147-210
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 64
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:224: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 9618-14151
+	Line numbers   : 224-340
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 114
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:347: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 14291-14727
+	Line numbers   : 347-358
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 12
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 5	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-hevc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 61.66666667
+	Minimum        : 12
+	Maximum        : 114
+	Total          : 370.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 0.167 : 0.167 : 1	||||||||||||||||
+	            42 : 0.167 : 0.333 : 1	||||||||||||||||
+	            56 : 0.167 : 0.500 : 1	||||||||||||||||
+	            64 : 0.167 : 0.667 : 1	||||||||||||||||
+	            82 : 0.167 : 0.833 : 1	||||||||||||||||
+	           114 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-13145
+	Line numbers   : 1-350
+	Modified       : None
+	std.code.lines:code: 167
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:11: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 248-1206
+	Line numbers   : 11-36
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 26
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:52: info: Metrics per '__print_array' region
+	Region name    : __print_array
+	Region type    : function
+	Offsets        : 1477-2364
+	Line numbers   : 41-60
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 20
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:70: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 2854-3967
+	Line numbers   : 70-97
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 28
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:173: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 7271-8075
+	Line numbers   : 173-195
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 23
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:210: info: Metrics per '__print_flags' region
+	Region name    : __print_flags
+	Region type    : function
+	Offsets        : 8189-8715
+	Line numbers   : 199-211
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 13
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:222: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 9034-9180
+	Line numbers   : 221-225
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:232: info: Metrics per 'DECLARE_EVENT_CLASS' region
+	Region name    : DECLARE_EVENT_CLASS
+	Region type    : function
+	Offsets        : 9305-10463
+	Line numbers   : 232-263
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 32
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:277: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 10949-11273
+	Line numbers   : 276-284
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:289: info: Metrics per '__print_flags' region
+	Region name    : __print_flags
+	Region type    : function
+	Offsets        : 11334-11531
+	Line numbers   : 286-290
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 9	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-h264.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 32.8
+	Minimum        : 5
+	Maximum        : 167
+	Total          : 328.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.200 : 0.200 :  2	||||||||||||||||||||
+	             9 : 0.100 : 0.300 :  1	||||||||||
+	            13 : 0.100 : 0.400 :  1	||||||||||
+	            20 : 0.100 : 0.500 :  1	||||||||||
+	            23 : 0.100 : 0.600 :  1	||||||||||
+	            26 : 0.100 : 0.700 :  1	||||||||||
+	            28 : 0.100 : 0.800 :  1	||||||||||
+	            32 : 0.100 : 0.900 :  1	||||||||||
+	           167 : 0.100 : 1.000 :  1	||||||||||
+
+./drivers/media/test-drivers/visl/visl-dec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1645
+	Line numbers   : 1-68
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/visl/visl-dec.h:12: info: Metrics per 'visl_fwht_run' region
+	Region name    : visl_fwht_run
+	Region type    : struct
+	Offsets        : 215-284
+	Line numbers   : 12-14
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/visl/visl-dec.h:16: info: Metrics per 'visl_mpeg2_run' region
+	Region name    : visl_mpeg2_run
+	Region type    : struct
+	Offsets        : 287-452
+	Line numbers   : 16-20
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/visl/visl-dec.h:22: info: Metrics per 'visl_vp8_run' region
+	Region name    : visl_vp8_run
+	Region type    : struct
+	Offsets        : 455-520
+	Line numbers   : 22-24
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/visl/visl-dec.h:26: info: Metrics per 'visl_vp9_run' region
+	Region name    : visl_vp9_run
+	Region type    : struct
+	Offsets        : 523-639
+	Line numbers   : 26-29
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/visl/visl-dec.h:31: info: Metrics per 'visl_h264_run' region
+	Region name    : visl_h264_run
+	Region type    : struct
+	Offsets        : 642-943
+	Line numbers   : 31-38
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/visl/visl-dec.h:40: info: Metrics per 'visl_hevc_run' region
+	Region name    : visl_hevc_run
+	Region type    : struct
+	Offsets        : 946-1198
+	Line numbers   : 40-46
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/visl/visl-dec.h:48: info: Metrics per 'visl_run' region
+	Region name    : visl_run
+	Region type    : struct
+	Offsets        : 1201-1466
+	Line numbers   : 48-60
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/visl/visl-dec.h:52: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1281-1463
+	Line numbers   : 52-59
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/visl/visl-dec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/visl/visl-dec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 3
+	Maximum        : 11
+	Total          : 54.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.222 : 0.222 : 2	||||||||||||||||||||||
+	             4 : 0.111 : 0.333 : 1	|||||||||||
+	             5 : 0.222 : 0.556 : 2	||||||||||||||||||||||
+	             7 : 0.111 : 0.667 : 1	|||||||||||
+	             8 : 0.222 : 0.889 : 2	||||||||||||||||||||||
+	            11 : 0.111 : 1.000 : 1	|||||||||||
+
+./drivers/media/test-drivers/visl/visl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4606
+	Line numbers   : 1-177
+	Modified       : None
+	std.code.lines:code: 32
+
+./drivers/media/test-drivers/visl/visl.h:58: info: Metrics per 'visl_ctrls' region
+	Region name    : visl_ctrls
+	Region type    : struct
+	Offsets        : 1934-2017
+	Line numbers   : 58-61
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/visl/visl.h:63: info: Metrics per 'visl_coded_format_desc' region
+	Region name    : visl_coded_format_desc
+	Region type    : struct
+	Offsets        : 2020-2201
+	Line numbers   : 63-69
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/visl/visl.h:97: info: Metrics per 'visl_q_data' region
+	Region name    : visl_q_data
+	Region type    : struct
+	Offsets        : 2695-3008
+	Line numbers   : 89-99
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/visl/visl.h:101: info: Metrics per 'visl_dev' region
+	Region name    : visl_dev
+	Region type    : struct
+	Offsets        : 3011-3411
+	Line numbers   : 101-120
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/visl/visl.h:132: info: Metrics per 'visl_blob' region
+	Region name    : visl_blob
+	Region type    : struct
+	Offsets        : 3561-3664
+	Line numbers   : 132-136
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/visl/visl.h:138: info: Metrics per 'visl_ctx' region
+	Region name    : visl_ctx
+	Region type    : struct
+	Offsets        : 3667-4070
+	Line numbers   : 138-156
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/test-drivers/visl/visl.h:158: info: Metrics per 'visl_ctrl_desc' region
+	Region name    : visl_ctrl_desc
+	Region type    : struct
+	Offsets        : 4073-4128
+	Line numbers   : 158-160
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/visl/visl.h:162: info: Metrics per 'visl_file_to_ctx' region
+	Region name    : visl_file_to_ctx
+	Region type    : function
+	Offsets        : 4131-4264
+	Line numbers   : 162-165
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/visl/visl.h:167: info: Metrics per 'visl_v4l2fh_to_ctx' region
+	Region name    : visl_v4l2fh_to_ctx
+	Region type    : function
+	Offsets        : 4266-4396
+	Line numbers   : 167-170
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/visl/visl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.7
+	Minimum        : 3
+	Maximum        : 32
+	Total          : 87.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 :  2	||||||||||||||||||||
+	             4 : 0.300 : 0.500 :  3	||||||||||||||||||||||||||||||
+	             5 : 0.100 : 0.600 :  1	||||||||||
+	             7 : 0.100 : 0.700 :  1	||||||||||
+	            11 : 0.100 : 0.800 :  1	||||||||||
+	            14 : 0.100 : 0.900 :  1	||||||||||
+	            32 : 0.100 : 1.000 :  1	||||||||||
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1231
+	Line numbers   : 1-41
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:25: info: Metrics per 'visl_debugfs_init' region
+	Region name    : visl_debugfs_init
+	Region type    : function
+	Offsets        : 767-839
+	Line numbers   : 25-28
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:30: info: Metrics per 'visl_debugfs_bitstream_init' region
+	Region name    : visl_debugfs_bitstream_init
+	Region type    : function
+	Offsets        : 841-923
+	Line numbers   : 30-33
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:35: info: Metrics per 'visl_trace_bitstream' region
+	Region name    : visl_trace_bitstream
+	Region type    : function
+	Offsets        : 925-1011
+	Line numbers   : 35-35
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:36: info: Metrics per 'visl_debugfs_clear_bitstream' region
+	Region name    : visl_debugfs_clear_bitstream
+	Region type    : function
+	Offsets        : 1012-1084
+	Line numbers   : 36-36
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:37: info: Metrics per 'visl_debugfs_bitstream_deinit' region
+	Region name    : visl_debugfs_bitstream_deinit
+	Region type    : function
+	Offsets        : 1085-1158
+	Line numbers   : 37-37
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:38: info: Metrics per 'visl_debugfs_deinit' region
+	Region name    : visl_debugfs_deinit
+	Region type    : function
+	Offsets        : 1159-1222
+	Line numbers   : 38-38
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 6	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-debugfs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.57142857
+	Minimum        : 1
+	Maximum        : 6
+	Total          : 18.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.571 : 0.571 : 4	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.286 : 0.857 : 2	||||||||||||||||||||||||||||
+	             6 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10165
+	Line numbers   : 1-293
+	Modified       : None
+	std.code.lines:code: 172
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:16: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 450-1790
+	Line numbers   : 15-58
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 44
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:64: info: Metrics per '__print_hex_dump' region
+	Region name    : __print_hex_dump
+	Region type    : function
+	Offsets        : 1797-2644
+	Line numbers   : 59-78
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 20
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:83: info: Metrics per '__print_flags' region
+	Region name    : __print_flags
+	Region type    : function
+	Offsets        : 2840-3002
+	Line numbers   : 82-84
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:103: info: Metrics per '__print_symbolic' region
+	Region name    : __print_symbolic
+	Region type    : function
+	Offsets        : 3491-3982
+	Line numbers   : 93-104
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 12
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:107: info: Metrics per '__print_symbolic' region
+	Region name    : __print_symbolic
+	Region type    : function
+	Offsets        : 4042-4197
+	Line numbers   : 106-108
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:114: info: Metrics per '__print_symbolic' region
+	Region name    : __print_symbolic
+	Region type    : function
+	Offsets        : 4265-4521
+	Line numbers   : 110-115
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:122: info: Metrics per '__print_symbolic' region
+	Region name    : __print_symbolic
+	Region type    : function
+	Offsets        : 4749-5005
+	Line numbers   : 119-123
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:133: info: Metrics per 'TP_printk' region
+	Region name    : TP_printk
+	Region type    : function
+	Offsets        : 5394-5787
+	Line numbers   : 132-148
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 17
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 8	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/visl/visl-trace-vp9.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 31.33333333
+	Minimum        : 3
+	Maximum        : 172
+	Total          : 282.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.222 : 0.222 : 2	||||||||||||||||||||||
+	             5 : 0.111 : 0.333 : 1	|||||||||||
+	             6 : 0.111 : 0.444 : 1	|||||||||||
+	            12 : 0.111 : 0.556 : 1	|||||||||||
+	            17 : 0.111 : 0.667 : 1	|||||||||||
+	            20 : 0.111 : 0.778 : 1	|||||||||||
+	            44 : 0.111 : 0.889 : 1	|||||||||||
+	           172 : 0.111 : 1.000 : 1	|||||||||||
+
+./drivers/media/test-drivers/visl/visl-video.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-783
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/visl/visl-video.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/visl/visl-video.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 11
+	Maximum        : 11
+	Total          : 11.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vicodec/codec-fwht.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3810
+	Line numbers   : 1-119
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/test-drivers/vicodec/codec-fwht.h:66: info: Metrics per 'fwht_cframe_hdr' region
+	Region name    : fwht_cframe_hdr
+	Region type    : struct
+	Offsets        : 2442-2643
+	Line numbers   : 66-77
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/test-drivers/vicodec/codec-fwht.h:79: info: Metrics per 'fwht_cframe' region
+	Region name    : fwht_cframe
+	Region type    : struct
+	Offsets        : 2646-2796
+	Line numbers   : 79-87
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vicodec/codec-fwht.h:89: info: Metrics per 'fwht_raw_frame' region
+	Region name    : fwht_raw_frame
+	Region type    : struct
+	Offsets        : 2799-3002
+	Line numbers   : 89-97
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vicodec/codec-fwht.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vicodec/codec-fwht.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.25
+	Minimum        : 9
+	Maximum        : 15
+	Total          : 45.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            15 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vicodec/codec-v4l2-fwht.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1760
+	Line numbers   : 1-65
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/test-drivers/vicodec/codec-v4l2-fwht.h:11: info: Metrics per 'v4l2_fwht_pixfmt_info' region
+	Region name    : v4l2_fwht_pixfmt_info
+	Region type    : struct
+	Offsets        : 208-560
+	Line numbers   : 11-24
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/test-drivers/vicodec/codec-v4l2-fwht.h:26: info: Metrics per 'v4l2_fwht_state' region
+	Region name    : v4l2_fwht_state
+	Region type    : struct
+	Offsets        : 563-1126
+	Line numbers   : 26-48
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/media/test-drivers/vicodec/codec-v4l2-fwht.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vicodec/codec-v4l2-fwht.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 13
+	Maximum        : 21
+	Total          : 48.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            13 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            14 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            21 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/saa7134/saa7134.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-31098
+	Line numbers   : 1-908
+	Modified       : None
+	std.code.lines:code: 168
+
+./drivers/media/pci/saa7134/saa7134.h:69: info: Metrics per 'saa7134_tvnorm' region
+	Region name    : saa7134_tvnorm
+	Region type    : struct
+	Offsets        : 1527-2029
+	Line numbers   : 69-90
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/media/pci/saa7134/saa7134.h:92: info: Metrics per 'saa7134_tvaudio' region
+	Region name    : saa7134_tvaudio
+	Region type    : struct
+	Offsets        : 2032-2181
+	Line numbers   : 92-98
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/saa7134/saa7134.h:100: info: Metrics per 'saa7134_format' region
+	Region name    : saa7134_format
+	Region type    : struct
+	Offsets        : 2184-2545
+	Line numbers   : 100-111
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/pci/saa7134/saa7134.h:113: info: Metrics per 'saa7134_card_ir' region
+	Region name    : saa7134_card_ir
+	Region type    : struct
+	Offsets        : 2548-2848
+	Line numbers   : 113-128
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/saa7134/saa7134.h:368: info: Metrics per 'saa7134_input' region
+	Region name    : saa7134_input
+	Region type    : struct
+	Offsets        : 12756-12908
+	Line numbers   : 368-373
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/saa7134/saa7134.h:387: info: Metrics per 'saa7134_board' region
+	Region name    : saa7134_board
+	Region type    : struct
+	Offsets        : 13114-13866
+	Line numbers   : 387-414
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/media/pci/saa7134/saa7134.h:447: info: Metrics per 'saa7134_pgtable' region
+	Region name    : saa7134_pgtable
+	Region type    : struct
+	Offsets        : 15230-15382
+	Line numbers   : 446-451
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/saa7134/saa7134.h:454: info: Metrics per 'saa7134_thread' region
+	Region name    : saa7134_thread
+	Region type    : struct
+	Offsets        : 15385-15606
+	Line numbers   : 453-460
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/saa7134/saa7134.h:463: info: Metrics per 'saa7134_buf' region
+	Region name    : saa7134_buf
+	Region type    : struct
+	Offsets        : 15609-15934
+	Line numbers   : 462-474
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/saa7134/saa7134.h:476: info: Metrics per 'saa7134_dmaqueue' region
+	Region name    : saa7134_dmaqueue
+	Region type    : struct
+	Offsets        : 15937-16211
+	Line numbers   : 476-484
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/saa7134/saa7134.h:487: info: Metrics per 'saa7134_dmasound' region
+	Region name    : saa7134_dmasound
+	Region type    : struct
+	Offsets        : 16214-17223
+	Line numbers   : 486-518
+	Modified       : None
+	std.code.lines:code: 28
+
+./drivers/media/pci/saa7134/saa7134.h:521: info: Metrics per 'saa7134_ts' region
+	Region name    : saa7134_ts
+	Region type    : struct
+	Offsets        : 17226-17363
+	Line numbers   : 520-525
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/saa7134/saa7134.h:528: info: Metrics per 'saa7134_mpeg_ops' region
+	Region name    : saa7134_mpeg_ops
+	Region type    : struct
+	Offsets        : 17366-17773
+	Line numbers   : 527-536
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/saa7134/saa7134.h:545: info: Metrics per 'saa7134_dev' region
+	Region name    : saa7134_dev
+	Region type    : struct
+	Offsets        : 17863-22071
+	Line numbers   : 544-675
+	Modified       : None
+	std.code.lines:code: 93
+
+./drivers/media/pci/saa7134/saa7134.h:723: info: Metrics per 'is_empress' region
+	Region name    : is_empress
+	Region type    : function
+	Offsets        : 23683-23880
+	Line numbers   : 723-729
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/pci/saa7134/saa7134.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/saa7134/saa7134.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 25.6875
+	Minimum        : 4
+	Maximum        : 168
+	Total          : 411.0
+	Distribution   : 16 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.062 : 0.062 :  1	||||||
+	             5 : 0.062 : 0.125 :  1	||||||
+	             6 : 0.125 : 0.250 :  2	||||||||||||
+	             7 : 0.125 : 0.375 :  2	||||||||||||
+	             8 : 0.062 : 0.438 :  1	||||||
+	             9 : 0.125 : 0.562 :  2	||||||||||||
+	            10 : 0.062 : 0.625 :  1	||||||
+	            12 : 0.062 : 0.688 :  1	||||||
+	            18 : 0.062 : 0.750 :  1	||||||
+	            21 : 0.062 : 0.812 :  1	||||||
+	            28 : 0.062 : 0.875 :  1	||||||
+	            93 : 0.062 : 0.938 :  1	||||||
+	           168 : 0.062 : 1.000 :  1	||||||
+
+./drivers/media/pci/saa7134/saa7134-reg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-17911
+	Line numbers   : 1-378
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/pci/saa7134/saa7134-reg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/saa7134/saa7134-reg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/tw5864/tw5864.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5199
+	Line numbers   : 1-197
+	Modified       : None
+	std.code.lines:code: 36
+
+./drivers/media/pci/tw5864/tw5864.h:60: info: Metrics per 'tw5864_buf' region
+	Region name    : tw5864_buf
+	Region type    : struct
+	Offsets        : 1460-1594
+	Line numbers   : 59-65
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/tw5864/tw5864.h:67: info: Metrics per 'tw5864_dma_buf' region
+	Region name    : tw5864_dma_buf
+	Region type    : struct
+	Offsets        : 1597-1657
+	Line numbers   : 67-70
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/tw5864/tw5864.h:84: info: Metrics per 'tw5864_input' region
+	Region name    : tw5864_input
+	Region type    : struct
+	Offsets        : 1942-2987
+	Line numbers   : 84-130
+	Modified       : None
+	std.code.lines:code: 38
+
+./drivers/media/pci/tw5864/tw5864.h:132: info: Metrics per 'tw5864_h264_frame' region
+	Region name    : tw5864_h264_frame
+	Region type    : struct
+	Offsets        : 2990-3193
+	Line numbers   : 132-141
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/tw5864/tw5864.h:144: info: Metrics per 'tw5864_dev' region
+	Region name    : tw5864_dev
+	Region type    : struct
+	Offsets        : 3196-3739
+	Line numbers   : 143-164
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/pci/tw5864/tw5864.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/tw5864/tw5864.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.0
+	Minimum        : 4
+	Maximum        : 38
+	Total          : 108.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	             5 : 0.167 : 0.333 : 1	||||||||||||||||
+	            10 : 0.167 : 0.500 : 1	||||||||||||||||
+	            15 : 0.167 : 0.667 : 1	||||||||||||||||
+	            36 : 0.167 : 0.833 : 1	||||||||||||||||
+	            38 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/media/pci/tw5864/tw5864-reg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-65349
+	Line numbers   : 1-2133
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/pci/tw5864/tw5864-reg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/tw5864/tw5864-reg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/zr36060.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5236
+	Line numbers   : 1-204
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/zoran/zr36060.h:14: info: Metrics per 'zr36060' region
+	Region name    : zr36060
+	Region type    : struct
+	Offsets        : 250-747
+	Line numbers   : 13-41
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/media/pci/zoran/zr36060.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/zoran/zr36060.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 3
+	Maximum        : 19
+	Total          : 22.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/zr36050.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5104
+	Line numbers   : 1-166
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/zoran/zr36050.h:14: info: Metrics per 'zr36050' region
+	Region name    : zr36050
+	Region type    : struct
+	Offsets        : 240-733
+	Line numbers   : 13-41
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/media/pci/zoran/zr36050.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/zoran/zr36050.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 3
+	Maximum        : 19
+	Total          : 22.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/zoran_card.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-805
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/zoran/zoran_card.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/zoran/zoran_card.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 7
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/zr36057.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6172
+	Line numbers   : 1-155
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/pci/zoran/zr36057.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/zoran/zr36057.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/zoran_device.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1744
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/media/pci/zoran/zoran_device.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/zoran/zoran_device.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.0
+	Minimum        : 20
+	Maximum        : 20
+	Total          : 20.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            20 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/videocodec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12675
+	Line numbers   : 1-326
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/pci/zoran/videocodec.h:202: info: Metrics per 'vfe_polarity' region
+	Region name    : vfe_polarity
+	Region type    : struct
+	Offsets        : 8544-8782
+	Line numbers   : 202-211
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/zoran/videocodec.h:213: info: Metrics per 'vfe_settings' region
+	Region name    : vfe_settings
+	Region type    : struct
+	Offsets        : 8785-9018
+	Line numbers   : 213-219
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/zoran/videocodec.h:221: info: Metrics per 'tvnorm' region
+	Region name    : tvnorm
+	Region type    : struct
+	Offsets        : 9021-9091
+	Line numbers   : 221-223
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/zoran/videocodec.h:225: info: Metrics per 'jpeg_com_marker' region
+	Region name    : jpeg_com_marker
+	Region type    : struct
+	Offsets        : 9094-9183
+	Line numbers   : 225-228
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/zoran/videocodec.h:230: info: Metrics per 'jpeg_app_marker' region
+	Region name    : jpeg_app_marker
+	Region type    : struct
+	Offsets        : 9186-9311
+	Line numbers   : 230-234
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/zoran/videocodec.h:236: info: Metrics per 'videocodec' region
+	Region name    : videocodec
+	Region type    : struct
+	Offsets        : 9314-10955
+	Line numbers   : 236-273
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/media/pci/zoran/videocodec.h:275: info: Metrics per 'videocodec_master' region
+	Region name    : videocodec_master
+	Region type    : struct
+	Offsets        : 10958-11382
+	Line numbers   : 275-286
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/zoran/videocodec.h:311: info: Metrics per 'videocodec_master_to_zoran' region
+	Region name    : videocodec_master_to_zoran
+	Region type    : function
+	Offsets        : 12292-12450
+	Line numbers   : 310-316
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/zoran/videocodec.h:318: info: Metrics per 'videocodec_to_zoran' region
+	Region name    : videocodec_to_zoran
+	Region type    : function
+	Offsets        : 12452-12630
+	Line numbers   : 318-323
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/zoran/videocodec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/videocodec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 3
+	Maximum        : 20
+	Total          : 80.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.100 : 0.100 :  1	||||||||||
+	             4 : 0.100 : 0.200 :  1	||||||||||
+	             5 : 0.300 : 0.500 :  3	||||||||||||||||||||||||||||||
+	             7 : 0.100 : 0.600 :  1	||||||||||
+	             9 : 0.100 : 0.700 :  1	||||||||||
+	            10 : 0.100 : 0.800 :  1	||||||||||
+	            12 : 0.100 : 0.900 :  1	||||||||||
+	            20 : 0.100 : 1.000 :  1	||||||||||
+
+./drivers/media/pci/zoran/zoran.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8451
+	Line numbers   : 1-329
+	Modified       : None
+	std.code.lines:code: 53
+
+./drivers/media/pci/zoran/zoran.h:34: info: Metrics per 'zr_buffer' region
+	Region name    : zr_buffer
+	Region type    : struct
+	Offsets        : 764-911
+	Line numbers   : 34-38
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/zoran/zoran.h:40: info: Metrics per 'vb2_to_zr_buffer' region
+	Region name    : vb2_to_zr_buffer
+	Region type    : function
+	Offsets        : 914-1098
+	Line numbers   : 40-45
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/zoran/zoran.h:120: info: Metrics per 'zoran_format' region
+	Region name    : zoran_format
+	Region type    : struct
+	Offsets        : 2483-2593
+	Line numbers   : 120-127
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/zoran/zoran.h:136: info: Metrics per 'zoran_v4l_settings' region
+	Region name    : zoran_v4l_settings
+	Region type    : struct
+	Offsets        : 2757-2923
+	Line numbers   : 135-139
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/zoran/zoran.h:142: info: Metrics per 'zoran_jpg_settings' region
+	Region name    : zoran_jpg_settings
+	Region type    : struct
+	Offsets        : 2926-3419
+	Line numbers   : 141-153
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/zoran/zoran.h:158: info: Metrics per 'zoran_fh' region
+	Region name    : zoran_fh
+	Region type    : struct
+	Offsets        : 3437-3539
+	Line numbers   : 157-161
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/zoran/zoran.h:163: info: Metrics per 'card_info' region
+	Region name    : card_info
+	Region type    : struct
+	Offsets        : 3542-4377
+	Line numbers   : 163-197
+	Modified       : None
+	std.code.lines:code: 23
+
+./drivers/media/pci/zoran/zoran.h:174: info: Metrics per 'input' region
+	Region name    : input
+	Region type    : struct
+	Offsets        : 3884-3962
+	Line numbers   : 173-177
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/zoran/zoran.h:199: info: Metrics per 'zoran' region
+	Region name    : zoran
+	Region type    : struct
+	Offsets        : 4380-7413
+	Line numbers   : 199-294
+	Modified       : None
+	std.code.lines:code: 71
+
+./drivers/media/pci/zoran/zoran.h:296: info: Metrics per 'to_zoran' region
+	Region name    : to_zoran
+	Region type    : function
+	Offsets        : 7416-7542
+	Line numbers   : 296-299
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/zoran/zoran.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/zoran/zoran.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.0
+	Minimum        : 4
+	Maximum        : 71
+	Total          : 187.0
+	Distribution   : 11 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.455 : 0.455 :  5	|||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.091 : 0.545 :  1	|||||||||
+	             7 : 0.091 : 0.636 :  1	|||||||||
+	             8 : 0.091 : 0.727 :  1	|||||||||
+	            23 : 0.091 : 0.818 :  1	|||||||||
+	            53 : 0.091 : 0.909 :  1	|||||||||
+	            71 : 0.091 : 1.000 :  1	|||||||||
+
+./drivers/media/pci/zoran/zr36016.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2460
+	Line numbers   : 1-95
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/zoran/zr36016.h:12: info: Metrics per 'zr36016' region
+	Region name    : zr36016
+	Region type    : struct
+	Offsets        : 215-507
+	Line numbers   : 11-28
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/pci/zoran/zr36016.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/zoran/zr36016.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 3
+	Maximum        : 13
+	Total          : 16.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            13 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ttpci/budget.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3184
+	Line numbers   : 1-130
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/pci/ttpci/budget.h:32: info: Metrics per 'budget_info' region
+	Region name    : budget_info
+	Region type    : struct
+	Offsets        : 611-657
+	Line numbers   : 32-35
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ttpci/budget.h:38: info: Metrics per 'budget' region
+	Region name    : budget
+	Region type    : struct
+	Offsets        : 660-1564
+	Line numbers   : 37-84
+	Modified       : None
+	std.code.lines:code: 32
+
+./drivers/media/pci/ttpci/budget.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ttpci/budget.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.66666667
+	Minimum        : 4
+	Maximum        : 32
+	Total          : 50.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            14 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            32 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/netup_unidvb/netup_unidvb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3494
+	Line numbers   : 1-135
+	Modified       : None
+	std.code.lines:code: 27
+
+./drivers/media/pci/netup_unidvb/netup_unidvb.h:53: info: Metrics per 'netup_dma' region
+	Region name    : netup_dma
+	Region type    : struct
+	Offsets        : 1517-1864
+	Line numbers   : 53-68
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/pci/netup_unidvb/netup_unidvb.h:80: info: Metrics per 'netup_i2c' region
+	Region name    : netup_i2c
+	Region type    : struct
+	Offsets        : 1994-2228
+	Line numbers   : 80-89
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/netup_unidvb/netup_unidvb.h:91: info: Metrics per 'netup_ci_state' region
+	Region name    : netup_ci_state
+	Region type    : struct
+	Offsets        : 2231-2398
+	Line numbers   : 91-98
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/netup_unidvb/netup_unidvb.h:102: info: Metrics per 'netup_unidvb_dev' region
+	Region name    : netup_unidvb_dev
+	Region type    : struct
+	Offsets        : 2420-2923
+	Line numbers   : 102-123
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/media/pci/netup_unidvb/netup_unidvb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/netup_unidvb/netup_unidvb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.6
+	Minimum        : 8
+	Maximum        : 27
+	Total          : 83.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	            10 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            16 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            22 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            27 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_vout.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1268
+	Line numbers   : 1-66
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/mgb4/mgb4_vout.h:17: info: Metrics per 'mgb4_vout_regs' region
+	Region name    : mgb4_vout_regs
+	Region type    : struct
+	Offsets        : 383-522
+	Line numbers   : 17-26
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/mgb4/mgb4_vout.h:28: info: Metrics per 'mgb4_vout_config' region
+	Region name    : mgb4_vout_config
+	Region type    : struct
+	Offsets        : 525-618
+	Line numbers   : 28-33
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/mgb4/mgb4_vout.h:35: info: Metrics per 'mgb4_vout_dev' region
+	Region name    : mgb4_vout_dev
+	Region type    : struct
+	Offsets        : 621-1132
+	Line numbers   : 35-60
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/media/pci/mgb4/mgb4_vout.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_vout.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 5
+	Maximum        : 19
+	Total          : 40.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             6 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            10 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            19 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_dma.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-460
+	Line numbers   : 1-19
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/mgb4/mgb4_dma.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_dma.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-803
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/mgb4/mgb4_regs.h:12: info: Metrics per 'mgb4_regs' region
+	Region name    : mgb4_regs
+	Region type    : struct
+	Offsets        : 233-329
+	Line numbers   : 12-16
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/mgb4/mgb4_regs.h:23: info: Metrics per 'mgb4_mask_reg' region
+	Region name    : mgb4_mask_reg
+	Region type    : function
+	Offsets        : 498-683
+	Line numbers   : 23-30
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/pci/mgb4/mgb4_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 15.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_i2c.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-895
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/pci/mgb4/mgb4_i2c.h:12: info: Metrics per 'mgb4_i2c_client' region
+	Region name    : mgb4_i2c_client
+	Region type    : struct
+	Offsets        : 232-302
+	Line numbers   : 12-15
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/mgb4/mgb4_i2c.h:17: info: Metrics per 'mgb4_i2c_kv' region
+	Region name    : mgb4_i2c_kv
+	Region type    : struct
+	Offsets        : 305-356
+	Line numbers   : 17-21
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/mgb4/mgb4_i2c.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_i2c.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.66666667
+	Minimum        : 4
+	Maximum        : 11
+	Total          : 20.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_cmt.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-433
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/mgb4/mgb4_cmt.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_cmt.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_io.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-874
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/mgb4/mgb4_io.h:23: info: Metrics per 'mgb4_frame_buffer' region
+	Region name    : mgb4_frame_buffer
+	Region type    : struct
+	Offsets        : 635-715
+	Line numbers   : 23-26
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/mgb4/mgb4_io.h:28: info: Metrics per 'to_frame_buffer' region
+	Region name    : to_frame_buffer
+	Region type    : function
+	Offsets        : 718-865
+	Line numbers   : 28-31
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/mgb4/mgb4_io.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_io.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 9.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_sysfs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-481
+	Line numbers   : 1-19
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/mgb4/mgb4_sysfs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_sysfs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_trigger.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-274
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/mgb4/mgb4_trigger.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_trigger.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_core.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1731
+	Line numbers   : 1-75
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/mgb4/mgb4_core.h:27: info: Metrics per 'mgb4_dma_channel' region
+	Region name    : mgb4_dma_channel
+	Region type    : struct
+	Offsets        : 605-686
+	Line numbers   : 27-30
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/mgb4/mgb4_core.h:32: info: Metrics per 'mgb4_dev' region
+	Region name    : mgb4_dev
+	Region type    : struct
+	Offsets        : 689-1721
+	Line numbers   : 32-72
+	Modified       : None
+	std.code.lines:code: 29
+
+./drivers/media/pci/mgb4/mgb4_core.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_core.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.66666667
+	Minimum        : 2
+	Maximum        : 29
+	Total          : 35.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            29 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/mgb4/mgb4_vin.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1356
+	Line numbers   : 1-70
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/mgb4/mgb4_vin.h:17: info: Metrics per 'mgb4_vin_regs' region
+	Region name    : mgb4_vin_regs
+	Region type    : struct
+	Offsets        : 381-544
+	Line numbers   : 17-28
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/pci/mgb4/mgb4_vin.h:30: info: Metrics per 'mgb4_vin_config' region
+	Region name    : mgb4_vin_config
+	Region type    : struct
+	Offsets        : 547-656
+	Line numbers   : 30-36
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/mgb4/mgb4_vin.h:38: info: Metrics per 'mgb4_vin_dev' region
+	Region name    : mgb4_vin_dev
+	Region type    : struct
+	Offsets        : 659-1225
+	Line numbers   : 38-64
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/media/pci/mgb4/mgb4_vin.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/mgb4/mgb4_vin.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.75
+	Minimum        : 5
+	Maximum        : 19
+	Total          : 43.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             7 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            12 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            19 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/pci/tw68/tw68.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5482
+	Line numbers   : 1-206
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/media/pci/tw68/tw68.h:59: info: Metrics per 'tw68_tvnorm' region
+	Region name    : tw68_tvnorm
+	Region type    : struct
+	Offsets        : 1708-2139
+	Line numbers   : 59-85
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/media/pci/tw68/tw68.h:87: info: Metrics per 'tw68_format' region
+	Region name    : tw68_format
+	Region type    : struct
+	Offsets        : 2142-2204
+	Line numbers   : 87-91
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/tw68/tw68.h:111: info: Metrics per 'tw68_buf' region
+	Region name    : tw68_buf
+	Region type    : struct
+	Offsets        : 2702-2901
+	Line numbers   : 110-119
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/tw68/tw68.h:121: info: Metrics per 'tw68_fmt' region
+	Region name    : tw68_fmt
+	Region type    : struct
+	Offsets        : 2904-3019
+	Line numbers   : 121-127
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/tw68/tw68.h:130: info: Metrics per 'tw68_dev' region
+	Region name    : tw68_dev
+	Region type    : struct
+	Offsets        : 3022-3771
+	Line numbers   : 129-163
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/media/pci/tw68/tw68.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/tw68/tw68.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.33333333
+	Minimum        : 5
+	Maximum        : 24
+	Total          : 86.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.167 : 0.167 : 1	||||||||||||||||
+	             7 : 0.167 : 0.333 : 1	||||||||||||||||
+	             8 : 0.167 : 0.500 : 1	||||||||||||||||
+	            21 : 0.333 : 0.833 : 2	|||||||||||||||||||||||||||||||||
+	            24 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/media/pci/tw68/tw68-reg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5259
+	Line numbers   : 1-187
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/pci/tw68/tw68-reg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/tw68/tw68-reg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-version.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-269
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/pci/cx18/cx18-version.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-version.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-i2c.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-392
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-i2c.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-i2c.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-io.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4284
+	Line numbers   : 1-178
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/cx18/cx18-io.h:24: info: Metrics per 'cx18_raw_readl' region
+	Region name    : cx18_raw_readl
+	Region type    : function
+	Offsets        : 647-793
+	Line numbers   : 23-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:30: info: Metrics per 'cx18_raw_writel_noretry' region
+	Region name    : cx18_raw_writel_noretry
+	Region type    : function
+	Offsets        : 795-913
+	Line numbers   : 29-33
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-io.h:35: info: Metrics per 'cx18_raw_writel' region
+	Region name    : cx18_raw_writel
+	Region type    : function
+	Offsets        : 915-1151
+	Line numbers   : 35-43
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./drivers/media/pci/cx18/cx18-io.h:46: info: Metrics per 'cx18_readl' region
+	Region name    : cx18_readl
+	Region type    : function
+	Offsets        : 1153-1279
+	Line numbers   : 45-49
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:52: info: Metrics per 'cx18_writel_noretry' region
+	Region name    : cx18_writel_noretry
+	Region type    : function
+	Offsets        : 1281-1389
+	Line numbers   : 51-55
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-io.h:57: info: Metrics per 'cx18_writel' region
+	Region name    : cx18_writel
+	Region type    : function
+	Offsets        : 1391-1615
+	Line numbers   : 57-65
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./drivers/media/pci/cx18/cx18-io.h:68: info: Metrics per 'cx18_writel_expect' region
+	Region name    : cx18_writel_expect
+	Region type    : function
+	Offsets        : 1617-1971
+	Line numbers   : 67-82
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 16
+
+./drivers/media/pci/cx18/cx18-io.h:84: info: Metrics per 'cx18_readw' region
+	Region name    : cx18_readw
+	Region type    : function
+	Offsets        : 1973-2069
+	Line numbers   : 84-87
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:90: info: Metrics per 'cx18_writew_noretry' region
+	Region name    : cx18_writew_noretry
+	Region type    : function
+	Offsets        : 2071-2179
+	Line numbers   : 89-93
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-io.h:95: info: Metrics per 'cx18_writew' region
+	Region name    : cx18_writew
+	Region type    : function
+	Offsets        : 2181-2405
+	Line numbers   : 95-103
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./drivers/media/pci/cx18/cx18-io.h:105: info: Metrics per 'cx18_readb' region
+	Region name    : cx18_readb
+	Region type    : function
+	Offsets        : 2407-2502
+	Line numbers   : 105-108
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:111: info: Metrics per 'cx18_writeb_noretry' region
+	Region name    : cx18_writeb_noretry
+	Region type    : function
+	Offsets        : 2504-2611
+	Line numbers   : 110-114
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-io.h:116: info: Metrics per 'cx18_writeb' region
+	Region name    : cx18_writeb
+	Region type    : function
+	Offsets        : 2613-2836
+	Line numbers   : 116-124
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./drivers/media/pci/cx18/cx18-io.h:127: info: Metrics per 'cx18_memcpy_fromio' region
+	Region name    : cx18_memcpy_fromio
+	Region type    : function
+	Offsets        : 2838-2984
+	Line numbers   : 126-131
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-io.h:137: info: Metrics per 'cx18_write_reg_noretry' region
+	Region name    : cx18_write_reg_noretry
+	Region type    : function
+	Offsets        : 3069-3259
+	Line numbers   : 136-140
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:142: info: Metrics per 'cx18_write_reg' region
+	Region name    : cx18_write_reg
+	Region type    : function
+	Offsets        : 3261-3375
+	Line numbers   : 142-145
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:147: info: Metrics per 'cx18_write_reg_expect' region
+	Region name    : cx18_write_reg_expect
+	Region type    : function
+	Offsets        : 3377-3543
+	Line numbers   : 147-151
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-io.h:153: info: Metrics per 'cx18_read_reg' region
+	Region name    : cx18_read_reg
+	Region type    : function
+	Offsets        : 3545-3649
+	Line numbers   : 153-156
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:160: info: Metrics per 'cx18_write_enc' region
+	Region name    : cx18_write_enc
+	Region type    : function
+	Offsets        : 3652-3834
+	Line numbers   : 159-163
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:165: info: Metrics per 'cx18_read_enc' region
+	Region name    : cx18_read_enc
+	Region type    : function
+	Offsets        : 3836-3942
+	Line numbers   : 165-168
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-io.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.6
+	Minimum        : 0
+	Maximum        : 4
+	Total          : 12.0
+	Distribution   : 20 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.750 : 0.750 : 15	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.200 : 0.950 :  4	||||||||||||||||||||
+	             4 : 0.050 : 1.000 :  1	|||||
+
+./drivers/media/pci/cx18/cx18-io.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 4
+	Maximum        : 16
+	Total          : 126.0
+	Distribution   : 21 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.429 : 0.429 :  9	||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.238 : 0.667 :  5	|||||||||||||||||||||||
+	             6 : 0.048 : 0.714 :  1	||||
+	             7 : 0.048 : 0.762 :  1	||||
+	             9 : 0.190 : 0.952 :  4	|||||||||||||||||||
+	            16 : 0.048 : 1.000 :  1	||||
+
+./drivers/media/pci/cx18/cx18-firmware.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-319
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-firmware.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-firmware.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx23418.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-17169
+	Line numbers   : 1-479
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/pci/cx18/cx23418.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx23418.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-irq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-742
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cx18/cx18-irq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-irq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-alsa-pcm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-414
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/cx18/cx18-alsa-pcm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-alsa-pcm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-audio.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-223
+	Line numbers   : 1-11
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cx18/cx18-audio.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-audio.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-ioctl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-669
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/cx18/cx18-ioctl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-ioctl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 7
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-driver.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-25176
+	Line numbers   : 1-710
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/media/pci/cx18/cx18-driver.h:121: info: Metrics per 'cx18_enc_idx_entry' region
+	Region name    : cx18_enc_idx_entry
+	Region type    : struct
+	Offsets        : 3863-4080
+	Line numbers   : 120-128
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/cx18/cx18-driver.h:242: info: Metrics per 'cx18_options' region
+	Region name    : cx18_options
+	Region type    : struct
+	Offsets        : 9786-10005
+	Line numbers   : 242-247
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-driver.h:286: info: Metrics per 'cx18_vb2_buffer' region
+	Region name    : cx18_vb2_buffer
+	Region type    : struct
+	Offsets        : 11670-11854
+	Line numbers   : 286-292
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-driver.h:294: info: Metrics per 'cx18_buffer' region
+	Region name    : cx18_buffer
+	Region type    : struct
+	Offsets        : 11857-11970
+	Line numbers   : 294-301
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/cx18/cx18-driver.h:303: info: Metrics per 'cx18_mdl' region
+	Region name    : cx18_mdl
+	Region type    : struct
+	Offsets        : 11973-12262
+	Line numbers   : 303-315
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/cx18/cx18-driver.h:317: info: Metrics per 'cx18_queue' region
+	Region name    : cx18_queue
+	Region type    : struct
+	Offsets        : 12265-12361
+	Line numbers   : 317-322
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-driver.h:326: info: Metrics per 'cx18_dvb' region
+	Region name    : cx18_dvb
+	Region type    : struct
+	Offsets        : 12409-12709
+	Line numbers   : 326-338
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/pci/cx18/cx18-driver.h:353: info: Metrics per 'cx18_in_work_order' region
+	Region name    : cx18_in_work_order
+	Region type    : struct
+	Offsets        : 13164-13374
+	Line numbers   : 353-362
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/cx18/cx18-driver.h:366: info: Metrics per 'cx18_stream' region
+	Region name    : cx18_stream
+	Region type    : struct
+	Offsets        : 13422-14978
+	Line numbers   : 366-413
+	Modified       : None
+	std.code.lines:code: 33
+
+./drivers/media/pci/cx18/cx18-driver.h:415: info: Metrics per 'cx18_open_id' region
+	Region name    : cx18_open_id
+	Region type    : struct
+	Offsets        : 14981-15067
+	Line numbers   : 415-420
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-driver.h:422: info: Metrics per 'fh2id' region
+	Region name    : fh2id
+	Region type    : function
+	Offsets        : 15070-15185
+	Line numbers   : 422-425
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-driver.h:427: info: Metrics per 'file2id' region
+	Region name    : file2id
+	Region type    : function
+	Offsets        : 15187-15287
+	Line numbers   : 427-430
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-driver.h:487: info: Metrics per 'vbi_info' region
+	Region name    : vbi_info
+	Region type    : struct
+	Offsets        : 17607-20094
+	Line numbers   : 487-551
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/pci/cx18/cx18-driver.h:554: info: Metrics per 'cx18_i2c_algo_callback_data' region
+	Region name    : cx18_i2c_algo_callback_data
+	Region type    : struct
+	Offsets        : 20097-20279
+	Line numbers   : 553-557
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-driver.h:562: info: Metrics per 'cx18' region
+	Region name    : cx18
+	Region type    : struct
+	Offsets        : 20319-23578
+	Line numbers   : 561-662
+	Modified       : None
+	std.code.lines:code: 71
+
+./drivers/media/pci/cx18/cx18-driver.h:664: info: Metrics per 'to_cx18' region
+	Region name    : to_cx18
+	Region type    : function
+	Offsets        : 23581-23704
+	Line numbers   : 664-667
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-driver.h:688: info: Metrics per 'cx18_raw_vbi' region
+	Region name    : cx18_raw_vbi
+	Region type    : function
+	Offsets        : 24210-24381
+	Line numbers   : 687-691
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-driver.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-driver.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 4
+	Maximum        : 71
+	Total          : 234.0
+	Distribution   : 18 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.278 : 0.278 :  5	|||||||||||||||||||||||||||
+	             6 : 0.222 : 0.500 :  4	||||||||||||||||||||||
+	             7 : 0.056 : 0.556 :  1	|||||
+	             8 : 0.056 : 0.611 :  1	|||||
+	            10 : 0.111 : 0.722 :  2	|||||||||||
+	            13 : 0.056 : 0.778 :  1	|||||
+	            14 : 0.056 : 0.833 :  1	|||||
+	            24 : 0.056 : 0.889 :  1	|||||
+	            33 : 0.056 : 0.944 :  1	|||||
+	            71 : 0.056 : 1.000 :  1	|||||
+
+./drivers/media/pci/cx18/cx18-av-core.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-13639
+	Line numbers   : 1-377
+	Modified       : None
+	std.code.lines:code: 73
+
+./drivers/media/pci/cx18/cx18-av-core.h:83: info: Metrics per 'cx18_av_state' region
+	Region name    : cx18_av_state
+	Region type    : struct
+	Offsets        : 2184-3541
+	Line numbers   : 83-118
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/pci/cx18/cx18-av-core.h:332: info: Metrics per 'to_cx18_av_state' region
+	Region name    : to_cx18_av_state
+	Region type    : function
+	Offsets        : 11578-11710
+	Line numbers   : 332-335
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-av-core.h:337: info: Metrics per 'to_sd' region
+	Region name    : to_sd
+	Region type    : function
+	Offsets        : 11712-11848
+	Line numbers   : 337-340
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-av-core.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-av-core.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 24.0
+	Minimum        : 4
+	Maximum        : 73
+	Total          : 96.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            73 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-cards.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4229
+	Line numbers   : 1-140
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/pci/cx18/cx18-cards.h:44: info: Metrics per 'cx18_card_video_input' region
+	Region name    : cx18_card_video_input
+	Region type    : struct
+	Offsets        : 1264-1443
+	Line numbers   : 44-48
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-cards.h:50: info: Metrics per 'cx18_card_audio_input' region
+	Region name    : cx18_card_audio_input
+	Region type    : struct
+	Offsets        : 1446-1651
+	Line numbers   : 50-55
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-cards.h:57: info: Metrics per 'cx18_card_pci_info' region
+	Region name    : cx18_card_pci_info
+	Region type    : struct
+	Offsets        : 1654-1742
+	Line numbers   : 57-61
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-cards.h:67: info: Metrics per 'cx18_gpio_init' region
+	Region name    : cx18_gpio_init
+	Region type    : struct
+	Offsets        : 1826-1980
+	Line numbers   : 67-70
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-cards.h:72: info: Metrics per 'cx18_gpio_i2c_slave_reset' region
+	Region name    : cx18_gpio_i2c_slave_reset
+	Region type    : struct
+	Offsets        : 1983-2368
+	Line numbers   : 72-78
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/cx18/cx18-cards.h:80: info: Metrics per 'cx18_gpio_audio_input' region
+	Region name    : cx18_gpio_audio_input
+	Region type    : struct
+	Offsets        : 2371-2519
+	Line numbers   : 80-85
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-cards.h:87: info: Metrics per 'cx18_card_tuner' region
+	Region name    : cx18_card_tuner
+	Region type    : struct
+	Offsets        : 2522-2659
+	Line numbers   : 87-90
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-cards.h:92: info: Metrics per 'cx18_card_tuner_i2c' region
+	Region name    : cx18_card_tuner_i2c
+	Region type    : struct
+	Offsets        : 2662-2881
+	Line numbers   : 92-96
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-cards.h:98: info: Metrics per 'cx18_ddr' region
+	Region name    : cx18_ddr
+	Region type    : struct
+	Offsets        : 2884-3021
+	Line numbers   : 98-105
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/cx18/cx18-cards.h:108: info: Metrics per 'cx18_card' region
+	Region name    : cx18_card
+	Region type    : struct
+	Offsets        : 3024-4022
+	Line numbers   : 107-135
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/media/pci/cx18/cx18-cards.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-cards.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.45454545
+	Minimum        : 4
+	Maximum        : 20
+	Total          : 82.0
+	Distribution   : 11 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.182 : 0.182 :  2	||||||||||||||||||
+	             5 : 0.364 : 0.545 :  4	||||||||||||||||||||||||||||||||||||
+	             6 : 0.091 : 0.636 :  1	|||||||||
+	             7 : 0.091 : 0.727 :  1	|||||||||
+	             8 : 0.091 : 0.818 :  1	|||||||||
+	            13 : 0.091 : 0.909 :  1	|||||||||
+	            20 : 0.091 : 1.000 :  1	|||||||||
+
+./drivers/media/pci/cx18/cx18-fileops.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1061
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/pci/cx18/cx18-fileops.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-fileops.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 16
+	Maximum        : 16
+	Total          : 16.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            16 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-dvb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-280
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/cx18/cx18-dvb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-dvb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-scb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6770
+	Line numbers   : 1-267
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/cx18/cx18-scb.h:70: info: Metrics per 'cx18_mdl_ent' region
+	Region name    : cx18_mdl_ent
+	Region type    : struct
+	Offsets        : 2288-2501
+	Line numbers   : 69-73
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-scb.h:75: info: Metrics per 'cx18_scb' region
+	Region name    : cx18_scb
+	Region type    : struct
+	Offsets        : 2504-6722
+	Line numbers   : 75-262
+	Modified       : None
+	std.code.lines:code: 131
+
+./drivers/media/pci/cx18/cx18-scb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-scb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 46.0
+	Minimum        : 3
+	Maximum        : 131
+	Total          : 138.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	           131 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-gpio.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-554
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/cx18/cx18-gpio.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-gpio.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-alsa.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1669
+	Line numbers   : 1-61
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/cx18/cx18-alsa.h:10: info: Metrics per 'snd_cx18_card' region
+	Region name    : snd_cx18_card
+	Region type    : struct
+	Offsets        : 185-402
+	Line numbers   : 10-17
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/cx18/cx18-alsa.h:25: info: Metrics per 'snd_cx18_lock' region
+	Region name    : snd_cx18_lock
+	Region type    : function
+	Offsets        : 434-730
+	Line numbers   : 21-29
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-alsa.h:31: info: Metrics per 'snd_cx18_unlock' region
+	Region name    : snd_cx18_unlock
+	Region type    : function
+	Offsets        : 732-878
+	Line numbers   : 31-35
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cx18/cx18-alsa.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-alsa.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.25
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 21.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-controls.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-243
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cx18/cx18-controls.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-controls.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-queue.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2384
+	Line numbers   : 1-85
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/pci/cx18/cx18-queue.h:15: info: Metrics per 'cx18_buf_sync_for_cpu' region
+	Region name    : cx18_buf_sync_for_cpu
+	Region type    : function
+	Offsets        : 309-492
+	Line numbers   : 15-20
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-queue.h:22: info: Metrics per 'cx18_buf_sync_for_device' region
+	Region name    : cx18_buf_sync_for_device
+	Region type    : function
+	Offsets        : 494-686
+	Line numbers   : 22-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-queue.h:31: info: Metrics per 'cx18_mdl_sync_for_device' region
+	Region name    : cx18_mdl_sync_for_device
+	Region type    : function
+	Offsets        : 766-1064
+	Line numbers   : 31-40
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 10
+
+./drivers/media/pci/cx18/cx18-queue.h:45: info: Metrics per 'cx18_mdl_swap' region
+	Region name    : cx18_mdl_swap
+	Region type    : function
+	Offsets        : 1155-1370
+	Line numbers   : 45-52
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./drivers/media/pci/cx18/cx18-queue.h:59: info: Metrics per 'cx18_enqueue' region
+	Region name    : cx18_enqueue
+	Region type    : function
+	Offsets        : 1528-1696
+	Line numbers   : 58-63
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-queue.h:66: info: Metrics per 'cx18_push' region
+	Region name    : cx18_push
+	Region type    : function
+	Offsets        : 1698-1867
+	Line numbers   : 65-70
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-queue.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.33333333
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.667 : 0.667 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.333 : 1.000 : 2	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-queue.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 6
+	Maximum        : 14
+	Total          : 56.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.571 : 0.571 : 4	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.143 : 0.714 : 1	||||||||||||||
+	            10 : 0.143 : 0.857 : 1	||||||||||||||
+	            14 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/media/pci/cx18/cx18-video.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-193
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cx18/cx18-video.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-video.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-streams.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1509
+	Line numbers   : 1-49
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/cx18/cx18-streams.h:20: info: Metrics per 'cx18_stream_enabled' region
+	Region name    : cx18_stream_enabled
+	Region type    : function
+	Offsets        : 617-859
+	Line numbers   : 20-26
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 7
+
+./drivers/media/pci/cx18/cx18-streams.h:29: info: Metrics per 'cx18_stream_load_fw_queue' region
+	Region name    : cx18_stream_load_fw_queue
+	Region type    : function
+	Offsets        : 861-1016
+	Line numbers   : 28-32
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-streams.h:34: info: Metrics per 'cx18_stream_put_mdl_fw' region
+	Region name    : cx18_stream_put_mdl_fw
+	Region type    : function
+	Offsets        : 1018-1255
+	Line numbers   : 34-40
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/pci/cx18/cx18-streams.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.33333333
+	Minimum        : 0
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-streams.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.75
+	Minimum        : 4
+	Maximum        : 10
+	Total          : 27.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             6 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             7 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            10 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-vbi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-346
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/cx18/cx18-vbi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-vbi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cx18/cx18-mailbox.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2893
+	Line numbers   : 1-82
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/pci/cx18/cx18-mailbox.h:33: info: Metrics per 'cx18_mdl_ack' region
+	Region name    : cx18_mdl_ack
+	Region type    : struct
+	Offsets        : 546-952
+	Line numbers   : 27-36
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cx18/cx18-mailbox.h:40: info: Metrics per 'cx18_mailbox' region
+	Region name    : cx18_mailbox
+	Region type    : struct
+	Offsets        : 955-2450
+	Line numbers   : 38-66
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/cx18/cx18-mailbox.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cx18/cx18-mailbox.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 4
+	Maximum        : 12
+	Total          : 24.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            12 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ngene/ngene.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-23139
+	Line numbers   : 1-853
+	Modified       : None
+	std.code.lines:code: 168
+
+./drivers/media/pci/ngene/ngene.h:136: info: Metrics per 'SG_ADDR' region
+	Region name    : SG_ADDR
+	Region type    : struct
+	Offsets        : 3922-4006
+	Line numbers   : 136-142
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/ngene/ngene.h:144: info: Metrics per 'SHARED_MEMORY' region
+	Region name    : SHARED_MEMORY
+	Region type    : struct
+	Offsets        : 4038-4324
+	Line numbers   : 144-166
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/pci/ngene/ngene.h:168: info: Metrics per 'BUFFER_STREAM_RESULTS' region
+	Region name    : BUFFER_STREAM_RESULTS
+	Region type    : struct
+	Offsets        : 4356-4757
+	Line numbers   : 168-178
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/ngene/ngene.h:180: info: Metrics per 'HW_SCATTER_GATHER_ELEMENT' region
+	Region name    : HW_SCATTER_GATHER_ELEMENT
+	Region type    : struct
+	Offsets        : 4789-4867
+	Line numbers   : 180-184
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:186: info: Metrics per 'BUFFER_HEADER' region
+	Region name    : BUFFER_HEADER
+	Region type    : struct
+	Offsets        : 4899-5137
+	Line numbers   : 186-197
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/ngene/ngene.h:199: info: Metrics per 'EVENT_BUFFER' region
+	Region name    : EVENT_BUFFER
+	Region type    : struct
+	Offsets        : 5169-5314
+	Line numbers   : 199-206
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/ngene/ngene.h:248: info: Metrics per 'FW_HEADER' region
+	Region name    : FW_HEADER
+	Region type    : struct
+	Offsets        : 6138-6182
+	Line numbers   : 248-251
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:253: info: Metrics per 'FW_I2C_WRITE' region
+	Region name    : FW_I2C_WRITE
+	Region type    : struct
+	Offsets        : 6214-6287
+	Line numbers   : 253-257
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:259: info: Metrics per 'FW_I2C_CONTINUE_WRITE' region
+	Region name    : FW_I2C_CONTINUE_WRITE
+	Region type    : struct
+	Offsets        : 6319-6389
+	Line numbers   : 259-262
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:264: info: Metrics per 'FW_I2C_READ' region
+	Region name    : FW_I2C_READ
+	Region type    : struct
+	Offsets        : 6421-6543
+	Line numbers   : 264-268
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:270: info: Metrics per 'FW_SPI_WRITE' region
+	Region name    : FW_SPI_WRITE
+	Region type    : struct
+	Offsets        : 6575-6652
+	Line numbers   : 270-274
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:276: info: Metrics per 'FW_SPI_READ' region
+	Region name    : FW_SPI_READ
+	Region type    : struct
+	Offsets        : 6684-6810
+	Line numbers   : 276-280
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:282: info: Metrics per 'FW_FWLOAD_PREPARE' region
+	Region name    : FW_FWLOAD_PREPARE
+	Region type    : struct
+	Offsets        : 6842-6893
+	Line numbers   : 282-284
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/ngene/ngene.h:286: info: Metrics per 'FW_FWLOAD_FINISH' region
+	Region name    : FW_FWLOAD_FINISH
+	Region type    : struct
+	Offsets        : 6925-7035
+	Line numbers   : 286-290
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:332: info: Metrics per 'FW_STREAM_CONTROL' region
+	Region name    : FW_STREAM_CONTROL
+	Region type    : struct
+	Offsets        : 8219-9005
+	Line numbers   : 332-351
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/media/pci/ngene/ngene.h:356: info: Metrics per 'FW_MEM_READ' region
+	Region name    : FW_MEM_READ
+	Region type    : struct
+	Offsets        : 9101-9162
+	Line numbers   : 356-359
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:361: info: Metrics per 'FW_MEM_WRITE' region
+	Region name    : FW_MEM_WRITE
+	Region type    : struct
+	Offsets        : 9194-9269
+	Line numbers   : 361-365
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:367: info: Metrics per 'FW_SFR_IRAM_READ' region
+	Region name    : FW_SFR_IRAM_READ
+	Region type    : struct
+	Offsets        : 9301-9367
+	Line numbers   : 367-370
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:372: info: Metrics per 'FW_SFR_IRAM_WRITE' region
+	Region name    : FW_SFR_IRAM_WRITE
+	Region type    : struct
+	Offsets        : 9399-9479
+	Line numbers   : 372-376
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:378: info: Metrics per 'FW_SET_GPIO_PIN' region
+	Region name    : FW_SET_GPIO_PIN
+	Region type    : struct
+	Offsets        : 9511-9575
+	Line numbers   : 378-381
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:383: info: Metrics per 'FW_SET_GPIO_INT' region
+	Region name    : FW_SET_GPIO_INT
+	Region type    : struct
+	Offsets        : 9607-9671
+	Line numbers   : 383-386
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:388: info: Metrics per 'FW_SET_DEBUGMODE' region
+	Region name    : FW_SET_DEBUGMODE
+	Region type    : struct
+	Offsets        : 9703-9772
+	Line numbers   : 388-391
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:393: info: Metrics per 'FW_CONFIGURE_BUFFERS' region
+	Region name    : FW_CONFIGURE_BUFFERS
+	Region type    : struct
+	Offsets        : 9804-9872
+	Line numbers   : 393-396
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:408: info: Metrics per 'FW_CONFIGURE_FREE_BUFFERS' region
+	Region name    : FW_CONFIGURE_FREE_BUFFERS
+	Region type    : struct
+	Offsets        : 10250-10493
+	Line numbers   : 408-418
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:410: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 10309-10474
+	Line numbers   : 410-417
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/ngene/ngene.h:420: info: Metrics per 'FW_CONFIGURE_UART' region
+	Region name    : FW_CONFIGURE_UART
+	Region type    : struct
+	Offsets        : 10525-10593
+	Line numbers   : 420-423
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:434: info: Metrics per 'FW_WRITE_UART' region
+	Region name    : FW_WRITE_UART
+	Region type    : struct
+	Offsets        : 10817-10879
+	Line numbers   : 434-437
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ngene/ngene.h:440: info: Metrics per 'ngene_command' region
+	Region name    : ngene_command
+	Region type    : struct
+	Offsets        : 10912-12001
+	Line numbers   : 440-467
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ngene/ngene.h:443: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 10963-11994
+	Line numbers   : 443-466
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/media/pci/ngene/ngene.h:498: info: Metrics per 'SBufferHeader' region
+	Region name    : SBufferHeader
+	Region type    : struct
+	Offsets        : 13139-13410
+	Line numbers   : 498-505
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/ngene/ngene.h:524: info: Metrics per 'SRingBufferDescriptor' region
+	Region name    : SRingBufferDescriptor
+	Region type    : struct
+	Offsets        : 13727-14365
+	Line numbers   : 524-537
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/pci/ngene/ngene.h:559: info: Metrics per 'MICI_STREAMINFO' region
+	Region name    : MICI_STREAMINFO
+	Region type    : struct
+	Offsets        : 14989-15317
+	Line numbers   : 559-571
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/pci/ngene/ngene.h:585: info: Metrics per 'mychip' region
+	Region name    : mychip
+	Region type    : struct
+	Offsets        : 15705-16018
+	Line numbers   : 585-597
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/pci/ngene/ngene.h:599: info: Metrics per 'ngene_channel' region
+	Region name    : ngene_channel
+	Region type    : struct
+	Offsets        : 16021-18319
+	Line numbers   : 599-679
+	Modified       : None
+	std.code.lines:code: 68
+
+./drivers/media/pci/ngene/ngene.h:682: info: Metrics per 'ngene_ci' region
+	Region name    : ngene_ci
+	Region type    : struct
+	Offsets        : 18323-18466
+	Line numbers   : 682-688
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/ngene/ngene.h:695: info: Metrics per 'ngene' region
+	Region name    : ngene
+	Region type    : struct
+	Offsets        : 18579-20866
+	Line numbers   : 695-773
+	Modified       : None
+	std.code.lines:code: 56
+
+./drivers/media/pci/ngene/ngene.h:775: info: Metrics per 'ngene_info' region
+	Region name    : ngene_info
+	Region type    : struct
+	Offsets        : 20869-21736
+	Line numbers   : 775-815
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/media/pci/ngene/ngene.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ngene/ngene.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.5
+	Minimum        : 3
+	Maximum        : 168
+	Total          : 551.0
+	Distribution   : 38 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.026 : 0.026 :  1	||
+	             4 : 0.289 : 0.316 : 11	||||||||||||||||||||||||||||
+	             5 : 0.237 : 0.553 :  9	|||||||||||||||||||||||
+	             6 : 0.026 : 0.579 :  1	||
+	             7 : 0.026 : 0.605 :  1	||
+	             8 : 0.079 : 0.684 :  3	|||||||
+	             9 : 0.026 : 0.711 :  1	||
+	            10 : 0.026 : 0.737 :  1	||
+	            11 : 0.053 : 0.789 :  2	|||||
+	            13 : 0.053 : 0.842 :  2	|||||
+	            18 : 0.026 : 0.868 :  1	||
+	            21 : 0.026 : 0.895 :  1	||
+	            24 : 0.026 : 0.921 :  1	||
+	            56 : 0.026 : 0.947 :  1	||
+	            68 : 0.026 : 0.974 :  1	||
+	           168 : 0.026 : 1.000 :  1	||
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16931
+	Line numbers   : 1-463
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:327: info: Metrics per 'cio2_csi2_timing' region
+	Region name    : cio2_csi2_timing
+	Region type    : struct
+	Offsets        : 13368-13463
+	Line numbers   : 327-332
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:334: info: Metrics per 'cio2_buffer' region
+	Region name    : cio2_buffer
+	Region type    : struct
+	Offsets        : 13466-13606
+	Line numbers   : 334-339
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:343: info: Metrics per 'csi2_bus_info' region
+	Region name    : csi2_bus_info
+	Region type    : struct
+	Offsets        : 13687-13734
+	Line numbers   : 343-346
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:348: info: Metrics per 'cio2_queue' region
+	Region name    : cio2_queue
+	Region type    : struct
+	Offsets        : 13737-14631
+	Line numbers   : 348-376
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:378: info: Metrics per 'cio2_device' region
+	Region name    : cio2_device
+	Region type    : struct
+	Offsets        : 14634-15240
+	Line numbers   : 378-402
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:431: info: Metrics per '__packed' region
+	Region name    : __packed
+	Region type    : struct
+	Offsets        : 15908-16648
+	Line numbers   : 426-450
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:432: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 16071-16580
+	Line numbers   : 432-448
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:433: info: Metrics per '__packed' region
+	Region name    : __packed
+	Region type    : struct
+	Offsets        : 16081-16296
+	Line numbers   : 433-438
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:440: info: Metrics per '__packed' region
+	Region name    : __packed
+	Region type    : struct
+	Offsets        : 16312-16563
+	Line numbers   : 439-447
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:452: info: Metrics per 'file_to_cio2_queue' region
+	Region name    : file_to_cio2_queue
+	Region type    : function
+	Offsets        : 16651-16793
+	Line numbers   : 452-455
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:457: info: Metrics per 'vb2q_to_cio2_queue' region
+	Region name    : vb2q_to_cio2_queue
+	Region type    : function
+	Offsets        : 16795-16922
+	Line numbers   : 457-460
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/intel/ipu3/ipu3-cio2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.41666667
+	Minimum        : 4
+	Maximum        : 22
+	Total          : 89.0
+	Distribution   : 12 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.417 : 0.417 :  5	|||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.750 :  4	|||||||||||||||||||||||||||||||||
+	             8 : 0.083 : 0.833 :  1	||||||||
+	            15 : 0.083 : 0.917 :  1	||||||||
+	            22 : 0.083 : 1.000 :  1	||||||||
+
+./drivers/media/pci/cobalt/cobalt-driver.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10082
+	Line numbers   : 1-374
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/pci/cobalt/cobalt-driver.h:168: info: Metrics per 'cobalt_i2c_data' region
+	Region name    : cobalt_i2c_data
+	Region type    : struct
+	Offsets        : 5554-5688
+	Line numbers   : 167-171
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:173: info: Metrics per 'pci_consistent_buffer' region
+	Region name    : pci_consistent_buffer
+	Region type    : struct
+	Offsets        : 5691-5768
+	Line numbers   : 173-177
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/cobalt/cobalt-driver.h:179: info: Metrics per 'sg_dma_desc_info' region
+	Region name    : sg_dma_desc_info
+	Region type    : struct
+	Offsets        : 5771-5888
+	Line numbers   : 179-185
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/cobalt/cobalt-driver.h:198: info: Metrics per 'cobalt_buffer' region
+	Region name    : cobalt_buffer
+	Region type    : struct
+	Offsets        : 6181-6257
+	Line numbers   : 198-201
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:204: info: Metrics per 'to_cobalt_buffer' region
+	Region name    : to_cobalt_buffer
+	Region type    : function
+	Offsets        : 6260-6398
+	Line numbers   : 203-207
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cobalt/cobalt-driver.h:209: info: Metrics per 'cobalt_stream' region
+	Region name    : cobalt_stream
+	Region type    : struct
+	Offsets        : 6400-7145
+	Line numbers   : 209-245
+	Modified       : None
+	std.code.lines:code: 35
+
+./drivers/media/pci/cobalt/cobalt-driver.h:250: info: Metrics per 'cobalt' region
+	Region name    : cobalt
+	Region type    : struct
+	Offsets        : 7173-8097
+	Line numbers   : 249-290
+	Modified       : None
+	std.code.lines:code: 28
+
+./drivers/media/pci/cobalt/cobalt-driver.h:292: info: Metrics per 'to_cobalt' region
+	Region name    : to_cobalt
+	Region type    : function
+	Offsets        : 8100-8229
+	Line numbers   : 292-295
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:297: info: Metrics per 'cobalt_write_bar0' region
+	Region name    : cobalt_write_bar0
+	Region type    : function
+	Offsets        : 8231-8349
+	Line numbers   : 297-300
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:302: info: Metrics per 'cobalt_read_bar0' region
+	Region name    : cobalt_read_bar0
+	Region type    : function
+	Offsets        : 8351-8459
+	Line numbers   : 302-305
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:307: info: Metrics per 'cobalt_write_bar1' region
+	Region name    : cobalt_write_bar1
+	Region type    : function
+	Offsets        : 8461-8579
+	Line numbers   : 307-310
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:312: info: Metrics per 'cobalt_read_bar1' region
+	Region name    : cobalt_read_bar1
+	Region type    : function
+	Offsets        : 8581-8689
+	Line numbers   : 312-315
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:317: info: Metrics per 'cobalt_g_sysctrl' region
+	Region name    : cobalt_g_sysctrl
+	Region type    : function
+	Offsets        : 8691-8808
+	Line numbers   : 317-320
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:322: info: Metrics per 'cobalt_s_bit_sysctrl' region
+	Region name    : cobalt_s_bit_sysctrl
+	Region type    : function
+	Offsets        : 8810-9125
+	Line numbers   : 322-332
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 10
+
+./drivers/media/pci/cobalt/cobalt-driver.h:334: info: Metrics per 'cobalt_g_sysstat' region
+	Region name    : cobalt_g_sysstat
+	Region type    : function
+	Offsets        : 9127-9244
+	Line numbers   : 334-337
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-driver.h:343: info: Metrics per 'cobalt_bus_read32' region
+	Region name    : cobalt_bus_read32
+	Region type    : function
+	Offsets        : 9404-9539
+	Line numbers   : 343-347
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/cobalt/cobalt-driver.h:349: info: Metrics per 'cobalt_bus_write16' region
+	Region name    : cobalt_bus_write16
+	Region type    : function
+	Offsets        : 9541-9755
+	Line numbers   : 349-357
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 9
+
+./drivers/media/pci/cobalt/cobalt-driver.h:359: info: Metrics per 'cobalt_bus_write32' region
+	Region name    : cobalt_bus_write32
+	Region type    : function
+	Offsets        : 9757-9971
+	Line numbers   : 359-367
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 9
+
+./drivers/media/pci/cobalt/cobalt-driver.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.16666667
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 12 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.833 : 0.833 : 10	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.167 : 1.000 :  2	||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-driver.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.47368421
+	Minimum        : 4
+	Maximum        : 35
+	Total          : 161.0
+	Distribution   : 19 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.474 : 0.474 :  9	|||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.158 : 0.632 :  3	|||||||||||||||
+	             7 : 0.053 : 0.684 :  1	|||||
+	             9 : 0.105 : 0.789 :  2	||||||||||
+	            10 : 0.053 : 0.842 :  1	|||||
+	            12 : 0.053 : 0.895 :  1	|||||
+	            28 : 0.053 : 0.947 :  1	|||||
+	            35 : 0.053 : 1.000 :  1	|||||
+
+./drivers/media/pci/cobalt/m00514_syncgen_flow_evcnt_memmap_package.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4917
+	Line numbers   : 1-77
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/m00514_syncgen_flow_evcnt_memmap_package.h:14: info: Metrics per 'm00514_syncgen_flow_evcnt_regmap' region
+	Region name    : m00514_syncgen_flow_evcnt_regmap
+	Region type    : struct
+	Offsets        : 247-1388
+	Line numbers   : 10-27
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/pci/cobalt/m00514_syncgen_flow_evcnt_memmap_package.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/m00514_syncgen_flow_evcnt_memmap_package.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 1
+	Maximum        : 14
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/m00460_evcnt_memmap_package.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1146
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/m00460_evcnt_memmap_package.h:14: info: Metrics per 'm00460_evcnt_regmap' region
+	Region name    : m00460_evcnt_regmap
+	Region type    : struct
+	Offsets        : 221-535
+	Line numbers   : 10-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/m00460_evcnt_memmap_package.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/m00460_evcnt_memmap_package.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-omnitek.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1372
+	Line numbers   : 1-51
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/media/pci/cobalt/cobalt-omnitek.h:15: info: Metrics per 'sg_dma_descriptor' region
+	Region name    : sg_dma_descriptor
+	Region type    : struct
+	Offsets        : 299-436
+	Line numbers   : 15-27
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/cobalt/cobalt-omnitek.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-omnitek.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.5
+	Minimum        : 10
+	Maximum        : 17
+	Total          : 27.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            17 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/m00389_cvi_memmap_package.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2111
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/m00389_cvi_memmap_package.h:14: info: Metrics per 'm00389_cvi_regmap' region
+	Region name    : m00389_cvi_regmap
+	Region type    : struct
+	Offsets        : 217-778
+	Line numbers   : 10-21
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/cobalt/m00389_cvi_memmap_package.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/m00389_cvi_memmap_package.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 1
+	Maximum        : 8
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-irq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-369
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/cobalt/cobalt-irq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-irq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/m00473_freewheel_memmap_package.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1923
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/m00473_freewheel_memmap_package.h:14: info: Metrics per 'm00473_freewheel_regmap' region
+	Region name    : m00473_freewheel_regmap
+	Region type    : struct
+	Offsets        : 229-825
+	Line numbers   : 10-22
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/cobalt/m00473_freewheel_memmap_package.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/m00473_freewheel_memmap_package.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 1
+	Maximum        : 9
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/m00479_clk_loss_detector_memmap_package.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1764
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/m00479_clk_loss_detector_memmap_package.h:14: info: Metrics per 'm00479_clk_loss_detector_regmap' region
+	Region name    : m00479_clk_loss_detector_regmap
+	Region type    : struct
+	Offsets        : 245-941
+	Line numbers   : 10-23
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/cobalt/m00479_clk_loss_detector_memmap_package.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/m00479_clk_loss_detector_memmap_package.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 1
+	Maximum        : 6
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-alsa.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-728
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/cobalt/cobalt-alsa.h:11: info: Metrics per 'snd_cobalt_card' region
+	Region name    : snd_cobalt_card
+	Region type    : struct
+	Offsets        : 214-630
+	Line numbers   : 11-26
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/pci/cobalt/cobalt-alsa.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-alsa.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 4
+	Maximum        : 15
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-v4l2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-270
+	Line numbers   : 1-11
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/cobalt/cobalt-v4l2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-v4l2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/m00235_fdma_packer_memmap_package.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1300
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/m00235_fdma_packer_memmap_package.h:14: info: Metrics per 'm00235_fdma_packer_regmap' region
+	Region name    : m00235_fdma_packer_regmap
+	Region type    : struct
+	Offsets        : 233-523
+	Line numbers   : 10-16
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/cobalt/m00235_fdma_packer_memmap_package.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/m00235_fdma_packer_memmap_package.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 1
+	Maximum        : 3
+	Total          : 4.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/m00233_video_measure_memmap_package.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6185
+	Line numbers   : 1-104
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/m00233_video_measure_memmap_package.h:14: info: Metrics per 'm00233_video_measure_regmap' region
+	Region name    : m00233_video_measure_regmap
+	Region type    : struct
+	Offsets        : 237-1373
+	Line numbers   : 10-32
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/pci/cobalt/m00233_video_measure_memmap_package.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/m00233_video_measure_memmap_package.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 1
+	Maximum        : 15
+	Total          : 16.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-cpld.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-367
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/cobalt/cobalt-cpld.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-cpld.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-i2c.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-335
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/cobalt/cobalt-i2c.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-i2c.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-flash.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-357
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/cobalt/cobalt-flash.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-flash.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/cobalt/cobalt-alsa-pcm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-282
+	Line numbers   : 1-11
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/cobalt/cobalt-alsa-pcm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/cobalt/cobalt-alsa-pcm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/pt3/pt3.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4347
+	Line numbers   : 1-178
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/media/pci/pt3/pt3.h:49: info: Metrics per 'pt3_i2cbuf' region
+	Region name    : pt3_i2cbuf
+	Region type    : struct
+	Offsets        : 889-1018
+	Line numbers   : 45-53
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/pt3/pt3.h:75: info: Metrics per 'xfer_desc' region
+	Region name    : xfer_desc
+	Region type    : struct
+	Offsets        : 1536-1845
+	Line numbers   : 71-81
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/pt3/pt3.h:84: info: Metrics per 'xfer_desc_buffer' region
+	Region name    : xfer_desc_buffer
+	Region type    : struct
+	Offsets        : 1848-2017
+	Line numbers   : 83-87
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/pt3/pt3.h:90: info: Metrics per 'dma_data_buffer' region
+	Region name    : dma_data_buffer
+	Region type    : struct
+	Offsets        : 2020-2140
+	Line numbers   : 89-93
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/pt3/pt3.h:98: info: Metrics per 'pt3_adap_config' region
+	Region name    : pt3_adap_config
+	Region type    : struct
+	Offsets        : 2143-2426
+	Line numbers   : 95-108
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/pt3/pt3.h:103: info: Metrics per 'tuner_config' region
+	Region name    : tuner_config
+	Region type    : struct
+	Offsets        : 2298-2397
+	Line numbers   : 103-106
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/pt3/pt3.h:110: info: Metrics per 'pt3_adapter' region
+	Region name    : pt3_adapter
+	Region type    : struct
+	Offsets        : 2429-3172
+	Line numbers   : 110-136
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/media/pci/pt3/pt3.h:139: info: Metrics per 'pt3_board' region
+	Region name    : pt3_board
+	Region type    : struct
+	Offsets        : 3176-3660
+	Line numbers   : 139-158
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/pci/pt3/pt3.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/pt3/pt3.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 4
+	Maximum        : 20
+	Total          : 81.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 3	|||||||||||||||||||||||||||||||||
+	             5 : 0.111 : 0.444 : 1	|||||||||||
+	             7 : 0.222 : 0.667 : 2	||||||||||||||||||||||
+	            11 : 0.111 : 0.778 : 1	|||||||||||
+	            19 : 0.111 : 0.889 : 1	|||||||||||
+	            20 : 0.111 : 1.000 : 1	|||||||||||
+
+./drivers/media/pci/ivtv/ivtv-queue.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2559
+	Line numbers   : 1-88
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/ivtv/ivtv-queue.h:18: info: Metrics per 'ivtv_might_use_pio' region
+	Region name    : ivtv_might_use_pio
+	Region type    : function
+	Offsets        : 402-552
+	Line numbers   : 18-21
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-queue.h:23: info: Metrics per 'ivtv_use_pio' region
+	Region name    : ivtv_use_pio
+	Region type    : function
+	Offsets        : 554-767
+	Line numbers   : 23-29
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 6
+
+./drivers/media/pci/ivtv/ivtv-queue.h:31: info: Metrics per 'ivtv_might_use_dma' region
+	Region name    : ivtv_might_use_dma
+	Region type    : function
+	Offsets        : 769-860
+	Line numbers   : 31-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-queue.h:36: info: Metrics per 'ivtv_use_dma' region
+	Region name    : ivtv_use_dma
+	Region type    : function
+	Offsets        : 862-945
+	Line numbers   : 36-39
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-queue.h:41: info: Metrics per 'ivtv_buf_sync_for_cpu' region
+	Region name    : ivtv_buf_sync_for_cpu
+	Region type    : function
+	Offsets        : 947-1157
+	Line numbers   : 41-46
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./drivers/media/pci/ivtv/ivtv-queue.h:48: info: Metrics per 'ivtv_buf_sync_for_device' region
+	Region name    : ivtv_buf_sync_for_device
+	Region type    : function
+	Offsets        : 1159-1386
+	Line numbers   : 48-54
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./drivers/media/pci/ivtv/ivtv-queue.h:71: info: Metrics per 'ivtv_stream_sync_for_cpu' region
+	Region name    : ivtv_stream_sync_for_cpu
+	Region type    : function
+	Offsets        : 2116-2326
+	Line numbers   : 71-77
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./drivers/media/pci/ivtv/ivtv-queue.h:79: info: Metrics per 'ivtv_stream_sync_for_device' region
+	Region name    : ivtv_stream_sync_for_device
+	Region type    : function
+	Offsets        : 2328-2550
+	Line numbers   : 79-85
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./drivers/media/pci/ivtv/ivtv-queue.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.125
+	Minimum        : 0
+	Maximum        : 3
+	Total          : 9.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.250 : 0.250 : 2	|||||||||||||||||||||||||
+	             1 : 0.500 : 0.750 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.125 : 0.875 : 1	||||||||||||
+	             3 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-queue.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.11111111
+	Minimum        : 4
+	Maximum        : 10
+	Total          : 55.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 3	|||||||||||||||||||||||||||||||||
+	             6 : 0.222 : 0.556 : 2	||||||||||||||||||||||
+	             7 : 0.333 : 0.889 : 3	|||||||||||||||||||||||||||||||||
+	            10 : 0.111 : 1.000 : 1	|||||||||||
+
+./drivers/media/pci/ivtv/ivtv-i2c.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-524
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-i2c.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-i2c.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-routing.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-374
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/pci/ivtv/ivtv-routing.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-routing.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-streams.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-823
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/ivtv/ivtv-streams.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-streams.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-alsa.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1715
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/ivtv/ivtv-alsa.h:11: info: Metrics per 'snd_ivtv_card' region
+	Region name    : snd_ivtv_card
+	Region type    : struct
+	Offsets        : 262-479
+	Line numbers   : 11-18
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/ivtv/ivtv-alsa.h:26: info: Metrics per 'snd_ivtv_lock' region
+	Region name    : snd_ivtv_lock
+	Region type    : function
+	Offsets        : 511-811
+	Line numbers   : 22-30
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-alsa.h:32: info: Metrics per 'snd_ivtv_unlock' region
+	Region name    : snd_ivtv_unlock
+	Region type    : function
+	Offsets        : 813-963
+	Line numbers   : 32-36
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-alsa.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-alsa.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.25
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 21.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-alsa-pcm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-254
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/pci/ivtv/ivtv-alsa-pcm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-alsa-pcm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-driver.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-30500
+	Line numbers   : 1-841
+	Modified       : None
+	std.code.lines:code: 33
+
+./drivers/media/pci/ivtv/ivtv-driver.h:189: info: Metrics per 'ivtv_options' region
+	Region name    : ivtv_options
+	Region type    : struct
+	Offsets        : 7388-7717
+	Line numbers   : 189-196
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/ivtv/ivtv-driver.h:199: info: Metrics per 'ivtv_mailbox' region
+	Region name    : ivtv_mailbox
+	Region type    : struct
+	Offsets        : 7720-7863
+	Line numbers   : 198-205
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/pci/ivtv/ivtv-driver.h:207: info: Metrics per 'ivtv_api_cache' region
+	Region name    : ivtv_api_cache
+	Region type    : struct
+	Offsets        : 7866-8015
+	Line numbers   : 207-210
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-driver.h:212: info: Metrics per 'ivtv_mailbox_data' region
+	Region name    : ivtv_mailbox_data
+	Region type    : struct
+	Offsets        : 8018-8287
+	Line numbers   : 212-218
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-driver.h:270: info: Metrics per 'ivtv_sg_element' region
+	Region name    : ivtv_sg_element
+	Region type    : struct
+	Offsets        : 11092-11216
+	Line numbers   : 269-274
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-driver.h:276: info: Metrics per 'ivtv_sg_host_element' region
+	Region name    : ivtv_sg_host_element
+	Region type    : struct
+	Offsets        : 11219-11281
+	Line numbers   : 276-280
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-driver.h:282: info: Metrics per 'ivtv_user_dma' region
+	Region name    : ivtv_user_dma
+	Region type    : struct
+	Offsets        : 11284-11698
+	Line numbers   : 282-296
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/ivtv/ivtv-driver.h:298: info: Metrics per 'ivtv_dma_page_info' region
+	Region name    : ivtv_dma_page_info
+	Region type    : struct
+	Offsets        : 11701-11854
+	Line numbers   : 298-305
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/pci/ivtv/ivtv-driver.h:307: info: Metrics per 'ivtv_buffer' region
+	Region name    : ivtv_buffer
+	Region type    : struct
+	Offsets        : 11857-12024
+	Line numbers   : 307-315
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/pci/ivtv/ivtv-driver.h:317: info: Metrics per 'ivtv_queue' region
+	Region name    : ivtv_queue
+	Region type    : struct
+	Offsets        : 12027-12359
+	Line numbers   : 317-322
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/ivtv/ivtv-driver.h:326: info: Metrics per 'ivtv_stream' region
+	Region name    : ivtv_stream
+	Region type    : struct
+	Offsets        : 12403-13896
+	Line numbers   : 326-377
+	Modified       : None
+	std.code.lines:code: 36
+
+./drivers/media/pci/ivtv/ivtv-driver.h:379: info: Metrics per 'ivtv_open_id' region
+	Region name    : ivtv_open_id
+	Region type    : struct
+	Offsets        : 13899-14087
+	Line numbers   : 379-384
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/pci/ivtv/ivtv-driver.h:386: info: Metrics per 'fh2id' region
+	Region name    : fh2id
+	Region type    : function
+	Offsets        : 14090-14205
+	Line numbers   : 386-389
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-driver.h:391: info: Metrics per 'yuv_frame_info' region
+	Region name    : yuv_frame_info
+	Region type    : struct
+	Offsets        : 14207-14541
+	Line numbers   : 391-416
+	Modified       : None
+	std.code.lines:code: 26
+
+./drivers/media/pci/ivtv/ivtv-driver.h:429: info: Metrics per 'yuv_playback_info' region
+	Region name    : yuv_playback_info
+	Region type    : struct
+	Offsets        : 14815-16347
+	Line numbers   : 429-523
+	Modified       : None
+	std.code.lines:code: 73
+
+./drivers/media/pci/ivtv/ivtv-driver.h:528: info: Metrics per 'vbi_cc' region
+	Region name    : vbi_cc
+	Region type    : struct
+	Offsets        : 16378-16509
+	Line numbers   : 527-531
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-driver.h:533: info: Metrics per 'vbi_vps' region
+	Region name    : vbi_vps
+	Region type    : struct
+	Offsets        : 16512-16571
+	Line numbers   : 533-535
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/pci/ivtv/ivtv-driver.h:537: info: Metrics per 'vbi_info' region
+	Region name    : vbi_info
+	Region type    : struct
+	Offsets        : 16574-19886
+	Line numbers   : 537-602
+	Modified       : None
+	std.code.lines:code: 32
+
+./drivers/media/pci/ivtv/ivtv-driver.h:608: info: Metrics per 'ivtv' region
+	Region name    : ivtv
+	Region type    : struct
+	Offsets        : 19968-27314
+	Line numbers   : 607-754
+	Modified       : None
+	std.code.lines:code: 107
+
+./drivers/media/pci/ivtv/ivtv-driver.h:632: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 21318-21431
+	Line numbers   : 632-636
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-driver.h:637: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 21434-21579
+	Line numbers   : 637-641
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-driver.h:756: info: Metrics per 'to_ivtv' region
+	Region name    : to_ivtv
+	Region type    : function
+	Offsets        : 27317-27440
+	Line numbers   : 756-759
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-driver.h:793: info: Metrics per 'ivtv_raw_vbi' region
+	Region name    : ivtv_raw_vbi
+	Region type    : function
+	Offsets        : 28408-28581
+	Line numbers   : 792-796
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/pci/ivtv/ivtv-driver.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-driver.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.0
+	Minimum        : 3
+	Maximum        : 107
+	Total          : 408.0
+	Distribution   : 24 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.042 : 0.042 :  1	||||
+	             4 : 0.250 : 0.292 :  6	|||||||||||||||||||||||||
+	             5 : 0.167 : 0.458 :  4	||||||||||||||||
+	             6 : 0.083 : 0.542 :  2	||||||||
+	             7 : 0.042 : 0.583 :  1	||||
+	             8 : 0.083 : 0.667 :  2	||||||||
+	             9 : 0.042 : 0.708 :  1	||||
+	            10 : 0.042 : 0.750 :  1	||||
+	            26 : 0.042 : 0.792 :  1	||||
+	            32 : 0.042 : 0.833 :  1	||||
+	            33 : 0.042 : 0.875 :  1	||||
+	            36 : 0.042 : 0.917 :  1	||||
+	            73 : 0.042 : 0.958 :  1	||||
+	           107 : 0.042 : 1.000 :  1	||||
+
+./drivers/media/pci/ivtv/ivtv-vbi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-628
+	Line numbers   : 1-23
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/ivtv/ivtv-vbi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-vbi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-firmware.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-561
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-firmware.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-firmware.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-version.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-272
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/pci/ivtv/ivtv-version.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-version.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-udma.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1317
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/ivtv/ivtv-udma.h:24: info: Metrics per 'ivtv_udma_sync_for_device' region
+	Region name    : ivtv_udma_sync_for_device
+	Region type    : function
+	Offsets        : 951-1133
+	Line numbers   : 24-28
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-udma.h:30: info: Metrics per 'ivtv_udma_sync_for_cpu' region
+	Region name    : ivtv_udma_sync_for_cpu
+	Region type    : function
+	Offsets        : 1135-1308
+	Line numbers   : 30-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/pci/ivtv/ivtv-udma.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-udma.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.66666667
+	Minimum        : 5
+	Maximum        : 10
+	Total          : 20.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/pci/ivtv/ivtv-ioctl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-833
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/pci/ivtv/ivtv-ioctl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/pci/ivtv/ivtv-ioctl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

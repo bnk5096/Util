@@ -1,0 +1,3639 @@
+./src/network/netdev/macsec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2307
+	Line numbers   : 1-88
+	Modified       : None
+	std.code.lines:code: 18
+
+./src/network/netdev/macsec.h:18: info: Metrics per 'MACsecSCI' region
+	Region name    : MACsecSCI
+	Region type    : struct
+	Offsets        : 394-555
+	Line numbers   : 18-25
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/netdev/macsec.h:21: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 457-543
+	Line numbers   : 21-24
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/netdev/macsec.h:29: info: Metrics per 'SecurityAssociation' region
+	Region name    : SecurityAssociation
+	Region type    : struct
+	Offsets        : 619-891
+	Line numbers   : 29-38
+	Modified       : None
+	std.code.lines:code: 10
+
+./src/network/netdev/macsec.h:40: info: Metrics per 'TransmitAssociation' region
+	Region name    : TransmitAssociation
+	Region type    : struct
+	Offsets        : 914-1041
+	Line numbers   : 40-45
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/netdev/macsec.h:47: info: Metrics per 'ReceiveAssociation' region
+	Region name    : ReceiveAssociation
+	Region type    : struct
+	Offsets        : 1064-1213
+	Line numbers   : 47-53
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/network/netdev/macsec.h:55: info: Metrics per 'ReceiveChannel' region
+	Region name    : ReceiveChannel
+	Region type    : struct
+	Offsets        : 1235-1438
+	Line numbers   : 55-62
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/network/netdev/macsec.h:64: info: Metrics per 'MACsec' region
+	Region name    : MACsec
+	Region type    : struct
+	Offsets        : 1456-1779
+	Line numbers   : 64-75
+	Modified       : None
+	std.code.lines:code: 10
+
+./src/network/netdev/macsec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/macsec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 4
+	Maximum        : 18
+	Total          : 64.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 2	|||||||||||||||||||||||||
+	             5 : 0.125 : 0.375 : 1	||||||||||||
+	             6 : 0.125 : 0.500 : 1	||||||||||||
+	             7 : 0.125 : 0.625 : 1	||||||||||||
+	            10 : 0.250 : 0.875 : 2	|||||||||||||||||||||||||
+	            18 : 0.125 : 1.000 : 1	||||||||||||
+
+./src/network/netdev/vrf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-240
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/netdev/vrf.h:8: info: Metrics per 'Vrf' region
+	Region name    : Vrf
+	Region type    : struct
+	Offsets        : 109-169
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/netdev/vrf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/vrf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/netdev/bond.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1783
+	Line numbers   : 1-61
+	Modified       : None
+	std.code.lines:code: 15
+
+./src/network/netdev/bond.h:12: info: Metrics per 'Bond' region
+	Region name    : Bond
+	Region type    : struct
+	Offsets        : 206-1020
+	Line numbers   : 12-44
+	Modified       : None
+	std.code.lines:code: 26
+
+./src/network/netdev/bond.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/bond.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.5
+	Minimum        : 15
+	Maximum        : 26
+	Total          : 41.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            15 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            26 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/netdev/veth.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-291
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/netdev/veth.h:8: info: Metrics per 'Veth' region
+	Region name    : Veth
+	Region type    : struct
+	Offsets        : 111-217
+	Line numbers   : 8-13
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/netdev/veth.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/veth.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 4
+	Maximum        : 5
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/netdev/ifb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-308
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/network/netdev/ifb.h:8: info: Metrics per 'IntermediateFunctionalBlock' region
+	Region name    : IntermediateFunctionalBlock
+	Region type    : struct
+	Offsets        : 118-185
+	Line numbers   : 8-10
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/network/netdev/ifb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/ifb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/netdev/bareudp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-907
+	Line numbers   : 1-35
+	Modified       : None
+	std.code.lines:code: 15
+
+./src/network/netdev/bareudp.h:21: info: Metrics per 'BareUDP' region
+	Region name    : BareUDP
+	Region type    : struct
+	Offsets        : 529-629
+	Line numbers   : 21-26
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/netdev/bareudp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/bareudp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 5
+	Maximum        : 15
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/netdev/l2tp-tunnel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2242
+	Line numbers   : 1-81
+	Modified       : None
+	std.code.lines:code: 31
+
+./src/network/netdev/l2tp-tunnel.h:35: info: Metrics per 'L2tpSession' region
+	Region name    : L2tpSession
+	Region type    : struct
+	Offsets        : 1011-1227
+	Line numbers   : 35-44
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/netdev/l2tp-tunnel.h:46: info: Metrics per 'L2tpTunnel' region
+	Region name    : L2tpTunnel
+	Region type    : struct
+	Offsets        : 1242-1747
+	Line numbers   : 46-69
+	Modified       : None
+	std.code.lines:code: 17
+
+./src/network/netdev/l2tp-tunnel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/l2tp-tunnel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.66666667
+	Minimum        : 8
+	Maximum        : 31
+	Total          : 56.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            17 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            31 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/network/netdev/tuntap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-582
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/netdev/tuntap.h:8: info: Metrics per 'TunTap' region
+	Region name    : TunTap
+	Region type    : struct
+	Offsets        : 115-318
+	Line numbers   : 8-18
+	Modified       : None
+	std.code.lines:code: 10
+
+./src/network/netdev/tuntap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/netdev/tuntap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 8
+	Maximum        : 10
+	Total          : 18.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-ipv6ll.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1499
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 19
+
+./src/network/networkd-ipv6ll.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-ipv6ll.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 19
+	Maximum        : 19
+	Total          : 19.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            19 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-dhcp4-bus.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-263
+	Line numbers   : 1-11
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/network/networkd-dhcp4-bus.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-dhcp4-bus.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-radv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3224
+	Line numbers   : 1-102
+	Modified       : None
+	std.code.lines:code: 45
+
+./src/network/networkd-radv.h:29: info: Metrics per 'Prefix' region
+	Region name    : Prefix
+	Region type    : struct
+	Offsets        : 727-1073
+	Line numbers   : 29-44
+	Modified       : None
+	std.code.lines:code: 13
+
+./src/network/networkd-radv.h:46: info: Metrics per 'RoutePrefix' region
+	Region name    : RoutePrefix
+	Region type    : struct
+	Offsets        : 1083-1256
+	Line numbers   : 46-53
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/network/networkd-radv.h:55: info: Metrics per 'pref64Prefix' region
+	Region name    : pref64Prefix
+	Region type    : struct
+	Offsets        : 1271-1445
+	Line numbers   : 55-62
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/network/networkd-radv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-radv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.0
+	Minimum        : 7
+	Maximum        : 45
+	Total          : 72.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            13 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            45 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./src/network/networkd-ipv6-proxy-ndp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-328
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/networkd-ipv6-proxy-ndp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-ipv6-proxy-ndp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-network-bus.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-432
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/networkd-network-bus.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-network-bus.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-bridge-fdb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1532
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 20
+
+./src/network/networkd-bridge-fdb.h:27: info: Metrics per 'BridgeFDB' region
+	Region name    : BridgeFDB
+	Region type    : struct
+	Offsets        : 702-1045
+	Line numbers   : 27-41
+	Modified       : None
+	std.code.lines:code: 12
+
+./src/network/networkd-bridge-fdb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-bridge-fdb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 12
+	Maximum        : 20
+	Total          : 32.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            20 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-wiphy.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2917
+	Line numbers   : 1-72
+	Modified       : None
+	std.code.lines:code: 19
+
+./src/network/networkd-wiphy.h:23: info: Metrics per 'Wiphy' region
+	Region name    : Wiphy
+	Region type    : struct
+	Offsets        : 474-655
+	Line numbers   : 23-32
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/networkd-wiphy.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-wiphy.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.5
+	Minimum        : 8
+	Maximum        : 19
+	Total          : 27.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-bridge-vlan.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-803
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 12
+
+./src/network/networkd-bridge-vlan.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-bridge-vlan.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 12
+	Maximum        : 12
+	Total          : 12.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/tc-util.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-513
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/network/tc/tc-util.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/tc-util.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/gred.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-572
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/tc/gred.h:8: info: Metrics per 'GenericRandomEarlyDetection' region
+	Region name    : GenericRandomEarlyDetection
+	Region type    : struct
+	Offsets        : 141-299
+	Line numbers   : 8-14
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/network/tc/gred.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/gred.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 5
+	Maximum        : 6
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/fq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-833
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/tc/fq.h:8: info: Metrics per 'FairQueueing' region
+	Region name    : FairQueueing
+	Region type    : struct
+	Offsets        : 141-450
+	Line numbers   : 8-20
+	Modified       : None
+	std.code.lines:code: 12
+
+./src/network/tc/fq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/fq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 8
+	Maximum        : 12
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/tclass.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2480
+	Line numbers   : 1-80
+	Modified       : None
+	std.code.lines:code: 25
+
+./src/network/tc/tclass.h:20: info: Metrics per 'TClass' region
+	Region name    : TClass
+	Region type    : struct
+	Offsets        : 422-697
+	Line numbers   : 20-32
+	Modified       : None
+	std.code.lines:code: 11
+
+./src/network/tc/tclass.h:34: info: Metrics per 'TClassVTable' region
+	Region name    : TClassVTable
+	Region type    : struct
+	Offsets        : 707-989
+	Line numbers   : 34-41
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/network/tc/tclass.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/tclass.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.33333333
+	Minimum        : 7
+	Maximum        : 25
+	Total          : 43.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            25 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/network/tc/sfb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-398
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/sfb.h:8: info: Metrics per 'StochasticFairBlue' region
+	Region name    : StochasticFairBlue
+	Region type    : struct
+	Offsets        : 141-230
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/sfb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/sfb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/codel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-643
+	Line numbers   : 1-25
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/network/tc/codel.h:9: info: Metrics per 'ControlledDelay' region
+	Region name    : ControlledDelay
+	Region type    : struct
+	Offsets        : 164-359
+	Line numbers   : 9-17
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/tc/codel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/codel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 6
+	Maximum        : 8
+	Total          : 14.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/fifo.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-699
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 11
+
+./src/network/tc/fifo.h:8: info: Metrics per 'FirstInFirstOut' region
+	Region name    : FirstInFirstOut
+	Region type    : struct
+	Offsets        : 141-220
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/fifo.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/fifo.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 4
+	Maximum        : 11
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/drr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-586
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/network/tc/drr.h:7: info: Metrics per 'DeficitRoundRobinScheduler' region
+	Region name    : DeficitRoundRobinScheduler
+	Region type    : struct
+	Offsets        : 116-181
+	Line numbers   : 7-9
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/network/tc/drr.h:14: info: Metrics per 'DeficitRoundRobinSchedulerClass' region
+	Region name    : DeficitRoundRobinSchedulerClass
+	Region type    : struct
+	Offsets        : 301-399
+	Line numbers   : 14-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/drr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/drr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/network/tc/pie.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-450
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/pie.h:8: info: Metrics per 'ProportionalIntegralControllerEnhanced' region
+	Region name    : ProportionalIntegralControllerEnhanced
+	Region type    : struct
+	Offsets        : 141-250
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/pie.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/pie.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/teql.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-364
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/teql.h:7: info: Metrics per 'TrivialLinkEqualizer' region
+	Region name    : TrivialLinkEqualizer
+	Region type    : struct
+	Offsets        : 108-189
+	Line numbers   : 7-11
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/teql.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/teql.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/fq-pie.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-381
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/fq-pie.h:8: info: Metrics per 'FlowQueuePIE' region
+	Region name    : FlowQueuePIE
+	Region type    : struct
+	Offsets        : 141-224
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/fq-pie.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/fq-pie.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/cake.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3214
+	Line numbers   : 1-91
+	Modified       : None
+	std.code.lines:code: 48
+
+./src/network/tc/cake.h:49: info: Metrics per 'CommonApplicationsKeptEnhanced' region
+	Region name    : CommonApplicationsKeptEnhanced
+	Region type    : struct
+	Offsets        : 1846-2527
+	Line numbers   : 49-76
+	Modified       : None
+	std.code.lines:code: 18
+
+./src/network/tc/cake.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/cake.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 33.0
+	Minimum        : 18
+	Maximum        : 48
+	Total          : 66.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            18 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            48 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/qfq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-673
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/tc/qfq.h:8: info: Metrics per 'QuickFairQueueing' region
+	Region name    : QuickFairQueueing
+	Region type    : struct
+	Offsets        : 141-197
+	Line numbers   : 8-10
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/network/tc/qfq.h:15: info: Metrics per 'QuickFairQueueingClass' region
+	Region name    : QuickFairQueueingClass
+	Region type    : struct
+	Offsets        : 299-416
+	Line numbers   : 15-20
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/tc/qfq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/qfq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.33333333
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 16.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/network/tc/ets.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-663
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/network/tc/ets.h:9: info: Metrics per 'EnhancedTransmissionSelection' region
+	Region name    : EnhancedTransmissionSelection
+	Region type    : struct
+	Offsets        : 138-393
+	Line numbers   : 9-18
+	Modified       : None
+	std.code.lines:code: 9
+
+./src/network/tc/ets.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/ets.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 6
+	Maximum        : 9
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/netem.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-634
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/network/tc/netem.h:9: info: Metrics per 'NetworkEmulator' region
+	Region name    : NetworkEmulator
+	Region type    : struct
+	Offsets        : 164-340
+	Line numbers   : 9-18
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/tc/netem.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/netem.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 6
+	Maximum        : 8
+	Total          : 14.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/qdisc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3180
+	Line numbers   : 1-113
+	Modified       : None
+	std.code.lines:code: 42
+
+./src/network/tc/qdisc.h:38: info: Metrics per 'QDisc' region
+	Region name    : QDisc
+	Region type    : struct
+	Offsets        : 884-1156
+	Line numbers   : 38-50
+	Modified       : None
+	std.code.lines:code: 11
+
+./src/network/tc/qdisc.h:52: info: Metrics per 'QDiscVTable' region
+	Region name    : QDiscVTable
+	Region type    : struct
+	Offsets        : 1165-1490
+	Line numbers   : 52-60
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/network/tc/qdisc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/qdisc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.33333333
+	Minimum        : 8
+	Maximum        : 42
+	Total          : 61.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            42 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/network/tc/fq-codel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-883
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/network/tc/fq-codel.h:9: info: Metrics per 'FairQueueingControlledDelay' region
+	Region name    : FairQueueingControlledDelay
+	Region type    : struct
+	Offsets        : 164-452
+	Line numbers   : 9-20
+	Modified       : None
+	std.code.lines:code: 11
+
+./src/network/tc/fq-codel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/fq-codel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 7
+	Maximum        : 11
+	Total          : 18.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/tc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-136
+	Line numbers   : 1-7
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/network/tc/tc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/tc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/htb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1124
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 11
+
+./src/network/tc/htb.h:8: info: Metrics per 'HierarchyTokenBucket' region
+	Region name    : HierarchyTokenBucket
+	Region type    : struct
+	Offsets        : 128-254
+	Line numbers   : 8-13
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/tc/htb.h:21: info: Metrics per 'HierarchyTokenBucketClass' region
+	Region name    : HierarchyTokenBucketClass
+	Region type    : struct
+	Offsets        : 505-779
+	Line numbers   : 21-32
+	Modified       : None
+	std.code.lines:code: 11
+
+./src/network/tc/htb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/htb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 5
+	Maximum        : 11
+	Total          : 27.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/tbf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-681
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/network/tc/tbf.h:9: info: Metrics per 'TokenBucketFilter' region
+	Region name    : TokenBucketFilter
+	Region type    : struct
+	Offsets        : 164-384
+	Line numbers   : 9-19
+	Modified       : None
+	std.code.lines:code: 10
+
+./src/network/tc/tbf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/tbf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 6
+	Maximum        : 10
+	Total          : 16.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/sfq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-464
+	Line numbers   : 1-19
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/sfq.h:9: info: Metrics per 'StochasticFairnessQueueing' region
+	Region name    : StochasticFairnessQueueing
+	Region type    : struct
+	Offsets        : 164-261
+	Line numbers   : 9-13
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/sfq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/sfq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/tc/hhf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-403
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/hhf.h:8: info: Metrics per 'HeavyHitterFilter' region
+	Region name    : HeavyHitterFilter
+	Region type    : struct
+	Offsets        : 141-229
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/network/tc/hhf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/tc/hhf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-network.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15267
+	Line numbers   : 1-441
+	Modified       : None
+	std.code.lines:code: 52
+
+./src/network/networkd-network.h:57: info: Metrics per 'NetworkDHCPServerEmitAddress' region
+	Region name    : NetworkDHCPServerEmitAddress
+	Region type    : struct
+	Offsets        : 1655-1784
+	Line numbers   : 57-61
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/network/networkd-network.h:63: info: Metrics per 'Network' region
+	Region name    : Network
+	Region type    : struct
+	Offsets        : 1816-13562
+	Line numbers   : 63-402
+	Modified       : None
+	std.code.lines:code: 298
+
+./src/network/networkd-network.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-network.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 118.33333333
+	Minimum        : 5
+	Maximum        : 298
+	Total          : 355.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            52 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	           298 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/network/networkd-routing-policy-rule.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3209
+	Line numbers   : 1-91
+	Modified       : None
+	std.code.lines:code: 26
+
+./src/network/networkd-routing-policy-rule.h:16: info: Metrics per 'RoutingPolicyRule' region
+	Region name    : RoutingPolicyRule
+	Region type    : struct
+	Offsets        : 306-1324
+	Line numbers   : 16-54
+	Modified       : None
+	std.code.lines:code: 31
+
+./src/network/networkd-routing-policy-rule.h:66: info: Metrics per 'manager_drop_foreign_routing_policy_rules' region
+	Region name    : manager_drop_foreign_routing_policy_rules
+	Region type    : function
+	Offsets        : 1782-1931
+	Line numbers   : 66-68
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/network/networkd-routing-policy-rule.h:69: info: Metrics per 'link_drop_managed_routing_policy_rules' region
+	Region name    : link_drop_managed_routing_policy_rules
+	Region type    : function
+	Offsets        : 1932-2113
+	Line numbers   : 69-72
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./src/network/networkd-routing-policy-rule.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/network/networkd-routing-policy-rule.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 3
+	Maximum        : 31
+	Total          : 64.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             4 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            26 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            31 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./src/network/networkd-dhcp6-bus.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-268
+	Line numbers   : 1-11
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/network/networkd-dhcp6-bus.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/network/networkd-dhcp6-bus.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/oom/oomd-util.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6138
+	Line numbers   : 1-147
+	Modified       : None
+	std.code.lines:code: 24
+
+./src/oom/oomd-util.h:20: info: Metrics per 'OomdCGroupContext' region
+	Region name    : OomdCGroupContext
+	Region type    : struct
+	Offsets        : 470-978
+	Line numbers   : 20-40
+	Modified       : None
+	std.code.lines:code: 14
+
+./src/oom/oomd-util.h:42: info: Metrics per 'OomdSystemContext' region
+	Region name    : OomdSystemContext
+	Region type    : struct
+	Offsets        : 981-1121
+	Line numbers   : 42-47
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/oom/oomd-util.h:74: info: Metrics per 'compare_pgscan_rate_and_memory_usage' region
+	Region name    : compare_pgscan_rate_and_memory_usage
+	Region type    : function
+	Offsets        : 2497-3186
+	Line numbers   : 72-92
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 15
+
+./src/oom/oomd-util.h:94: info: Metrics per 'compare_swap_usage' region
+	Region name    : compare_swap_usage
+	Region type    : function
+	Offsets        : 3188-3507
+	Line numbers   : 94-105
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 9
+
+./src/oom/oomd-util.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.5
+	Minimum        : 1
+	Maximum        : 2
+	Total          : 3.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/oom/oomd-util.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.6
+	Minimum        : 6
+	Maximum        : 24
+	Total          : 68.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             9 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            14 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            15 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            24 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./src/oom/oomd-manager.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2765
+	Line numbers   : 1-74
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/oom/oomd-manager.h:32: info: Metrics per 'Manager' region
+	Region name    : Manager
+	Region type    : struct
+	Offsets        : 1171-2389
+	Line numbers   : 32-62
+	Modified       : None
+	std.code.lines:code: 18
+
+./src/oom/oomd-manager.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/oom/oomd-manager.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 8
+	Maximum        : 18
+	Total          : 26.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            18 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/oom/oomd-manager-bus.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-174
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/oom/oomd-manager-bus.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/oom/oomd-manager-bus.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/swap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2649
+	Line numbers   : 1-104
+	Modified       : None
+	std.code.lines:code: 30
+
+./src/core/swap.h:34: info: Metrics per 'SwapParameters' region
+	Region name    : SwapParameters
+	Region type    : struct
+	Offsets        : 710-835
+	Line numbers   : 34-39
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/swap.h:41: info: Metrics per 'Swap' region
+	Region name    : Swap
+	Region type    : struct
+	Offsets        : 853-2127
+	Line numbers   : 41-87
+	Modified       : None
+	std.code.lines:code: 25
+
+./src/core/swap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/swap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.33333333
+	Minimum        : 6
+	Maximum        : 30
+	Total          : 61.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            25 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            30 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/core/manager-dump.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-551
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/manager-dump.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/manager-dump.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/load-dropin.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-655
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/load-dropin.h:9: info: Metrics per 'unit_find_dropin_paths' region
+	Region name    : unit_find_dropin_paths
+	Region type    : function
+	Offsets        : 161-622
+	Line numbers   : 9-18
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./src/core/load-dropin.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/load-dropin.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 1
+	Maximum        : 9
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-path.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-293
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/core/dbus-path.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-path.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/execute.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-28434
+	Line numbers   : 1-698
+	Modified       : None
+	std.code.lines:code: 196
+
+./src/core/execute.h:91: info: Metrics per 'ExecStatus' region
+	Region name    : ExecStatus
+	Region type    : struct
+	Offsets        : 2293-2590
+	Line numbers   : 90-97
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/core/execute.h:100: info: Metrics per 'ExecCommand' region
+	Region name    : ExecCommand
+	Region type    : struct
+	Offsets        : 2593-2964
+	Line numbers   : 99-106
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/core/execute.h:112: info: Metrics per 'ExecSharedRuntime' region
+	Region name    : ExecSharedRuntime
+	Region type    : struct
+	Offsets        : 2967-3873
+	Line numbers   : 108-128
+	Modified       : None
+	std.code.lines:code: 9
+
+./src/core/execute.h:130: info: Metrics per 'ExecRuntime' region
+	Region name    : ExecRuntime
+	Region type    : struct
+	Offsets        : 3876-4410
+	Line numbers   : 130-141
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/execute.h:153: info: Metrics per 'ExecDirectoryItem' region
+	Region name    : ExecDirectoryItem
+	Region type    : struct
+	Offsets        : 4709-4816
+	Line numbers   : 153-157
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/execute.h:159: info: Metrics per 'ExecDirectory' region
+	Region name    : ExecDirectory
+	Region type    : struct
+	Offsets        : 4837-4948
+	Line numbers   : 159-163
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/execute.h:182: info: Metrics per 'ExecContext' region
+	Region name    : ExecContext
+	Region type    : struct
+	Offsets        : 5773-11453
+	Line numbers   : 179-365
+	Modified       : None
+	std.code.lines:code: 135
+
+./src/core/execute.h:367: info: Metrics per 'exec_context_restrict_namespaces_set' region
+	Region name    : exec_context_restrict_namespaces_set
+	Region type    : function
+	Offsets        : 11456-11643
+	Line numbers   : 367-371
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./src/core/execute.h:373: info: Metrics per 'exec_context_restrict_filesystems_set' region
+	Region name    : exec_context_restrict_filesystems_set
+	Region type    : function
+	Offsets        : 11645-11849
+	Line numbers   : 373-378
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 5
+
+./src/core/execute.h:380: info: Metrics per 'exec_context_with_rootfs' region
+	Region name    : exec_context_with_rootfs
+	Region type    : function
+	Offsets        : 11851-12070
+	Line numbers   : 380-386
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./src/core/execute.h:409: info: Metrics per 'ExecParameters' region
+	Region name    : ExecParameters
+	Region type    : struct
+	Offsets        : 13386-14677
+	Line numbers   : 407-458
+	Modified       : None
+	std.code.lines:code: 33
+
+./src/core/execute.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.66666667
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             1 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/execute.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 34.66666667
+	Minimum        : 4
+	Maximum        : 196
+	Total          : 416.0
+	Distribution   : 12 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 :  2	||||||||||||||||
+	             5 : 0.250 : 0.417 :  3	|||||||||||||||||||||||||
+	             6 : 0.083 : 0.500 :  1	||||||||
+	             7 : 0.167 : 0.667 :  2	||||||||||||||||
+	             9 : 0.083 : 0.750 :  1	||||||||
+	            33 : 0.083 : 0.833 :  1	||||||||
+	           135 : 0.083 : 0.917 :  1	||||||||
+	           196 : 0.083 : 1.000 :  1	||||||||
+
+./src/core/dbus-cgroup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-698
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/dbus-cgroup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-cgroup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/kmod-setup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-85
+	Line numbers   : 1-5
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/kmod-setup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/kmod-setup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-job.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-652
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 9
+
+./src/core/dbus-job.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-job.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/import-creds.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-93
+	Line numbers   : 1-5
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/import-creds.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/import-creds.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/namespace.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5654
+	Line numbers   : 1-201
+	Modified       : None
+	std.code.lines:code: 70
+
+./src/core/namespace.h:56: info: Metrics per 'BindMount' region
+	Region name    : BindMount
+	Region type    : struct
+	Offsets        : 1407-1573
+	Line numbers   : 56-63
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/core/namespace.h:65: info: Metrics per 'TemporaryFileSystem' region
+	Region name    : TemporaryFileSystem
+	Region type    : struct
+	Offsets        : 1576-1649
+	Line numbers   : 65-68
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/namespace.h:77: info: Metrics per 'MountImage' region
+	Region name    : MountImage
+	Region type    : struct
+	Offsets        : 1838-2069
+	Line numbers   : 77-83
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/core/namespace.h:85: info: Metrics per 'NamespaceParameters' region
+	Region name    : NamespaceParameters
+	Region type    : struct
+	Offsets        : 2072-3861
+	Line numbers   : 85-153
+	Modified       : None
+	std.code.lines:code: 51
+
+./src/core/namespace.h:159: info: Metrics per 'namespace_cleanup_tmpdir' region
+	Region name    : namespace_cleanup_tmpdir
+	Region type    : function
+	Offsets        : 3983-4167
+	Line numbers   : 159-164
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./src/core/namespace.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/namespace.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 24.33333333
+	Minimum        : 4
+	Maximum        : 70
+	Total          : 146.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	             6 : 0.167 : 0.333 : 1	||||||||||||||||
+	             7 : 0.167 : 0.500 : 1	||||||||||||||||
+	             8 : 0.167 : 0.667 : 1	||||||||||||||||
+	            51 : 0.167 : 0.833 : 1	||||||||||||||||
+	            70 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./src/core/bpf-socket-bind.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-425
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/bpf-socket-bind.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/bpf-socket-bind.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/execute-serialize.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-675
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 14
+
+./src/core/execute-serialize.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/execute-serialize.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 14
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/unit-serialize.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-493
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/unit-serialize.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/unit-serialize.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-timer.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-295
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/core/dbus-timer.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-timer.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/automount.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1080
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 15
+
+./src/core/automount.h:18: info: Metrics per 'Automount' region
+	Region name    : Automount
+	Region type    : struct
+	Offsets        : 439-863
+	Line numbers   : 18-38
+	Modified       : None
+	std.code.lines:code: 15
+
+./src/core/automount.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/automount.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.0
+	Minimum        : 15
+	Maximum        : 15
+	Total          : 30.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            15 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/selinux-access.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-662
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/selinux-access.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/selinux-access.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-slice.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-343
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/core/dbus-slice.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-slice.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/core-varlink.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-637
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/core-varlink.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/core-varlink.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/smack-setup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-214
+	Line numbers   : 1-11
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/smack-setup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/smack-setup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/timer.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2379
+	Line numbers   : 1-92
+	Modified       : None
+	std.code.lines:code: 33
+
+./src/core/timer.h:21: info: Metrics per 'TimerValue' region
+	Region name    : TimerValue
+	Region type    : struct
+	Offsets        : 447-722
+	Line numbers   : 21-30
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/core/timer.h:40: info: Metrics per 'Timer' region
+	Region name    : Timer
+	Region type    : struct
+	Offsets        : 942-1583
+	Line numbers   : 40-66
+	Modified       : None
+	std.code.lines:code: 20
+
+./src/core/timer.h:68: info: Metrics per 'ActivationDetailsTimer' region
+	Region name    : ActivationDetailsTimer
+	Region type    : struct
+	Offsets        : 1586-1688
+	Line numbers   : 68-71
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/timer.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/timer.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.25
+	Minimum        : 4
+	Maximum        : 33
+	Total          : 65.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             8 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            20 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            33 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./src/core/manager.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-24115
+	Line numbers   : 1-647
+	Modified       : None
+	std.code.lines:code: 166
+
+./src/core/manager.h:155: info: Metrics per 'UnitDefaults' region
+	Region name    : UnitDefaults
+	Region type    : struct
+	Offsets        : 5195-6060
+	Line numbers   : 154-184
+	Modified       : None
+	std.code.lines:code: 22
+
+./src/core/manager.h:186: info: Metrics per 'Manager' region
+	Region name    : Manager
+	Region type    : struct
+	Offsets        : 6076-18204
+	Line numbers   : 186-504
+	Modified       : None
+	std.code.lines:code: 145
+
+./src/core/manager.h:506: info: Metrics per 'manager_default_timeout_abort_usec' region
+	Region name    : manager_default_timeout_abort_usec
+	Region type    : function
+	Offsets        : 18207-18408
+	Line numbers   : 506-509
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./src/core/manager.h:525: info: Metrics per 'manager_default_timeout' region
+	Region name    : manager_default_timeout
+	Region type    : function
+	Offsets        : 19009-19174
+	Line numbers   : 525-527
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 3
+
+./src/core/manager.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/manager.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 68.0
+	Minimum        : 3
+	Maximum        : 166
+	Total          : 340.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             4 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            22 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	           145 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	           166 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./src/core/service.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10073
+	Line numbers   : 1-291
+	Modified       : None
+	std.code.lines:code: 104
+
+./src/core/service.h:102: info: Metrics per 'ServiceFDStore' region
+	Region name    : ServiceFDStore
+	Region type    : struct
+	Offsets        : 3794-3993
+	Line numbers   : 102-111
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/core/service.h:113: info: Metrics per 'Service' region
+	Region name    : Service
+	Region type    : struct
+	Offsets        : 3996-7822
+	Line numbers   : 113-234
+	Modified       : None
+	std.code.lines:code: 82
+
+./src/core/service.h:236: info: Metrics per 'service_timeout_abort_usec' region
+	Region name    : service_timeout_abort_usec
+	Region type    : function
+	Offsets        : 7825-7991
+	Line numbers   : 236-239
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./src/core/service.h:241: info: Metrics per 'service_get_notify_access' region
+	Region name    : service_get_notify_access
+	Region type    : function
+	Offsets        : 7993-8173
+	Line numbers   : 241-244
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./src/core/service.h:246: info: Metrics per 'service_get_watchdog_usec' region
+	Region name    : service_get_watchdog_usec
+	Region type    : function
+	Offsets        : 8175-8356
+	Line numbers   : 246-249
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./src/core/service.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 3.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/service.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 34.33333333
+	Minimum        : 4
+	Maximum        : 104
+	Total          : 206.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.167 : 0.667 : 1	||||||||||||||||
+	            82 : 0.167 : 0.833 : 1	||||||||||||||||
+	           104 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./src/core/cgroup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15083
+	Line numbers   : 1-410
+	Modified       : None
+	std.code.lines:code: 159
+
+./src/core/cgroup.h:14: info: Metrics per 'CGroupTasksMax' region
+	Region name    : CGroupTasksMax
+	Region type    : struct
+	Offsets        : 246-434
+	Line numbers   : 14-19
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/cgroup.h:23: info: Metrics per 'cgroup_tasks_max_isset' region
+	Region name    : cgroup_tasks_max_isset
+	Region type    : function
+	Offsets        : 539-689
+	Line numbers   : 23-25
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 3
+
+./src/core/cgroup.h:72: info: Metrics per 'CGroupDeviceAllow' region
+	Region name    : CGroupDeviceAllow
+	Region type    : struct
+	Offsets        : 2486-2633
+	Line numbers   : 72-76
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/cgroup.h:78: info: Metrics per 'CGroupIODeviceWeight' region
+	Region name    : CGroupIODeviceWeight
+	Region type    : struct
+	Offsets        : 2636-2771
+	Line numbers   : 78-82
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/cgroup.h:84: info: Metrics per 'CGroupIODeviceLimit' region
+	Region name    : CGroupIODeviceLimit
+	Region type    : struct
+	Offsets        : 2774-2933
+	Line numbers   : 84-88
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/cgroup.h:90: info: Metrics per 'CGroupIODeviceLatency' region
+	Region name    : CGroupIODeviceLatency
+	Region type    : struct
+	Offsets        : 2936-3078
+	Line numbers   : 90-94
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/cgroup.h:96: info: Metrics per 'CGroupBlockIODeviceWeight' region
+	Region name    : CGroupBlockIODeviceWeight
+	Region type    : struct
+	Offsets        : 3081-3226
+	Line numbers   : 96-100
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/cgroup.h:102: info: Metrics per 'CGroupBlockIODeviceBandwidth' region
+	Region name    : CGroupBlockIODeviceBandwidth
+	Region type    : struct
+	Offsets        : 3229-3404
+	Line numbers   : 102-107
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/cgroup.h:109: info: Metrics per 'CGroupBPFForeignProgram' region
+	Region name    : CGroupBPFForeignProgram
+	Region type    : struct
+	Offsets        : 3407-3553
+	Line numbers   : 109-113
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/cgroup.h:115: info: Metrics per 'CGroupSocketBindItem' region
+	Region name    : CGroupSocketBindItem
+	Region type    : struct
+	Offsets        : 3556-3756
+	Line numbers   : 115-121
+	Modified       : None
+	std.code.lines:code: 7
+
+./src/core/cgroup.h:132: info: Metrics per 'CGroupContext' region
+	Region name    : CGroupContext
+	Region type    : struct
+	Offsets        : 4305-8150
+	Line numbers   : 132-242
+	Modified       : None
+	std.code.lines:code: 79
+
+./src/core/cgroup.h:287: info: Metrics per 'cgroup_context_want_memory_pressure' region
+	Region name    : cgroup_context_want_memory_pressure
+	Region type    : function
+	Offsets        : 10142-10413
+	Line numbers   : 287-292
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 5
+
+./src/core/cgroup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.5
+	Minimum        : 1
+	Maximum        : 2
+	Total          : 3.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/cgroup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.53846154
+	Minimum        : 3
+	Maximum        : 159
+	Total          : 293.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.077 : 0.077 :  1	|||||||
+	             4 : 0.077 : 0.154 :  1	|||||||
+	             5 : 0.538 : 0.692 :  7	|||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.077 : 0.769 :  1	|||||||
+	             7 : 0.077 : 0.846 :  1	|||||||
+	            79 : 0.077 : 0.923 :  1	|||||||
+	           159 : 0.077 : 1.000 :  1	|||||||
+
+./src/core/manager-serialize.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-365
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/core/manager-serialize.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/manager-serialize.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/exec-credential.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1673
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 26
+
+./src/core/exec-credential.h:15: info: Metrics per 'ExecLoadCredential' region
+	Region name    : ExecLoadCredential
+	Region type    : struct
+	Offsets        : 263-400
+	Line numbers   : 14-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/exec-credential.h:21: info: Metrics per 'ExecSetCredential' region
+	Region name    : ExecSetCredential
+	Region type    : struct
+	Offsets        : 422-591
+	Line numbers   : 20-26
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/exec-credential.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/exec-credential.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 4
+	Maximum        : 26
+	Total          : 36.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            26 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/core/crash-handler.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-165
+	Line numbers   : 1-8
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/core/crash-handler.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/crash-handler.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/unit-printf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1078
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/core/unit-printf.h:12: info: Metrics per 'unit_full_printf' region
+	Region name    : unit_full_printf
+	Region type    : function
+	Offsets        : 327-477
+	Line numbers   : 12-14
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/unit-printf.h:15: info: Metrics per 'unit_path_printf' region
+	Region name    : unit_path_printf
+	Region type    : function
+	Offsets        : 478-625
+	Line numbers   : 15-17
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/unit-printf.h:18: info: Metrics per 'unit_fd_printf' region
+	Region name    : unit_fd_printf
+	Region type    : function
+	Offsets        : 626-771
+	Line numbers   : 18-20
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/unit-printf.h:21: info: Metrics per 'unit_cred_printf' region
+	Region name    : unit_cred_printf
+	Region type    : function
+	Offsets        : 772-928
+	Line numbers   : 21-23
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/unit-printf.h:24: info: Metrics per 'unit_env_printf' region
+	Region name    : unit_env_printf
+	Region type    : function
+	Offsets        : 929-1077
+	Line numbers   : 24-26
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/unit-printf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 5	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/unit-printf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.83333333
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 17.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.167 : 0.167 : 1	||||||||||||||||
+	             3 : 0.833 : 1.000 : 5	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/ima-setup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-235
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/ima-setup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/ima-setup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-target.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-139
+	Line numbers   : 1-7
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/dbus-target.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-target.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/selinux-setup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-129
+	Line numbers   : 1-7
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/selinux-setup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/selinux-setup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-execute.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2740
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 9
+
+./src/core/dbus-execute.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-execute.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf/restrict_fs/restrict-fs-skel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-638
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 0
+
+./src/core/bpf/restrict_fs/restrict-fs-skel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/bpf/restrict_fs/restrict-fs-skel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf/socket_bind/socket-bind-skel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-638
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 0
+
+./src/core/bpf/socket_bind/socket-bind-skel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/bpf/socket_bind/socket-bind-skel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf/socket_bind/socket-bind-api.bpf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1987
+	Line numbers   : 1-52
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/bpf/socket_bind/socket-bind-api.bpf.h:44: info: Metrics per 'socket_bind_rule' region
+	Region name    : socket_bind_rule
+	Region type    : struct
+	Offsets        : 1821-1950
+	Line numbers   : 44-49
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/bpf/socket_bind/socket-bind-api.bpf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/bpf/socket_bind/socket-bind-api.bpf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 1
+	Maximum        : 6
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf/restrict_ifaces/restrict-ifaces-skel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-646
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 0
+
+./src/core/bpf/restrict_ifaces/restrict-ifaces-skel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/bpf/restrict_ifaces/restrict-ifaces-skel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf-devices.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-812
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 12
+
+./src/core/bpf-devices.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/bpf-devices.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 12
+	Maximum        : 12
+	Total          : 12.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/socket.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5506
+	Line numbers   : 1-205
+	Modified       : None
+	std.code.lines:code: 65
+
+./src/core/socket.h:46: info: Metrics per 'SocketPort' region
+	Region name    : SocketPort
+	Region type    : struct
+	Offsets        : 1170-1463
+	Line numbers   : 46-59
+	Modified       : None
+	std.code.lines:code: 11
+
+./src/core/socket.h:69: info: Metrics per 'Socket' region
+	Region name    : Socket
+	Region type    : struct
+	Offsets        : 1755-4081
+	Line numbers   : 69-164
+	Modified       : None
+	std.code.lines:code: 68
+
+./src/core/socket.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/socket.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 48.0
+	Minimum        : 11
+	Maximum        : 68
+	Total          : 144.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            65 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            68 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/core/restrict-ifaces.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-514
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/restrict-ifaces.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/restrict-ifaces.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/device.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1848
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 13
+
+./src/core/device.h:20: info: Metrics per 'Device' region
+	Region name    : Device
+	Region type    : struct
+	Offsets        : 989-1630
+	Line numbers   : 20-37
+	Modified       : None
+	std.code.lines:code: 10
+
+./src/core/device.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/device.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.5
+	Minimum        : 10
+	Maximum        : 13
+	Total          : 23.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            13 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf-lsm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1001
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 20
+
+./src/core/bpf-lsm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/bpf-lsm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.0
+	Minimum        : 20
+	Maximum        : 20
+	Total          : 20.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            20 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/show-status.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1598
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 27
+
+./src/core/show-status.h:33: info: Metrics per 'show_status_on' region
+	Region name    : show_status_on
+	Region type    : function
+	Offsets        : 957-1074
+	Line numbers   : 33-35
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/show-status.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/show-status.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.0
+	Minimum        : 3
+	Maximum        : 27
+	Total          : 30.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            27 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/path.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2152
+	Line numbers   : 1-90
+	Modified       : None
+	std.code.lines:code: 37
+
+./src/core/path.h:20: info: Metrics per 'PathSpec' region
+	Region name    : PathSpec
+	Region type    : struct
+	Offsets        : 428-684
+	Line numbers   : 20-34
+	Modified       : None
+	std.code.lines:code: 10
+
+./src/core/path.h:41: info: Metrics per 'path_spec_owns_inotify_fd' region
+	Region name    : path_spec_owns_inotify_fd
+	Region type    : function
+	Offsets        : 887-992
+	Line numbers   : 41-43
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/path.h:55: info: Metrics per 'Path' region
+	Region name    : Path
+	Region type    : struct
+	Offsets        : 1276-1571
+	Line numbers   : 55-70
+	Modified       : None
+	std.code.lines:code: 10
+
+./src/core/path.h:72: info: Metrics per 'ActivationDetailsPath' region
+	Region name    : ActivationDetailsPath
+	Region type    : struct
+	Offsets        : 1574-1675
+	Line numbers   : 72-75
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/path.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/path.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.8
+	Minimum        : 3
+	Maximum        : 37
+	Total          : 64.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             4 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            10 : 0.400 : 0.800 : 2	||||||||||||||||||||||||||||||||||||||||
+	            37 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./src/core/dbus-kill.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-351
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/core/dbus-kill.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-kill.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-automount.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-309
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/core/dbus-automount.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-automount.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/apparmor-setup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-93
+	Line numbers   : 1-5
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/apparmor-setup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/apparmor-setup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dynamic-user.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2018
+	Line numbers   : 1-50
+	Modified       : None
+	std.code.lines:code: 20
+
+./src/core/dynamic-user.h:6: info: Metrics per 'DynamicCreds' region
+	Region name    : DynamicCreds
+	Region type    : struct
+	Offsets        : 104-246
+	Line numbers   : 6-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./src/core/dynamic-user.h:17: info: Metrics per 'DynamicUser' region
+	Region name    : DynamicUser
+	Region type    : struct
+	Offsets        : 284-895
+	Line numbers   : 14-26
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/dynamic-user.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dynamic-user.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 4
+	Maximum        : 20
+	Total          : 30.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            20 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/core/dbus-swap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-388
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/core/dbus-swap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-swap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/exec-invoke.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-545
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 12
+
+./src/core/exec-invoke.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/exec-invoke.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 12
+	Maximum        : 12
+	Total          : 12.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/audit-fd.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-114
+	Line numbers   : 1-6
+	Modified       : None
+	std.code.lines:code: 2
+
+./src/core/audit-fd.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/audit-fd.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-service.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-651
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 6
+
+./src/core/dbus-service.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-service.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/dbus-manager.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-904
+	Line numbers   : 1-19
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/core/dbus-manager.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-manager.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 8
+	Maximum        : 8
+	Total          : 8.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/job.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8935
+	Line numbers   : 1-251
+	Modified       : None
+	std.code.lines:code: 100
+
+./src/core/job.h:103: info: Metrics per 'JobDependency' region
+	Region name    : JobDependency
+	Region type    : struct
+	Offsets        : 4510-4868
+	Line numbers   : 103-114
+	Modified       : None
+	std.code.lines:code: 8
+
+./src/core/job.h:116: info: Metrics per 'Job' region
+	Region name    : Job
+	Region type    : struct
+	Offsets        : 4871-6254
+	Line numbers   : 116-166
+	Modified       : None
+	std.code.lines:code: 31
+
+./src/core/job.h:187: info: Metrics per 'job_type_is_mergeable' region
+	Region name    : job_type_is_mergeable
+	Region type    : function
+	Offsets        : 6882-7004
+	Line numbers   : 187-189
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/job.h:191: info: Metrics per 'job_type_is_conflicting' region
+	Region name    : job_type_is_conflicting
+	Region type    : function
+	Offsets        : 7006-7158
+	Line numbers   : 191-193
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 3
+
+./src/core/job.h:195: info: Metrics per 'job_type_is_superset' region
+	Region name    : job_type_is_superset
+	Region type    : function
+	Offsets        : 7160-7469
+	Line numbers   : 195-202
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./src/core/job.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.33333333
+	Minimum        : 0
+	Maximum        : 2
+	Total          : 4.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             2 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/job.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 25.33333333
+	Minimum        : 3
+	Maximum        : 100
+	Total          : 152.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 2	|||||||||||||||||||||||||||||||||
+	             7 : 0.167 : 0.500 : 1	||||||||||||||||
+	             8 : 0.167 : 0.667 : 1	||||||||||||||||
+	            31 : 0.167 : 0.833 : 1	||||||||||||||||
+	           100 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./src/core/dbus-unit.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2625
+	Line numbers   : 1-56
+	Modified       : None
+	std.code.lines:code: 42
+
+./src/core/dbus-unit.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-unit.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 42.0
+	Minimum        : 42
+	Maximum        : 42
+	Total          : 42.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            42 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/mount.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2982
+	Line numbers   : 1-111
+	Modified       : None
+	std.code.lines:code: 38
+
+./src/core/mount.h:32: info: Metrics per 'MountParameters' region
+	Region name    : MountParameters
+	Region type    : struct
+	Offsets        : 835-934
+	Line numbers   : 32-36
+	Modified       : None
+	std.code.lines:code: 5
+
+./src/core/mount.h:45: info: Metrics per 'Mount' region
+	Region name    : Mount
+	Region type    : struct
+	Offsets        : 1226-2390
+	Line numbers   : 45-92
+	Modified       : None
+	std.code.lines:code: 30
+
+./src/core/mount.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/mount.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 24.33333333
+	Minimum        : 5
+	Maximum        : 38
+	Total          : 73.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            30 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            38 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./src/core/dbus-mount.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-343
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 3
+
+./src/core/dbus-mount.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./src/core/dbus-mount.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf-foreign.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-321
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 1
+
+./src/core/bpf-foreign.h:7: info: Metrics per 'bpf_foreign_supported' region
+	Region name    : bpf_foreign_supported
+	Region type    : function
+	Offsets        : 83-165
+	Line numbers   : 7-9
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./src/core/bpf-foreign.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./src/core/bpf-foreign.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 1
+	Maximum        : 3
+	Total          : 4.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

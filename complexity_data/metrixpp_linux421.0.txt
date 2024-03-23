@@ -1,0 +1,5040 @@
+./arch/sparc/include/asm/barrier_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-160
+	Line numbers   : 1-8
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/barrier_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/barrier_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/iommu.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-215
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/iommu.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/iommu.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/kdebug_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-393
+	Line numbers   : 1-25
+	Modified       : None
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/kdebug_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/kdebug_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.0
+	Minimum        : 15
+	Maximum        : 15
+	Total          : 15.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            15 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/user.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-102
+	Line numbers   : 1-7
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/user.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/user.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/irq_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3075
+	Line numbers   : 1-99
+	Modified       : None
+	std.code.lines:code: 23
+
+./arch/sparc/include/asm/irq_64.h:66: info: Metrics per 'set_softint' region
+	Region name    : set_softint
+	Region type    : function
+	Offsets        : 2330-2484
+	Line numbers   : 66-71
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/irq_64.h:73: info: Metrics per 'clear_softint' region
+	Region name    : clear_softint
+	Region type    : function
+	Offsets        : 2486-2644
+	Line numbers   : 73-78
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/irq_64.h:80: info: Metrics per 'get_softint' region
+	Region name    : get_softint
+	Region type    : function
+	Offsets        : 2646-2802
+	Line numbers   : 80-87
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/irq_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/irq_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.5
+	Minimum        : 6
+	Maximum        : 23
+	Total          : 42.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            23 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/sparc/include/asm/signal.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-351
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/signal.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/signal.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/ldc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4475
+	Line numbers   : 1-150
+	Modified       : None
+	std.code.lines:code: 44
+
+./arch/sparc/include/asm/ldc.h:22: info: Metrics per 'ldc_channel_config' region
+	Region name    : ldc_channel_config
+	Region type    : struct
+	Offsets        : 277-1096
+	Line numbers   : 12-40
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/ldc.h:100: info: Metrics per 'ldc_trans_cookie' region
+	Region name    : ldc_trans_cookie
+	Region type    : struct
+	Offsets        : 2908-2975
+	Line numbers   : 100-103
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ldc.h:123: info: Metrics per 'ldc_get_dring_entry' region
+	Region name    : ldc_get_dring_entry
+	Region type    : function
+	Offsets        : 3591-3867
+	Line numbers   : 123-130
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/ldc.h:132: info: Metrics per 'ldc_put_dring_entry' region
+	Region name    : ldc_put_dring_entry
+	Region type    : function
+	Offsets        : 3869-4146
+	Line numbers   : 132-139
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/ldc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/ldc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.4
+	Minimum        : 4
+	Maximum        : 44
+	Total          : 72.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             8 : 0.600 : 0.800 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            44 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/sparc/include/asm/mman.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2411
+	Line numbers   : 1-92
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/mman.h:14: info: Metrics per 'ipi_set_tstate_mcde' region
+	Region name    : ipi_set_tstate_mcde
+	Region type    : function
+	Offsets        : 315-696
+	Line numbers   : 14-28
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/mman.h:31: info: Metrics per 'sparc_calc_vm_prot_bits' region
+	Region name    : sparc_calc_vm_prot_bits
+	Region type    : function
+	Offsets        : 698-1191
+	Line numbers   : 30-47
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/mman.h:50: info: Metrics per 'sparc_validate_prot' region
+	Region name    : sparc_validate_prot
+	Region type    : function
+	Offsets        : 1193-1441
+	Line numbers   : 49-55
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/mman.h:61: info: Metrics per 'arch_validate_flags' region
+	Region name    : arch_validate_flags
+	Region type    : function
+	Offsets        : 1443-2325
+	Line numbers   : 57-87
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/mman.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.25
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 9.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	             4 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/sparc/include/asm/mman.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.8
+	Minimum        : 1
+	Maximum        : 16
+	Total          : 44.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             6 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             9 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            12 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            16 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/sparc/include/asm/mmu_context_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5621
+	Line numbers   : 1-199
+	Modified       : None
+	std.code.lines:code: 17
+
+./arch/sparc/include/asm/mmu_context_64.h:37: info: Metrics per 'tsb_context_switch_ctx' region
+	Region name    : tsb_context_switch_ctx
+	Region type    : function
+	Offsets        : 1003-1456
+	Line numbers   : 37-51
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/mmu_context_64.h:80: info: Metrics per 'switch_mm' region
+	Region name    : switch_mm
+	Region type    : function
+	Offsets        : 2177-4114
+	Line numbers   : 79-136
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 19
+
+./arch/sparc/include/asm/mmu_context_64.h:141: info: Metrics per 'arch_start_context_switch' region
+	Region name    : arch_start_context_switch
+	Region type    : function
+	Offsets        : 4183-4701
+	Line numbers   : 140-160
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/mmu_context_64.h:163: info: Metrics per 'finish_arch_post_lock_switch' region
+	Region name    : finish_arch_post_lock_switch
+	Region type    : function
+	Offsets        : 4703-5371
+	Line numbers   : 162-186
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 19
+
+./arch/sparc/include/asm/mmu_context_64.h:189: info: Metrics per 'mm_untag_mask' region
+	Region name    : mm_untag_mask
+	Region type    : function
+	Offsets        : 5373-5511
+	Line numbers   : 188-192
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/mmu_context_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.2
+	Minimum        : 0
+	Maximum        : 4
+	Total          : 11.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             1 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             2 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	             4 : 0.400 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/mmu_context_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.5
+	Minimum        : 4
+	Maximum        : 19
+	Total          : 87.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	            12 : 0.167 : 0.333 : 1	||||||||||||||||
+	            16 : 0.167 : 0.500 : 1	||||||||||||||||
+	            17 : 0.167 : 0.667 : 1	||||||||||||||||
+	            19 : 0.333 : 1.000 : 2	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/asmmacro.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1183
+	Line numbers   : 1-47
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/asmmacro.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/asmmacro.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/device.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-565
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/device.h:13: info: Metrics per 'dev_archdata' region
+	Region name    : dev_archdata
+	Region type    : struct
+	Offsets        : 225-351
+	Line numbers   : 13-19
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/device.h:23: info: Metrics per 'pdev_archdata' region
+	Region name    : pdev_archdata
+	Region type    : struct
+	Offsets        : 412-529
+	Line numbers   : 23-27
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/device.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/device.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.66666667
+	Minimum        : 5
+	Maximum        : 7
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/hvtramp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-782
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/hvtramp.h:9: info: Metrics per 'hvtramp_mapping' region
+	Region name    : hvtramp_mapping
+	Region type    : struct
+	Offsets        : 140-194
+	Line numbers   : 9-12
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/hvtramp.h:14: info: Metrics per 'hvtramp_descr' region
+	Region name    : hvtramp_descr
+	Region type    : struct
+	Offsets        : 197-360
+	Line numbers   : 14-21
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/hvtramp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/hvtramp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 15.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/backoff.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2756
+	Line numbers   : 1-87
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/backoff.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/backoff.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/xor_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7321
+	Line numbers   : 1-269
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/xor_32.h:16: info: Metrics per 'sparc_2' region
+	Region name    : sparc_2
+	Region type    : function
+	Offsets        : 299-1297
+	Line numbers   : 15-51
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 36
+
+./arch/sparc/include/asm/xor_32.h:54: info: Metrics per 'sparc_3' region
+	Region name    : sparc_3
+	Region type    : function
+	Offsets        : 1299-2732
+	Line numbers   : 53-103
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 50
+
+./arch/sparc/include/asm/xor_32.h:106: info: Metrics per 'sparc_4' region
+	Region name    : sparc_4
+	Region type    : function
+	Offsets        : 2734-4602
+	Line numbers   : 105-169
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 64
+
+./arch/sparc/include/asm/xor_32.h:172: info: Metrics per 'sparc_5' region
+	Region name    : sparc_5
+	Region type    : function
+	Offsets        : 4604-6907
+	Line numbers   : 171-249
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 78
+
+./arch/sparc/include/asm/xor_32.h:251: info: Metrics per 'xor_block_template' region
+	Region name    : xor_block_template
+	Region type    : struct
+	Offsets        : 6909-7053
+	Line numbers   : 251-257
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/xor_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 4.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/xor_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 39.33333333
+	Minimum        : 1
+	Maximum        : 78
+	Total          : 236.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.167 : 0.167 : 1	||||||||||||||||
+	             7 : 0.167 : 0.333 : 1	||||||||||||||||
+	            36 : 0.167 : 0.500 : 1	||||||||||||||||
+	            50 : 0.167 : 0.667 : 1	||||||||||||||||
+	            64 : 0.167 : 0.833 : 1	||||||||||||||||
+	            78 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./arch/sparc/include/asm/mmu.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-207
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/mmu.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/mmu.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/io-unit.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2469
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/io-unit.h:44: info: Metrics per 'iounit_struct' region
+	Region name    : iounit_struct
+	Region type    : struct
+	Offsets        : 1870-2081
+	Line numbers   : 44-50
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/io-unit.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/io-unit.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 1
+	Maximum        : 7
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/memctrl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-311
+	Line numbers   : 1-11
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/memctrl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/memctrl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/sunbpp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3346
+	Line numbers   : 1-82
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/sunbpp.h:9: info: Metrics per 'bpp_regs' region
+	Region name    : bpp_regs
+	Region type    : struct
+	Offsets        : 128-854
+	Line numbers   : 9-23
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/sunbpp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/sunbpp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 1
+	Maximum        : 13
+	Total          : 14.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            13 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pgtsrmmu.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4695
+	Line numbers   : 1-142
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/pgtsrmmu.h:120: info: Metrics per 'srmmu_flush_whole_tlb' region
+	Region name    : srmmu_flush_whole_tlb
+	Region type    : function
+	Offsets        : 4145-4384
+	Line numbers   : 119-126
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtsrmmu.h:129: info: Metrics per 'srmmu_get_pte' region
+	Region name    : srmmu_get_pte
+	Region type    : function
+	Offsets        : 4386-4629
+	Line numbers   : 128-137
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/pgtsrmmu.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pgtsrmmu.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 6
+	Maximum        : 9
+	Total          : 24.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/cmpxchg_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5296
+	Line numbers   : 1-209
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/sparc/include/asm/cmpxchg_64.h:11: info: Metrics per '__cmpxchg_u32' region
+	Region name    : __cmpxchg_u32
+	Region type    : function
+	Offsets        : 234-452
+	Line numbers   : 10-19
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/cmpxchg_64.h:21: info: Metrics per 'xchg32' region
+	Region name    : xchg32
+	Region type    : function
+	Offsets        : 454-810
+	Line numbers   : 21-36
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/cmpxchg_64.h:38: info: Metrics per 'xchg64' region
+	Region name    : xchg64
+	Region type    : function
+	Offsets        : 812-1170
+	Line numbers   : 38-53
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/cmpxchg_64.h:70: info: Metrics per 'xchg16' region
+	Region name    : xchg16
+	Region type    : function
+	Offsets        : 1401-2152
+	Line numbers   : 64-88
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/cmpxchg_64.h:91: info: Metrics per '__arch_xchg' region
+	Region name    : __arch_xchg
+	Region type    : function
+	Offsets        : 2154-2426
+	Line numbers   : 90-103
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/cmpxchg_64.h:115: info: Metrics per '__cmpxchg_u64' region
+	Region name    : __cmpxchg_u64
+	Region type    : function
+	Offsets        : 2656-2896
+	Line numbers   : 114-123
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/cmpxchg_64.h:131: info: Metrics per '__cmpxchg_u8' region
+	Region name    : __cmpxchg_u8
+	Region type    : function
+	Offsets        : 2898-3731
+	Line numbers   : 125-150
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 19
+
+./arch/sparc/include/asm/cmpxchg_64.h:157: info: Metrics per '__cmpxchg' region
+	Region name    : __cmpxchg
+	Region type    : function
+	Offsets        : 3895-4224
+	Line numbers   : 156-169
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/cmpxchg_64.h:184: info: Metrics per '__cmpxchg_local' region
+	Region name    : __cmpxchg_local
+	Region type    : function
+	Offsets        : 4588-4879
+	Line numbers   : 184-196
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/cmpxchg_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.22222222
+	Minimum        : 0
+	Maximum        : 3
+	Total          : 11.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.444 : 0.444 : 4	||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.111 : 0.556 : 1	|||||||||||
+	             2 : 0.222 : 0.778 : 2	||||||||||||||||||||||
+	             3 : 0.222 : 1.000 : 2	||||||||||||||||||||||
+
+./arch/sparc/include/asm/cmpxchg_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.5
+	Minimum        : 2
+	Maximum        : 19
+	Total          : 125.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.100 : 0.100 :  1	||||||||||
+	             9 : 0.200 : 0.300 :  2	||||||||||||||||||||
+	            12 : 0.100 : 0.400 :  1	||||||||||
+	            14 : 0.200 : 0.600 :  2	||||||||||||||||||||
+	            15 : 0.200 : 0.800 :  2	||||||||||||||||||||
+	            16 : 0.100 : 0.900 :  1	||||||||||
+	            19 : 0.100 : 1.000 :  1	||||||||||
+
+./arch/sparc/include/asm/ptrace.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4234
+	Line numbers   : 1-163
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/ptrace.h:14: info: Metrics per 'pt_regs_trap_type' region
+	Region name    : pt_regs_trap_type
+	Region type    : function
+	Offsets        : 271-361
+	Line numbers   : 14-17
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:19: info: Metrics per 'pt_regs_is_syscall' region
+	Region name    : pt_regs_is_syscall
+	Region type    : function
+	Offsets        : 363-467
+	Line numbers   : 19-22
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:24: info: Metrics per 'pt_regs_clear_syscall' region
+	Region name    : pt_regs_clear_syscall
+	Region type    : function
+	Offsets        : 469-578
+	Line numbers   : 24-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:40: info: Metrics per 'global_reg_snapshot' region
+	Region name    : global_reg_snapshot
+	Region type    : struct
+	Offsets        : 839-1048
+	Line numbers   : 40-49
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/ptrace.h:51: info: Metrics per 'global_pmu_snapshot' region
+	Region name    : global_pmu_snapshot
+	Region type    : struct
+	Offsets        : 1051-1129
+	Line numbers   : 51-54
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:56: info: Metrics per 'global_cpu_snapshot' region
+	Region name    : global_cpu_snapshot
+	Region type    : struct
+	Offsets        : 1132-1227
+	Line numbers   : 56-59
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:71: info: Metrics per 'is_syscall_success' region
+	Region name    : is_syscall_success
+	Region type    : function
+	Offsets        : 1294-1760
+	Line numbers   : 63-74
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:76: info: Metrics per 'regs_return_value' region
+	Region name    : regs_return_value
+	Region type    : function
+	Offsets        : 1762-1855
+	Line numbers   : 76-79
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:101: info: Metrics per 'regs_get_register' region
+	Region name    : regs_get_register
+	Region type    : function
+	Offsets        : 2171-2841
+	Line numbers   : 91-109
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/ptrace.h:112: info: Metrics per 'kernel_stack_pointer' region
+	Region name    : kernel_stack_pointer
+	Region type    : function
+	Offsets        : 2843-2988
+	Line numbers   : 111-115
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:122: info: Metrics per 'pt_regs_is_syscall' region
+	Region name    : pt_regs_is_syscall
+	Region type    : function
+	Offsets        : 3145-3243
+	Line numbers   : 122-125
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:127: info: Metrics per 'pt_regs_clear_syscall' region
+	Region name    : pt_regs_clear_syscall
+	Region type    : function
+	Offsets        : 3245-3348
+	Line numbers   : 127-130
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/ptrace.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.22222222
+	Minimum        : 0
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.889 : 0.889 : 8	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.111 : 1.000 : 1	|||||||||||
+
+./arch/sparc/include/asm/ptrace.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.15384615
+	Minimum        : 4
+	Maximum        : 10
+	Total          : 67.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.769 : 0.769 : 10	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.077 : 0.846 :  1	|||||||
+	             9 : 0.077 : 0.923 :  1	|||||||
+	            10 : 0.077 : 1.000 :  1	|||||||
+
+./arch/sparc/include/asm/asm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1101
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/asm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/asm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/turbosparc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3866
+	Line numbers   : 1-127
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/turbosparc.h:63: info: Metrics per 'turbosparc_inv_insn_tag' region
+	Region name    : turbosparc_inv_insn_tag
+	Region type    : function
+	Offsets        : 2259-2528
+	Line numbers   : 62-69
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/turbosparc.h:72: info: Metrics per 'turbosparc_inv_data_tag' region
+	Region name    : turbosparc_inv_data_tag
+	Region type    : function
+	Offsets        : 2530-2793
+	Line numbers   : 71-78
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/turbosparc.h:80: info: Metrics per 'turbosparc_flush_icache' region
+	Region name    : turbosparc_flush_icache
+	Region type    : function
+	Offsets        : 2795-2968
+	Line numbers   : 80-86
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/turbosparc.h:88: info: Metrics per 'turbosparc_flush_dcache' region
+	Region name    : turbosparc_flush_dcache
+	Region type    : function
+	Offsets        : 2970-3143
+	Line numbers   : 88-94
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/turbosparc.h:96: info: Metrics per 'turbosparc_idflash_clear' region
+	Region name    : turbosparc_idflash_clear
+	Region type    : function
+	Offsets        : 3145-3371
+	Line numbers   : 96-104
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/turbosparc.h:106: info: Metrics per 'turbosparc_set_ccreg' region
+	Region name    : turbosparc_set_ccreg
+	Region type    : function
+	Offsets        : 3373-3587
+	Line numbers   : 106-112
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/turbosparc.h:114: info: Metrics per 'turbosparc_get_ccreg' region
+	Region name    : turbosparc_get_ccreg
+	Region type    : function
+	Offsets        : 3589-3800
+	Line numbers   : 114-122
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/turbosparc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.42857143
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 3.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.571 : 0.571 : 4	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.429 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/turbosparc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.125
+	Minimum        : 0
+	Maximum        : 8
+	Total          : 49.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.125 : 0.125 : 1	||||||||||||
+	             6 : 0.250 : 0.375 : 2	|||||||||||||||||||||||||
+	             7 : 0.375 : 0.750 : 3	|||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 1.000 : 2	|||||||||||||||||||||||||
+
+./arch/sparc/include/asm/qspinlock.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-215
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/qspinlock.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/qspinlock.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/vaddrs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2066
+	Line numbers   : 1-72
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vaddrs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/vaddrs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/atomic_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2117
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/atomic_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/atomic_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/idprom.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-656
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/idprom.h:13: info: Metrics per 'idprom' region
+	Region name    : idprom
+	Region type    : struct
+	Offsets        : 245-566
+	Line numbers   : 13-21
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/idprom.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/idprom.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 3
+	Maximum        : 9
+	Total          : 12.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/sbi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3425
+	Line numbers   : 1-117
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/sbi.h:14: info: Metrics per 'sbi_regs' region
+	Region name    : sbi_regs
+	Region type    : struct
+	Offsets        : 230-1013
+	Line numbers   : 13-33
+	Modified       : None
+	std.code.lines:code: 17
+
+./arch/sparc/include/asm/sbi.h:69: info: Metrics per 'acquire_sbi' region
+	Region name    : acquire_sbi
+	Region type    : function
+	Offsets        : 2255-2493
+	Line numbers   : 69-77
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/sbi.h:79: info: Metrics per 'release_sbi' region
+	Region name    : release_sbi
+	Region type    : function
+	Offsets        : 2495-2697
+	Line numbers   : 79-85
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/sbi.h:87: info: Metrics per 'set_sbi_tid' region
+	Region name    : set_sbi_tid
+	Region type    : function
+	Offsets        : 2699-2907
+	Line numbers   : 87-93
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/sbi.h:95: info: Metrics per 'get_sbi_ctl' region
+	Region name    : get_sbi_ctl
+	Region type    : function
+	Offsets        : 2909-3144
+	Line numbers   : 95-104
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/sbi.h:106: info: Metrics per 'set_sbi_ctl' region
+	Region name    : set_sbi_ctl
+	Region type    : function
+	Offsets        : 3146-3366
+	Line numbers   : 106-112
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/sbi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 5	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/sbi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.14285714
+	Minimum        : 1
+	Maximum        : 17
+	Total          : 57.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.143 : 0.143 : 1	||||||||||||||
+	             7 : 0.429 : 0.571 : 3	||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.286 : 0.857 : 2	||||||||||||||||||||||||||||
+	            17 : 0.143 : 1.000 : 1	||||||||||||||
+
+./arch/sparc/include/asm/io.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-649
+	Line numbers   : 1-25
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/io.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/io.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/bug.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-588
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/bug.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/bug.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/cpu_type.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-579
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/cpu_type.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/cpu_type.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/mmu_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3967
+	Line numbers   : 1-130
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/mmu_64.h:66: info: Metrics per 'tsb' region
+	Region name    : tsb
+	Region type    : struct
+	Offsets        : 2060-2114
+	Line numbers   : 66-69
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/mmu_64.h:75: info: Metrics per 'tsb_config' region
+	Region name    : tsb_config
+	Region type    : struct
+	Offsets        : 2346-2536
+	Line numbers   : 75-82
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/mmu_64.h:100: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2715-3378
+	Line numbers   : 93-105
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/mmu_64.h:107: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 3400-3707
+	Line numbers   : 107-118
+	Modified       : None
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/mmu_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/mmu_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.4
+	Minimum        : 4
+	Maximum        : 12
+	Total          : 37.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             6 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             7 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	             8 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            12 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/sparc/include/asm/tlb.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-207
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/tlb.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/tlb.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pci.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1206
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/pci.h:31: info: Metrics per 'pci_proc_domain' region
+	Region name    : pci_proc_domain
+	Region type    : function
+	Offsets        : 835-904
+	Line numbers   : 31-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pci.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pci.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/sfp-machine.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-239
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/sfp-machine.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/sfp-machine.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/barrier.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-223
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/barrier.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/barrier.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/sfafsr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3216
+	Line numbers   : 1-84
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/sfafsr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/sfafsr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/sfp-machine_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6954
+	Line numbers   : 1-213
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/sfp-machine_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/sfp-machine_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/timex_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-266
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/timex_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/timex_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/mdesc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3066
+	Line numbers   : 1-100
+	Modified       : None
+	std.code.lines:code: 23
+
+./arch/sparc/include/asm/mdesc.h:66: info: Metrics per 'mdesc_notifier_client' region
+	Region name    : mdesc_notifier_client
+	Region type    : struct
+	Offsets        : 2076-2341
+	Line numbers   : 66-73
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/mdesc.h:77: info: Metrics per 'md_node_info' region
+	Region name    : md_node_info
+	Region type    : struct
+	Offsets        : 2413-2636
+	Line numbers   : 77-86
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/mdesc.h:78: info: Metrics per 'vdev_port' region
+	Region name    : vdev_port
+	Region type    : struct
+	Offsets        : 2435-2571
+	Line numbers   : 78-82
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/mdesc.h:83: info: Metrics per 'ds_port' region
+	Region name    : ds_port
+	Region type    : struct
+	Offsets        : 2584-2625
+	Line numbers   : 83-85
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/mdesc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/mdesc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.6
+	Minimum        : 3
+	Maximum        : 23
+	Total          : 43.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             4 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             5 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	             8 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            23 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/sparc/include/asm/machines.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1540
+	Line numbers   : 1-52
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/machines.h:11: info: Metrics per 'Sun_Machine_Models' region
+	Region name    : Sun_Machine_Models
+	Region type    : struct
+	Offsets        : 306-376
+	Line numbers   : 11-14
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/machines.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/machines.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/scratchpad.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-547
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/scratchpad.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/scratchpad.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/kdebug_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2041
+	Line numbers   : 1-76
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/kdebug_32.h:29: info: Metrics per 'kernel_debug' region
+	Region name    : kernel_debug
+	Region type    : struct
+	Offsets        : 723-1325
+	Line numbers   : 29-45
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/kdebug_32.h:50: info: Metrics per 'sp_enter_debugger' region
+	Region name    : sp_enter_debugger
+	Region type    : function
+	Offsets        : 1398-1607
+	Line numbers   : 49-55
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/kdebug_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/kdebug_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 6
+	Maximum        : 7
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/prom.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1841
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 20
+
+./arch/sparc/include/asm/prom.h:30: info: Metrics per 'of_irq_controller' region
+	Region name    : of_irq_controller
+	Region type    : struct
+	Offsets        : 820-934
+	Line numbers   : 30-33
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/prom.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/prom.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 4
+	Maximum        : 20
+	Total          : 24.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            20 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/chafsr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9710
+	Line numbers   : 1-243
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/chafsr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/chafsr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pil.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1109
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/pil.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/pil.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/xor_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2807
+	Line numbers   : 1-80
+	Modified       : None
+	std.code.lines:code: 30
+
+./arch/sparc/include/asm/xor_64.h:32: info: Metrics per 'xor_block_template' region
+	Region name    : xor_block_template
+	Region type    : struct
+	Offsets        : 1151-1334
+	Line numbers   : 32-38
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/xor_64.h:55: info: Metrics per 'xor_block_template' region
+	Region name    : xor_block_template
+	Region type    : struct
+	Offsets        : 2046-2253
+	Line numbers   : 55-61
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/xor_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/xor_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.66666667
+	Minimum        : 7
+	Maximum        : 30
+	Total          : 44.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            30 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/oplib_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6062
+	Line numbers   : 1-185
+	Modified       : None
+	std.code.lines:code: 52
+
+./arch/sparc/include/asm/oplib_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/oplib_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 52.0
+	Minimum        : 52
+	Maximum        : 52
+	Total          : 52.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            52 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/mxcc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4429
+	Line numbers   : 1-139
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/mxcc.h:89: info: Metrics per 'mxcc_set_stream_src' region
+	Region name    : mxcc_set_stream_src
+	Region type    : function
+	Offsets        : 3103-3459
+	Line numbers   : 89-100
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 11
+
+./arch/sparc/include/asm/mxcc.h:102: info: Metrics per 'mxcc_set_stream_dst' region
+	Region name    : mxcc_set_stream_dst
+	Region type    : function
+	Offsets        : 3461-3817
+	Line numbers   : 102-113
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 11
+
+./arch/sparc/include/asm/mxcc.h:115: info: Metrics per 'mxcc_get_creg' region
+	Region name    : mxcc_get_creg
+	Region type    : function
+	Offsets        : 3819-4183
+	Line numbers   : 115-127
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/mxcc.h:129: info: Metrics per 'mxcc_set_creg' region
+	Region name    : mxcc_set_creg
+	Region type    : function
+	Offsets        : 4185-4369
+	Line numbers   : 129-134
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/mxcc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/mxcc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 0
+	Maximum        : 12
+	Total          : 40.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             6 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            11 : 0.400 : 0.800 : 2	||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/sparc/include/asm/cacheflush_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2672
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/cacheflush_64.h:51: info: Metrics per 'flush_dcache_page' region
+	Region name    : flush_dcache_page
+	Region type    : function
+	Offsets        : 1628-1772
+	Line numbers   : 50-54
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/cacheflush_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/cacheflush_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 4
+	Maximum        : 12
+	Total          : 16.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/current.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-991
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/sparc/include/asm/current.h:28: info: Metrics per '__get_current' region
+	Region name    : __get_current
+	Region type    : function
+	Offsets        : 823-917
+	Line numbers   : 28-31
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/current.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/current.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 2
+	Maximum        : 4
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/leon_pci.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-512
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/leon_pci.h:12: info: Metrics per 'leon_pci_info' region
+	Region name    : leon_pci_info
+	Region type    : struct
+	Offsets        : 179-394
+	Line numbers   : 11-18
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/leon_pci.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/leon_pci.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/tlb_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-138
+	Line numbers   : 1-8
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/tlb_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/tlb_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pgtable_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-33676
+	Line numbers   : 1-1182
+	Modified       : None
+	std.code.lines:code: 55
+
+./arch/sparc/include/asm/pgtable_64.h:221: info: Metrics per 'pfn_pte' region
+	Region name    : pfn_pte
+	Region type    : function
+	Offsets        : 9725-10249
+	Line numbers   : 216-227
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:231: info: Metrics per 'pfn_pmd' region
+	Region name    : pfn_pmd
+	Region type    : function
+	Offsets        : 10317-10492
+	Line numbers   : 230-236
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:241: info: Metrics per 'pte_pfn' region
+	Region name    : pte_pfn
+	Region type    : function
+	Offsets        : 10567-11002
+	Line numbers   : 240-259
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 17
+
+./arch/sparc/include/asm/pgtable_64.h:262: info: Metrics per 'pte_modify' region
+	Region name    : pte_modify
+	Region type    : function
+	Offsets        : 11048-12889
+	Line numbers   : 262-318
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 45
+
+./arch/sparc/include/asm/pgtable_64.h:321: info: Metrics per 'pmd_modify' region
+	Region name    : pmd_modify
+	Region type    : function
+	Offsets        : 12891-13087
+	Line numbers   : 320-328
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:331: info: Metrics per 'pgprot_noncached' region
+	Region name    : pgprot_noncached
+	Region type    : function
+	Offsets        : 13096-13710
+	Line numbers   : 331-354
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 22
+
+./arch/sparc/include/asm/pgtable_64.h:361: info: Metrics per 'pte_dirty' region
+	Region name    : pte_dirty
+	Region type    : function
+	Offsets        : 13908-14266
+	Line numbers   : 361-377
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/pgtable_64.h:379: info: Metrics per 'pte_write' region
+	Region name    : pte_write
+	Region type    : function
+	Offsets        : 14268-14620
+	Line numbers   : 379-395
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/pgtable_64.h:400: info: Metrics per '__pte_default_huge_mask' region
+	Region name    : __pte_default_huge_mask
+	Region type    : function
+	Offsets        : 14772-15164
+	Line numbers   : 399-416
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/pgtable_64.h:418: info: Metrics per 'pte_mkhuge' region
+	Region name    : pte_mkhuge
+	Region type    : function
+	Offsets        : 15166-15268
+	Line numbers   : 418-421
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:423: info: Metrics per 'is_default_hugetlb_pte' region
+	Region name    : is_default_hugetlb_pte
+	Region type    : function
+	Offsets        : 15270-15415
+	Line numbers   : 423-428
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:430: info: Metrics per 'is_hugetlb_pmd' region
+	Region name    : is_hugetlb_pmd
+	Region type    : function
+	Offsets        : 15417-15508
+	Line numbers   : 430-433
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:435: info: Metrics per 'is_hugetlb_pud' region
+	Region name    : is_hugetlb_pud
+	Region type    : function
+	Offsets        : 15510-15601
+	Line numbers   : 435-438
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:441: info: Metrics per 'pmd_mkhuge' region
+	Region name    : pmd_mkhuge
+	Region type    : function
+	Offsets        : 15603-15805
+	Line numbers   : 440-449
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/pgtable_64.h:452: info: Metrics per 'is_hugetlb_pte' region
+	Region name    : is_hugetlb_pte
+	Region type    : function
+	Offsets        : 15806-15882
+	Line numbers   : 450-455
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:458: info: Metrics per '__pte_mkhwwrite' region
+	Region name    : __pte_mkhwwrite
+	Region type    : function
+	Offsets        : 15891-16326
+	Line numbers   : 458-476
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/pgtable_64.h:478: info: Metrics per 'pte_mkdirty' region
+	Region name    : pte_mkdirty
+	Region type    : function
+	Offsets        : 16328-16748
+	Line numbers   : 478-495
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/pgtable_64.h:497: info: Metrics per 'pte_mkclean' region
+	Region name    : pte_mkclean
+	Region type    : function
+	Offsets        : 16750-17260
+	Line numbers   : 497-519
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 21
+
+./arch/sparc/include/asm/pgtable_64.h:521: info: Metrics per 'pte_mkwrite_novma' region
+	Region name    : pte_mkwrite_novma
+	Region type    : function
+	Offsets        : 17262-17682
+	Line numbers   : 521-538
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/pgtable_64.h:540: info: Metrics per 'pte_wrprotect' region
+	Region name    : pte_wrprotect
+	Region type    : function
+	Offsets        : 17684-18190
+	Line numbers   : 540-562
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 21
+
+./arch/sparc/include/asm/pgtable_64.h:564: info: Metrics per 'pte_mkold' region
+	Region name    : pte_mkold
+	Region type    : function
+	Offsets        : 18192-18567
+	Line numbers   : 564-582
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/pgtable_64.h:584: info: Metrics per 'pte_mkyoung' region
+	Region name    : pte_mkyoung
+	Region type    : function
+	Offsets        : 18569-18945
+	Line numbers   : 584-602
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/pgtable_64.h:604: info: Metrics per 'pte_mkspecial' region
+	Region name    : pte_mkspecial
+	Region type    : function
+	Offsets        : 18947-19040
+	Line numbers   : 604-608
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:610: info: Metrics per 'pte_mkmcd' region
+	Region name    : pte_mkmcd
+	Region type    : function
+	Offsets        : 19042-19130
+	Line numbers   : 610-614
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:616: info: Metrics per 'pte_mknotmcd' region
+	Region name    : pte_mknotmcd
+	Region type    : function
+	Offsets        : 19132-19224
+	Line numbers   : 616-620
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:622: info: Metrics per 'pte_young' region
+	Region name    : pte_young
+	Region type    : function
+	Offsets        : 19226-19584
+	Line numbers   : 622-638
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/pgtable_64.h:640: info: Metrics per 'pte_exec' region
+	Region name    : pte_exec
+	Region type    : function
+	Offsets        : 19586-19901
+	Line numbers   : 640-654
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/pgtable_64.h:656: info: Metrics per 'pte_present' region
+	Region name    : pte_present
+	Region type    : function
+	Offsets        : 19903-20233
+	Line numbers   : 656-670
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/pgtable_64.h:673: info: Metrics per 'pte_accessible' region
+	Region name    : pte_accessible
+	Region type    : function
+	Offsets        : 20235-20384
+	Line numbers   : 672-676
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:678: info: Metrics per 'pte_special' region
+	Region name    : pte_special
+	Region type    : function
+	Offsets        : 20386-20478
+	Line numbers   : 678-681
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:684: info: Metrics per 'pmd_large' region
+	Region name    : pmd_large
+	Region type    : function
+	Offsets        : 20480-20633
+	Line numbers   : 683-689
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:691: info: Metrics per 'pmd_pfn' region
+	Region name    : pmd_pfn
+	Region type    : function
+	Offsets        : 20635-20742
+	Line numbers   : 691-696
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:699: info: Metrics per 'pmd_write' region
+	Region name    : pmd_write
+	Region type    : function
+	Offsets        : 20744-20883
+	Line numbers   : 698-704
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:709: info: Metrics per 'pmd_dirty' region
+	Region name    : pmd_dirty
+	Region type    : function
+	Offsets        : 20940-21086
+	Line numbers   : 708-714
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:717: info: Metrics per 'pmd_young' region
+	Region name    : pmd_young
+	Region type    : function
+	Offsets        : 21088-21227
+	Line numbers   : 716-722
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:724: info: Metrics per 'pmd_trans_huge' region
+	Region name    : pmd_trans_huge
+	Region type    : function
+	Offsets        : 21229-21360
+	Line numbers   : 724-729
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:731: info: Metrics per 'pmd_mkold' region
+	Region name    : pmd_mkold
+	Region type    : function
+	Offsets        : 21362-21494
+	Line numbers   : 731-738
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:740: info: Metrics per 'pmd_wrprotect' region
+	Region name    : pmd_wrprotect
+	Region type    : function
+	Offsets        : 21496-21636
+	Line numbers   : 740-747
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:749: info: Metrics per 'pmd_mkdirty' region
+	Region name    : pmd_mkdirty
+	Region type    : function
+	Offsets        : 21638-21774
+	Line numbers   : 749-756
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:758: info: Metrics per 'pmd_mkclean' region
+	Region name    : pmd_mkclean
+	Region type    : function
+	Offsets        : 21776-21912
+	Line numbers   : 758-765
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:767: info: Metrics per 'pmd_mkyoung' region
+	Region name    : pmd_mkyoung
+	Region type    : function
+	Offsets        : 21914-22050
+	Line numbers   : 767-774
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:776: info: Metrics per 'pmd_mkwrite_novma' region
+	Region name    : pmd_mkwrite_novma
+	Region type    : function
+	Offsets        : 22052-22200
+	Line numbers   : 776-783
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgtable_64.h:785: info: Metrics per 'pmd_pgprot' region
+	Region name    : pmd_pgprot
+	Region type    : function
+	Offsets        : 22202-22313
+	Line numbers   : 785-790
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:793: info: Metrics per 'pmd_present' region
+	Region name    : pmd_present
+	Region type    : function
+	Offsets        : 22322-22395
+	Line numbers   : 793-796
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:820: info: Metrics per 'set_pmd_at' region
+	Region name    : set_pmd_at
+	Region type    : function
+	Offsets        : 23142-23270
+	Line numbers   : 819-824
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:827: info: Metrics per 'pmd_set' region
+	Region name    : pmd_set
+	Region type    : function
+	Offsets        : 23279-23432
+	Line numbers   : 827-832
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:836: info: Metrics per 'pmd_page_vaddr' region
+	Region name    : pmd_page_vaddr
+	Region type    : function
+	Offsets        : 23434-23702
+	Line numbers   : 834-844
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/pgtable_64.h:846: info: Metrics per 'pud_pgtable' region
+	Region name    : pud_pgtable
+	Region type    : function
+	Offsets        : 23704-23873
+	Line numbers   : 846-854
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/pgtable_64.h:870: info: Metrics per 'pud_large' region
+	Region name    : pud_large
+	Region type    : function
+	Offsets        : 24419-24572
+	Line numbers   : 869-875
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:877: info: Metrics per 'pud_pfn' region
+	Region name    : pud_pfn
+	Region type    : function
+	Offsets        : 24574-24681
+	Line numbers   : 877-882
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgtable_64.h:898: info: Metrics per 'maybe_tlb_batch_add' region
+	Region name    : maybe_tlb_batch_add
+	Region type    : function
+	Offsets        : 25120-25622
+	Line numbers   : 898-910
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/pgtable_64.h:913: info: Metrics per 'pmdp_huge_get_and_clear' region
+	Region name    : pmdp_huge_get_and_clear
+	Region type    : function
+	Offsets        : 25624-25862
+	Line numbers   : 912-920
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/pgtable_64.h:922: info: Metrics per '__set_pte_at' region
+	Region name    : __set_pte_at
+	Region type    : function
+	Offsets        : 25864-26085
+	Line numbers   : 922-929
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/pgtable_64.h:931: info: Metrics per 'set_ptes' region
+	Region name    : set_ptes
+	Region type    : function
+	Offsets        : 26087-26403
+	Line numbers   : 931-944
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/pgtable_64.h:1025: info: Metrics per 'pte_swp_exclusive' region
+	Region name    : pte_swp_exclusive
+	Region type    : function
+	Offsets        : 29056-29150
+	Line numbers   : 1025-1028
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:1030: info: Metrics per 'pte_swp_mkexclusive' region
+	Region name    : pte_swp_mkexclusive
+	Region type    : function
+	Offsets        : 29152-29257
+	Line numbers   : 1030-1033
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:1035: info: Metrics per 'pte_swp_clear_exclusive' region
+	Region name    : pte_swp_clear_exclusive
+	Region type    : function
+	Offsets        : 29259-29369
+	Line numbers   : 1035-1038
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgtable_64.h:1060: info: Metrics per 'arch_do_swap_page' region
+	Region name    : arch_do_swap_page
+	Region type    : function
+	Offsets        : 30086-30549
+	Line numbers   : 1059-1074
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/pgtable_64.h:1077: info: Metrics per 'arch_unmap_one' region
+	Region name    : arch_unmap_one
+	Region type    : function
+	Offsets        : 30551-30829
+	Line numbers   : 1076-1084
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/pgtable_64.h:1086: info: Metrics per 'io_remap_pfn_range' region
+	Region name    : io_remap_pfn_range
+	Region type    : function
+	Offsets        : 30831-31232
+	Line numbers   : 1086-1097
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/pgtable_64.h:1100: info: Metrics per '__untagged_addr' region
+	Region name    : __untagged_addr
+	Region type    : function
+	Offsets        : 31280-31998
+	Line numbers   : 1100-1119
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/pgtable_64.h:1123: info: Metrics per 'pte_access_permitted' region
+	Region name    : pte_access_permitted
+	Region type    : function
+	Offsets        : 32092-32432
+	Line numbers   : 1123-1138
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/pgtable_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.27419355
+	Minimum        : 0
+	Maximum        : 3
+	Total          : 17.0
+	Distribution   : 62 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.839 : 0.839 : 52	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.081 : 0.919 :  5	||||||||
+	             2 : 0.048 : 0.968 :  3	||||
+	             3 : 0.032 : 1.000 :  2	|||
+
+./arch/sparc/include/asm/pgtable_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.82539683
+	Minimum        : 4
+	Maximum        : 55
+	Total          : 619.0
+	Distribution   : 63 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.159 : 0.159 : 10	|||||||||||||||
+	             5 : 0.254 : 0.413 : 16	|||||||||||||||||||||||||
+	             6 : 0.127 : 0.540 :  8	||||||||||||
+	             7 : 0.079 : 0.619 :  5	|||||||
+	             8 : 0.048 : 0.667 :  3	||||
+	            10 : 0.032 : 0.698 :  2	|||
+	            13 : 0.048 : 0.746 :  3	||||
+	            14 : 0.032 : 0.778 :  2	|||
+	            15 : 0.063 : 0.841 :  4	||||||
+	            16 : 0.063 : 0.905 :  4	||||||
+	            17 : 0.016 : 0.921 :  1	|
+	            21 : 0.032 : 0.952 :  2	|||
+	            22 : 0.016 : 0.968 :  1	|
+	            45 : 0.016 : 0.984 :  1	|
+	            55 : 0.016 : 1.000 :  1	|
+
+./arch/sparc/include/asm/highmem.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1966
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/sparc/include/asm/highmem.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/highmem.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/head.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-211
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/head.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/head.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/topology_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-170
+	Line numbers   : 1-8
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/topology_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/topology_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/thread_info_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8131
+	Line numbers   : 1-243
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/thread_info_64.h:36: info: Metrics per 'thread_info' region
+	Region name    : thread_info
+	Region type    : struct
+	Offsets        : 761-1398
+	Line numbers   : 36-65
+	Modified       : None
+	std.code.lines:code: 22
+
+./arch/sparc/include/asm/thread_info_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/thread_info_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 4
+	Maximum        : 22
+	Total          : 26.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            22 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/switch_to_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2495
+	Line numbers   : 1-72
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/switch_to_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/switch_to_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/iommu_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2489
+	Line numbers   : 1-94
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/iommu_64.h:22: info: Metrics per 'iommu_arena' region
+	Region name    : iommu_arena
+	Region type    : struct
+	Offsets        : 666-750
+	Line numbers   : 22-26
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/iommu_64.h:31: info: Metrics per 'atu_iotsb' region
+	Region name    : atu_iotsb
+	Region type    : struct
+	Offsets        : 802-1194
+	Line numbers   : 30-39
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/iommu_64.h:41: info: Metrics per 'atu_ranges' region
+	Region name    : atu_ranges
+	Region type    : struct
+	Offsets        : 1197-1240
+	Line numbers   : 41-44
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/iommu_64.h:46: info: Metrics per 'atu' region
+	Region name    : atu
+	Region type    : struct
+	Offsets        : 1243-1388
+	Line numbers   : 46-53
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/iommu_64.h:55: info: Metrics per 'iommu' region
+	Region name    : iommu
+	Region type    : struct
+	Offsets        : 1391-1876
+	Line numbers   : 55-72
+	Modified       : None
+	std.code.lines:code: 18
+
+./arch/sparc/include/asm/iommu_64.h:74: info: Metrics per 'strbuf' region
+	Region name    : strbuf
+	Region type    : struct
+	Offsets        : 1879-2332
+	Line numbers   : 74-87
+	Modified       : None
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/iommu_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/iommu_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.57142857
+	Minimum        : 4
+	Maximum        : 18
+	Total          : 67.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.143 : 0.143 : 1	||||||||||||||
+	             5 : 0.143 : 0.286 : 1	||||||||||||||
+	             8 : 0.143 : 0.429 : 1	||||||||||||||
+	             9 : 0.286 : 0.714 : 2	||||||||||||||||||||||||||||
+	            14 : 0.143 : 0.857 : 1	||||||||||||||
+	            18 : 0.143 : 1.000 : 1	||||||||||||||
+
+./arch/sparc/include/asm/ebus_dma.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1098
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/ebus_dma.h:5: info: Metrics per 'ebus_dma_info' region
+	Region name    : ebus_dma_info
+	Region type    : struct
+	Offsets        : 102-591
+	Line numbers   : 5-24
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/ebus_dma.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/ebus_dma.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 9
+	Maximum        : 10
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/jump_label.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1036
+	Line numbers   : 1-53
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/sparc/include/asm/jump_label.h:11: info: Metrics per 'arch_static_branch' region
+	Region name    : arch_static_branch
+	Region type    : function
+	Offsets        : 183-528
+	Line numbers   : 11-25
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/jump_label.h:27: info: Metrics per 'arch_static_branch_jump' region
+	Region name    : arch_static_branch_jump
+	Region type    : function
+	Offsets        : 530-888
+	Line numbers   : 27-41
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/jump_label.h:45: info: Metrics per 'jump_entry' region
+	Region name    : jump_entry
+	Region type    : struct
+	Offsets        : 917-999
+	Line numbers   : 45-49
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/jump_label.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/jump_label.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.75
+	Minimum        : 2
+	Maximum        : 14
+	Total          : 35.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/topology_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1546
+	Line numbers   : 1-66
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/topology_64.h:9: info: Metrics per 'cpu_to_node' region
+	Region name    : cpu_to_node
+	Region type    : function
+	Offsets        : 149-227
+	Line numbers   : 9-12
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/topology_64.h:22: info: Metrics per 'pcibus_to_node' region
+	Region name    : pcibus_to_node
+	Region type    : function
+	Offsets        : 431-507
+	Line numbers   : 21-25
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/topology_64.h:60: info: Metrics per 'cpu_coregroup_mask' region
+	Region name    : cpu_coregroup_mask
+	Region type    : function
+	Offsets        : 1344-1507
+	Line numbers   : 57-63
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/topology_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/topology_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 4
+	Maximum        : 6
+	Total          : 18.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.750 : 0.750 : 3	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/sparc/include/asm/hibernate.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-421
+	Line numbers   : 1-25
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/hibernate.h:11: info: Metrics per 'saved_context' region
+	Region name    : saved_context
+	Region type    : struct
+	Offsets        : 222-411
+	Line numbers   : 11-22
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/hibernate.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/hibernate.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 1
+	Maximum        : 10
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/mmzone.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-363
+	Line numbers   : 1-19
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/mmzone.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/mmzone.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/qrwlock.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-205
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/qrwlock.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/qrwlock.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/spinlock_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4324
+	Line numbers   : 1-189
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/spinlock_32.h:18: info: Metrics per 'arch_spin_lock' region
+	Region name    : arch_spin_lock
+	Region type    : function
+	Offsets        : 405-779
+	Line numbers   : 18-36
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 19
+
+./arch/sparc/include/asm/spinlock_32.h:38: info: Metrics per 'arch_spin_trylock' region
+	Region name    : arch_spin_trylock
+	Region type    : function
+	Offsets        : 781-994
+	Line numbers   : 38-46
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/spinlock_32.h:48: info: Metrics per 'arch_spin_unlock' region
+	Region name    : arch_spin_unlock
+	Region type    : function
+	Offsets        : 996-1125
+	Line numbers   : 48-51
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/spinlock_32.h:79: info: Metrics per '__arch_read_lock' region
+	Region name    : __arch_read_lock
+	Region type    : function
+	Offsets        : 1127-2366
+	Line numbers   : 53-90
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/spinlock_32.h:99: info: Metrics per '__arch_read_unlock' region
+	Region name    : __arch_read_unlock
+	Region type    : function
+	Offsets        : 2521-2797
+	Line numbers   : 99-110
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/spinlock_32.h:119: info: Metrics per 'arch_write_lock' region
+	Region name    : arch_write_lock
+	Region type    : function
+	Offsets        : 2956-3268
+	Line numbers   : 119-131
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/spinlock_32.h:133: info: Metrics per 'arch_write_unlock' region
+	Region name    : arch_write_unlock
+	Region type    : function
+	Offsets        : 3270-3420
+	Line numbers   : 133-140
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/spinlock_32.h:142: info: Metrics per 'arch_write_trylock' region
+	Region name    : arch_write_trylock
+	Region type    : function
+	Offsets        : 3422-3772
+	Line numbers   : 142-160
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 16
+
+./arch/sparc/include/asm/spinlock_32.h:162: info: Metrics per '__arch_read_trylock' region
+	Region name    : __arch_read_trylock
+	Region type    : function
+	Offsets        : 3774-4085
+	Line numbers   : 162-175
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/spinlock_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.22222222
+	Minimum        : 0
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.889 : 0.889 : 8	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.111 : 1.000 : 1	|||||||||||
+
+./arch/sparc/include/asm/spinlock_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.7
+	Minimum        : 0
+	Maximum        : 19
+	Total          : 107.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.100 : 0.100 :  1	||||||||||
+	             4 : 0.100 : 0.200 :  1	||||||||||
+	             8 : 0.100 : 0.300 :  1	||||||||||
+	             9 : 0.100 : 0.400 :  1	||||||||||
+	            12 : 0.200 : 0.600 :  2	||||||||||||||||||||
+	            13 : 0.100 : 0.700 :  1	||||||||||
+	            14 : 0.100 : 0.800 :  1	||||||||||
+	            16 : 0.100 : 0.900 :  1	||||||||||
+	            19 : 0.100 : 1.000 :  1	||||||||||
+
+./arch/sparc/include/asm/uaccess_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7915
+	Line numbers   : 1-253
+	Modified       : None
+	std.code.lines:code: 19
+
+./arch/sparc/include/asm/uaccess_64.h:30: info: Metrics per '__chk_range_not_ok' region
+	Region name    : __chk_range_not_ok
+	Region type    : function
+	Offsets        : 633-997
+	Line numbers   : 26-40
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/uaccess_64.h:74: info: Metrics per '__large_struct' region
+	Region name    : __large_struct
+	Region type    : struct
+	Offsets        : 2188-2237
+	Line numbers   : 74-74
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/uaccess_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/uaccess_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.66666667
+	Minimum        : 1
+	Maximum        : 19
+	Total          : 29.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            19 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/barrier_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2004
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/barrier_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/barrier_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/hypervisor.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-117649
+	Line numbers   : 1-3528
+	Modified       : None
+	std.code.lines:code: 194
+
+./arch/sparc/include/asm/hypervisor.h:489: info: Metrics per 'hv_tsb_descr' region
+	Region name    : hv_tsb_descr
+	Region type    : struct
+	Offsets        : 17397-17716
+	Line numbers   : 484-497
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/hypervisor.h:540: info: Metrics per 'hv_fault_status' region
+	Region name    : hv_fault_status
+	Region type    : struct
+	Offsets        : 18704-19407
+	Line numbers   : 529-549
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/hypervisor.h:1352: info: Metrics per 'hv_trap_trace_control' region
+	Region name    : hv_trap_trace_control
+	Region type    : struct
+	Offsets        : 44761-45470
+	Line numbers   : 1338-1356
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/hypervisor.h:1371: info: Metrics per 'hv_trap_trace_entry' region
+	Region name    : hv_trap_trace_entry
+	Region type    : struct
+	Offsets        : 45568-46616
+	Line numbers   : 1361-1385
+	Modified       : None
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/hypervisor.h:3051: info: Metrics per 'ldc_mtable_entry' region
+	Region name    : ldc_mtable_entry
+	Region type    : struct
+	Offsets        : 102795-102886
+	Line numbers   : 3050-3054
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/hypervisor.h:3251: info: Metrics per 'hv_mmu_statistics' region
+	Region name    : hv_mmu_statistics
+	Region type    : struct
+	Offsets        : 108297-110403
+	Line numbers   : 3244-3296
+	Modified       : None
+	std.code.lines:code: 46
+
+./arch/sparc/include/asm/hypervisor.h:3347: info: Metrics per 'hv_ncs_queue_entry' region
+	Region name    : hv_ncs_queue_entry
+	Region type    : struct
+	Offsets        : 111983-112838
+	Line numbers   : 3346-3374
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/hypervisor.h:3376: info: Metrics per 'hv_ncs_qconf_arg' region
+	Region name    : hv_ncs_qconf_arg
+	Region type    : struct
+	Offsets        : 112841-113099
+	Line numbers   : 3376-3381
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/hypervisor.h:3383: info: Metrics per 'hv_ncs_qtail_update_arg' region
+	Region name    : hv_ncs_qtail_update_arg
+	Region type    : struct
+	Offsets        : 113102-113384
+	Line numbers   : 3383-3389
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/hypervisor.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/hypervisor.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 30.0
+	Minimum        : 4
+	Maximum        : 194
+	Total          : 300.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.100 : 0.100 :  1	||||||||||
+	             5 : 0.200 : 0.300 :  2	||||||||||||||||||||
+	             6 : 0.200 : 0.500 :  2	||||||||||||||||||||
+	             9 : 0.100 : 0.600 :  1	||||||||||
+	            10 : 0.100 : 0.700 :  1	||||||||||
+	            15 : 0.100 : 0.800 :  1	||||||||||
+	            46 : 0.100 : 0.900 :  1	||||||||||
+	           194 : 0.100 : 1.000 :  1	||||||||||
+
+./arch/sparc/include/asm/smp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-207
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/smp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/smp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/bitops_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2852
+	Line numbers   : 1-109
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/bitops_32.h:32: info: Metrics per 'test_and_set_bit' region
+	Region name    : test_and_set_bit
+	Region type    : function
+	Offsets        : 689-1200
+	Line numbers   : 26-40
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/bitops_32.h:42: info: Metrics per 'set_bit' region
+	Region name    : set_bit
+	Region type    : function
+	Offsets        : 1202-1416
+	Line numbers   : 42-50
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/bitops_32.h:52: info: Metrics per 'test_and_clear_bit' region
+	Region name    : test_and_clear_bit
+	Region type    : function
+	Offsets        : 1418-1649
+	Line numbers   : 52-60
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/bitops_32.h:62: info: Metrics per 'clear_bit' region
+	Region name    : clear_bit
+	Region type    : function
+	Offsets        : 1651-1869
+	Line numbers   : 62-70
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/bitops_32.h:72: info: Metrics per 'test_and_change_bit' region
+	Region name    : test_and_change_bit
+	Region type    : function
+	Offsets        : 1871-2104
+	Line numbers   : 72-80
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/bitops_32.h:82: info: Metrics per 'change_bit' region
+	Region name    : change_bit
+	Region type    : function
+	Offsets        : 2106-2326
+	Line numbers   : 82-90
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/bitops_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 6	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/bitops_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.42857143
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 45.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.143 : 0.143 : 1	||||||||||||||
+	             7 : 0.857 : 1.000 : 6	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/obio.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6410
+	Line numbers   : 1-227
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/obio.h:102: info: Metrics per 'bw_get_intr_mask' region
+	Region name    : bw_get_intr_mask
+	Region type    : function
+	Offsets        : 3616-3858
+	Line numbers   : 102-111
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/obio.h:113: info: Metrics per 'bw_clear_intr_mask' region
+	Region name    : bw_clear_intr_mask
+	Region type    : function
+	Offsets        : 3860-4093
+	Line numbers   : 113-119
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/obio.h:121: info: Metrics per 'bw_get_prof_limit' region
+	Region name    : bw_get_prof_limit
+	Region type    : function
+	Offsets        : 4095-4332
+	Line numbers   : 121-130
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/obio.h:132: info: Metrics per 'bw_set_prof_limit' region
+	Region name    : bw_set_prof_limit
+	Region type    : function
+	Offsets        : 4334-4545
+	Line numbers   : 132-138
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/obio.h:140: info: Metrics per 'bw_get_ctrl' region
+	Region name    : bw_get_ctrl
+	Region type    : function
+	Offsets        : 4547-4767
+	Line numbers   : 140-149
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/obio.h:151: info: Metrics per 'bw_set_ctrl' region
+	Region name    : bw_set_ctrl
+	Region type    : function
+	Offsets        : 4769-4964
+	Line numbers   : 151-157
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/obio.h:159: info: Metrics per 'cc_get_ipen' region
+	Region name    : cc_get_ipen
+	Region type    : function
+	Offsets        : 4966-5179
+	Line numbers   : 159-168
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/obio.h:170: info: Metrics per 'cc_set_iclr' region
+	Region name    : cc_set_iclr
+	Region type    : function
+	Offsets        : 5181-5355
+	Line numbers   : 170-176
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/obio.h:178: info: Metrics per 'cc_get_imsk' region
+	Region name    : cc_get_imsk
+	Region type    : function
+	Offsets        : 5357-5561
+	Line numbers   : 178-187
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/obio.h:189: info: Metrics per 'cc_set_imsk' region
+	Region name    : cc_set_imsk
+	Region type    : function
+	Offsets        : 5563-5735
+	Line numbers   : 189-195
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/obio.h:197: info: Metrics per 'cc_get_imsk_other' region
+	Region name    : cc_get_imsk_other
+	Region type    : function
+	Offsets        : 5737-5970
+	Line numbers   : 197-206
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./arch/sparc/include/asm/obio.h:208: info: Metrics per 'cc_set_imsk_other' region
+	Region name    : cc_set_imsk_other
+	Region type    : function
+	Offsets        : 5972-6179
+	Line numbers   : 208-214
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/obio.h:216: info: Metrics per 'cc_set_igen' region
+	Region name    : cc_set_igen
+	Region type    : function
+	Offsets        : 6181-6350
+	Line numbers   : 216-222
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/obio.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 13	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/obio.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.35714286
+	Minimum        : 0
+	Maximum        : 9
+	Total          : 103.0
+	Distribution   : 14 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.071 : 0.071 :  1	|||||||
+	             7 : 0.500 : 0.571 :  7	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.429 : 1.000 :  6	||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/fpumacro.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-710
+	Line numbers   : 1-35
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/fpumacro.h:14: info: Metrics per 'fpustate' region
+	Region name    : fpustate
+	Region type    : struct
+	Offsets        : 309-343
+	Line numbers   : 14-16
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/fpumacro.h:20: info: Metrics per 'fprs_read' region
+	Region name    : fprs_read
+	Region type    : function
+	Offsets        : 415-559
+	Line numbers   : 20-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/fpumacro.h:29: info: Metrics per 'fprs_write' region
+	Region name    : fprs_write
+	Region type    : function
+	Offsets        : 561-672
+	Line numbers   : 29-32
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/fpumacro.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/fpumacro.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 1
+	Maximum        : 6
+	Total          : 14.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             3 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             4 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	             6 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/sparc/include/asm/vio.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12047
+	Line numbers   : 1-513
+	Modified       : None
+	std.code.lines:code: 46
+
+./arch/sparc/include/asm/vio.h:17: info: Metrics per 'vio_msg_tag' region
+	Region name    : vio_msg_tag
+	Region type    : struct
+	Offsets        : 350-870
+	Line numbers   : 17-40
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vio.h:42: info: Metrics per 'vio_rdx' region
+	Region name    : vio_rdx
+	Region type    : struct
+	Offsets        : 873-932
+	Line numbers   : 42-45
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/vio.h:47: info: Metrics per 'vio_ver_info' region
+	Region name    : vio_ver_info
+	Region type    : struct
+	Offsets        : 935-1206
+	Line numbers   : 47-60
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/vio.h:62: info: Metrics per 'vio_dring_register' region
+	Region name    : vio_dring_register
+	Region type    : struct
+	Offsets        : 1209-1496
+	Line numbers   : 62-74
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/vio.h:76: info: Metrics per 'vio_dring_unregister' region
+	Region name    : vio_dring_unregister
+	Region type    : struct
+	Offsets        : 1499-1591
+	Line numbers   : 76-80
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/vio.h:89: info: Metrics per 'vio_dring_data' region
+	Region name    : vio_dring_data
+	Region type    : struct
+	Offsets        : 1890-2143
+	Line numbers   : 89-103
+	Modified       : None
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/vio.h:105: info: Metrics per 'vio_dring_hdr' region
+	Region name    : vio_dring_hdr
+	Region type    : struct
+	Offsets        : 2146-2400
+	Line numbers   : 105-117
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vio.h:120: info: Metrics per 'vio_disk_attr_info' region
+	Region name    : vio_disk_attr_info
+	Region type    : struct
+	Offsets        : 2403-3014
+	Line numbers   : 119-138
+	Modified       : None
+	std.code.lines:code: 14
+
+./arch/sparc/include/asm/vio.h:140: info: Metrics per 'vio_disk_desc' region
+	Region name    : vio_disk_desc
+	Region type    : struct
+	Offsets        : 3017-3905
+	Line numbers   : 140-165
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/vio.h:171: info: Metrics per 'vio_disk_vtoc' region
+	Region name    : vio_disk_vtoc
+	Region type    : struct
+	Offsets        : 3998-4270
+	Line numbers   : 171-183
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/vio.h:176: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 4144-4237
+	Line numbers   : 176-182
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/vio.h:185: info: Metrics per 'vio_disk_geom' region
+	Region name    : vio_disk_geom
+	Region type    : struct
+	Offsets        : 4273-4775
+	Line numbers   : 185-197
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/vio.h:199: info: Metrics per 'vio_disk_devid' region
+	Region name    : vio_disk_devid
+	Region type    : struct
+	Offsets        : 4778-4855
+	Line numbers   : 199-204
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vio.h:206: info: Metrics per 'vio_disk_efi' region
+	Region name    : vio_disk_efi
+	Region type    : struct
+	Offsets        : 4858-4921
+	Line numbers   : 206-210
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/vio.h:213: info: Metrics per 'vio_net_attr_info' region
+	Region name    : vio_net_attr_info
+	Region type    : struct
+	Offsets        : 4924-5433
+	Line numbers   : 212-233
+	Modified       : None
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/vio.h:237: info: Metrics per 'vio_net_mcast_info' region
+	Region name    : vio_net_mcast_info
+	Region type    : struct
+	Offsets        : 5463-5592
+	Line numbers   : 237-243
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/vio.h:245: info: Metrics per 'vio_net_desc' region
+	Region name    : vio_net_desc
+	Region type    : struct
+	Offsets        : 5595-5711
+	Line numbers   : 245-250
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vio.h:252: info: Metrics per 'vio_net_dext' region
+	Region name    : vio_net_dext
+	Region type    : struct
+	Offsets        : 5714-6022
+	Line numbers   : 252-264
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vio.h:266: info: Metrics per 'vio_net_ext' region
+	Region name    : vio_net_ext
+	Region type    : function
+	Offsets        : 6025-6152
+	Line numbers   : 266-269
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/vio.h:273: info: Metrics per 'vio_dring_state' region
+	Region name    : vio_dring_state
+	Region type    : struct
+	Offsets        : 6187-6428
+	Line numbers   : 273-285
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/sparc/include/asm/vio.h:290: info: Metrics per 'vio_vcc' region
+	Region name    : vio_vcc
+	Region type    : struct
+	Offsets        : 6541-6616
+	Line numbers   : 290-293
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/vio.h:295: info: Metrics per 'vio_dring_cur' region
+	Region name    : vio_dring_cur
+	Region type    : function
+	Offsets        : 6619-6732
+	Line numbers   : 295-298
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/vio.h:300: info: Metrics per 'vio_dring_entry' region
+	Region name    : vio_dring_entry
+	Region type    : function
+	Offsets        : 6734-6874
+	Line numbers   : 300-304
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/vio.h:306: info: Metrics per 'vio_dring_avail' region
+	Region name    : vio_dring_avail
+	Region type    : function
+	Offsets        : 6876-7044
+	Line numbers   : 306-311
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vio.h:313: info: Metrics per 'vio_dring_next' region
+	Region name    : vio_dring_next
+	Region type    : function
+	Offsets        : 7046-7182
+	Line numbers   : 313-318
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vio.h:320: info: Metrics per 'vio_dring_prev' region
+	Region name    : vio_dring_prev
+	Region type    : function
+	Offsets        : 7184-7332
+	Line numbers   : 320-326
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/vio.h:332: info: Metrics per 'vio_dev' region
+	Region name    : vio_dev
+	Region type    : struct
+	Offsets        : 7421-7946
+	Line numbers   : 332-358
+	Modified       : None
+	std.code.lines:code: 18
+
+./arch/sparc/include/asm/vio.h:360: info: Metrics per 'vio_driver' region
+	Region name    : vio_driver
+	Region type    : struct
+	Offsets        : 7949-8279
+	Line numbers   : 360-370
+	Modified       : None
+	std.code.lines:code: 11
+
+./arch/sparc/include/asm/vio.h:372: info: Metrics per 'vio_version' region
+	Region name    : vio_version
+	Region type    : struct
+	Offsets        : 8282-8330
+	Line numbers   : 372-375
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/vio.h:378: info: Metrics per 'vio_driver_ops' region
+	Region name    : vio_driver_ops
+	Region type    : struct
+	Offsets        : 8358-8553
+	Line numbers   : 378-382
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/vio.h:384: info: Metrics per 'vio_completion' region
+	Region name    : vio_completion
+	Region type    : struct
+	Offsets        : 8556-8637
+	Line numbers   : 384-388
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/vio.h:390: info: Metrics per 'vio_driver_state' region
+	Region name    : vio_driver_state
+	Region type    : struct
+	Offsets        : 8640-9735
+	Line numbers   : 390-442
+	Modified       : None
+	std.code.lines:code: 21
+
+./arch/sparc/include/asm/vio.h:444: info: Metrics per 'vio_version_before' region
+	Region name    : vio_version_before
+	Region type    : function
+	Offsets        : 9738-9957
+	Line numbers   : 444-451
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/vio.h:453: info: Metrics per 'vio_version_after' region
+	Region name    : vio_version_after
+	Region type    : function
+	Offsets        : 9959-10177
+	Line numbers   : 453-460
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/vio.h:462: info: Metrics per 'vio_version_after_eq' region
+	Region name    : vio_version_after_eq
+	Region type    : function
+	Offsets        : 10179-10396
+	Line numbers   : 462-469
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/vio.h:486: info: Metrics per 'to_vio_driver' region
+	Region name    : to_vio_driver
+	Region type    : function
+	Offsets        : 10903-11034
+	Line numbers   : 486-489
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/vio.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.2
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.800 : 0.800 :  8	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.200 : 1.000 :  2	||||||||||||||||||||
+
+./arch/sparc/include/asm/vio.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.02702703
+	Minimum        : 4
+	Maximum        : 46
+	Total          : 334.0
+	Distribution   : 37 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.162 : 0.162 :  6	||||||||||||||||
+	             5 : 0.135 : 0.297 :  5	|||||||||||||
+	             6 : 0.189 : 0.486 :  7	||||||||||||||||||
+	             7 : 0.189 : 0.676 :  7	||||||||||||||||||
+	             8 : 0.027 : 0.703 :  1	||
+	            10 : 0.027 : 0.730 :  1	||
+	            11 : 0.027 : 0.757 :  1	||
+	            12 : 0.027 : 0.784 :  1	||
+	            13 : 0.081 : 0.865 :  3	||||||||
+	            14 : 0.027 : 0.892 :  1	||
+	            15 : 0.027 : 0.919 :  1	||
+	            18 : 0.027 : 0.946 :  1	||
+	            21 : 0.027 : 0.973 :  1	||
+	            46 : 0.027 : 1.000 :  1	||
+
+./arch/sparc/include/asm/swift.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3147
+	Line numbers   : 1-108
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/swift.h:31: info: Metrics per 'swift_inv_insn_tag' region
+	Region name    : swift_inv_insn_tag
+	Region type    : function
+	Offsets        : 1284-1541
+	Line numbers   : 30-37
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/swift.h:40: info: Metrics per 'swift_inv_data_tag' region
+	Region name    : swift_inv_data_tag
+	Region type    : function
+	Offsets        : 1543-1794
+	Line numbers   : 39-46
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/swift.h:48: info: Metrics per 'swift_flush_dcache' region
+	Region name    : swift_flush_dcache
+	Region type    : function
+	Offsets        : 1796-1938
+	Line numbers   : 48-54
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/swift.h:56: info: Metrics per 'swift_flush_icache' region
+	Region name    : swift_flush_icache
+	Region type    : function
+	Offsets        : 1940-2082
+	Line numbers   : 56-62
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/swift.h:64: info: Metrics per 'swift_idflash_clear' region
+	Region name    : swift_idflash_clear
+	Region type    : function
+	Offsets        : 2084-2263
+	Line numbers   : 64-72
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/swift.h:75: info: Metrics per 'swift_flush_page' region
+	Region name    : swift_flush_page
+	Region type    : function
+	Offsets        : 2265-2530
+	Line numbers   : 74-81
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/swift.h:83: info: Metrics per 'swift_flush_segment' region
+	Region name    : swift_flush_segment
+	Region type    : function
+	Offsets        : 2532-2732
+	Line numbers   : 83-89
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/swift.h:91: info: Metrics per 'swift_flush_region' region
+	Region name    : swift_flush_region
+	Region type    : function
+	Offsets        : 2734-2936
+	Line numbers   : 91-97
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/swift.h:99: info: Metrics per 'swift_flush_context' region
+	Region name    : swift_flush_context
+	Region type    : function
+	Offsets        : 2938-3114
+	Line numbers   : 99-105
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/swift.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.33333333
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 3.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.667 : 0.667 : 6	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.333 : 1.000 : 3	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/swift.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.2
+	Minimum        : 0
+	Maximum        : 8
+	Total          : 62.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.100 : 0.100 :  1	||||||||||
+	             6 : 0.200 : 0.300 :  2	||||||||||||||||||||
+	             7 : 0.600 : 0.900 :  6	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.100 : 1.000 :  1	||||||||||
+
+./arch/sparc/include/asm/cpudata.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-378
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/cpudata.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/cpudata.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/uaccess.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-324
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/sparc/include/asm/uaccess.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/uaccess.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/ioctls.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-358
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/ioctls.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/ioctls.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/futex_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-82
+	Line numbers   : 1-7
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/futex_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/futex_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/tlb_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-960
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/tlb_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/tlb_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/thread_info_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3773
+	Line numbers   : 1-131
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/thread_info_32.h:28: info: Metrics per 'thread_info' region
+	Region name    : thread_info
+	Region type    : struct
+	Offsets        : 541-1352
+	Line numbers   : 22-52
+	Modified       : None
+	std.code.lines:code: 17
+
+./arch/sparc/include/asm/thread_info_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/thread_info_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.5
+	Minimum        : 4
+	Maximum        : 17
+	Total          : 21.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            17 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/starfire.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-418
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/starfire.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/starfire.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/string_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-405
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/string_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/string_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/switch_to_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3616
+	Line numbers   : 1-108
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/switch_to_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/switch_to_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/shmparam.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-227
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/shmparam.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/shmparam.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/lsu.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1062
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/lsu.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/lsu.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/vvar.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1577
+	Line numbers   : 1-76
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/sparc/include/asm/vvar.h:14: info: Metrics per 'vvar_data' region
+	Region name    : vvar_data
+	Region type    : struct
+	Offsets        : 275-745
+	Line numbers   : 14-36
+	Modified       : None
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/vvar.h:18: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 333-437
+	Line numbers   : 18-23
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vvar.h:41: info: Metrics per 'vvar_read_begin' region
+	Region name    : vvar_read_begin
+	Region type    : function
+	Offsets        : 812-1067
+	Line numbers   : 41-53
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 12
+
+./arch/sparc/include/asm/vvar.h:55: info: Metrics per 'vvar_read_retry' region
+	Region name    : vvar_read_retry
+	Region type    : function
+	Offsets        : 1069-1261
+	Line numbers   : 55-60
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/vvar.h:62: info: Metrics per 'vvar_write_begin' region
+	Region name    : vvar_write_begin
+	Region type    : function
+	Offsets        : 1263-1398
+	Line numbers   : 62-66
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/vvar.h:68: info: Metrics per 'vvar_write_end' region
+	Region name    : vvar_write_end
+	Region type    : function
+	Offsets        : 1400-1538
+	Line numbers   : 68-72
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/vvar.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.25
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.750 : 0.750 : 3	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/sparc/include/asm/vvar.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.42857143
+	Minimum        : 3
+	Maximum        : 15
+	Total          : 52.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.143 : 0.143 : 1	||||||||||||||
+	             5 : 0.286 : 0.429 : 2	||||||||||||||||||||||||||||
+	             6 : 0.286 : 0.714 : 2	||||||||||||||||||||||||||||
+	            12 : 0.143 : 0.857 : 1	||||||||||||||
+	            15 : 0.143 : 1.000 : 1	||||||||||||||
+
+./arch/sparc/include/asm/oplib_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8318
+	Line numbers   : 1-253
+	Modified       : None
+	std.code.lines:code: 80
+
+./arch/sparc/include/asm/oplib_64.h:49: info: Metrics per 'linux_mlist_p1275' region
+	Region name    : linux_mlist_p1275
+	Region type    : struct
+	Offsets        : 1482-1602
+	Line numbers   : 49-53
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/oplib_64.h:55: info: Metrics per 'linux_mem_p1275' region
+	Region name    : linux_mem_p1275
+	Region type    : struct
+	Offsets        : 1605-1784
+	Line numbers   : 55-59
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/oplib_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/oplib_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 30.0
+	Minimum        : 5
+	Maximum        : 80
+	Total          : 90.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            80 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/cachetlb_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-882
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/cachetlb_32.h:8: info: Metrics per 'sparc32_cachetlb_ops' region
+	Region name    : sparc32_cachetlb_ops
+	Region type    : struct
+	Offsets        : 134-707
+	Line numbers   : 8-24
+	Modified       : None
+	std.code.lines:code: 15
+
+./arch/sparc/include/asm/cachetlb_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/cachetlb_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 5
+	Maximum        : 15
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/ecc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4448
+	Line numbers   : 1-124
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/ecc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/ecc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/processor_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2649
+	Line numbers   : 1-101
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/sparc/include/asm/processor_32.h:29: info: Metrics per 'fpq' region
+	Region name    : fpq
+	Region type    : struct
+	Offsets        : 674-754
+	Line numbers   : 28-32
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/processor_32.h:36: info: Metrics per 'thread_struct' region
+	Region name    : thread_struct
+	Region type    : struct
+	Offsets        : 764-1175
+	Line numbers   : 35-49
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/sparc/include/asm/processor_32.h:56: info: Metrics per 'start_thread' region
+	Region name    : start_thread
+	Region type    : function
+	Offsets        : 1263-2196
+	Line numbers   : 55-81
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 25
+
+./arch/sparc/include/asm/processor_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/processor_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.5
+	Minimum        : 4
+	Maximum        : 25
+	Total          : 46.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             7 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            10 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            25 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pgalloc_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1823
+	Line numbers   : 1-78
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/sparc/include/asm/pgalloc_32.h:21: info: Metrics per 'free_pgd_fast' region
+	Region name    : free_pgd_fast
+	Region type    : function
+	Offsets        : 414-510
+	Line numbers   : 21-24
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgalloc_32.h:29: info: Metrics per 'pud_set' region
+	Region name    : pud_set
+	Region type    : function
+	Offsets        : 595-754
+	Line numbers   : 29-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgalloc_32.h:38: info: Metrics per 'pmd_alloc_one' region
+	Region name    : pmd_alloc_one
+	Region type    : function
+	Offsets        : 815-981
+	Line numbers   : 38-43
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/sparc/include/asm/pgalloc_32.h:45: info: Metrics per 'free_pmd_fast' region
+	Region name    : free_pmd_fast
+	Region type    : function
+	Offsets        : 983-1080
+	Line numbers   : 45-48
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgalloc_32.h:60: info: Metrics per 'pte_alloc_one_kernel' region
+	Region name    : pte_alloc_one_kernel
+	Region type    : function
+	Offsets        : 1378-1521
+	Line numbers   : 60-64
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/sparc/include/asm/pgalloc_32.h:67: info: Metrics per 'free_pte_fast' region
+	Region name    : free_pte_fast
+	Region type    : function
+	Offsets        : 1524-1620
+	Line numbers   : 67-70
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/pgalloc_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 6	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/pgalloc_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.14285714
+	Minimum        : 4
+	Maximum        : 8
+	Total          : 36.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.429 : 0.429 : 3	||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.286 : 0.714 : 2	||||||||||||||||||||||||||||
+	             6 : 0.143 : 0.857 : 1	||||||||||||||
+	             8 : 0.143 : 1.000 : 1	||||||||||||||
+
+./arch/sparc/include/asm/fhc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4533
+	Line numbers   : 1-82
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/fhc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/fhc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/timex.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-215
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/timex.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/timex.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/contregs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1941
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/contregs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/contregs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/timer_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1211
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/timer_32.h:31: info: Metrics per 'timer_value' region
+	Region name    : timer_value
+	Region type    : function
+	Offsets        : 549-941
+	Line numbers   : 24-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/timer_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/timer_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/setup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1552
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 24
+
+./arch/sparc/include/asm/setup.h:23: info: Metrics per 'con_is_present' region
+	Region name    : con_is_present
+	Region type    : function
+	Offsets        : 453-527
+	Line numbers   : 23-26
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./arch/sparc/include/asm/setup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/setup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 4
+	Maximum        : 24
+	Total          : 28.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            24 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/topology.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-227
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/topology.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/topology.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/sparc/include/asm/irqflags.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-227
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/sparc/include/asm/irqflags.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/sparc/include/asm/irqflags.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

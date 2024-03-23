@@ -1,0 +1,820 @@
+Project (Tests Included): tomcat
+Total: 3124
+Total Util: 716
+Total Non-Util: 2408
+Median: 1.0
+Median Util: 1.0
+Median Non-util: 1.0
+Mean: 14.090588988476313
+Mean Util: 16.195530726256983
+Mean Non-util: 13.46470099667774
+MWW:  MannwhitneyuResult(statistic=830408.5, pvalue=0.12550361843180402)
+
+
+Project (Tests Excluded): tomcat
+Total: 2403
+Total Util: 591
+Total Non-Util: 1812
+Median: 1.0
+Median Util: 2.0
+Median Non-util: 1.0
+Mean: 16.600915522263836
+Mean Util: 18.780033840947546
+Mean Non-util: 15.890176600441501
+MWW:  MannwhitneyuResult(statistic=520750.0, pvalue=0.3035858972175084)
+
+
+Language (Tests Included): .java
+Total: 2748
+Total Util: 716
+Total Non-Util: 2032
+Median: 2.0
+Median Util: 1.0
+Median Non-util: 3.0
+Mean: 15.875545851528384
+Mean Util: 16.195530726256983
+Mean Non-Util: 15.762795275590552
+MWW:  MannwhitneyuResult(statistic=689559.0, pvalue=0.03182037955480409)
+
+
+Language (Tests Excluded): .java
+Total: 2030
+Total Util: 591
+Total Non-Util: 1439
+Median: 3.0
+Median Util: 2.0
+Median Non-util: 3.0
+Mean: 19.45911330049261
+Mean Util: 18.780033840947546
+Mean Non-Util: 19.738012508686587
+MWW:  MannwhitneyuResult(statistic=403448.0, pvalue=0.059861655290297314)
+
+---------------------------------------------
+
+
+Project (Tests Included): django
+Total: 1307
+Total Util: 14
+Total Non-Util: 1293
+Median: 4.0
+Median Util: 4.5
+Median Non-util: 4.0
+Mean: 14.657230298393268
+Mean Util: 21.857142857142858
+Mean Non-util: 14.579273008507347
+MWW:  MannwhitneyuResult(statistic=9001.0, pvalue=0.9716804890908582)
+
+
+Project (Tests Excluded): django
+Total: 801
+Total Util: 10
+Total Non-Util: 791
+Median: 1.0
+Median Util: 1.5
+Median Non-util: 1.0
+Mean: 13.80649188514357
+Mean Util: 27.9
+Mean Non-util: 13.628318584070797
+MWW:  MannwhitneyuResult(statistic=4150.0, pvalue=0.7840660526468696)
+
+
+Language (Tests Included): .py
+Total: 1031
+Total Util: 13
+Total Non-Util: 1018
+Median: 6.0
+Median Util: 6.0
+Median Non-util: 6.0
+Mean: 17.76042677012609
+Mean Util: 23.46153846153846
+Mean Non-Util: 17.68762278978389
+MWW:  MannwhitneyuResult(statistic=6184.0, pvalue=0.6843448623901125)
+
+
+Language (Tests Excluded): .py
+Total: 551
+Total Util: 9
+Total Non-Util: 542
+Median: 4.0
+Median Util: 2.0
+Median Non-util: 4.0
+Mean: 18.722323049001815
+Mean Util: 30.88888888888889
+Mean Non-Util: 18.52029520295203
+MWW:  MannwhitneyuResult(statistic=2502.5, pvalue=0.8927898590678826)
+
+---------------------------------------------
+
+
+Project (Tests Included): FFmpeg
+Total: 4166
+Total Util: 387
+Total Non-Util: 3779
+Median: 10.0
+Median Util: 2.0
+Median Non-util: 12.0
+Mean: 40.84373499759962
+Mean Util: 23.00516795865633
+Mean Non-util: 42.670547763958716
+MWW:  MannwhitneyuResult(statistic=530882.0, pvalue=2.2789242167115945e-19)
+
+
+Project (Tests Excluded): FFmpeg
+Total: 3978
+Total Util: 329
+Total Non-Util: 3649
+Median: 11.0
+Median Util: 0.0
+Median Non-util: 12.0
+Mean: 41.96882855706385
+Mean Util: 25.252279635258358
+Mean Non-util: 43.476020827624005
+MWW:  MannwhitneyuResult(statistic=420073.0, pvalue=5.591154482587662e-20)
+
+
+Language (Tests Included): .c
+Total: 3064
+Total Util: 196
+Total Non-Util: 2868
+Median: 21.0
+Median Util: 12.0
+Median Non-util: 22.0
+Mean: 54.837793733681465
+Mean Util: 44.255102040816325
+Mean Non-Util: 55.56101813110181
+MWW:  MannwhitneyuResult(statistic=236751.0, pvalue=0.00021593744690842696)
+
+
+Language (Tests Excluded): .c
+Total: 2881
+Total Util: 141
+Total Non-Util: 2740
+Median: 23.0
+Median Util: 16.0
+Median Non-util: 23.0
+Mean: 57.215203054494964
+Mean Util: 57.297872340425535
+Mean Non-Util: 57.21094890510949
+MWW:  MannwhitneyuResult(statistic=177639.5, pvalue=0.10677516382746985)
+
+
+Language (Tests Included): .cpp
+Total: 3
+Total Util: 0
+Total Non-Util: 3
+Median: 139.0
+Median Util: Divide by 0 error
+Median Non-util: 139.0
+Mean: 171.33333333333334
+Mean Util: Error
+Mean Non-Util: 171.33333333333334
+MWW Error
+
+
+Language (Tests Excluded): .cpp
+Total: 3
+Total Util: 0
+Total Non-Util: 3
+Median: 139.0
+Median Util: Divide by 0 error
+Median Non-util: 139.0
+Mean: 171.33333333333334
+Mean Util: Error
+Mean Non-Util: 171.33333333333334
+MWW Error
+
+
+Language (Tests Included): .cc
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Excluded): .cc
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Included): .h
+Total: 1094
+Total Util: 191
+Total Non-Util: 903
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 1.4643510054844606
+Mean Util: 1.198952879581152
+Mean Non-Util: 1.5204872646733112
+MWW:  MannwhitneyuResult(statistic=87543.5, pvalue=0.5773640438368906)
+
+
+Language (Tests Excluded): .h
+Total: 1089
+Total Util: 188
+Total Non-Util: 901
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 1.455463728191001
+Mean Util: 1.2180851063829787
+Mean Non-Util: 1.504994450610433
+MWW:  MannwhitneyuResult(statistic=86253.0, pvalue=0.5009811323706019)
+
+
+Language (Tests Included): C Group
+Total: 4161
+Total Util: 387
+Total Non-Util: 3774
+Median: 10.0
+Median Util: 2.0
+Median Non-util: 12.0
+Mean: 40.88896899783706
+Mean Util: 23.00516795865633
+Mean Non-Util: 42.72284048754637
+MWW:  MannwhitneyuResult(statistic=529905.5, pvalue=2.044930100922095e-19)
+
+
+Language (Tests Excluded): C Group
+Total: 3973
+Total Util: 329
+Total Non-Util: 3644
+Median: 11.0
+Median Util: 0.0
+Median Non-util: 12.0
+Mean: 42.0176189277624
+Mean Util: 25.252279635258358
+Mean Non-Util: 43.531284302963776
+MWW:  MannwhitneyuResult(statistic=419325.0, pvalue=5.172880800730871e-20)
+
+---------------------------------------------
+
+
+Project (Tests Included): httpd
+Total: 714
+Total Util: 68
+Total Non-Util: 646
+Median: 11.0
+Median Util: 9.5
+Median Non-util: 11.0
+Mean: 55.73249299719888
+Mean Util: 80.51470588235294
+Mean Non-util: 53.12383900928793
+MWW:  MannwhitneyuResult(statistic=22119.5, pvalue=0.9224171053354231)
+
+
+Project (Tests Excluded): httpd
+Total: 598
+Total Util: 67
+Total Non-Util: 531
+Median: 16.0
+Median Util: 10.0
+Median Non-util: 16.0
+Mean: 63.74414715719063
+Mean Util: 81.70149253731343
+Mean Non-util: 61.47834274952919
+MWW:  MannwhitneyuResult(statistic=17814.0, pvalue=0.9846452545393648)
+
+
+Language (Tests Included): .c
+Total: 371
+Total Util: 41
+Total Non-Util: 330
+Median: 54.0
+Median Util: 64.0
+Median Non-util: 53.0
+Mean: 101.5822102425876
+Mean Util: 131.5121951219512
+Mean Non-Util: 97.86363636363636
+MWW:  MannwhitneyuResult(statistic=7110.0, pvalue=0.594746471259767)
+
+
+Language (Tests Excluded): .c
+Total: 348
+Total Util: 40
+Total Non-Util: 308
+Median: 57.5
+Median Util: 64.5
+Median Non-util: 56.5
+Mean: 106.45402298850574
+Mean Util: 134.775
+Mean Non-Util: 102.77597402597402
+MWW:  MannwhitneyuResult(statistic=6424.0, pvalue=0.6597726859586015)
+
+
+Language (Tests Included): .cpp
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Excluded): .cpp
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Included): .cc
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Excluded): .cc
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Included): .h
+Total: 210
+Total Util: 25
+Total Non-Util: 185
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 0.44761904761904764
+Mean Util: 0.32
+Mean Non-Util: 0.4648648648648649
+MWW:  MannwhitneyuResult(statistic=2356.0, pvalue=0.5680198414685071)
+
+
+Language (Tests Excluded): .h
+Total: 206
+Total Util: 25
+Total Non-Util: 181
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 0.4563106796116505
+Mean Util: 0.32
+Mean Non-Util: 0.47513812154696133
+MWW:  MannwhitneyuResult(statistic=2304.0, pvalue=0.5819771841600696)
+
+
+Language (Tests Included): C Group
+Total: 581
+Total Util: 66
+Total Non-Util: 515
+Median: 17.0
+Median Util: 8.5
+Median Non-util: 17.0
+Mean: 65.0275387263339
+Mean Util: 81.81818181818181
+Mean Non-Util: 62.87572815533981
+MWW:  MannwhitneyuResult(statistic=16801.5, pvalue=0.8772512416349552)
+
+
+Language (Tests Excluded): C Group
+Total: 554
+Total Util: 65
+Total Non-Util: 489
+Median: 17.0
+Median Util: 9.0
+Median Non-util: 18.0
+Mean: 67.03971119133574
+Mean Util: 83.06153846153846
+Mean Non-Util: 64.91002044989776
+MWW:  MannwhitneyuResult(statistic=15681.0, pvalue=0.8579026264732068)
+
+---------------------------------------------
+
+
+Project (Tests Included): struts
+Total: 2795
+Total Util: 231
+Total Non-Util: 2564
+Median: 0.0
+Median Util: 1.0
+Median Non-util: 0.0
+Mean: 5.978890876565295
+Mean Util: 8.805194805194805
+Mean Non-util: 5.7242589703588145
+MWW:  MannwhitneyuResult(statistic=330189.5, pvalue=0.0018444615525187288)
+
+
+Project (Tests Excluded): struts
+Total: 1959
+Total Util: 148
+Total Non-Util: 1811
+Median: 1.0
+Median Util: 4.0
+Median Non-util: 1.0
+Mean: 7.911179173047473
+Mean Util: 12.567567567567568
+Mean Non-util: 7.530646051905025
+MWW:  MannwhitneyuResult(statistic=164287.5, pvalue=1.94990395080836e-06)
+
+
+Language (Tests Included): .java
+Total: 2550
+Total Util: 230
+Total Non-Util: 2320
+Median: 0.0
+Median Util: 1.0
+Median Non-util: 0.0
+Mean: 6.218823529411765
+Mean Util: 8.656521739130435
+Mean Non-Util: 5.977155172413793
+MWW:  MannwhitneyuResult(statistic=300586.5, pvalue=0.0004944927545902913)
+
+
+Language (Tests Excluded): .java
+Total: 1715
+Total Util: 147
+Total Non-Util: 1568
+Median: 1.0
+Median Util: 4.0
+Median Non-util: 1.0
+Mean: 8.58134110787172
+Mean Util: 12.360544217687075
+Mean Non-Util: 8.22704081632653
+MWW:  MannwhitneyuResult(statistic=140021.0, pvalue=5.3739196349308055e-06)
+
+
+Language (Tests Included): .js
+Total: 7
+Total Util: 1
+Total Non-Util: 6
+Median: 40.0
+Median Util: 43.0
+Median Non-util: 34.5
+Mean: 73.28571428571429
+Mean Util: 43.0
+Mean Non-Util: 78.33333333333333
+MWW:  MannwhitneyuResult(statistic=4.0, pvalue=0.8571428571428571)
+
+
+Language (Tests Excluded): .js
+Total: 7
+Total Util: 1
+Total Non-Util: 6
+Median: 40.0
+Median Util: 43.0
+Median Non-util: 34.5
+Mean: 73.28571428571429
+Mean Util: 43.0
+Mean Non-Util: 78.33333333333333
+MWW:  MannwhitneyuResult(statistic=4.0, pvalue=0.8571428571428571)
+
+---------------------------------------------
+
+
+Project (Tests Included): systemd
+Total: 2451
+Total Util: 421
+Total Non-Util: 2030
+Median: 3.0
+Median Util: 3.0
+Median Non-util: 3.0
+Mean: 43.45246838025296
+Mean Util: 31.672209026128264
+Mean Non-util: 45.895566502463055
+MWW:  MannwhitneyuResult(statistic=427441.5, pvalue=0.9921099141212223)
+
+
+Project (Tests Excluded): systemd
+Total: 2132
+Total Util: 352
+Total Non-Util: 1780
+Median: 2.5
+Median Util: 3.0
+Median Non-util: 2.0
+Mean: 48.38461538461539
+Mean Util: 36.04545454545455
+Mean Non-util: 50.8247191011236
+MWW:  MannwhitneyuResult(statistic=314851.0, pvalue=0.8762229559252381)
+
+
+Language (Tests Included): .c
+Total: 1426
+Total Util: 240
+Total Non-Util: 1186
+Median: 24.0
+Median Util: 19.5
+Median Non-util: 25.0
+Mean: 74.3625525946704
+Mean Util: 54.729166666666664
+Mean Non-Util: 78.33558178752108
+MWW:  MannwhitneyuResult(statistic=129468.5, pvalue=0.02712657696939946)
+
+
+Language (Tests Excluded): .c
+Total: 1111
+Total Util: 172
+Total Non-Util: 939
+Median: 36.0
+Median Util: 28.5
+Median Non-util: 38.0
+Mean: 92.44644464446445
+Mean Util: 72.61046511627907
+Mean Non-Util: 96.07987220447285
+MWW:  MannwhitneyuResult(statistic=75702.5, pvalue=0.1916336530493712)
+
+
+Language (Tests Included): .cpp
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Excluded): .cpp
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Included): .cc
+Total: 1
+Total Util: 0
+Total Non-Util: 1
+Median: 1.0
+Median Util: Divide by 0 error
+Median Non-util: 1.0
+Mean: 1.0
+Mean Util: Error
+Mean Non-Util: 1.0
+MWW Error
+
+
+Language (Tests Excluded): .cc
+Total: 0
+Total Util: 0
+Total Non-Util: 0
+Median: Divide by 0 error
+Median Util: Divide by 0 error
+Median Non-Util: Divide by 0 error
+Mean: Error
+Mean Util: Error
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Included): .h
+Total: 1025
+Total Util: 181
+Total Non-Util: 844
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 0.4497560975609756
+Mean Util: 1.0994475138121547
+Mean Non-Util: 0.3104265402843602
+MWW:  MannwhitneyuResult(statistic=91653.5, pvalue=1.0438071192336474e-13)
+
+
+Language (Tests Excluded): .h
+Total: 1021
+Total Util: 180
+Total Non-Util: 841
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 0.4387855044074437
+Mean Util: 1.1055555555555556
+Mean Non-Util: 0.29607609988109396
+MWW:  MannwhitneyuResult(statistic=91033.5, pvalue=4.974079991412404e-14)
+
+
+Language (Tests Included): C Group
+Total: 2452
+Total Util: 421
+Total Non-Util: 2031
+Median: 3.0
+Median Util: 3.0
+Median Non-util: 3.0
+Mean: 43.43515497553018
+Mean Util: 31.672209026128264
+Mean Non-Util: 45.87346134908912
+MWW:  MannwhitneyuResult(statistic=427697.5, pvalue=0.9892661844567475)
+
+
+Language (Tests Excluded): C Group
+Total: 2132
+Total Util: 352
+Total Non-Util: 1780
+Median: 2.5
+Median Util: 3.0
+Median Non-util: 2.0
+Mean: 48.38461538461539
+Mean Util: 36.04545454545455
+Mean Non-Util: 50.8247191011236
+MWW:  MannwhitneyuResult(statistic=314851.0, pvalue=0.8762229559252381)
+
+---------------------------------------------
+
+
+Project (Tests Included): linux
+Total: 57597
+Total Util: 983
+Total Non-Util: 56614
+Median: 5.0
+Median Util: 4.0
+Median Non-util: 5.0
+Mean: 38.37739812837474
+Mean Util: 34.938962360122076
+Mean Non-util: 38.43710036386759
+MWW:  MannwhitneyuResult(statistic=27928830.0, pvalue=0.8364968291719665)
+
+
+Project (Tests Excluded): linux
+Total: 54586
+Total Util: 891
+Total Non-Util: 53695
+Median: 5.0
+Median Util: 5.0
+Median Non-util: 5.0
+Mean: 39.39345253361668
+Mean Util: 37.255892255892256
+Mean Non-util: 39.428922618493345
+MWW:  MannwhitneyuResult(statistic=24343886.0, pvalue=0.34767532038170057)
+
+
+Language (Tests Included): .c
+Total: 33244
+Total Util: 569
+Total Non-Util: 32675
+Median: 26.0
+Median Util: 21.0
+Median Non-util: 26.0
+Mean: 65.25394056070269
+Mean Util: 59.16871704745167
+Mean Non-Util: 65.35990818668706
+MWW:  MannwhitneyuResult(statistic=8823675.0, pvalue=0.0373328253280874)
+
+
+Language (Tests Excluded): .c
+Total: 30706
+Total Util: 517
+Total Non-Util: 30189
+Median: 28.0
+Median Util: 23.0
+Median Non-util: 28.0
+Mean: 68.76382465967563
+Mean Util: 63.110251450676984
+Mean Non-Util: 68.86064460565106
+MWW:  MannwhitneyuResult(statistic=7400007.0, pvalue=0.04324862810718186)
+
+
+Language (Tests Included): .cpp
+Total: 4
+Total Util: 1
+Total Non-Util: 3
+Median: 2.0
+Median Util: 4.0
+Median Non-util: 0.0
+Mean: 3.5
+Mean Util: 4.0
+Mean Non-Util: 3.3333333333333335
+MWW:  MannwhitneyuResult(statistic=2.0, pvalue=1.0)
+
+
+Language (Tests Excluded): .cpp
+Total: 1
+Total Util: 1
+Total Non-Util: 0
+Median: 4.0
+Median Util: 4.0
+Median Non-Util: Divide by 0 error
+Mean: 4.0
+Mean Util: 4.0
+Mean Non-Util: Error
+MWW Error
+
+
+Language (Tests Included): .cc
+Total: 1
+Total Util: 0
+Total Non-Util: 1
+Median: 305.0
+Median Util: Divide by 0 error
+Median Non-util: 305.0
+Mean: 305.0
+Mean Util: Error
+Mean Non-Util: 305.0
+MWW Error
+
+
+Language (Tests Excluded): .cc
+Total: 1
+Total Util: 0
+Total Non-Util: 1
+Median: 305.0
+Median Util: Divide by 0 error
+Median Non-util: 305.0
+Mean: 305.0
+Mean Util: Error
+Mean Non-Util: 305.0
+MWW Error
+
+
+Language (Tests Included): .h
+Total: 24176
+Total Util: 410
+Total Non-Util: 23766
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 1.348279285241562
+Mean Util: 1.4609756097560975
+Mean Non-Util: 1.3463351005638307
+MWW:  MannwhitneyuResult(statistic=5262608.5, pvalue=7.786820927306412e-06)
+
+
+Language (Tests Excluded): .h
+Total: 23727
+Total Util: 370
+Total Non-Util: 23357
+Median: 0.0
+Median Util: 0.0
+Median Non-util: 0.0
+Mean: 1.3250305559067728
+Mean Util: 1.318918918918919
+Mean Non-Util: 1.3251273708096074
+MWW:  MannwhitneyuResult(statistic=4633032.5, pvalue=0.00012550273642041677)
+
+
+Language (Tests Included): C Group
+Total: 57425
+Total Util: 980
+Total Non-Util: 56445
+Median: 4.0
+Median Util: 4.0
+Median Non-util: 4.0
+Mean: 38.34944710491946
+Mean Util: 34.96938775510204
+Mean Non-Util: 38.408131809726285
+MWW:  MannwhitneyuResult(statistic=27758551.5, pvalue=0.8397321488324367)
+
+
+Language (Tests Excluded): C Group
+Total: 54435
+Total Util: 888
+Total Non-Util: 53547
+Median: 4.0
+Median Util: 5.0
+Median Non-util: 4.0
+Mean: 39.37191145402774
+Mean Util: 37.2972972972973
+Mean Non-Util: 39.40631594673838
+MWW:  MannwhitneyuResult(statistic=24189052.0, pvalue=0.35529613182996933)
+
+---------------------------------------------
+
+

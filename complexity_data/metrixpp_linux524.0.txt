@@ -1,0 +1,3730 @@
+./drivers/staging/media/atomisp/pci/runtime/binary/interface/ia_css_binary.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7689
+	Line numbers   : 1-226
+	Modified       : None
+	std.code.lines:code: 55
+
+./drivers/staging/media/atomisp/pci/runtime/binary/interface/ia_css_binary.h:71: info: Metrics per 'ia_css_cas_binary_descr' region
+	Region name    : ia_css_cas_binary_descr
+	Region type    : struct
+	Offsets        : 2569-2839
+	Line numbers   : 71-79
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/staging/media/atomisp/pci/runtime/binary/interface/ia_css_binary.h:81: info: Metrics per 'ia_css_binary_descr' region
+	Region name    : ia_css_binary_descr
+	Region type    : struct
+	Offsets        : 2842-3625
+	Line numbers   : 81-110
+	Modified       : None
+	std.code.lines:code: 26
+
+./drivers/staging/media/atomisp/pci/runtime/binary/interface/ia_css_binary.h:112: info: Metrics per 'ia_css_binary' region
+	Region name    : ia_css_binary
+	Region type    : struct
+	Offsets        : 3628-4929
+	Line numbers   : 112-142
+	Modified       : None
+	std.code.lines:code: 31
+
+./drivers/staging/media/atomisp/pci/runtime/binary/interface/ia_css_binary.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/binary/interface/ia_css_binary.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 30.25
+	Minimum        : 9
+	Maximum        : 55
+	Total          : 121.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	            26 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            31 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            55 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_stream2mmio_rmgr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-876
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_stream2mmio_rmgr.h:20: info: Metrics per 'isys_stream2mmio_rsrc_s' region
+	Region name    : isys_stream2mmio_rsrc_s
+	Region type    : struct
+	Offsets        : 753-823
+	Line numbers   : 20-23
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_stream2mmio_rmgr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_stream2mmio_rmgr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 2
+	Maximum        : 4
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/virtual_isys.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-930
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/virtual_isys.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/virtual_isys.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/csi_rx_rmgr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-885
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/csi_rx_rmgr.h:20: info: Metrics per 'isys_csi_rx_rsrc_s' region
+	Region name    : isys_csi_rx_rsrc_s
+	Region type    : struct
+	Offsets        : 723-842
+	Line numbers   : 20-25
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/csi_rx_rmgr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/csi_rx_rmgr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 2
+	Maximum        : 6
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_dma_rmgr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-828
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_dma_rmgr.h:20: info: Metrics per 'isys_dma_rsrc_s' region
+	Region name    : isys_dma_rsrc_s
+	Region type    : struct
+	Offsets        : 721-783
+	Line numbers   : 20-23
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_dma_rmgr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/isys_dma_rmgr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 2
+	Maximum        : 4
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/ibuf_ctrl_rmgr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1105
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/ibuf_ctrl_rmgr.h:24: info: Metrics per 'ibuf_handle_s' region
+	Region name    : ibuf_handle_s
+	Region type    : struct
+	Offsets        : 812-879
+	Line numbers   : 24-28
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/ibuf_ctrl_rmgr.h:31: info: Metrics per 'ibuf_rsrc_s' region
+	Region name    : ibuf_rsrc_s
+	Region type    : struct
+	Offsets        : 922-1061
+	Line numbers   : 31-37
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/ibuf_ctrl_rmgr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isys/src/ibuf_ctrl_rmgr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.33333333
+	Minimum        : 4
+	Maximum        : 7
+	Total          : 16.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/interface/ia_css_isys.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5573
+	Line numbers   : 1-177
+	Modified       : None
+	std.code.lines:code: 74
+
+./drivers/staging/media/atomisp/pci/runtime/isys/interface/ia_css_isys.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isys/interface/ia_css_isys.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 74.0
+	Minimum        : 74
+	Maximum        : 74
+	Total          : 74.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            74 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/interface/ia_css_isys_comm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1770
+	Line numbers   : 1-53
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/runtime/isys/interface/ia_css_isys_comm.h:45: info: Metrics per 'ia_css_isys_generate_stream_id' region
+	Region name    : ia_css_isys_generate_stream_id
+	Region type    : function
+	Offsets        : 1558-1735
+	Line numbers   : 45-50
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/runtime/isys/interface/ia_css_isys_comm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isys/interface/ia_css_isys_comm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 3
+	Maximum        : 6
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/bufq/interface/ia_css_bufq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4347
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 36
+
+./drivers/staging/media/atomisp/pci/runtime/bufq/interface/ia_css_bufq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/bufq/interface/ia_css_bufq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 36.0
+	Minimum        : 36
+	Maximum        : 36
+	Total          : 36.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            36 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/bufq/interface/ia_css_bufq_comm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1239
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/staging/media/atomisp/pci/runtime/bufq/interface/ia_css_bufq_comm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/bufq/interface/ia_css_bufq_comm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 11
+	Maximum        : 11
+	Total          : 11.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug_pipe.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1848
+	Line numbers   : 1-69
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug_pipe.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug_pipe.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug_internal.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-661
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug_internal.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug_internal.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-13130
+	Line numbers   : 1-416
+	Modified       : None
+	std.code.lines:code: 78
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug.h:133: info: Metrics per '__printf' region
+	Region name    : __printf
+	Region type    : function
+	Offsets        : 4837-5256
+	Line numbers   : 127-139
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/debug/interface/ia_css_debug.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 42.5
+	Minimum        : 7
+	Maximum        : 78
+	Total          : 85.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            78 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/tagger/interface/ia_css_tagger_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1278
+	Line numbers   : 1-41
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/runtime/tagger/interface/ia_css_tagger_common.h:32: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 879-1207
+	Line numbers   : 29-38
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/runtime/tagger/interface/ia_css_tagger_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/tagger/interface/ia_css_tagger_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 1
+	Maximum        : 7
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7798
+	Line numbers   : 1-283
+	Modified       : None
+	std.code.lines:code: 42
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline.h:26: info: Metrics per 'ia_css_pipeline_stage' region
+	Region name    : ia_css_pipeline_stage
+	Region type    : struct
+	Offsets        : 796-1374
+	Line numbers   : 25-40
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline.h:43: info: Metrics per 'ia_css_pipeline' region
+	Region name    : ia_css_pipeline
+	Region type    : struct
+	Offsets        : 1377-1906
+	Line numbers   : 42-57
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline.h:70: info: Metrics per 'ia_css_pipeline_stage_desc' region
+	Region name    : ia_css_pipeline_stage_desc
+	Region type    : struct
+	Offsets        : 2178-2577
+	Line numbers   : 69-79
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.25
+	Minimum        : 10
+	Maximum        : 42
+	Total          : 81.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	            14 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            15 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            42 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-921
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/pipeline/interface/ia_css_pipeline_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2838
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:43: info: Metrics per 'ia_css_isp_parameter' region
+	Region name    : ia_css_isp_parameter
+	Region type    : struct
+	Offsets        : 1442-1593
+	Line numbers   : 42-46
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:49: info: Metrics per 'ia_css_isp_param_host_segments' region
+	Region name    : ia_css_isp_param_host_segments
+	Region type    : struct
+	Offsets        : 1596-1801
+	Line numbers   : 48-51
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:54: info: Metrics per 'ia_css_isp_param_css_segments' region
+	Region name    : ia_css_isp_param_css_segments
+	Region type    : struct
+	Offsets        : 1804-2007
+	Line numbers   : 53-56
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:59: info: Metrics per 'ia_css_isp_param_isp_segments' region
+	Region name    : ia_css_isp_param_isp_segments
+	Region type    : struct
+	Offsets        : 2010-2213
+	Line numbers   : 58-61
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:64: info: Metrics per 'ia_css_isp_param_memory_offsets' region
+	Region name    : ia_css_isp_param_memory_offsets
+	Region type    : struct
+	Offsets        : 2216-2366
+	Line numbers   : 63-66
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:71: info: Metrics per 'ia_css_all_memory_offsets' region
+	Region name    : ia_css_all_memory_offsets
+	Region type    : struct
+	Offsets        : 2369-2795
+	Line numbers   : 68-80
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:72: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2520-2711
+	Line numbers   : 72-76
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:77: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2722-2760
+	Line numbers   : 77-79
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.44444444
+	Minimum        : 3
+	Maximum        : 12
+	Total          : 40.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.556 : 0.556 : 5	|||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.222 : 0.778 : 2	||||||||||||||||||||||
+	             5 : 0.111 : 0.889 : 1	|||||||||||
+	            12 : 0.111 : 1.000 : 1	|||||||||||
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3366
+	Line numbers   : 1-104
+	Modified       : None
+	std.code.lines:code: 61
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/runtime/isp_param/interface/ia_css_isp_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 61.0
+	Minimum        : 61
+	Maximum        : 61
+	Total          : 61.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            61 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9113
+	Line numbers   : 1-256
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:26: info: Metrics per 'atomisp_histogram32' region
+	Region name    : atomisp_histogram32
+	Region type    : struct
+	Offsets        : 767-846
+	Line numbers   : 26-29
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:31: info: Metrics per 'atomisp_dvs2_stat_types32' region
+	Region name    : atomisp_dvs2_stat_types32
+	Region type    : struct
+	Offsets        : 849-1149
+	Line numbers   : 31-36
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:38: info: Metrics per 'atomisp_dvs2_coef_types32' region
+	Region name    : atomisp_dvs2_coef_types32
+	Region type    : struct
+	Offsets        : 1152-1460
+	Line numbers   : 38-43
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:45: info: Metrics per 'atomisp_dvs2_statistics32' region
+	Region name    : atomisp_dvs2_statistics32
+	Region type    : struct
+	Offsets        : 1463-1628
+	Line numbers   : 45-49
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:51: info: Metrics per 'atomisp_dis_statistics32' region
+	Region name    : atomisp_dis_statistics32
+	Region type    : struct
+	Offsets        : 1631-1724
+	Line numbers   : 51-54
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:56: info: Metrics per 'atomisp_dis_coefficients32' region
+	Region name    : atomisp_dis_coefficients32
+	Region type    : struct
+	Offsets        : 1727-1895
+	Line numbers   : 56-60
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:62: info: Metrics per 'atomisp_3a_statistics32' region
+	Region name    : atomisp_3a_statistics32
+	Region type    : struct
+	Offsets        : 1898-2050
+	Line numbers   : 62-68
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:70: info: Metrics per 'atomisp_morph_table32' region
+	Region name    : atomisp_morph_table32
+	Region type    : struct
+	Offsets        : 2053-2315
+	Line numbers   : 70-76
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:78: info: Metrics per 'v4l2_framebuffer32' region
+	Region name    : v4l2_framebuffer32
+	Region type    : struct
+	Offsets        : 2318-2435
+	Line numbers   : 78-83
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:85: info: Metrics per 'atomisp_overlay32' region
+	Region name    : atomisp_overlay32
+	Region type    : struct
+	Offsets        : 2438-3660
+	Line numbers   : 85-115
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:117: info: Metrics per 'atomisp_shading_table32' region
+	Region name    : atomisp_shading_table32
+	Region type    : struct
+	Offsets        : 3663-3851
+	Line numbers   : 117-126
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:128: info: Metrics per 'atomisp_parameters32' region
+	Region name    : atomisp_parameters32
+	Region type    : struct
+	Offsets        : 3854-7488
+	Line numbers   : 128-206
+	Modified       : None
+	std.code.lines:code: 67
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:208: info: Metrics per 'atomisp_dvs_6axis_config32' region
+	Region name    : atomisp_dvs_6axis_config32
+	Region type    : struct
+	Offsets        : 7491-7707
+	Line numbers   : 208-218
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/atomisp_compat_ioctl32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.71428571
+	Minimum        : 4
+	Maximum        : 67
+	Total          : 164.0
+	Distribution   : 14 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.143 : 0.143 :  2	||||||||||||||
+	             5 : 0.143 : 0.286 :  2	||||||||||||||
+	             6 : 0.214 : 0.500 :  3	|||||||||||||||||||||
+	             7 : 0.143 : 0.643 :  2	||||||||||||||
+	             9 : 0.071 : 0.714 :  1	|||||||
+	            11 : 0.071 : 0.786 :  1	|||||||
+	            13 : 0.071 : 0.857 :  1	|||||||
+	            14 : 0.071 : 0.929 :  1	|||||||
+	            67 : 0.071 : 1.000 :  1	|||||||
+
+./drivers/staging/media/atomisp/pci/sh_css_param_shading.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1150
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/staging/media/atomisp/pci/sh_css_param_shading.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/sh_css_param_shading.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 11
+	Maximum        : 11
+	Total          : 11.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11310
+	Line numbers   : 1-372
+	Modified       : None
+	std.code.lines:code: 47
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:38: info: Metrics per 'atomisp_in_fmt_conv' region
+	Region name    : atomisp_in_fmt_conv
+	Region type    : struct
+	Offsets        : 1085-1271
+	Line numbers   : 38-44
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:48: info: Metrics per 'atomisp_video_pipe' region
+	Region name    : atomisp_video_pipe
+	Region type    : struct
+	Offsets        : 1302-2913
+	Line numbers   : 48-97
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:104: info: Metrics per 'atomisp_pad_format' region
+	Region name    : atomisp_pad_format
+	Region type    : struct
+	Offsets        : 3055-3167
+	Line numbers   : 104-108
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:122: info: Metrics per 'atomisp_css_params' region
+	Region name    : atomisp_css_params
+	Region type    : struct
+	Offsets        : 3332-5319
+	Line numbers   : 118-174
+	Modified       : None
+	std.code.lines:code: 43
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:176: info: Metrics per 'atomisp_subdev_params' region
+	Region name    : atomisp_subdev_params
+	Region type    : struct
+	Offsets        : 5322-6582
+	Line numbers   : 176-230
+	Modified       : None
+	std.code.lines:code: 36
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:232: info: Metrics per 'atomisp_css_params_with_list' region
+	Region name    : atomisp_css_params_with_list
+	Region type    : struct
+	Offsets        : 6585-6709
+	Line numbers   : 232-236
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:238: info: Metrics per 'atomisp_sub_device' region
+	Region name    : atomisp_sub_device
+	Region type    : struct
+	Offsets        : 6712-9530
+	Line numbers   : 238-324
+	Modified       : None
+	std.code.lines:code: 54
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/atomisp_subdev.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.25
+	Minimum        : 4
+	Maximum        : 54
+	Total          : 218.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.125 : 0.125 : 1	||||||||||||
+	             5 : 0.125 : 0.250 : 1	||||||||||||
+	             7 : 0.125 : 0.375 : 1	||||||||||||
+	            22 : 0.125 : 0.500 : 1	||||||||||||
+	            36 : 0.125 : 0.625 : 1	||||||||||||
+	            43 : 0.125 : 0.750 : 1	||||||||||||
+	            47 : 0.125 : 0.875 : 1	||||||||||||
+	            54 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/staging/media/atomisp/pci/ia_css_irq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9731
+	Line numbers   : 1-235
+	Modified       : None
+	std.code.lines:code: 59
+
+./drivers/staging/media/atomisp/pci/ia_css_irq.h:130: info: Metrics per 'ia_css_irq' region
+	Region name    : ia_css_irq
+	Region type    : struct
+	Offsets        : 5656-6206
+	Line numbers   : 126-137
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/ia_css_irq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/ia_css_irq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 33.0
+	Minimum        : 7
+	Maximum        : 59
+	Total          : 66.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            59 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3554
+	Line numbers   : 1-150
+	Modified       : None
+	std.code.lines:code: 66
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:84: info: Metrics per 'isp2400_input_system_cfg_s' region
+	Region name    : isp2400_input_system_cfg_s
+	Region type    : struct
+	Offsets        : 2181-2321
+	Line numbers   : 83-89
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:91: info: Metrics per 'sync_generator_cfg_s' region
+	Region name    : sync_generator_cfg_s
+	Region type    : struct
+	Offsets        : 2324-2420
+	Line numbers   : 91-96
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:99: info: Metrics per 'tpg_cfg_s' region
+	Region name    : tpg_cfg_s
+	Region type    : struct
+	Offsets        : 2423-2582
+	Line numbers   : 98-106
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:108: info: Metrics per 'prbs_cfg_s' region
+	Region name    : prbs_cfg_s
+	Region type    : struct
+	Offsets        : 2585-2653
+	Line numbers   : 108-111
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:113: info: Metrics per 'gpfifo_cfg_s' region
+	Region name    : gpfifo_cfg_s
+	Region type    : struct
+	Offsets        : 2656-2723
+	Line numbers   : 113-116
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:123: info: Metrics per 'ib_buffer_s' region
+	Region name    : ib_buffer_s
+	Region type    : struct
+	Offsets        : 2880-2959
+	Line numbers   : 123-127
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:131: info: Metrics per 'csi_cfg_s' region
+	Region name    : csi_cfg_s
+	Region type    : struct
+	Offsets        : 3011-3181
+	Line numbers   : 131-137
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp2400_input_system_global.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.125
+	Minimum        : 3
+	Maximum        : 66
+	Total          : 105.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.125 : 0.125 : 1	||||||||||||
+	             4 : 0.125 : 0.250 : 1	||||||||||||
+	             5 : 0.125 : 0.375 : 1	||||||||||||
+	             6 : 0.250 : 0.625 : 2	|||||||||||||||||||||||||
+	             7 : 0.125 : 0.750 : 1	||||||||||||
+	             8 : 0.125 : 0.875 : 1	||||||||||||
+	            66 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/staging/media/atomisp/pci/css_trace.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10703
+	Line numbers   : 1-279
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/staging/media/atomisp/pci/css_trace.h:27: info: Metrics per 'trace_item_t' region
+	Region name    : trace_item_t
+	Region type    : struct
+	Offsets        : 768-923
+	Line numbers   : 26-31
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/css_trace.h:37: info: Metrics per 'trace_header_t' region
+	Region name    : trace_header_t
+	Region type    : struct
+	Offsets        : 978-1632
+	Line numbers   : 36-56
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/staging/media/atomisp/pci/css_trace.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/css_trace.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.66666667
+	Minimum        : 5
+	Maximum        : 20
+	Total          : 38.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            13 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            20 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/ia_css_morph.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1192
+	Line numbers   : 1-41
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/ia_css_morph.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/ia_css_morph.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/atomisp_cmd.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11254
+	Line numbers   : 1-308
+	Modified       : None
+	std.code.lines:code: 151
+
+./drivers/staging/media/atomisp/pci/atomisp_cmd.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/atomisp_cmd.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 151.0
+	Minimum        : 151
+	Maximum        : 151
+	Total          : 151.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           151 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/atomisp_trace_event.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3224
+	Line numbers   : 1-129
+	Modified       : None
+	std.code.lines:code: 72
+
+./drivers/staging/media/atomisp/pci/atomisp_trace_event.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/atomisp_trace_event.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 72.0
+	Minimum        : 72
+	Maximum        : 72
+	Total          : 72.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            72 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5055
+	Line numbers   : 1-189
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:26: info: Metrics per 'ia_css_cc_config' region
+	Region name    : ia_css_cc_config
+	Region type    : struct
+	Offsets        : 761-916
+	Line numbers   : 25-29
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:32: info: Metrics per 'ia_css_cc_config' region
+	Region name    : ia_css_cc_config
+	Region type    : struct
+	Offsets        : 919-1079
+	Line numbers   : 31-35
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:38: info: Metrics per 'ia_css_cc_config' region
+	Region name    : ia_css_cc_config
+	Region type    : struct
+	Offsets        : 1082-1229
+	Line numbers   : 37-41
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:44: info: Metrics per 'ia_css_macc_table' region
+	Region name    : ia_css_macc_table
+	Region type    : struct
+	Offsets        : 1232-1677
+	Line numbers   : 43-63
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:65: info: Metrics per 'ia_css_macc_table' region
+	Region name    : ia_css_macc_table
+	Region type    : struct
+	Offsets        : 1680-2093
+	Line numbers   : 65-84
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:86: info: Metrics per 'ia_css_macc_table' region
+	Region name    : ia_css_macc_table
+	Region type    : struct
+	Offsets        : 2096-2501
+	Line numbers   : 86-105
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:108: info: Metrics per 'ia_css_macc_table' region
+	Region name    : ia_css_macc_table
+	Region type    : struct
+	Offsets        : 2504-2953
+	Line numbers   : 107-127
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:130: info: Metrics per 'ia_css_macc_table' region
+	Region name    : ia_css_macc_table
+	Region type    : struct
+	Offsets        : 2956-3407
+	Line numbers   : 129-149
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:151: info: Metrics per 'ia_css_ctc_table' region
+	Region name    : ia_css_ctc_table
+	Region type    : struct
+	Offsets        : 3410-5046
+	Line numbers   : 151-187
+	Modified       : None
+	std.code.lines:code: 37
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/atomisp_tables.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.8
+	Minimum        : 4
+	Maximum        : 37
+	Total          : 158.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.300 : 0.300 :  3	||||||||||||||||||||||||||||||
+	             9 : 0.100 : 0.400 :  1	||||||||||
+	            20 : 0.500 : 0.900 :  5	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            37 : 0.100 : 1.000 :  1	||||||||||
+
+./drivers/staging/media/atomisp/pci/sh_css_firmware.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1622
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/staging/media/atomisp/pci/sh_css_firmware.h:25: info: Metrics per 'sh_css_fw_bi_file_h' region
+	Region name    : sh_css_fw_bi_file_h
+	Region type    : struct
+	Offsets        : 730-977
+	Line numbers   : 24-29
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/sh_css_firmware.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/sh_css_firmware.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 5
+	Maximum        : 17
+	Total          : 22.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            17 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/hive_isp_css_defs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-22519
+	Line numbers   : 1-413
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/hive_isp_css_defs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/hive_isp_css_defs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/input_system_ctrl_defs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10430
+	Line numbers   : 1-245
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/input_system_ctrl_defs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/input_system_ctrl_defs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/isp_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2641
+	Line numbers   : 1-86
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/isp_types.h:42: info: Metrics per 's_isp_frames' region
+	Region name    : s_isp_frames
+	Region type    : struct
+	Offsets        : 1366-2611
+	Line numbers   : 42-83
+	Modified       : None
+	std.code.lines:code: 29
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/isp_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/isp_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.5
+	Minimum        : 10
+	Maximum        : 29
+	Total          : 39.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            29 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/isp_const.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6124
+	Line numbers   : 1-166
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/isp_const.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/isp_const.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/input_buf.isp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1355
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/input_buf.isp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/modes/interface/input_buf.isp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1974
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis_types.h:34: info: Metrics per 'ia_css_dvs_coefficients' region
+	Region name    : ia_css_dvs_coefficients
+	Region type    : struct
+	Offsets        : 1008-1419
+	Line numbers   : 34-41
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis_types.h:47: info: Metrics per 'ia_css_dvs_statistics' region
+	Region name    : ia_css_dvs_statistics
+	Region type    : struct
+	Offsets        : 1546-1936
+	Line numbers   : 47-54
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 2
+	Maximum        : 6
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3252
+	Line numbers   : 1-103
+	Modified       : None
+	std.code.lines:code: 59
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_1.0/ia_css_sdis.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 59.0
+	Minimum        : 59
+	Maximum        : 59
+	Total          : 59.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            59 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3008
+	Line numbers   : 1-77
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2_types.h:33: info: Metrics per 'ia_css_dvs2_coef_types' region
+	Region name    : ia_css_dvs2_coef_types
+	Region type    : struct
+	Offsets        : 894-1289
+	Line numbers   : 30-38
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2_types.h:44: info: Metrics per 'ia_css_dvs2_coefficients' region
+	Region name    : ia_css_dvs2_coefficients
+	Region type    : struct
+	Offsets        : 1292-1890
+	Line numbers   : 40-51
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2_types.h:56: info: Metrics per 'ia_css_dvs2_stat_types' region
+	Region name    : ia_css_dvs2_stat_types
+	Region type    : struct
+	Offsets        : 1893-2278
+	Line numbers   : 53-61
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2_types.h:67: info: Metrics per 'ia_css_dvs2_statistics' region
+	Region name    : ia_css_dvs2_statistics
+	Region type    : struct
+	Offsets        : 2281-2969
+	Line numbers   : 63-74
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.4
+	Minimum        : 4
+	Maximum        : 8
+	Total          : 32.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             6 : 0.400 : 0.600 : 2	||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.400 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3079
+	Line numbers   : 1-97
+	Modified       : None
+	std.code.lines:code: 55
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/sdis_2/ia_css_sdis2.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 55.0
+	Minimum        : 55
+	Maximum        : 55
+	Total          : 55.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            55 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6762
+	Line numbers   : 1-221
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:28: info: Metrics per 'ia_css_dvs_grid_dim' region
+	Region name    : ia_css_dvs_grid_dim
+	Region type    : struct
+	Offsets        : 818-955
+	Line numbers   : 28-31
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:37: info: Metrics per 'ia_css_sdis_info' region
+	Region name    : ia_css_sdis_info
+	Region type    : struct
+	Offsets        : 1054-1244
+	Line numbers   : 37-43
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:38: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1081-1201
+	Line numbers   : 38-41
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:52: info: Metrics per 'ia_css_dvs_grid_res' region
+	Region name    : ia_css_dvs_grid_res
+	Region type    : struct
+	Offsets        : 1247-2212
+	Line numbers   : 45-73
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:78: info: Metrics per 'ia_css_dvs_grid_info' region
+	Region name    : ia_css_dvs_grid_info
+	Region type    : struct
+	Offsets        : 2215-3468
+	Line numbers   : 75-108
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:116: info: Metrics per 'dvs_stat_public_dvs_global_cfg' region
+	Region name    : dvs_stat_public_dvs_global_cfg
+	Region type    : struct
+	Offsets        : 3551-3907
+	Line numbers   : 114-123
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:128: info: Metrics per 'dvs_stat_public_dvs_level_grid_cfg' region
+	Region name    : dvs_stat_public_dvs_level_grid_cfg
+	Region type    : struct
+	Offsets        : 3910-4284
+	Line numbers   : 125-137
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:142: info: Metrics per 'dvs_stat_public_dvs_level_grid_start' region
+	Region name    : dvs_stat_public_dvs_level_grid_start
+	Region type    : struct
+	Offsets        : 4287-4599
+	Line numbers   : 139-149
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:154: info: Metrics per 'dvs_stat_public_dvs_level_grid_end' region
+	Region name    : dvs_stat_public_dvs_level_grid_end
+	Region type    : struct
+	Offsets        : 4602-4843
+	Line numbers   : 151-159
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:164: info: Metrics per 'dvs_stat_public_dvs_level_fe_roi_cfg' region
+	Region name    : dvs_stat_public_dvs_level_fe_roi_cfg
+	Region type    : struct
+	Offsets        : 4846-5269
+	Line numbers   : 161-173
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:177: info: Metrics per 'dvs_stat_public_dvs_grd_cfg' region
+	Region name    : dvs_stat_public_dvs_grd_cfg
+	Region type    : struct
+	Offsets        : 5272-5699
+	Line numbers   : 175-184
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:188: info: Metrics per 'ia_css_dvs_stat_grid_info' region
+	Region name    : ia_css_dvs_stat_grid_info
+	Region type    : struct
+	Offsets        : 5702-6214
+	Line numbers   : 186-196
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:213: info: Metrics per 'ia_css_dvs_grid_u' region
+	Region name    : ia_css_dvs_grid_u
+	Region type    : struct
+	Offsets        : 6419-6717
+	Line numbers   : 210-218
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.78571429
+	Minimum        : 4
+	Maximum        : 12
+	Total          : 81.0
+	Distribution   : 14 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.357 : 0.357 :  5	|||||||||||||||||||||||||||||||||||
+	             5 : 0.214 : 0.571 :  3	|||||||||||||||||||||
+	             6 : 0.286 : 0.857 :  4	||||||||||||||||||||||||||||
+	            10 : 0.071 : 0.929 :  1	|||||||
+	            12 : 0.071 : 1.000 :  1	|||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3532
+	Line numbers   : 1-103
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:64: info: Metrics per 'sh_css_isp_sdis_hori_proj_tbl' region
+	Region name    : sh_css_isp_sdis_hori_proj_tbl
+	Region type    : struct
+	Offsets        : 2493-2748
+	Line numbers   : 63-69
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:71: info: Metrics per 'sh_css_isp_sdis_vert_proj_tbl' region
+	Region name    : sh_css_isp_sdis_vert_proj_tbl
+	Region type    : struct
+	Offsets        : 2751-2920
+	Line numbers   : 71-76
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:78: info: Metrics per 'sh_css_isp_sdis_hori_coef_tbl' region
+	Region name    : sh_css_isp_sdis_hori_coef_tbl
+	Region type    : struct
+	Offsets        : 2923-3053
+	Line numbers   : 78-81
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:83: info: Metrics per 'sh_css_isp_sdis_vert_coef_tbl' region
+	Region name    : sh_css_isp_sdis_vert_coef_tbl
+	Region type    : struct
+	Offsets        : 3056-3186
+	Line numbers   : 83-86
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:92: info: Metrics per 's_sdis_config' region
+	Region name    : s_sdis_config
+	Region type    : struct
+	Offsets        : 3272-3440
+	Line numbers   : 91-97
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/sdis/common/ia_css_sdis_common.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 4
+	Maximum        : 6
+	Total          : 28.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.667 : 0.667 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 1.000 : 2	|||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw_aa_binning/raw_aa_binning_1.0/ia_css_raa.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-885
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw_aa_binning/raw_aa_binning_1.0/ia_css_raa.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw_aa_binning/raw_aa_binning_1.0/ia_css_raa.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1229
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 19
+	Maximum        : 19
+	Total          : 19.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            19 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-934
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_param.h:22: info: Metrics per 'sh_css_isp_cnr_params' region
+	Region name    : sh_css_isp_cnr_params
+	Region type    : struct
+	Offsets        : 679-896
+	Line numbers   : 21-31
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 1
+	Maximum        : 10
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2071
+	Line numbers   : 1-56
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_types.h:36: info: Metrics per 'ia_css_cnr_config' region
+	Region name    : ia_css_cnr_config
+	Region type    : struct
+	Offsets        : 731-2033
+	Line numbers   : 23-53
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_2/ia_css_cnr2_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 1
+	Maximum        : 10
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_1.0/ia_css_cnr_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-829
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_1.0/ia_css_cnr_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_1.0/ia_css_cnr_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_1.0/ia_css_cnr.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-813
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_1.0/ia_css_cnr.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/cnr/cnr_1.0/ia_css_cnr.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3741
+	Line numbers   : 1-99
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_types.h:49: info: Metrics per 'ia_css_xnr3_sigma_params' region
+	Region name    : ia_css_xnr3_sigma_params
+	Region type    : struct
+	Offsets        : 1240-2018
+	Line numbers   : 41-56
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_types.h:66: info: Metrics per 'ia_css_xnr3_coring_params' region
+	Region name    : ia_css_xnr3_coring_params
+	Region type    : struct
+	Offsets        : 2021-2723
+	Line numbers   : 58-71
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_types.h:83: info: Metrics per 'ia_css_xnr3_blending_params' region
+	Region name    : ia_css_xnr3_blending_params
+	Region type    : struct
+	Offsets        : 2726-3304
+	Line numbers   : 73-85
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_types.h:92: info: Metrics per 'ia_css_xnr3_config' region
+	Region name    : ia_css_xnr3_config
+	Region type    : struct
+	Offsets        : 3307-3703
+	Line numbers   : 87-96
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.2
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 26.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             4 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             5 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	             6 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	             8 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1198
+	Line numbers   : 1-43
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.0
+	Minimum        : 15
+	Maximum        : 15
+	Total          : 15.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            15 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2558
+	Line numbers   : 1-85
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:41: info: Metrics per 'sh_css_xnr3_alpha_params' region
+	Region name    : sh_css_xnr3_alpha_params
+	Region type    : struct
+	Offsets        : 1450-1701
+	Line numbers   : 39-48
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:52: info: Metrics per 'sh_css_xnr3_coring_params' region
+	Region name    : sh_css_xnr3_coring_params
+	Region type    : struct
+	Offsets        : 1704-1926
+	Line numbers   : 50-57
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:60: info: Metrics per 'sh_css_xnr3_blending_params' region
+	Region name    : sh_css_xnr3_blending_params
+	Region type    : struct
+	Offsets        : 1929-2023
+	Line numbers   : 59-62
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:65: info: Metrics per 'sh_css_isp_xnr3_params' region
+	Region name    : sh_css_isp_xnr3_params
+	Region type    : struct
+	Offsets        : 2026-2218
+	Line numbers   : 64-69
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:77: info: Metrics per 'sh_css_isp_xnr3_vmem_params' region
+	Region name    : sh_css_isp_xnr3_vmem_params
+	Region type    : struct
+	Offsets        : 2221-2520
+	Line numbers   : 71-82
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_3.0/ia_css_xnr3_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 33.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.167 : 0.167 : 1	||||||||||||||||
+	             5 : 0.333 : 0.500 : 2	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.833 : 2	|||||||||||||||||||||||||||||||||
+	             8 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1376
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_param.h:32: info: Metrics per 'sh_css_isp_xnr_vamem_params' region
+	Region name    : sh_css_isp_xnr_vamem_params
+	Region type    : struct
+	Offsets        : 986-1131
+	Line numbers   : 31-34
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_param.h:36: info: Metrics per 'sh_css_isp_xnr_params' region
+	Region name    : sh_css_isp_xnr_params
+	Region type    : struct
+	Offsets        : 1134-1339
+	Line numbers   : 36-42
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.66666667
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 8.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             3 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_table.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-787
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_table.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_table.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2132
+	Line numbers   : 1-72
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_types.h:52: info: Metrics per 'ia_css_xnr_data' region
+	Region name    : ia_css_xnr_data
+	Region type    : struct
+	Offsets        : 1570-1876
+	Line numbers   : 50-57
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_types.h:59: info: Metrics per 'ia_css_xnr_table' region
+	Region name    : ia_css_xnr_table
+	Region type    : struct
+	Offsets        : 1879-1971
+	Line numbers   : 59-62
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_types.h:64: info: Metrics per 'ia_css_xnr_config' region
+	Region name    : ia_css_xnr_config
+	Region type    : struct
+	Offsets        : 1974-2095
+	Line numbers   : 64-69
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 14.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1311
+	Line numbers   : 1-49
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/xnr/xnr_1.0/ia_css_xnr.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 19
+	Maximum        : 19
+	Total          : 19.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            19 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1315
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 14
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-824
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_param.h:22: info: Metrics per 'sh_css_isp_formats_params' region
+	Region name    : sh_css_isp_formats_params
+	Region type    : struct
+	Offsets        : 685-783
+	Line numbers   : 21-24
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 1
+	Maximum        : 3
+	Total          : 4.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1148
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_types.h:31: info: Metrics per 'ia_css_formats_config' region
+	Region name    : ia_css_formats_config
+	Region type    : struct
+	Offsets        : 750-1107
+	Line numbers   : 25-37
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fc/fc_1.0/ia_css_formats_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 1
+	Maximum        : 3
+	Total          : 4.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1060
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 7
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-807
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output_param.h:19: info: Metrics per 'ia_css_copy_output_configuration' region
+	Region name    : ia_css_copy_output_configuration
+	Region type    : struct
+	Offsets        : 652-709
+	Line numbers   : 19-21
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output_param.h:23: info: Metrics per 'sh_css_isp_copy_output_isp_config' region
+	Region name    : sh_css_isp_copy_output_isp_config
+	Region type    : struct
+	Offsets        : 712-769
+	Line numbers   : 23-25
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/copy_output/copy_output_1.0/ia_css_copy_output_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.66666667
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 8.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             3 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1700
+	Line numbers   : 1-50
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_types.h:30: info: Metrics per 'ia_css_dp_config' region
+	Region name    : ia_css_dp_config
+	Region type    : struct
+	Offsets        : 729-1664
+	Line numbers   : 23-47
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 1
+	Maximum        : 8
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1284
+	Line numbers   : 1-49
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.0
+	Minimum        : 20
+	Maximum        : 20
+	Total          : 20.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            20 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1015
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_param.h:23: info: Metrics per 'sh_css_isp_dp_params' region
+	Region name    : sh_css_isp_dp_params
+	Region type    : struct
+	Offsets        : 717-979
+	Line numbers   : 22-35
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dp/dp_1.0/ia_css_dp_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 1
+	Maximum        : 13
+	Total          : 14.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            13 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1104
+	Line numbers   : 1-41
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 14
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-838
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_param.h:22: info: Metrics per 'sh_css_isp_wb_params' region
+	Region name    : sh_css_isp_wb_params
+	Region type    : struct
+	Offsets        : 675-802
+	Line numbers   : 21-28
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 1
+	Maximum        : 7
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1516
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_types.h:29: info: Metrics per 'ia_css_wb_config' region
+	Region name    : ia_css_wb_config
+	Region type    : struct
+	Offsets        : 713-1480
+	Line numbers   : 23-45
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/wb/wb_1.0/ia_css_wb_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 1
+	Maximum        : 7
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-893
+	Line numbers   : 1-35
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_param.h:21: info: Metrics per 'sh_css_isp_csc_params' region
+	Region name    : sh_css_isp_csc_params
+	Region type    : struct
+	Offsets        : 650-856
+	Line numbers   : 19-32
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.5
+	Minimum        : 1
+	Maximum        : 12
+	Total          : 13.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2059
+	Line numbers   : 1-80
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_types.h:71: info: Metrics per 'ia_css_cc_config' region
+	Region name    : ia_css_cc_config
+	Region type    : struct
+	Offsets        : 724-2022
+	Line numbers   : 23-77
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1456
+	Line numbers   : 1-56
+	Modified       : None
+	std.code.lines:code: 23
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/csc/csc_1.0/ia_css_csc.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 23.0
+	Minimum        : 23
+	Maximum        : 23
+	Total          : 23.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            23 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr_1.0/ia_css_bnr_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-890
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr_1.0/ia_css_bnr_param.h:22: info: Metrics per 'sh_css_isp_bnr_params' region
+	Region name    : sh_css_isp_bnr_params
+	Region type    : struct
+	Offsets        : 677-853
+	Line numbers   : 21-29
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr_1.0/ia_css_bnr_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr_1.0/ia_css_bnr_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 1
+	Maximum        : 8
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr_1.0/ia_css_bnr.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1002
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr_1.0/ia_css_bnr.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr_1.0/ia_css_bnr.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1288
+	Line numbers   : 1-49
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_param.h:22: info: Metrics per 'sh_css_isp_bnr2_2_params' region
+	Region name    : sh_css_isp_bnr2_2_params
+	Region type    : struct
+	Offsets        : 683-1248
+	Line numbers   : 21-46
+	Modified       : None
+	std.code.lines:code: 25
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 1
+	Maximum        : 25
+	Total          : 26.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            25 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1090
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2450
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_types.h:33: info: Metrics per 'ia_css_bnr2_2_config' region
+	Region name    : ia_css_bnr2_2_config
+	Region type    : struct
+	Offsets        : 770-2410
+	Line numbers   : 25-70
+	Modified       : None
+	std.code.lines:code: 25
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/bnr/bnr2_2/ia_css_bnr2_2_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 1
+	Maximum        : 25
+	Total          : 26.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            25 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1100
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 14
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1202
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_param.h:22: info: Metrics per 'ia_css_isp_tdf_vmem_params' region
+	Region name    : ia_css_isp_tdf_vmem_params
+	Region type    : struct
+	Offsets        : 723-890
+	Line numbers   : 22-26
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_param.h:28: info: Metrics per 'ia_css_isp_tdf_dmem_params' region
+	Region name    : ia_css_isp_tdf_dmem_params
+	Region type    : struct
+	Offsets        : 893-1165
+	Line numbers   : 28-42
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.33333333
+	Minimum        : 2
+	Maximum        : 15
+	Total          : 22.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            15 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2222
+	Line numbers   : 1-54
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_types.h:33: info: Metrics per 'ia_css_tdf_config' region
+	Region name    : ia_css_tdf_config
+	Region type    : struct
+	Offsets        : 752-2185
+	Line numbers   : 25-51
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/tdf/tdf_1.0/ia_css_tdf_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 1
+	Maximum        : 19
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-776
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1253
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_state.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-830
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_state.h:22: info: Metrics per 'sh_css_isp_ref_dmem_state' region
+	Region name    : sh_css_isp_ref_dmem_state
+	Region type    : struct
+	Offsets        : 677-793
+	Line numbers   : 21-25
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_state.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_state.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1133
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_param.h:24: info: Metrics per 'ia_css_ref_configuration' region
+	Region name    : ia_css_ref_configuration
+	Region type    : struct
+	Offsets        : 719-866
+	Line numbers   : 23-27
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_param.h:29: info: Metrics per 'sh_css_isp_ref_isp_config' region
+	Region name    : sh_css_isp_ref_isp_config
+	Region type    : struct
+	Offsets        : 869-1096
+	Line numbers   : 29-35
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ref/ref_1.0/ia_css_ref_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.33333333
+	Minimum        : 2
+	Maximum        : 7
+	Total          : 13.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-841
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_types.h:26: info: Metrics per 'ia_css_dvs_configuration' region
+	Region name    : ia_css_dvs_configuration
+	Region type    : struct
+	Offsets        : 730-804
+	Line numbers   : 26-28
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 1
+	Maximum        : 3
+	Total          : 4.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1880
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.0
+	Minimum        : 22
+	Maximum        : 22
+	Total          : 22.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            22 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1049
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_param.h:28: info: Metrics per 'sh_css_isp_dvs_isp_config' region
+	Region name    : sh_css_isp_dvs_isp_config
+	Region type    : struct
+	Offsets        : 900-1012
+	Line numbers   : 27-31
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/dvs/dvs_1.0/ia_css_dvs_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1279
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_param.h:22: info: Metrics per 'sh_css_isp_ae_params' region
+	Region name    : sh_css_isp_ae_params
+	Region type    : struct
+	Offsets        : 677-810
+	Line numbers   : 21-27
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_param.h:30: info: Metrics per 'sh_css_isp_awb_params' region
+	Region name    : sh_css_isp_awb_params
+	Region type    : struct
+	Offsets        : 813-913
+	Line numbers   : 29-34
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_param.h:37: info: Metrics per 'sh_css_isp_af_params' region
+	Region name    : sh_css_isp_af_params
+	Region type    : struct
+	Offsets        : 916-997
+	Line numbers   : 36-40
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_param.h:43: info: Metrics per 'sh_css_isp_s3a_params' region
+	Region name    : sh_css_isp_s3a_params
+	Region type    : struct
+	Offsets        : 1000-1242
+	Line numbers   : 42-52
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.6
+	Minimum        : 4
+	Maximum        : 5
+	Total          : 23.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.400 : 0.400 : 2	||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.600 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1901
+	Line numbers   : 1-79
+	Modified       : None
+	std.code.lines:code: 42
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 42.0
+	Minimum        : 42
+	Maximum        : 42
+	Total          : 42.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            42 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8010
+	Line numbers   : 1-223
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:40: info: Metrics per 'ia_css_3a_grid_info' region
+	Region name    : ia_css_3a_grid_info
+	Region type    : struct
+	Offsets        : 971-3502
+	Line numbers   : 33-101
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:125: info: Metrics per 'ia_css_3a_config' region
+	Region name    : ia_css_3a_config
+	Region type    : struct
+	Offsets        : 3629-5459
+	Line numbers   : 107-155
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:167: info: Metrics per 'ia_css_3a_output' region
+	Region name    : ia_css_3a_output
+	Region type    : struct
+	Offsets        : 5462-6908
+	Line numbers   : 157-190
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:195: info: Metrics per 'ia_css_3a_statistics' region
+	Region name    : ia_css_3a_statistics
+	Region type    : struct
+	Offsets        : 6911-7423
+	Line numbers   : 192-203
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:215: info: Metrics per 'ia_css_3a_rgby_output' region
+	Region name    : ia_css_3a_rgby_output
+	Region type    : struct
+	Offsets        : 7426-7973
+	Line numbers   : 205-220
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/s3a/s3a_1.0/ia_css_s3a_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.33333333
+	Minimum        : 5
+	Maximum        : 24
+	Total          : 62.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.167 : 0.167 : 1	||||||||||||||||
+	             6 : 0.167 : 0.333 : 1	||||||||||||||||
+	             7 : 0.167 : 0.500 : 1	||||||||||||||||
+	            10 : 0.333 : 0.833 : 2	|||||||||||||||||||||||||||||||||
+	            24 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1165
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1186
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_param.h:24: info: Metrics per 'sh_css_isp_raw_isp_config' region
+	Region name    : sh_css_isp_raw_isp_config
+	Region type    : struct
+	Offsets        : 695-1149
+	Line numbers   : 23-37
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 1
+	Maximum        : 14
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1066
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_types.h:27: info: Metrics per 'ia_css_raw_configuration' region
+	Region name    : ia_css_raw_configuration
+	Region type    : struct
+	Offsets        : 759-1029
+	Line numbers   : 27-35
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/raw/raw_1.0/ia_css_raw_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 1
+	Maximum        : 9
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1551
+	Line numbers   : 1-54
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_types.h:36: info: Metrics per 'ia_css_fpn_table' region
+	Region name    : ia_css_fpn_table
+	Region type    : struct
+	Offsets        : 1042-1437
+	Line numbers   : 36-47
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_types.h:49: info: Metrics per 'ia_css_fpn_configuration' region
+	Region name    : ia_css_fpn_configuration
+	Region type    : struct
+	Offsets        : 1440-1514
+	Line numbers   : 49-51
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 2
+	Maximum        : 7
+	Total          : 12.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             3 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-956
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_param.h:26: info: Metrics per 'sh_css_isp_fpn_params' region
+	Region name    : sh_css_isp_fpn_params
+	Region type    : struct
+	Offsets        : 726-827
+	Line numbers   : 25-29
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_param.h:31: info: Metrics per 'sh_css_isp_fpn_isp_config' region
+	Region name    : sh_css_isp_fpn_isp_config
+	Region type    : struct
+	Offsets        : 830-919
+	Line numbers   : 31-34
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.33333333
+	Minimum        : 2
+	Maximum        : 4
+	Total          : 10.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1246
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/fpn/fpn_1.0/ia_css_fpn.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 14
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-922
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-747
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-753
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/bayer_io_ls/ia_css_bayer_io_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-688
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io.host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-897
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io.host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io.host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-688
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/yuv444_io_ls/ia_css_yuv444_io_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/common/ia_css_common_io_param.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-719
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/common/ia_css_common_io_param.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/common/ia_css_common_io_param.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/common/ia_css_common_io_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-915
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/common/ia_css_common_io_types.h:21: info: Metrics per 'ia_css_common_io_config' region
+	Region name    : ia_css_common_io_config
+	Region type    : struct
+	Offsets        : 665-874
+	Line numbers   : 21-28
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/common/ia_css_common_io_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/ipu2_io_ls/common/ia_css_common_io_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 1
+	Maximum        : 8
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/staging/media/atomisp/pci/isp/kernels/qplane/qplane_2/ia_css_qplane_types.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-929
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/staging/media/atomisp/pci/isp/kernels/qplane/qplane_2/ia_css_qplane_types.h:27: info: Metrics per 'ia_css_qplane_configuration' region
+	Region name    : ia_css_qplane_configuration
+	Region type    : struct
+	Offsets        : 771-889
+	Line numbers   : 27-30
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/staging/media/atomisp/pci/isp/kernels/qplane/qplane_2/ia_css_qplane_types.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/staging/media/atomisp/pci/isp/kernels/qplane/qplane_2/ia_css_qplane_types.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

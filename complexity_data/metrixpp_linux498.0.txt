@@ -1,0 +1,3948 @@
+./drivers/gpu/drm/amd/include/v10_structs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-47343
+	Line numbers   : 1-1259
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/v10_structs.h:27: info: Metrics per 'v10_gfx_mqd' region
+	Region name    : v10_gfx_mqd
+	Region type    : struct
+	Offsets        : 1185-28095
+	Line numbers   : 27-541
+	Modified       : None
+	std.code.lines:code: 515
+
+./drivers/gpu/drm/amd/include/v10_structs.h:543: info: Metrics per 'v10_sdma_mqd' region
+	Region name    : v10_sdma_mqd
+	Region type    : struct
+	Offsets        : 28098-31609
+	Line numbers   : 543-674
+	Modified       : None
+	std.code.lines:code: 132
+
+./drivers/gpu/drm/amd/include/v10_structs.h:676: info: Metrics per 'v10_compute_mqd' region
+	Region name    : v10_compute_mqd
+	Region type    : struct
+	Offsets        : 31612-45455
+	Line numbers   : 676-1189
+	Modified       : None
+	std.code.lines:code: 514
+
+./drivers/gpu/drm/amd/include/v10_structs.h:1191: info: Metrics per 'v10_ce_ib_state' region
+	Region name    : v10_ce_ib_state
+	Region type    : struct
+	Offsets        : 45458-45867
+	Line numbers   : 1191-1205
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/amd/include/v10_structs.h:1207: info: Metrics per 'v10_de_ib_state' region
+	Region name    : v10_de_ib_state
+	Region type    : struct
+	Offsets        : 45891-46920
+	Line numbers   : 1207-1244
+	Modified       : None
+	std.code.lines:code: 29
+
+./drivers/gpu/drm/amd/include/v10_structs.h:1246: info: Metrics per 'v10_gfx_meta_data' region
+	Region name    : v10_gfx_meta_data
+	Region type    : struct
+	Offsets        : 46947-47288
+	Line numbers   : 1246-1256
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/amd/include/v10_structs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/v10_structs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 173.71428571
+	Minimum        : 6
+	Maximum        : 515
+	Total          : 1216.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.143 : 0.143 : 1	||||||||||||||
+	             8 : 0.143 : 0.286 : 1	||||||||||||||
+	            12 : 0.143 : 0.429 : 1	||||||||||||||
+	            29 : 0.143 : 0.571 : 1	||||||||||||||
+	           132 : 0.143 : 0.714 : 1	||||||||||||||
+	           514 : 0.143 : 0.857 : 1	||||||||||||||
+	           515 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/gpu/drm/amd/include/v9_structs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-21313
+	Line numbers   : 1-769
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/v9_structs.h:27: info: Metrics per 'v9_sdma_mqd' region
+	Region name    : v9_sdma_mqd
+	Region type    : struct
+	Offsets        : 1188-4710
+	Line numbers   : 27-157
+	Modified       : None
+	std.code.lines:code: 130
+
+./drivers/gpu/drm/amd/include/v9_structs.h:159: info: Metrics per 'v9_mqd' region
+	Region name    : v9_mqd
+	Region type    : struct
+	Offsets        : 4713-19043
+	Line numbers   : 159-690
+	Modified       : None
+	std.code.lines:code: 510
+
+./drivers/gpu/drm/amd/include/v9_structs.h:199: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 5958-6422
+	Line numbers   : 199-212
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/v9_structs.h:200: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 5968-6156
+	Line numbers   : 200-205
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/v9_structs.h:206: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6160-6418
+	Line numbers   : 206-211
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/v9_structs.h:395: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 11848-12055
+	Line numbers   : 395-404
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/v9_structs.h:396: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 11858-11922
+	Line numbers   : 396-399
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/v9_structs.h:400: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 11926-12051
+	Line numbers   : 400-403
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/v9_structs.h:692: info: Metrics per 'v9_mqd_allocation' region
+	Region name    : v9_mqd_allocation
+	Region type    : struct
+	Offsets        : 19046-19200
+	Line numbers   : 692-698
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/v9_structs.h:701: info: Metrics per 'v9_ce_ib_state' region
+	Region name    : v9_ce_ib_state
+	Region type    : struct
+	Offsets        : 19203-19719
+	Line numbers   : 700-715
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/amd/include/v9_structs.h:717: info: Metrics per 'v9_de_ib_state' region
+	Region name    : v9_de_ib_state
+	Region type    : struct
+	Offsets        : 19743-20867
+	Line numbers   : 717-754
+	Modified       : None
+	std.code.lines:code: 29
+
+./drivers/gpu/drm/amd/include/v9_structs.h:756: info: Metrics per 'v9_gfx_meta_data' region
+	Region name    : v9_gfx_meta_data
+	Region type    : struct
+	Offsets        : 20894-21259
+	Line numbers   : 756-766
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/amd/include/v9_structs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/v9_structs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 56.15384615
+	Minimum        : 4
+	Maximum        : 510
+	Total          : 730.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.308 : 0.308 :  4	||||||||||||||||||||||||||||||
+	             6 : 0.231 : 0.538 :  3	|||||||||||||||||||||||
+	             7 : 0.077 : 0.615 :  1	|||||||
+	             8 : 0.077 : 0.692 :  1	|||||||
+	            12 : 0.077 : 0.769 :  1	|||||||
+	            29 : 0.077 : 0.846 :  1	|||||||
+	           130 : 0.077 : 0.923 :  1	|||||||
+	           510 : 0.077 : 1.000 :  1	|||||||
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-53825
+	Line numbers   : 1-1120
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:28: info: Metrics per 'IP_BASE_INSTANCE' region
+	Region name    : IP_BASE_INSTANCE
+	Region type    : struct
+	Offsets        : 1314-1380
+	Line numbers   : 28-31
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:33: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1383-1453
+	Line numbers   : 33-36
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:39: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1472-1937
+	Line numbers   : 39-45
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:46: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1939-2492
+	Line numbers   : 46-52
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:53: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 2494-2956
+	Line numbers   : 53-59
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:60: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 2958-3412
+	Line numbers   : 60-66
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:67: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3414-3904
+	Line numbers   : 67-73
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:74: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3906-4397
+	Line numbers   : 74-80
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:81: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4399-4863
+	Line numbers   : 81-87
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:88: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4865-5336
+	Line numbers   : 88-94
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:95: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5338-5801
+	Line numbers   : 95-101
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:102: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5803-6266
+	Line numbers   : 102-108
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:109: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6268-6733
+	Line numbers   : 109-115
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:116: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6735-7225
+	Line numbers   : 116-122
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:123: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7227-7717
+	Line numbers   : 123-129
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:130: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7719-8211
+	Line numbers   : 130-136
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:137: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 8213-8679
+	Line numbers   : 137-143
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:144: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 8681-9173
+	Line numbers   : 144-150
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:151: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 9175-9675
+	Line numbers   : 151-157
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:158: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 9677-10160
+	Line numbers   : 158-164
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:165: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 10162-10625
+	Line numbers   : 165-171
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:172: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 10627-11144
+	Line numbers   : 172-178
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:179: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 11146-11610
+	Line numbers   : 179-185
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:186: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 11612-12085
+	Line numbers   : 186-192
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/navi14_ip_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.44
+	Minimum        : 4
+	Maximum        : 24
+	Total          : 186.0
+	Distribution   : 25 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.080 : 0.080 :  2	||||||||
+	             7 : 0.880 : 0.960 : 22	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            24 : 0.040 : 1.000 :  1	||||
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15164
+	Line numbers   : 1-571
+	Modified       : None
+	std.code.lines:code: 115
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:67: info: Metrics per 'MES_API_HEADER' region
+	Region name    : MES_API_HEADER
+	Region type    : struct
+	Offsets        : 2361-2580
+	Line numbers   : 67-76
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:68: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2385-2558
+	Line numbers   : 68-73
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:94: info: Metrics per 'MES_API_STATUS' region
+	Region name    : MES_API_STATUS
+	Region type    : struct
+	Offsets        : 2916-3016
+	Line numbers   : 94-97
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:137: info: Metrics per 'MES_LOG_CONTEXT_STATE_CHANGE' region
+	Region name    : MES_LOG_CONTEXT_STATE_CHANGE
+	Region type    : struct
+	Offsets        : 3955-4062
+	Line numbers   : 137-140
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:142: info: Metrics per 'MES_LOG_QUEUE_NEW_WORK' region
+	Region name    : MES_LOG_QUEUE_NEW_WORK
+	Region type    : struct
+	Offsets        : 4065-4173
+	Line numbers   : 142-145
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:147: info: Metrics per 'MES_LOG_QUEUE_UNWAIT_SYNC_OBJECT' region
+	Region name    : MES_LOG_QUEUE_UNWAIT_SYNC_OBJECT
+	Region type    : struct
+	Offsets        : 4176-4299
+	Line numbers   : 147-150
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:152: info: Metrics per 'MES_LOG_QUEUE_NO_MORE_WORK' region
+	Region name    : MES_LOG_QUEUE_NO_MORE_WORK
+	Region type    : struct
+	Offsets        : 4302-4414
+	Line numbers   : 152-155
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:157: info: Metrics per 'MES_LOG_QUEUE_WAIT_SYNC_OBJECT' region
+	Region name    : MES_LOG_QUEUE_WAIT_SYNC_OBJECT
+	Region type    : struct
+	Offsets        : 4417-4538
+	Line numbers   : 157-160
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:162: info: Metrics per 'MES_LOG_ENTRY_HEADER' region
+	Region name    : MES_LOG_ENTRY_HEADER
+	Region type    : struct
+	Offsets        : 4541-4686
+	Line numbers   : 162-167
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:169: info: Metrics per 'MES_LOG_ENTRY_DATA' region
+	Region name    : MES_LOG_ENTRY_DATA
+	Region type    : struct
+	Offsets        : 4689-5241
+	Line numbers   : 169-181
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:173: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 4860-5238
+	Line numbers   : 173-180
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:183: info: Metrics per 'MES_LOG_BUFFER' region
+	Region name    : MES_LOG_BUFFER
+	Region type    : struct
+	Offsets        : 5244-5345
+	Line numbers   : 183-186
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:192: info: Metrics per 'MESAPI_SET_HW_RESOURCES' region
+	Region name    : MESAPI_SET_HW_RESOURCES
+	Region type    : struct
+	Offsets        : 5407-6650
+	Line numbers   : 192-228
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:193: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 5440-6591
+	Line numbers   : 193-225
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:209: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6029-6587
+	Line numbers   : 209-224
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:210: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6040-6556
+	Line numbers   : 210-222
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:230: info: Metrics per 'MESAPI__ADD_QUEUE' region
+	Region name    : MESAPI__ADD_QUEUE
+	Region type    : struct
+	Offsets        : 6653-7813
+	Line numbers   : 230-270
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:231: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6680-7754
+	Line numbers   : 231-267
+	Modified       : None
+	std.code.lines:code: 28
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:257: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 7482-7713
+	Line numbers   : 257-265
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:272: info: Metrics per 'MESAPI__REMOVE_QUEUE' region
+	Region name    : MESAPI__REMOVE_QUEUE
+	Region type    : struct
+	Offsets        : 7816-8392
+	Line numbers   : 272-294
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:273: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 7846-8333
+	Line numbers   : 273-291
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:278: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 7949-8130
+	Line numbers   : 278-283
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:296: info: Metrics per 'MESAPI__SET_SCHEDULING_CONFIG' region
+	Region name    : MESAPI__SET_SCHEDULING_CONFIG
+	Region type    : struct
+	Offsets        : 8395-9363
+	Line numbers   : 296-321
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:297: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 8434-9304
+	Line numbers   : 297-318
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:323: info: Metrics per 'MESAPI__PERFORM_YIELD' region
+	Region name    : MESAPI__PERFORM_YIELD
+	Region type    : struct
+	Offsets        : 9366-9553
+	Line numbers   : 323-331
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:324: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 9397-9494
+	Line numbers   : 324-328
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:333: info: Metrics per 'MESAPI__CHANGE_GANG_PRIORITY_LEVEL' region
+	Region name    : MESAPI__CHANGE_GANG_PRIORITY_LEVEL
+	Region type    : struct
+	Offsets        : 9556-9894
+	Line numbers   : 333-344
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:334: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 9600-9835
+	Line numbers   : 334-341
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:346: info: Metrics per 'MESAPI__SUSPEND' region
+	Region name    : MESAPI__SUSPEND
+	Region type    : struct
+	Offsets        : 9897-10355
+	Line numbers   : 346-364
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:347: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 9922-10296
+	Line numbers   : 347-361
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:350: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 9964-10095
+	Line numbers   : 349-353
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:366: info: Metrics per 'MESAPI__RESUME' region
+	Region name    : MESAPI__RESUME
+	Region type    : struct
+	Offsets        : 10358-10732
+	Line numbers   : 366-381
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:367: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 10382-10673
+	Line numbers   : 367-378
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:370: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 10424-10554
+	Line numbers   : 369-373
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:383: info: Metrics per 'MESAPI__RESET' region
+	Region name    : MESAPI__RESET
+	Region type    : struct
+	Offsets        : 10735-12009
+	Line numbers   : 383-427
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:384: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 10758-11950
+	Line numbers   : 384-424
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:387: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 10802-11297
+	Line numbers   : 387-397
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:429: info: Metrics per 'MESAPI__SET_LOGGING_BUFFER' region
+	Region name    : MESAPI__SET_LOGGING_BUFFER
+	Region type    : struct
+	Offsets        : 12012-12510
+	Line numbers   : 429-445
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:430: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 12048-12451
+	Line numbers   : 430-442
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:447: info: Metrics per 'MESAPI__QUERY_MES_STATUS' region
+	Region name    : MESAPI__QUERY_MES_STATUS
+	Region type    : struct
+	Offsets        : 12513-12741
+	Line numbers   : 447-455
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:448: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 12547-12682
+	Line numbers   : 448-452
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:457: info: Metrics per 'MESAPI__PROGRAM_GDS' region
+	Region name    : MESAPI__PROGRAM_GDS
+	Region type    : struct
+	Offsets        : 12744-13053
+	Line numbers   : 457-470
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:458: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 12773-12994
+	Line numbers   : 458-467
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:472: info: Metrics per 'MESAPI__SET_DEBUG_VMID' region
+	Region name    : MESAPI__SET_DEBUG_VMID
+	Region type    : struct
+	Offsets        : 13056-13619
+	Line numbers   : 472-497
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:473: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 13088-13560
+	Line numbers   : 473-494
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:476: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 13166-13275
+	Line numbers   : 476-482
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:477: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 13177-13244
+	Line numbers   : 477-480
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:515: info: Metrics per 'MODIFY_REG' region
+	Region name    : MODIFY_REG
+	Region type    : struct
+	Offsets        : 13909-14043
+	Line numbers   : 515-519
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:521: info: Metrics per 'INV_GART' region
+	Region name    : INV_GART
+	Region type    : struct
+	Offsets        : 14046-14155
+	Line numbers   : 521-524
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:526: info: Metrics per 'QUERY_STATUS' region
+	Region name    : QUERY_STATUS
+	Region type    : struct
+	Offsets        : 14158-14203
+	Line numbers   : 526-528
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:530: info: Metrics per 'MESAPI__MISC' region
+	Region name    : MESAPI__MISC
+	Region type    : struct
+	Offsets        : 14206-14565
+	Line numbers   : 530-545
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:531: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 14228-14506
+	Line numbers   : 531-542
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:536: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 14341-14502
+	Line numbers   : 536-541
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:547: info: Metrics per 'MESAPI__UPDATE_ROOT_PAGE_TABLE' region
+	Region name    : MESAPI__UPDATE_ROOT_PAGE_TABLE
+	Region type    : struct
+	Offsets        : 14568-14862
+	Line numbers   : 547-556
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:548: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 14608-14803
+	Line numbers   : 548-553
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:558: info: Metrics per 'MESAPI_AMD_LOG' region
+	Region name    : MESAPI_AMD_LOG
+	Region type    : struct
+	Offsets        : 14865-15136
+	Line numbers   : 558-567
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:559: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 14889-15077
+	Line numbers   : 559-564
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/mes_api_def.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.27586207
+	Minimum        : 3
+	Maximum        : 115
+	Total          : 480.0
+	Distribution   : 58 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           3-4 : 0.534 : 0.534 : 31	|||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.052 : 0.586 :  3	|||||
+	             6 : 0.155 : 0.741 :  9	|||||||||||||||
+	             7 : 0.017 : 0.759 :  1	|
+	             8 : 0.086 : 0.845 :  5	||||||||
+	             9 : 0.017 : 0.862 :  1	|
+	            10 : 0.017 : 0.879 :  1	|
+	            11 : 0.017 : 0.897 :  1	|
+	            13 : 0.017 : 0.914 :  1	|
+	            16 : 0.017 : 0.931 :  1	|
+	            18 : 0.017 : 0.948 :  1	|
+	            21 : 0.017 : 0.966 :  1	|
+	            28 : 0.017 : 0.983 :  1	|
+	           115 : 0.017 : 1.000 :  1	|
+
+./drivers/gpu/drm/amd/include/cik_structs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8455
+	Line numbers   : 1-293
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/amd/include/cik_structs.h:27: info: Metrics per 'cik_mqd' region
+	Region name    : cik_mqd
+	Region type    : struct
+	Offsets        : 1185-5156
+	Line numbers   : 27-156
+	Modified       : None
+	std.code.lines:code: 130
+
+./drivers/gpu/drm/amd/include/cik_structs.h:158: info: Metrics per 'cik_sdma_rlc_registers' region
+	Region name    : cik_sdma_rlc_registers
+	Region type    : struct
+	Offsets        : 5159-8422
+	Line numbers   : 158-288
+	Modified       : None
+	std.code.lines:code: 130
+
+./drivers/gpu/drm/amd/include/cik_structs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/cik_structs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 87.33333333
+	Minimum        : 2
+	Maximum        : 130
+	Total          : 262.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	           130 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/v11_structs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-60412
+	Line numbers   : 1-1190
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/amd/include/v11_structs.h:27: info: Metrics per 'v11_gfx_mqd' region
+	Region name    : v11_gfx_mqd
+	Region type    : struct
+	Offsets        : 1185-28228
+	Line numbers   : 27-540
+	Modified       : None
+	std.code.lines:code: 514
+
+./drivers/gpu/drm/amd/include/v11_structs.h:542: info: Metrics per 'v11_sdma_mqd' region
+	Region name    : v11_sdma_mqd
+	Region type    : struct
+	Offsets        : 28231-34547
+	Line numbers   : 542-672
+	Modified       : None
+	std.code.lines:code: 130
+
+./drivers/gpu/drm/amd/include/v11_structs.h:674: info: Metrics per 'v11_compute_mqd' region
+	Region name    : v11_compute_mqd
+	Region type    : struct
+	Offsets        : 34550-60381
+	Line numbers   : 674-1187
+	Modified       : None
+	std.code.lines:code: 514
+
+./drivers/gpu/drm/amd/include/v11_structs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/v11_structs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 290.25
+	Minimum        : 3
+	Maximum        : 514
+	Total          : 1161.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	           130 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	           514 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/amd_pcie_helpers.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3969
+	Line numbers   : 1-142
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/amd_pcie_helpers.h:28: info: Metrics per 'is_pcie_gen3_supported' region
+	Region name    : is_pcie_gen3_supported
+	Region type    : function
+	Offsets        : 1221-1389
+	Line numbers   : 28-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/amd_pcie_helpers.h:36: info: Metrics per 'is_pcie_gen2_supported' region
+	Region name    : is_pcie_gen2_supported
+	Region type    : function
+	Offsets        : 1391-1559
+	Line numbers   : 36-42
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/amd_pcie_helpers.h:45: info: Metrics per 'get_pcie_gen_support' region
+	Region name    : get_pcie_gen_support
+	Region type    : function
+	Offsets        : 1561-2517
+	Line numbers   : 44-74
+	Modified       : None
+	std.code.complexity:cyclomatic: 8
+	std.code.lines:code: 25
+
+./drivers/gpu/drm/amd/include/amd_pcie_helpers.h:76: info: Metrics per 'get_pcie_lane_support' region
+	Region name    : get_pcie_lane_support
+	Region type    : function
+	Offsets        : 2519-3960
+	Line numbers   : 76-139
+	Modified       : None
+	std.code.complexity:cyclomatic: 17
+	std.code.lines:code: 61
+
+./drivers/gpu/drm/amd/include/amd_pcie_helpers.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 6.75
+	Minimum        : 1
+	Maximum        : 17
+	Total          : 27.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            17 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/amd_pcie_helpers.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.6
+	Minimum        : 0
+	Maximum        : 61
+	Total          : 98.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             6 : 0.400 : 0.600 : 2	||||||||||||||||||||||||||||||||||||||||
+	            25 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            61 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-62489
+	Line numbers   : 1-1275
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:29: info: Metrics per 'IP_BASE_INSTANCE' region
+	Region name    : IP_BASE_INSTANCE
+	Region type    : struct
+	Offsets        : 1325-1391
+	Line numbers   : 29-32
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:34: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1394-1464
+	Line numbers   : 34-37
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:40: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1468-1955
+	Line numbers   : 40-46
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:47: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1957-2550
+	Line numbers   : 47-53
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:54: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 2552-3060
+	Line numbers   : 54-60
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:61: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3062-3546
+	Line numbers   : 61-67
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:68: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3548-4024
+	Line numbers   : 68-74
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:75: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4026-4538
+	Line numbers   : 75-81
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:82: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4540-5053
+	Line numbers   : 82-88
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:89: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5055-5541
+	Line numbers   : 89-95
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:96: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5543-6045
+	Line numbers   : 96-102
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:103: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6047-6532
+	Line numbers   : 103-109
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:110: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6534-7019
+	Line numbers   : 110-116
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:117: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7021-7508
+	Line numbers   : 117-123
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:124: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7510-8022
+	Line numbers   : 124-130
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:131: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 8024-8536
+	Line numbers   : 131-137
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:138: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 8538-9060
+	Line numbers   : 138-144
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:145: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 9062-9550
+	Line numbers   : 145-151
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:152: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 9552-10075
+	Line numbers   : 152-158
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:159: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 10077-10582
+	Line numbers   : 159-165
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:166: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 10584-11089
+	Line numbers   : 166-172
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:173: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 11091-11576
+	Line numbers   : 173-179
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:180: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 11578-12081
+	Line numbers   : 180-186
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:187: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 12083-12578
+	Line numbers   : 187-193
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/beige_goby_ip_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.44
+	Minimum        : 4
+	Maximum        : 24
+	Total          : 186.0
+	Distribution   : 25 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.080 : 0.080 :  2	||||||||
+	             7 : 0.880 : 0.960 : 22	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            24 : 0.040 : 1.000 :  1	||||
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-41420
+	Line numbers   : 1-856
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:28: info: Metrics per 'IP_BASE_INSTANCE' region
+	Region name    : IP_BASE_INSTANCE
+	Region type    : struct
+	Offsets        : 1314-1377
+	Line numbers   : 28-30
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:32: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1381-1448
+	Line numbers   : 32-34
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:37: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1467-1889
+	Line numbers   : 37-42
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:43: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1891-2356
+	Line numbers   : 43-48
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:49: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 2358-2777
+	Line numbers   : 49-54
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:55: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 2779-3226
+	Line numbers   : 55-60
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:61: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3228-3649
+	Line numbers   : 61-66
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:67: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3651-4079
+	Line numbers   : 67-72
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:73: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4081-4501
+	Line numbers   : 73-78
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:79: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4503-4925
+	Line numbers   : 79-84
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:85: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4927-5347
+	Line numbers   : 85-90
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:91: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5349-5769
+	Line numbers   : 91-96
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:97: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5771-6219
+	Line numbers   : 97-102
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:103: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6221-6644
+	Line numbers   : 103-108
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:109: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6646-6884
+	Line numbers   : 109-114
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:115: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6886-7317
+	Line numbers   : 115-120
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:121: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7319-7739
+	Line numbers   : 121-126
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:127: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7741-8161
+	Line numbers   : 127-132
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:133: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 8163-8592
+	Line numbers   : 133-138
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/navi10_ip_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.35
+	Minimum        : 3
+	Maximum        : 19
+	Total          : 127.0
+	Distribution   : 20 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.100 : 0.100 :  2	||||||||||
+	             6 : 0.850 : 0.950 : 17	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.050 : 1.000 :  1	|||||
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-53771
+	Line numbers   : 1-1120
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:28: info: Metrics per 'IP_BASE_INSTANCE' region
+	Region name    : IP_BASE_INSTANCE
+	Region type    : struct
+	Offsets        : 1314-1380
+	Line numbers   : 28-31
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:33: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1383-1453
+	Line numbers   : 33-36
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:39: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1472-1937
+	Line numbers   : 39-45
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:46: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 1939-2492
+	Line numbers   : 46-52
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:53: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 2494-2956
+	Line numbers   : 53-59
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:60: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 2958-3412
+	Line numbers   : 60-66
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:67: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3414-3904
+	Line numbers   : 67-73
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:74: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 3906-4397
+	Line numbers   : 74-80
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:81: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4399-4863
+	Line numbers   : 81-87
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:88: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 4865-5336
+	Line numbers   : 88-94
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:95: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5338-5801
+	Line numbers   : 95-101
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:102: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 5803-6266
+	Line numbers   : 102-108
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:109: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6268-6733
+	Line numbers   : 109-115
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:116: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 6735-7225
+	Line numbers   : 116-122
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:123: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7227-7717
+	Line numbers   : 123-129
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:130: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 7719-8211
+	Line numbers   : 130-136
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:137: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 8213-8679
+	Line numbers   : 137-143
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:144: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 8681-9146
+	Line numbers   : 144-150
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:151: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 9148-9648
+	Line numbers   : 151-157
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:158: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 9650-10133
+	Line numbers   : 158-164
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:165: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 10135-10598
+	Line numbers   : 165-171
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:172: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 10600-11117
+	Line numbers   : 172-178
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:179: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 11119-11583
+	Line numbers   : 179-185
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:186: info: Metrics per 'IP_BASE' region
+	Region name    : IP_BASE
+	Region type    : struct
+	Offsets        : 11585-12058
+	Line numbers   : 186-192
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/navi12_ip_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.44
+	Minimum        : 4
+	Maximum        : 24
+	Total          : 186.0
+	Distribution   : 25 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.080 : 0.080 :  2	||||||||
+	             7 : 0.880 : 0.960 : 22	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            24 : 0.040 : 1.000 :  1	||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-111602
+	Line numbers   : 1-1279
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_6_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-39203
+	Line numbers   : 1-716
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_6_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_6_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_6_0_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5496
+	Line numbers   : 1-149
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_6_0_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_6_0_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-109455
+	Line numbers   : 1-1253
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_enum.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-66868
+	Line numbers   : 1-1247
+	Modified       : None
+	std.code.lines:code: 1168
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_enum.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_enum.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1168.0
+	Minimum        : 1168
+	Maximum        : 1168
+	Total          : 1168.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1168 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-216936
+	Line numbers   : 1-3843
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-117479
+	Line numbers   : 1-1345
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_enum.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-64301
+	Line numbers   : 1-1192
+	Modified       : None
+	std.code.lines:code: 1120
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_enum.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_enum.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1120.0
+	Minimum        : 1120
+	Maximum        : 1120
+	Total          : 1120.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1120 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-342093
+	Line numbers   : 1-5839
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_2_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_enum.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-64799
+	Line numbers   : 1-1206
+	Modified       : None
+	std.code.lines:code: 1127
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_enum.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_enum.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1127.0
+	Minimum        : 1127
+	Maximum        : 1127
+	Total          : 1127.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1127 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-351110
+	Line numbers   : 1-6088
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-168645
+	Line numbers   : 1-2965
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_1_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-114919
+	Line numbers   : 1-1317
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_1_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_1_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_0_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-64020
+	Line numbers   : 1-742
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_0_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_0_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-58865
+	Line numbers   : 1-672
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_enum.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-68965
+	Line numbers   : 1-1283
+	Modified       : None
+	std.code.lines:code: 1207
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_enum.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_3_enum.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1207.0
+	Minimum        : 1207
+	Maximum        : 1207
+	Total          : 1207.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1207 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-285629
+	Line numbers   : 1-4867
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-329343
+	Line numbers   : 1-5649
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_1_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-320854
+	Line numbers   : 1-5463
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_1_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_0_1_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_enum.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-57000
+	Line numbers   : 1-1073
+	Modified       : None
+	std.code.lines:code: 1040
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_enum.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_8_0_enum.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1040.0
+	Minimum        : 1040
+	Maximum        : 1040
+	Total          : 1040.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1040 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-98142
+	Line numbers   : 1-1127
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/smu/smu_7_1_1_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_13_0_2_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-35348
+	Line numbers   : 1-347
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_13_0_2_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_13_0_2_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_13_0_2_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-135657
+	Line numbers   : 1-1298
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_13_0_2_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_13_0_2_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-25768
+	Line numbers   : 1-258
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-37161
+	Line numbers   : 1-364
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-137130
+	Line numbers   : 1-1315
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-91471
+	Line numbers   : 1-886
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_11_0_2_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3576
+	Line numbers   : 1-59
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_11_0_2_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_11_0_2_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_11_0_2_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8860
+	Line numbers   : 1-100
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_11_0_2_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_11_0_2_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_default.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16596
+	Line numbers   : 1-195
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_default.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_9_0_default.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_default.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11722
+	Line numbers   : 1-142
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_default.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/thm/thm_10_0_default.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_7_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3218389
+	Line numbers   : 1-29661
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_7_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_7_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_4_3_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1837937
+	Line numbers   : 1-17382
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_4_3_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_4_3_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_default.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2054629
+	Line numbers   : 1-22341
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_default.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_default.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_9_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-861000
+	Line numbers   : 1-10005
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_9_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_9_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5179756
+	Line numbers   : 1-48483
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_11_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-994933
+	Line numbers   : 1-9401
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_11_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_11_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-470469
+	Line numbers   : 1-4632
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_default.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1628028
+	Line numbers   : 1-18522
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_default.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_default.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_default.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1333875
+	Line numbers   : 1-14866
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_default.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_default.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-495783
+	Line numbers   : 1-4643
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1526528
+	Line numbers   : 1-14664
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_7_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16730577
+	Line numbers   : 1-154427
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_7_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_7_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12748346
+	Line numbers   : 1-118976
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_0_smn.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2898
+	Line numbers   : 1-69
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_0_smn.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_4_0_smn.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_2_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3475033
+	Line numbers   : 1-31872
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_2_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_2_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_smn.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2671
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_smn.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_smn.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_smn.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2990
+	Line numbers   : 1-64
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_smn.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_0_smn.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12839488
+	Line numbers   : 1-120340
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_2_3_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_9_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4106130
+	Line numbers   : 1-38909
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_9_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_9_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-14151728
+	Line numbers   : 1-133889
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_4_3_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8724471
+	Line numbers   : 1-82051
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_4_3_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_4_3_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_2_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16414003
+	Line numbers   : 1-152484
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_2_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_2_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-374628
+	Line numbers   : 1-3652
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_6_1_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_11_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6160646
+	Line numbers   : 1-57858
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_11_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/nbio/nbio_7_11_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2241
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_1_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2204
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_1_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_1_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_1_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1631
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_1_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_1_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_5_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5351
+	Line numbers   : 1-71
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_5_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_5_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1695
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_0_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_10_0_2_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5511
+	Line numbers   : 1-74
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_10_0_2_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_10_0_2_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_5_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3629
+	Line numbers   : 1-51
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_5_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_11_5_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_10_0_2_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4061
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_10_0_2_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/clk/clk_10_0_2_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_1_0_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2449
+	Line numbers   : 1-65
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_1_0_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_1_0_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_3_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5830
+	Line numbers   : 1-121
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_3_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_3_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_1_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5213
+	Line numbers   : 1-100
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_1_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_1_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_3_0_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5143
+	Line numbers   : 1-74
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_3_0_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_3_0_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_2_0_d.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4708
+	Line numbers   : 1-69
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_2_0_d.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_2_0_d.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_2_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5065
+	Line numbers   : 1-105
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_2_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_2_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-46685
+	Line numbers   : 1-489
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_default.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8822
+	Line numbers   : 1-123
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_default.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_default.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-18908
+	Line numbers   : 1-209
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vce/vce_4_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vpe/vpe_6_1_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-444963
+	Line numbers   : 1-4394
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vpe/vpe_6_1_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vpe/vpe_6_1_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vpe/vpe_6_1_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-161042
+	Line numbers   : 1-1554
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vpe/vpe_6_1_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vpe/vpe_6_1_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_0_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-392019
+	Line numbers   : 1-3816
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_0_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_0_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_3_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1178761
+	Line numbers   : 1-10920
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_3_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_3_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_5_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-372461
+	Line numbers   : 1-3661
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_5_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_5_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_1_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-42274
+	Line numbers   : 1-423
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_1_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_1_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_3_0_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-575685
+	Line numbers   : 1-5531
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_3_0_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_3_0_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_5_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-187442
+	Line numbers   : 1-1798
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_5_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_5_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_3_0_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-158827
+	Line numbers   : 1-1543
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_3_0_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_3_0_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_6_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-464992
+	Line numbers   : 1-4536
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_6_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_6_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_0_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-102365
+	Line numbers   : 1-1009
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_0_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_0_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-955544
+	Line numbers   : 1-8938
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_6_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-151232
+	Line numbers   : 1-1463
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_6_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_6_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_5_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-99586
+	Line numbers   : 1-1006
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_5_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_2_5_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_0_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-212890
+	Line numbers   : 1-2033
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_0_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_0_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_5_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-912936
+	Line numbers   : 1-8615
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_5_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_5_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_3_offset.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-239843
+	Line numbers   : 1-2333
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_3_offset.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_4_0_3_offset.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_1_0_sh_mask.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-139944
+	Line numbers   : 1-1359
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_1_0_sh_mask.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_1_0_sh_mask.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

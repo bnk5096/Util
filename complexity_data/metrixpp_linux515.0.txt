@@ -1,0 +1,4718 @@
+./drivers/gpu/drm/nouveau/dispnv50/ovly.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1084
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/dispnv50/ovly.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/dispnv50/ovly.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.0
+	Minimum        : 17
+	Maximum        : 17
+	Total          : 17.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            17 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3172
+	Line numbers   : 1-118
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:12: info: Metrics per 'nv50_disp' region
+	Region name    : nv50_disp
+	Region type    : struct
+	Offsets        : 194-1213
+	Line numbers   : 12-31
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:34: info: Metrics per 'nv50_disp' region
+	Region name    : nv50_disp
+	Region type    : function
+	Offsets        : 1216-1322
+	Line numbers   : 33-37
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:39: info: Metrics per 'nv50_disp_interlock' region
+	Region name    : nv50_disp_interlock
+	Region type    : struct
+	Offsets        : 1324-1618
+	Line numbers   : 39-51
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:57: info: Metrics per 'nv50_chan' region
+	Region name    : nv50_chan
+	Region type    : struct
+	Offsets        : 1749-1824
+	Line numbers   : 57-60
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:62: info: Metrics per 'nv50_dmac' region
+	Region name    : nv50_dmac
+	Region type    : struct
+	Offsets        : 1827-2215
+	Line numbers   : 62-80
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:82: info: Metrics per 'nv50_outp_atom' region
+	Region name    : nv50_outp_atom
+	Region type    : struct
+	Offsets        : 2218-2416
+	Line numbers   : 82-96
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:90: info: Metrics per 'nv50_outp_atom_mask' region
+	Region name    : nv50_outp_atom_mask
+	Region type    : struct
+	Offsets        : 2331-2404
+	Line numbers   : 90-95
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:91: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2361-2389
+	Line numbers   : 91-93
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/disp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.22222222
+	Minimum        : 3
+	Maximum        : 19
+	Total          : 74.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.111 : 0.111 : 1	|||||||||||
+	             4 : 0.222 : 0.333 : 2	||||||||||||||||||||||
+	             5 : 0.111 : 0.444 : 1	|||||||||||
+	             7 : 0.222 : 0.667 : 2	||||||||||||||||||||||
+	            12 : 0.111 : 0.778 : 1	|||||||||||
+	            13 : 0.111 : 0.889 : 1	|||||||||||
+	            19 : 0.111 : 1.000 : 1	|||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/wimm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-214
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/nouveau/dispnv50/wimm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/dispnv50/wimm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/head.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4362
+	Line numbers   : 1-102
+	Modified       : None
+	std.code.lines:code: 48
+
+./drivers/gpu/drm/nouveau/dispnv50/head.h:14: info: Metrics per 'nv50_head' region
+	Region name    : nv50_head
+	Region type    : struct
+	Offsets        : 281-434
+	Line numbers   : 14-20
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/dispnv50/head.h:28: info: Metrics per 'nv50_head_func' region
+	Region name    : nv50_head_func
+	Region type    : struct
+	Offsets        : 764-2028
+	Line numbers   : 28-53
+	Modified       : None
+	std.code.lines:code: 26
+
+./drivers/gpu/drm/nouveau/dispnv50/head.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/dispnv50/head.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.0
+	Minimum        : 7
+	Maximum        : 48
+	Total          : 81.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            26 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            48 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4916
+	Line numbers   : 1-140
+	Modified       : None
+	std.code.lines:code: 53
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:8: info: Metrics per 'nv50_wndw_ctxdma' region
+	Region name    : nv50_wndw_ctxdma
+	Region type    : struct
+	Offsets        : 174-253
+	Line numbers   : 8-11
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:13: info: Metrics per 'nv50_wndw' region
+	Region name    : nv50_wndw
+	Region type    : struct
+	Offsets        : 256-606
+	Line numbers   : 13-34
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:19: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 397-463
+	Line numbers   : 19-22
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:48: info: Metrics per 'nv50_wndw_func' region
+	Region name    : nv50_wndw_func
+	Region type    : struct
+	Offsets        : 1192-2578
+	Line numbers   : 48-79
+	Modified       : None
+	std.code.lines:code: 30
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:93: info: Metrics per 'nv50_wimm_func' region
+	Region name    : nv50_wimm_func
+	Region type    : struct
+	Offsets        : 3062-3200
+	Line numbers   : 93-97
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:103: info: Metrics per 'nvif_chan_wait' region
+	Region name    : nvif_chan_wait
+	Region type    : function
+	Offsets        : 3290-3487
+	Line numbers   : 102-107
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/wndw.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.42857143
+	Minimum        : 4
+	Maximum        : 53
+	Total          : 115.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.429 : 0.429 : 3	||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.143 : 0.571 : 1	||||||||||||||
+	            14 : 0.143 : 0.714 : 1	||||||||||||||
+	            30 : 0.143 : 0.857 : 1	||||||||||||||
+	            53 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/oimm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-211
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/nouveau/dispnv50/oimm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/dispnv50/oimm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/core.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2534
+	Line numbers   : 1-74
+	Modified       : None
+	std.code.lines:code: 29
+
+./drivers/gpu/drm/nouveau/dispnv50/core.h:8: info: Metrics per 'nv50_core' region
+	Region name    : nv50_core
+	Region type    : struct
+	Offsets        : 139-241
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/dispnv50/core.h:17: info: Metrics per 'nv50_core_func' region
+	Region name    : nv50_core_func
+	Region type    : struct
+	Offsets        : 348-1105
+	Line numbers   : 17-40
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/dispnv50/core.h:25: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 673-720
+	Line numbers   : 25-27
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/dispnv50/core.h:33: info: Metrics per 'nv50_outp_func' region
+	Region name    : nv50_outp_func
+	Region type    : struct
+	Offsets        : 830-1084
+	Line numbers   : 32-39
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/dispnv50/core.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/dispnv50/core.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 3
+	Maximum        : 29
+	Total          : 55.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             5 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             6 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            12 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            29 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/base.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1107
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/gpu/drm/nouveau/dispnv50/base.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/dispnv50/base.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.0
+	Minimum        : 18
+	Maximum        : 18
+	Total          : 18.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            18 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/dispnv50/handles.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-668
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/dispnv50/handles.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/dispnv50/handles.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4708
+	Line numbers   : 1-183
+	Modified       : None
+	std.code.lines:code: 29
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:45: info: Metrics per 'nouveau_encoder' region
+	Region name    : nouveau_encoder
+	Region type    : struct
+	Offsets        : 1560-2890
+	Line numbers   : 45-118
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:62: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1891-1961
+	Line numbers   : 61-64
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:71: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2053-2636
+	Line numbers   : 71-108
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:72: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2064-2093
+	Line numbers   : 72-74
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:76: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2103-2629
+	Line numbers   : 76-107
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:79: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2143-2206
+	Line numbers   : 79-82
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:92: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2340-2393
+	Line numbers   : 92-96
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:110: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2640-2676
+	Line numbers   : 110-112
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:120: info: Metrics per 'nv50_mstm' region
+	Region name    : nv50_mstm
+	Region type    : struct
+	Offsets        : 2893-3130
+	Line numbers   : 120-133
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:138: info: Metrics per 'nouveau_encoder' region
+	Region name    : nouveau_encoder
+	Region type    : function
+	Offsets        : 3216-3416
+	Line numbers   : 138-143
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:145: info: Metrics per 'to_drm_encoder' region
+	Region name    : to_drm_encoder
+	Region type    : function
+	Offsets        : 3418-3524
+	Line numbers   : 145-148
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:151: info: Metrics per 'get_slave_funcs' region
+	Region name    : get_slave_funcs
+	Region type    : function
+	Offsets        : 3526-3667
+	Line numbers   : 150-154
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nouveau_encoder.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.38461538
+	Minimum        : 3
+	Maximum        : 29
+	Total          : 109.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.231 : 0.231 :  3	|||||||||||||||||||||||
+	             4 : 0.231 : 0.462 :  3	|||||||||||||||||||||||
+	             5 : 0.231 : 0.692 :  3	|||||||||||||||||||||||
+	            10 : 0.077 : 0.769 :  1	|||||||
+	            14 : 0.077 : 0.846 :  1	|||||||
+	            20 : 0.077 : 0.923 :  1	|||||||
+	            29 : 0.077 : 1.000 :  1	|||||||
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2128
+	Line numbers   : 1-89
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:23: info: Metrics per 'nvkm_falcon_qmgr_seq' region
+	Region name    : nvkm_falcon_qmgr_seq
+	Region type    : struct
+	Offsets        : 269-956
+	Line numbers   : 11-36
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:44: info: Metrics per 'nvkm_falcon_qmgr' region
+	Region name    : nvkm_falcon_qmgr
+	Region type    : struct
+	Offsets        : 1124-1343
+	Line numbers   : 44-52
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:47: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1181-1336
+	Line numbers   : 47-51
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:59: info: Metrics per 'nvkm_falcon_cmdq' region
+	Region name    : nvkm_falcon_cmdq
+	Region type    : struct
+	Offsets        : 1533-1729
+	Line numbers   : 59-71
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:73: info: Metrics per 'nvkm_falcon_msgq' region
+	Region name    : nvkm_falcon_msgq
+	Region type    : struct
+	Offsets        : 1732-1888
+	Line numbers   : 73-83
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/qmgr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.5
+	Minimum        : 4
+	Maximum        : 14
+	Total          : 51.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	             5 : 0.167 : 0.333 : 1	||||||||||||||||
+	             8 : 0.167 : 0.500 : 1	||||||||||||||||
+	             9 : 0.167 : 0.667 : 1	||||||||||||||||
+	            11 : 0.167 : 0.833 : 1	||||||||||||||||
+	            14 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-276
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/priv.h:7: info: Metrics per 'nvkm_falcon_enable' region
+	Region name    : nvkm_falcon_enable
+	Region type    : function
+	Offsets        : 123-268
+	Line numbers   : 6-12
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/falcon/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 0
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fault/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1749
+	Line numbers   : 1-61
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fault/priv.h:10: info: Metrics per 'nvkm_fault_buffer' region
+	Region name    : nvkm_fault_buffer
+	Region type    : struct
+	Offsets        : 285-473
+	Line numbers   : 10-21
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fault/priv.h:26: info: Metrics per 'nvkm_fault_func' region
+	Region name    : nvkm_fault_func
+	Region type    : struct
+	Offsets        : 613-1121
+	Line numbers   : 26-44
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fault/priv.h:31: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 785-1055
+	Line numbers   : 31-39
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fault/priv.h:40: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1065-1113
+	Line numbers   : 40-43
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fault/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fault/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.4
+	Minimum        : 4
+	Maximum        : 15
+	Total          : 47.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             8 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             9 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            11 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            15 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3777
+	Line numbers   : 1-119
+	Modified       : None
+	std.code.lines:code: 47
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:6: info: Metrics per 'nvkm_acr_fwif' region
+	Region name    : nvkm_acr_fwif
+	Region type    : struct
+	Offsets        : 105-260
+	Line numbers   : 6-11
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:18: info: Metrics per 'nvkm_acr_func' region
+	Region name    : nvkm_acr_func
+	Region type    : struct
+	Offsets        : 507-1089
+	Line numbers   : 18-32
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:57: info: Metrics per 'nvkm_acr_hsfw' region
+	Region name    : nvkm_acr_hsfw
+	Region type    : struct
+	Offsets        : 2027-2237
+	Line numbers   : 57-69
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:73: info: Metrics per 'nvkm_acr_hsf_fwif' region
+	Region name    : nvkm_acr_hsf_fwif
+	Region type    : struct
+	Offsets        : 2302-2595
+	Line numbers   : 73-83
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:106: info: Metrics per 'nvkm_acr_lsf' region
+	Region name    : nvkm_acr_lsf
+	Region type    : struct
+	Offsets        : 3383-3524
+	Line numbers   : 106-111
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/acr/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.83333333
+	Minimum        : 6
+	Maximum        : 47
+	Total          : 95.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 2	|||||||||||||||||||||||||||||||||
+	            10 : 0.167 : 0.500 : 1	||||||||||||||||
+	            11 : 0.167 : 0.667 : 1	||||||||||||||||
+	            15 : 0.167 : 0.833 : 1	||||||||||||||||
+	            47 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mc/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1658
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mc/priv.h:10: info: Metrics per 'nvkm_mc_map' region
+	Region name    : nvkm_mc_map
+	Region type    : struct
+	Offsets        : 294-381
+	Line numbers   : 10-15
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mc/priv.h:17: info: Metrics per 'nvkm_mc_func' region
+	Region name    : nvkm_mc_func
+	Region type    : struct
+	Offsets        : 384-800
+	Line numbers   : 17-33
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mc/priv.h:24: info: Metrics per 'nvkm_mc_device_func' region
+	Region name    : nvkm_mc_device_func
+	Region type    : struct
+	Offsets        : 536-713
+	Line numbers   : 24-28
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mc/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mc/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.5
+	Minimum        : 5
+	Maximum        : 22
+	Total          : 42.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             6 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             9 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            22 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/gf100.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-792
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/gf100.h:7: info: Metrics per 'gf100_barN' region
+	Region name    : gf100_barN
+	Region type    : struct
+	Offsets        : 165-236
+	Line numbers   : 7-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/gf100.h:12: info: Metrics per 'gf100_bar' region
+	Region name    : gf100_bar
+	Region type    : struct
+	Offsets        : 239-327
+	Line numbers   : 12-16
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/gf100.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/gf100.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.66666667
+	Minimum        : 4
+	Maximum        : 11
+	Total          : 20.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1050
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/priv.h:13: info: Metrics per 'nvkm_bar_func' region
+	Region name    : nvkm_bar_func
+	Region type    : struct
+	Offsets        : 433-775
+	Line numbers   : 13-26
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/priv.h:18: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 563-725
+	Line numbers   : 18-23
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 6
+	Maximum        : 11
+	Total          : 24.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/nv50.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-915
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/nv50.h:7: info: Metrics per 'nv50_bar' region
+	Region name    : nv50_bar
+	Region type    : struct
+	Offsets        : 161-406
+	Line numbers   : 7-17
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/nv50.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bar/nv50.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 11
+	Maximum        : 11
+	Total          : 22.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bios/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-910
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bios/priv.h:7: info: Metrics per 'nvbios_source' region
+	Region name    : nvbios_source
+	Region type    : struct
+	Offsets        : 184-465
+	Line numbers   : 7-17
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bios/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bios/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.5
+	Minimum        : 10
+	Maximum        : 11
+	Total          : 21.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/umem.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-480
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/umem.h:7: info: Metrics per 'nvkm_umem' region
+	Region name    : nvkm_umem
+	Region type    : struct
+	Offsets        : 156-374
+	Line numbers   : 7-21
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/umem.h:17: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 324-371
+	Line numbers   : 17-20
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/umem.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/umem.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.66666667
+	Minimum        : 3
+	Maximum        : 10
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            10 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/mem.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-858
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/mem.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/mem.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.0
+	Minimum        : 15
+	Maximum        : 15
+	Total          : 15.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            15 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-17036
+	Line numbers   : 1-381
+	Modified       : None
+	std.code.lines:code: 134
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:7: info: Metrics per 'nvkm_vmm_pt' region
+	Region name    : nvkm_vmm_pt
+	Region type    : struct
+	Offsets        : 115-1364
+	Line numbers   : 7-51
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:60: info: Metrics per 'nvkm_vmm_desc_func' region
+	Region name    : nvkm_vmm_desc_func
+	Region type    : struct
+	Offsets        : 1687-2031
+	Line numbers   : 60-74
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:89: info: Metrics per 'nvkm_vmm_desc' region
+	Region name    : nvkm_vmm_desc
+	Region type    : struct
+	Offsets        : 2691-2911
+	Line numbers   : 89-100
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:118: info: Metrics per 'nvkm_vmm_page' region
+	Region name    : nvkm_vmm_page
+	Region type    : struct
+	Offsets        : 3600-4891
+	Line numbers   : 118-137
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:139: info: Metrics per 'nvkm_vmm_func' region
+	Region name    : nvkm_vmm_func
+	Region type    : struct
+	Offsets        : 4894-5412
+	Line numbers   : 139-155
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:157: info: Metrics per 'nvkm_vmm_join' region
+	Region name    : nvkm_vmm_join
+	Region type    : struct
+	Offsets        : 5415-5490
+	Line numbers   : 157-160
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:184: info: Metrics per 'nvkm_vmm_in_managed_range' region
+	Region name    : nvkm_vmm_in_managed_range
+	Region type    : function
+	Offsets        : 6572-6974
+	Line numbers   : 183-199
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/vmm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 25.25
+	Minimum        : 4
+	Maximum        : 134
+	Total          : 202.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.125 : 0.125 : 1	||||||||||||
+	             5 : 0.125 : 0.250 : 1	||||||||||||
+	             8 : 0.125 : 0.375 : 1	||||||||||||
+	            12 : 0.250 : 0.625 : 2	|||||||||||||||||||||||||
+	            13 : 0.125 : 0.750 : 1	||||||||||||
+	            14 : 0.125 : 0.875 : 1	||||||||||||
+	           134 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/uvmm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-333
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/uvmm.h:7: info: Metrics per 'nvkm_uvmm' region
+	Region name    : nvkm_uvmm
+	Region type    : struct
+	Offsets        : 156-227
+	Line numbers   : 7-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/uvmm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/uvmm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/ummu.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-356
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/ummu.h:7: info: Metrics per 'nvkm_ummu' region
+	Region name    : nvkm_ummu
+	Region type    : struct
+	Offsets        : 157-228
+	Line numbers   : 7-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/ummu.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/ummu.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2005
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:15: info: Metrics per 'nvkm_mmu_func' region
+	Region name    : nvkm_mmu_func
+	Region type    : struct
+	Offsets        : 551-1360
+	Line numbers   : 15-46
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:21: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 660-698
+	Line numbers   : 21-23
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:25: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 706-986
+	Line numbers   : 25-31
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:33: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 994-1231
+	Line numbers   : 33-40
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:56: info: Metrics per 'nvkm_mmu_pt' region
+	Region name    : nvkm_mmu_pt
+	Region type    : struct
+	Offsets        : 1608-1785
+	Line numbers   : 56-66
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:57: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1630-1696
+	Line numbers   : 57-60
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mmu/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.14285714
+	Minimum        : 3
+	Maximum        : 16
+	Total          : 57.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.143 : 0.143 : 1	||||||||||||||
+	             4 : 0.143 : 0.286 : 1	||||||||||||||
+	             7 : 0.143 : 0.429 : 1	||||||||||||||
+	             8 : 0.286 : 0.714 : 2	||||||||||||||||||||||||||||
+	            11 : 0.143 : 0.857 : 1	||||||||||||||
+	            16 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/seq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-673
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/seq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/seq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gt215.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-438
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gt215.h:6: info: Metrics per 'gt215_clk_info' region
+	Region name    : gt215_clk_info
+	Region type    : struct
+	Offsets        : 110-225
+	Line numbers   : 6-14
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gt215.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gt215.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.5
+	Minimum        : 4
+	Maximum        : 9
+	Total          : 13.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/pll.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-379
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/pll.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/pll.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-996
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/priv.h:7: info: Metrics per 'nvkm_clk_func' region
+	Region name    : nvkm_clk_func
+	Region type    : struct
+	Offsets        : 179-520
+	Line numbers   : 7-17
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 8
+	Maximum        : 11
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/nv50.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-770
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/nv50.h:9: info: Metrics per 'nv50_clk_hwsq' region
+	Region name    : nv50_clk_hwsq
+	Region type    : struct
+	Offsets        : 191-366
+	Line numbers   : 9-16
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/nv50.h:18: info: Metrics per 'nv50_clk' region
+	Region name    : nv50_clk
+	Region type    : struct
+	Offsets        : 369-439
+	Line numbers   : 18-21
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/nv50.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/nv50.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.66666667
+	Minimum        : 4
+	Maximum        : 8
+	Total          : 20.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5578
+	Line numbers   : 1-160
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:102: info: Metrics per 'gk20a_clk_pllg_params' region
+	Region name    : gk20a_clk_pllg_params
+	Region type    : struct
+	Offsets        : 4005-4167
+	Line numbers   : 101-108
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:110: info: Metrics per 'gk20a_pll' region
+	Region name    : gk20a_pll
+	Region type    : struct
+	Offsets        : 4170-4215
+	Line numbers   : 110-114
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:116: info: Metrics per 'gk20a_clk' region
+	Region name    : gk20a_clk
+	Region type    : struct
+	Offsets        : 4218-4396
+	Line numbers   : 116-124
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:133: info: Metrics per 'gk20a_pllg_is_enabled' region
+	Region name    : gk20a_pllg_is_enabled
+	Region type    : function
+	Offsets        : 4748-4952
+	Line numbers   : 132-140
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:143: info: Metrics per 'gk20a_pllg_n_lo' region
+	Region name    : gk20a_pllg_n_lo
+	Region type    : function
+	Offsets        : 4954-5121
+	Line numbers   : 142-147
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/clk/gk20a.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.16666667
+	Minimum        : 5
+	Maximum        : 15
+	Total          : 49.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.167 : 0.167 : 1	||||||||||||||||
+	             6 : 0.167 : 0.333 : 1	||||||||||||||||
+	             7 : 0.167 : 0.500 : 1	||||||||||||||||
+	             8 : 0.333 : 0.833 : 2	|||||||||||||||||||||||||||||||||
+	            15 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/regsnv04.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1003
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/regsnv04.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/regsnv04.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramseq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-797
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramseq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramseq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/gk104.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1549
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/gk104.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/gk104.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramnv40.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-328
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramnv40.h:7: info: Metrics per 'nv40_ram' region
+	Region name    : nv40_ram
+	Region type    : struct
+	Offsets        : 166-230
+	Line numbers   : 7-11
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramnv40.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramnv40.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 3
+	Maximum        : 5
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ram.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3108
+	Line numbers   : 1-75
+	Modified       : None
+	std.code.lines:code: 58
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ram.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ram.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 58.0
+	Minimum        : 58
+	Maximum        : 58
+	Total          : 58.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            58 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/gf100.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-501
+	Line numbers   : 1-19
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/gf100.h:7: info: Metrics per 'gf100_fb' region
+	Region name    : gf100_fb
+	Region type    : struct
+	Offsets        : 171-212
+	Line numbers   : 7-9
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/gf100.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/gf100.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3891
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:7: info: Metrics per 'ramfuc' region
+	Region name    : ramfuc
+	Region type    : struct
+	Offsets        : 141-219
+	Line numbers   : 7-11
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:13: info: Metrics per 'ramfuc_reg' region
+	Region name    : ramfuc_reg
+	Region type    : struct
+	Offsets        : 222-332
+	Line numbers   : 13-20
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:23: info: Metrics per 'ramfuc_stride' region
+	Region name    : ramfuc_stride
+	Region type    : function
+	Offsets        : 335-541
+	Line numbers   : 22-32
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:25: info: Metrics per 'ramfuc_reg' region
+	Region name    : ramfuc_reg
+	Region type    : struct
+	Offsets        : 416-538
+	Line numbers   : 25-31
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:35: info: Metrics per 'ramfuc_reg2' region
+	Region name    : ramfuc_reg2
+	Region type    : function
+	Offsets        : 543-744
+	Line numbers   : 34-44
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:37: info: Metrics per 'ramfuc_reg' region
+	Region name    : ramfuc_reg
+	Region type    : struct
+	Offsets        : 612-741
+	Line numbers   : 37-43
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:47: info: Metrics per 'ramfuc_reg' region
+	Region name    : ramfuc_reg
+	Region type    : function
+	Offsets        : 746-923
+	Line numbers   : 46-56
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:49: info: Metrics per 'ramfuc_reg' region
+	Region name    : ramfuc_reg
+	Region type    : struct
+	Offsets        : 804-920
+	Line numbers   : 49-55
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:59: info: Metrics per 'ramfuc_init' region
+	Region name    : ramfuc_init
+	Region type    : function
+	Offsets        : 925-1130
+	Line numbers   : 58-68
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:71: info: Metrics per 'ramfuc_exec' region
+	Region name    : ramfuc_exec
+	Region type    : function
+	Offsets        : 1132-1302
+	Line numbers   : 70-79
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:82: info: Metrics per 'ramfuc_rd32' region
+	Region name    : ramfuc_rd32
+	Region type    : function
+	Offsets        : 1304-1535
+	Line numbers   : 81-88
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:91: info: Metrics per 'ramfuc_wr32' region
+	Region name    : ramfuc_wr32
+	Region type    : function
+	Offsets        : 1537-1865
+	Line numbers   : 90-103
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:106: info: Metrics per 'ramfuc_nuke' region
+	Region name    : ramfuc_nuke
+	Region type    : function
+	Offsets        : 1867-1965
+	Line numbers   : 105-109
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:112: info: Metrics per 'ramfuc_mask' region
+	Region name    : ramfuc_mask
+	Region type    : function
+	Offsets        : 1967-2240
+	Line numbers   : 111-120
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:123: info: Metrics per 'ramfuc_wait' region
+	Region name    : ramfuc_wait
+	Region type    : function
+	Offsets        : 2242-2388
+	Line numbers   : 122-126
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:129: info: Metrics per 'ramfuc_nsec' region
+	Region name    : ramfuc_nsec
+	Region type    : function
+	Offsets        : 2390-2488
+	Line numbers   : 128-132
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:135: info: Metrics per 'ramfuc_wait_vblank' region
+	Region name    : ramfuc_wait_vblank
+	Region type    : function
+	Offsets        : 2490-2586
+	Line numbers   : 134-138
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:141: info: Metrics per 'ramfuc_train' region
+	Region name    : ramfuc_train
+	Region type    : function
+	Offsets        : 2588-2672
+	Line numbers   : 140-144
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:147: info: Metrics per 'ramfuc_train_result' region
+	Region name    : ramfuc_train_result
+	Region type    : function
+	Offsets        : 2674-2830
+	Line numbers   : 146-150
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:153: info: Metrics per 'ramfuc_block' region
+	Region name    : ramfuc_block
+	Region type    : function
+	Offsets        : 2832-2916
+	Line numbers   : 152-156
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:159: info: Metrics per 'ramfuc_unblock' region
+	Region name    : ramfuc_unblock
+	Region type    : function
+	Offsets        : 2918-3006
+	Line numbers   : 158-162
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.4375
+	Minimum        : 0
+	Maximum        : 2
+	Total          : 7.0
+	Distribution   : 16 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.688 : 0.688 : 11	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.188 : 0.875 :  3	||||||||||||||||||
+	             2 : 0.125 : 1.000 :  2	||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/ramfuc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.40909091
+	Minimum        : 2
+	Maximum        : 12
+	Total          : 141.0
+	Distribution   : 22 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.045 : 0.045 :  1	||||
+	             5 : 0.545 : 0.591 : 12	||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.136 : 0.727 :  3	|||||||||||||
+	             8 : 0.091 : 0.818 :  2	|||||||||
+	            10 : 0.136 : 0.955 :  3	|||||||||||||
+	            12 : 0.045 : 1.000 :  1	||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3453
+	Line numbers   : 1-102
+	Modified       : None
+	std.code.lines:code: 41
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:12: info: Metrics per 'nvkm_fb_func' region
+	Region name    : nvkm_fb_func
+	Region type    : struct
+	Offsets        : 341-1408
+	Line numbers   : 12-49
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:22: info: Metrics per 'nvkm_fb_func_sysmem' region
+	Region name    : nvkm_fb_func_sysmem
+	Region type    : struct
+	Offsets        : 649-725
+	Line numbers   : 22-24
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:26: info: Metrics per 'nvkm_fb_func_vidmem' region
+	Region name    : nvkm_fb_func_vidmem
+	Region type    : struct
+	Offsets        : 736-800
+	Line numbers   : 26-28
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:30: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 811-900
+	Line numbers   : 30-33
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:35: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 908-1269
+	Line numbers   : 35-43
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.83333333
+	Minimum        : 3
+	Maximum        : 41
+	Total          : 77.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 2	|||||||||||||||||||||||||||||||||
+	             4 : 0.167 : 0.500 : 1	||||||||||||||||
+	             9 : 0.167 : 0.667 : 1	||||||||||||||||
+	            17 : 0.167 : 0.833 : 1	||||||||||||||||
+	            41 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/nv50.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-497
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/nv50.h:7: info: Metrics per 'nv50_fb' region
+	Region name    : nv50_fb
+	Region type    : struct
+	Offsets        : 167-241
+	Line numbers   : 7-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/nv50.h:12: info: Metrics per 'nv50_fb_func' region
+	Region name    : nv50_fb_func
+	Region type    : struct
+	Offsets        : 244-365
+	Line numbers   : 12-16
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/nv50.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fb/nv50.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.33333333
+	Minimum        : 4
+	Maximum        : 5
+	Total          : 13.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gt215.fuc3.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-26293
+	Line numbers   : 1-1868
+	Modified       : None
+	std.code.lines:code: 1732
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gt215.fuc3.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gt215.fuc3.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1732.0
+	Minimum        : 1732
+	Maximum        : 1732
+	Total          : 1732.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1732 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gk208.fuc5.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-24285
+	Line numbers   : 1-1731
+	Modified       : None
+	std.code.lines:code: 1604
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gk208.fuc5.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gk208.fuc5.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1604.0
+	Minimum        : 1604
+	Maximum        : 1604
+	Total          : 1604.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1604 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/os.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1309
+	Line numbers   : 1-54
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/os.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/os.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gf100.fuc3.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-26173
+	Line numbers   : 1-1865
+	Modified       : None
+	std.code.lines:code: 1732
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gf100.fuc3.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gf100.fuc3.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1732.0
+	Minimum        : 1732
+	Maximum        : 1732
+	Total          : 1732.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1732 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gf119.fuc4.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-25117
+	Line numbers   : 1-1795
+	Modified       : None
+	std.code.lines:code: 1668
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gf119.fuc4.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/fuc/gf119.fuc4.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1668.0
+	Minimum        : 1668
+	Maximum        : 1668
+	Total          : 1668.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	          1668 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2293
+	Line numbers   : 1-72
+	Modified       : None
+	std.code.lines:code: 27
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/priv.h:10: info: Metrics per 'nvkm_pmu_func' region
+	Region name    : nvkm_pmu_func
+	Region type    : struct
+	Offsets        : 254-793
+	Line numbers   : 10-33
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/priv.h:13: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 317-354
+	Line numbers   : 13-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/priv.h:18: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 363-400
+	Line numbers   : 18-21
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/priv.h:56: info: Metrics per 'nvkm_pmu_fwif' region
+	Region name    : nvkm_pmu_fwif
+	Region type    : struct
+	Offsets        : 1632-1815
+	Line numbers   : 56-61
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pmu/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.2
+	Minimum        : 4
+	Maximum        : 27
+	Total          : 56.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.400 : 0.400 : 2	||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            15 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            27 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/ltc/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1910
+	Line numbers   : 1-53
+	Modified       : None
+	std.code.lines:code: 23
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/ltc/priv.h:11: info: Metrics per 'nvkm_ltc_func' region
+	Region name    : nvkm_ltc_func
+	Region type    : struct
+	Offsets        : 326-852
+	Line numbers   : 11-27
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/ltc/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/ltc/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.5
+	Minimum        : 14
+	Maximum        : 23
+	Total          : 37.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            23 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/timer/regsnv04.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-322
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/timer/regsnv04.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/timer/regsnv04.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/timer/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-936
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/timer/priv.h:10: info: Metrics per 'nvkm_timer_func' region
+	Region name    : nvkm_timer_func
+	Region type    : struct
+	Offsets        : 321-594
+	Line numbers   : 10-17
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/timer/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/timer/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 8
+	Maximum        : 10
+	Total          : 18.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/instmem/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1723
+	Line numbers   : 1-49
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/instmem/priv.h:7: info: Metrics per 'nvkm_instmem_func' region
+	Region name    : nvkm_instmem_func
+	Region type    : struct
+	Offsets        : 199-734
+	Line numbers   : 7-19
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/instmem/priv.h:36: info: Metrics per 'nvkm_instobj' region
+	Region name    : nvkm_instobj
+	Region type    : struct
+	Offsets        : 1328-1434
+	Line numbers   : 36-41
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/instmem/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/instmem/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.66666667
+	Minimum        : 6
+	Maximum        : 16
+	Total          : 35.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            13 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gk104.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1715
+	Line numbers   : 1-50
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gk104.h:33: info: Metrics per 'gk104_clkgate_engine_info' region
+	Region name    : gk104_clkgate_engine_info
+	Region type    : struct
+	Offsets        : 1331-1419
+	Line numbers   : 33-37
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gk104.h:39: info: Metrics per 'gk104_therm' region
+	Region name    : gk104_therm
+	Region type    : struct
+	Offsets        : 1422-1572
+	Line numbers   : 39-44
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gk104.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gk104.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 4
+	Maximum        : 5
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gf100.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1286
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gf100.h:30: info: Metrics per 'gf100_idle_filter' region
+	Region name    : gf100_idle_filter
+	Region type    : struct
+	Offsets        : 1224-1276
+	Line numbers   : 30-33
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gf100.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/gf100.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5133
+	Line numbers   : 1-138
+	Modified       : None
+	std.code.lines:code: 53
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/priv.h:38: info: Metrics per 'nvkm_fan' region
+	Region name    : nvkm_fan
+	Region type    : struct
+	Offsets        : 1684-1982
+	Line numbers   : 38-53
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/priv.h:84: info: Metrics per 'nvkm_therm_func' region
+	Region name    : nvkm_therm_func
+	Region type    : struct
+	Offsets        : 3261-3938
+	Line numbers   : 84-104
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/therm/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.0
+	Minimum        : 12
+	Maximum        : 53
+	Total          : 81.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            53 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gsp/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2143
+	Line numbers   : 1-71
+	Modified       : None
+	std.code.lines:code: 26
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gsp/priv.h:10: info: Metrics per 'nvkm_gsp_fwif' region
+	Region name    : nvkm_gsp_fwif
+	Region type    : struct
+	Offsets        : 225-402
+	Line numbers   : 10-16
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gsp/priv.h:21: info: Metrics per 'nvkm_gsp_func' region
+	Region name    : nvkm_gsp_func
+	Region type    : struct
+	Offsets        : 554-1130
+	Line numbers   : 21-45
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gsp/priv.h:27: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 680-748
+	Line numbers   : 27-31
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gsp/priv.h:33: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 761-903
+	Line numbers   : 33-36
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gsp/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gsp/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 4
+	Maximum        : 26
+	Total          : 55.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             5 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             7 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            13 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            26 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/privring/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-234
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/privring/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/privring/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv04.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-849
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv04.h:8: info: Metrics per 'nv04_devinit' region
+	Region name    : nv04_devinit
+	Region type    : struct
+	Offsets        : 199-261
+	Line numbers   : 8-11
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv04.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv04.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 4
+	Maximum        : 11
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2901
+	Line numbers   : 1-84
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:48: info: Metrics per 'fbmem_init' region
+	Region name    : fbmem_init
+	Region type    : function
+	Offsets        : 2063-2242
+	Line numbers   : 47-52
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:55: info: Metrics per 'fbmem_fini' region
+	Region name    : fbmem_fini
+	Region type    : function
+	Offsets        : 2244-2322
+	Line numbers   : 54-58
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:61: info: Metrics per 'fbmem_peek' region
+	Region name    : fbmem_peek
+	Region type    : function
+	Offsets        : 2324-2539
+	Line numbers   : 60-67
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:70: info: Metrics per 'fbmem_poke' region
+	Region name    : fbmem_poke
+	Region type    : function
+	Offsets        : 2541-2757
+	Line numbers   : 69-76
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:79: info: Metrics per 'fbmem_readback' region
+	Region name    : fbmem_readback
+	Region type    : function
+	Offsets        : 2759-2900
+	Line numbers   : 78-83
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 5	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/fbmem.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 0
+	Maximum        : 8
+	Total          : 33.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.167 : 0.167 : 1	||||||||||||||||
+	             5 : 0.167 : 0.333 : 1	||||||||||||||||
+	             6 : 0.333 : 0.667 : 2	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 2	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1028
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/priv.h:10: info: Metrics per 'nvkm_devinit_func' region
+	Region name    : nvkm_devinit_func
+	Region type    : struct
+	Offsets        : 337-718
+	Line numbers   : 10-19
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 8
+	Maximum        : 10
+	Total          : 18.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv50.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1017
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv50.h:7: info: Metrics per 'nv50_devinit' region
+	Region name    : nv50_devinit
+	Region type    : struct
+	Offsets        : 177-241
+	Line numbers   : 7-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv50.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/devinit/nv50.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 4
+	Maximum        : 15
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2601
+	Line numbers   : 1-149
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:6: info: Metrics per 'hwsq' region
+	Region name    : hwsq
+	Region type    : struct
+	Offsets        : 116-200
+	Line numbers   : 6-10
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:12: info: Metrics per 'hwsq_reg' region
+	Region name    : hwsq_reg
+	Region type    : struct
+	Offsets        : 203-311
+	Line numbers   : 12-19
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:22: info: Metrics per 'hwsq_stride' region
+	Region name    : hwsq_stride
+	Region type    : function
+	Offsets        : 314-528
+	Line numbers   : 21-32
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:24: info: Metrics per 'hwsq_reg' region
+	Region name    : hwsq_reg
+	Region type    : struct
+	Offsets        : 391-525
+	Line numbers   : 24-31
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:35: info: Metrics per 'hwsq_reg2' region
+	Region name    : hwsq_reg2
+	Region type    : function
+	Offsets        : 530-739
+	Line numbers   : 34-45
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:37: info: Metrics per 'hwsq_reg' region
+	Region name    : hwsq_reg
+	Region type    : struct
+	Offsets        : 595-736
+	Line numbers   : 37-44
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:48: info: Metrics per 'hwsq_reg' region
+	Region name    : hwsq_reg
+	Region type    : function
+	Offsets        : 741-924
+	Line numbers   : 47-58
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:50: info: Metrics per 'hwsq_reg' region
+	Region name    : hwsq_reg
+	Region type    : struct
+	Offsets        : 793-921
+	Line numbers   : 50-57
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:61: info: Metrics per 'hwsq_init' region
+	Region name    : hwsq_init
+	Region type    : function
+	Offsets        : 926-1134
+	Line numbers   : 60-72
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:75: info: Metrics per 'hwsq_exec' region
+	Region name    : hwsq_exec
+	Region type    : function
+	Offsets        : 1136-1310
+	Line numbers   : 74-83
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:86: info: Metrics per 'hwsq_rd32' region
+	Region name    : hwsq_rd32
+	Region type    : function
+	Offsets        : 1312-1534
+	Line numbers   : 85-92
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:95: info: Metrics per 'hwsq_wr32' region
+	Region name    : hwsq_wr32
+	Region type    : function
+	Offsets        : 1536-1850
+	Line numbers   : 94-108
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:111: info: Metrics per 'hwsq_nuke' region
+	Region name    : hwsq_nuke
+	Region type    : function
+	Offsets        : 1852-1944
+	Line numbers   : 110-114
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:117: info: Metrics per 'hwsq_mask' region
+	Region name    : hwsq_mask
+	Region type    : function
+	Offsets        : 1946-2182
+	Line numbers   : 116-123
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:126: info: Metrics per 'hwsq_setf' region
+	Region name    : hwsq_setf
+	Region type    : function
+	Offsets        : 2184-2293
+	Line numbers   : 125-129
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:132: info: Metrics per 'hwsq_wait' region
+	Region name    : hwsq_wait
+	Region type    : function
+	Offsets        : 2295-2403
+	Line numbers   : 131-135
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:138: info: Metrics per 'hwsq_wait_vblank' region
+	Region name    : hwsq_wait_vblank
+	Region type    : function
+	Offsets        : 2405-2497
+	Line numbers   : 137-141
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:144: info: Metrics per 'hwsq_nsec' region
+	Region name    : hwsq_nsec
+	Region type    : function
+	Offsets        : 2499-2593
+	Line numbers   : 143-147
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.53846154
+	Minimum        : 0
+	Maximum        : 2
+	Total          : 7.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.615 : 0.615 :  8	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.231 : 0.846 :  3	|||||||||||||||||||||||
+	             2 : 0.154 : 1.000 :  2	|||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/hwsq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.73684211
+	Minimum        : 2
+	Maximum        : 12
+	Total          : 128.0
+	Distribution   : 19 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.053 : 0.053 :  1	|||||
+	             5 : 0.474 : 0.526 :  9	|||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.316 : 0.842 :  6	|||||||||||||||||||||||||||||||
+	            10 : 0.053 : 0.895 :  1	|||||
+	            11 : 0.053 : 0.947 :  1	|||||
+	            12 : 0.053 : 1.000 :  1	|||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-549
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/priv.h:7: info: Metrics per 'nvkm_bus_func' region
+	Region name    : nvkm_bus_func
+	Region type    : struct
+	Offsets        : 179-337
+	Line numbers   : 7-12
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/bus/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 5
+	Maximum        : 6
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fuse/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-390
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fuse/priv.h:7: info: Metrics per 'nvkm_fuse_func' region
+	Region name    : nvkm_fuse_func
+	Region type    : struct
+	Offsets        : 184-253
+	Line numbers   : 7-9
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fuse/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/fuse/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/pad.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2733
+	Line numbers   : 1-69
+	Modified       : None
+	std.code.lines:code: 23
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/pad.h:6: info: Metrics per 'nvkm_i2c_pad' region
+	Region name    : nvkm_i2c_pad
+	Region type    : struct
+	Offsets        : 108-586
+	Line numbers   : 6-21
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/pad.h:23: info: Metrics per 'nvkm_i2c_pad_func' region
+	Region name    : nvkm_i2c_pad_func
+	Region type    : struct
+	Offsets        : 589-955
+	Line numbers   : 23-33
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/pad.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/pad.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.66666667
+	Minimum        : 9
+	Maximum        : 23
+	Total          : 44.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            12 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            23 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/aux.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1836
+	Line numbers   : 1-47
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/aux.h:7: info: Metrics per 'nvkm_i2c_aux_autodpcd' region
+	Region name    : nvkm_i2c_aux_autodpcd
+	Region type    : function
+	Offsets        : 107-269
+	Line numbers   : 6-11
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/aux.h:13: info: Metrics per 'nvkm_i2c_aux_func' region
+	Region name    : nvkm_i2c_aux_func
+	Region type    : struct
+	Offsets        : 271-508
+	Line numbers   : 13-19
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/aux.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/aux.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.66666667
+	Minimum        : 6
+	Maximum        : 16
+	Total          : 29.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/bus.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1620
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/bus.h:6: info: Metrics per 'nvkm_i2c_bus_func' region
+	Region name    : nvkm_i2c_bus_func
+	Region type    : struct
+	Offsets        : 107-429
+	Line numbers   : 6-13
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/bus.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/bus.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 8
+	Maximum        : 14
+	Total          : 22.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1248
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/priv.h:10: info: Metrics per 'nvkm_i2c_func' region
+	Region name    : nvkm_i2c_func
+	Region type    : struct
+	Offsets        : 303-995
+	Line numbers   : 10-30
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/i2c/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 7
+	Maximum        : 8
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gpio/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1411
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gpio/priv.h:7: info: Metrics per 'nvkm_gpio_func' region
+	Region name    : nvkm_gpio_func
+	Region type    : struct
+	Offsets        : 184-849
+	Line numbers   : 7-29
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gpio/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/gpio/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 8
+	Maximum        : 11
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/iccsense/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-768
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/iccsense/priv.h:8: info: Metrics per 'nvkm_iccsense_sensor' region
+	Region name    : nvkm_iccsense_sensor
+	Region type    : struct
+	Offsets        : 236-380
+	Line numbers   : 8-15
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/iccsense/priv.h:17: info: Metrics per 'nvkm_iccsense_rail' region
+	Region name    : nvkm_iccsense_rail
+	Region type    : struct
+	Offsets        : 383-560
+	Line numbers   : 17-23
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/iccsense/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/iccsense/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 4
+	Maximum        : 8
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/top/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-435
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/top/priv.h:7: info: Metrics per 'nvkm_top_func' region
+	Region name    : nvkm_top_func
+	Region type    : struct
+	Offsets        : 179-237
+	Line numbers   : 7-9
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/top/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/top/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2044
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 25
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/priv.h:10: info: Metrics per 'nvkm_pci_func' region
+	Region name    : nvkm_pci_func
+	Region type    : struct
+	Offsets        : 303-912
+	Line numbers   : 10-28
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/priv.h:17: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 551-904
+	Line numbers   : 17-27
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 8
+	Maximum        : 25
+	Total          : 42.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            25 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-709
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:14: info: Metrics per 'nvkm_agp_ctor' region
+	Region name    : nvkm_agp_ctor
+	Region type    : function
+	Offsets        : 380-450
+	Line numbers   : 12-14
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:15: info: Metrics per 'nvkm_agp_dtor' region
+	Region name    : nvkm_agp_dtor
+	Region type    : function
+	Offsets        : 451-508
+	Line numbers   : 15-15
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:16: info: Metrics per 'nvkm_agp_preinit' region
+	Region name    : nvkm_agp_preinit
+	Region type    : function
+	Offsets        : 509-569
+	Line numbers   : 16-16
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:17: info: Metrics per 'nvkm_agp_init' region
+	Region name    : nvkm_agp_init
+	Region type    : function
+	Offsets        : 570-643
+	Line numbers   : 17-17
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:18: info: Metrics per 'nvkm_agp_fini' region
+	Region name    : nvkm_agp_fini
+	Region type    : function
+	Offsets        : 644-701
+	Line numbers   : 18-18
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 5	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/pci/agp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.66666667
+	Minimum        : 1
+	Maximum        : 5
+	Total          : 10.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.833 : 0.833 : 5	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1104
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/priv.h:12: info: Metrics per 'nvkm_volt_func' region
+	Region name    : nvkm_volt_func
+	Region type    : struct
+	Offsets        : 440-767
+	Line numbers   : 12-20
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.5
+	Minimum        : 9
+	Maximum        : 12
+	Total          : 21.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/gk20a.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1523
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/gk20a.h:26: info: Metrics per 'cvb_coef' region
+	Region name    : cvb_coef
+	Region type    : struct
+	Offsets        : 1199-1272
+	Line numbers   : 26-33
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/gk20a.h:35: info: Metrics per 'gk20a_volt' region
+	Region name    : gk20a_volt
+	Region type    : struct
+	Offsets        : 1275-1344
+	Line numbers   : 35-38
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/gk20a.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/volt/gk20a.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.66666667
+	Minimum        : 4
+	Maximum        : 8
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/mxms.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-554
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/mxms.h:6: info: Metrics per 'mxms_odev' region
+	Region name    : mxms_odev
+	Region type    : struct
+	Offsets        : 104-182
+	Line numbers   : 6-11
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/mxms.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/mxms.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 6
+	Maximum        : 9
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-386
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/priv.h:9: info: Metrics per 'nvkm_mxm' region
+	Region name    : nvkm_mxm
+	Region type    : struct
+	Offsets        : 216-287
+	Line numbers   : 9-13
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/mxm/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 2
+	Maximum        : 5
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/vfn/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-821
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/vfn/priv.h:7: info: Metrics per 'nvkm_vfn_func' region
+	Region name    : nvkm_vfn_func
+	Region type    : struct
+	Offsets        : 179-382
+	Line numbers   : 7-18
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/vfn/priv.h:13: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 312-374
+	Line numbers   : 13-17
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/vfn/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/subdev/vfn/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 5
+	Maximum        : 8
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/user.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-905
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/user.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/user.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 13
+	Maximum        : 13
+	Total          : 13.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            13 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-579
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/priv.h:7: info: Metrics per 'nvkm_dmaobj_func' region
+	Region name    : nvkm_dmaobj_func
+	Region type    : struct
+	Offsets        : 179-304
+	Line numbers   : 7-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/priv.h:15: info: Metrics per 'nvkm_dma_func' region
+	Region name    : nvkm_dma_func
+	Region type    : struct
+	Offsets        : 431-570
+	Line numbers   : 15-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/dma/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 12.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec/fuc/g98.fuc0s.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8669
+	Line numbers   : 1-586
+	Modified       : None
+	std.code.lines:code: 516
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec/fuc/g98.fuc0s.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec/fuc/g98.fuc0s.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 516.0
+	Minimum        : 516
+	Maximum        : 516
+	Total          : 516.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           516 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/nv40.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-403
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/nv40.h:7: info: Metrics per 'nv40_pm' region
+	Region name    : nv40_pm
+	Region type    : struct
+	Offsets        : 167-222
+	Line numbers   : 7-10
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/nv40.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/nv40.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/gf100.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-593
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/gf100.h:6: info: Metrics per 'gf100_pm_func' region
+	Region name    : gf100_pm_func
+	Region type    : struct
+	Offsets        : 108-247
+	Line numbers   : 6-10
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/gf100.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/gf100.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 5
+	Maximum        : 7
+	Total          : 12.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2290
+	Line numbers   : 1-106
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:10: info: Metrics per 'nvkm_pm_func' region
+	Region name    : nvkm_pm_func
+	Region type    : struct
+	Offsets        : 293-349
+	Line numbers   : 10-12
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:14: info: Metrics per 'nvkm_perfctr' region
+	Region name    : nvkm_perfctr
+	Region type    : struct
+	Offsets        : 352-482
+	Line numbers   : 14-22
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:24: info: Metrics per 'nvkm_specmux' region
+	Region name    : nvkm_specmux
+	Region type    : struct
+	Offsets        : 485-563
+	Line numbers   : 24-29
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:31: info: Metrics per 'nvkm_specsrc' region
+	Region name    : nvkm_specsrc
+	Region type    : struct
+	Offsets        : 566-652
+	Line numbers   : 31-35
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:37: info: Metrics per 'nvkm_perfsrc' region
+	Region name    : nvkm_perfsrc
+	Region type    : struct
+	Offsets        : 655-762
+	Line numbers   : 37-44
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:53: info: Metrics per 'nvkm_specsig' region
+	Region name    : nvkm_specsig
+	Region type    : struct
+	Offsets        : 1094-1184
+	Line numbers   : 53-57
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:59: info: Metrics per 'nvkm_perfsig' region
+	Region name    : nvkm_perfsig
+	Region type    : struct
+	Offsets        : 1187-1244
+	Line numbers   : 59-62
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:64: info: Metrics per 'nvkm_specdom' region
+	Region name    : nvkm_specdom
+	Region type    : struct
+	Offsets        : 1247-1356
+	Line numbers   : 64-68
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:73: info: Metrics per 'nvkm_perfdom' region
+	Region name    : nvkm_perfdom
+	Region type    : struct
+	Offsets        : 1456-1769
+	Line numbers   : 73-86
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:88: info: Metrics per 'nvkm_funcdom' region
+	Region name    : nvkm_funcdom
+	Region type    : struct
+	Offsets        : 1772-2023
+	Line numbers   : 88-94
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:101: info: Metrics per 'nvkm_perfmon' region
+	Region name    : nvkm_perfmon
+	Region type    : struct
+	Offsets        : 2209-2281
+	Line numbers   : 101-104
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/pm/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.58333333
+	Minimum        : 3
+	Maximum        : 21
+	Total          : 91.0
+	Distribution   : 12 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.083 : 0.083 :  1	||||||||
+	             4 : 0.167 : 0.250 :  2	||||||||||||||||
+	             5 : 0.250 : 0.500 :  3	|||||||||||||||||||||||||
+	             6 : 0.083 : 0.583 :  1	||||||||
+	             7 : 0.083 : 0.667 :  1	||||||||
+	             8 : 0.083 : 0.750 :  1	||||||||
+	             9 : 0.083 : 0.833 :  1	||||||||
+	            14 : 0.083 : 0.917 :  1	||||||||
+	            21 : 0.083 : 1.000 :  1	||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/fuc/gt215.fuc3.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9374
+	Line numbers   : 1-622
+	Modified       : None
+	std.code.lines:code: 533
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/fuc/gt215.fuc3.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/fuc/gt215.fuc3.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 533.0
+	Minimum        : 533
+	Maximum        : 533
+	Total          : 533.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           533 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/fuc/gf100.fuc3.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9100
+	Line numbers   : 1-608
+	Modified       : None
+	std.code.lines:code: 526
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/fuc/gf100.fuc3.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/fuc/gf100.fuc3.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 526.0
+	Minimum        : 526
+	Maximum        : 526
+	Total          : 526.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           526 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-625
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ce/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/nv31.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-846
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/nv31.h:8: info: Metrics per 'nv31_mpeg' region
+	Region name    : nv31_mpeg
+	Region type    : struct
+	Offsets        : 192-306
+	Line numbers   : 8-12
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/nv31.h:17: info: Metrics per 'nv31_mpeg_func' region
+	Region name    : nv31_mpeg_func
+	Region type    : struct
+	Offsets        : 439-525
+	Line numbers   : 17-19
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/nv31.h:24: info: Metrics per 'nv31_mpeg_chan' region
+	Region name    : nv31_mpeg_chan
+	Region type    : struct
+	Offsets        : 629-732
+	Line numbers   : 24-28
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/nv31.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/nv31.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 20.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-512
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/mpeg/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 8
+	Maximum        : 8
+	Total          : 8.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ofa/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-250
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ofa/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/ofa/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/regsnv04.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9061
+	Line numbers   : 1-134
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/regsnv04.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/regsnv04.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4732
+	Line numbers   : 1-138
+	Modified       : None
+	std.code.lines:code: 25
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:12: info: Metrics per 'nvkm_engn' region
+	Region name    : nvkm_engn
+	Region type    : struct
+	Offsets        : 207-974
+	Line numbers   : 12-38
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:13: info: Metrics per 'nvkm_engn_func' region
+	Region name    : nvkm_engn_func
+	Region type    : struct
+	Offsets        : 227-821
+	Line numbers   : 13-24
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:32: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 908-943
+	Line numbers   : 32-35
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:44: info: Metrics per 'nvkm_runl' region
+	Region name    : nvkm_runl
+	Region type    : struct
+	Offsets        : 1230-2521
+	Line numbers   : 44-99
+	Modified       : None
+	std.code.lines:code: 27
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:45: info: Metrics per 'nvkm_runl_func' region
+	Region name    : nvkm_runl_func
+	Region type    : struct
+	Offsets        : 1250-1948
+	Line numbers   : 45-61
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:79: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2213-2263
+	Line numbers   : 79-82
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 4
+	Maximum        : 27
+	Total          : 98.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.286 : 0.286 : 2	||||||||||||||||||||||||||||
+	             9 : 0.143 : 0.429 : 1	||||||||||||||
+	            12 : 0.143 : 0.571 : 1	||||||||||||||
+	            17 : 0.143 : 0.714 : 1	||||||||||||||
+	            25 : 0.143 : 0.857 : 1	||||||||||||||
+	            27 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1056
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runq.h:7: info: Metrics per 'nvkm_runq' region
+	Region name    : nvkm_runq
+	Region type    : struct
+	Offsets        : 123-475
+	Line numbers   : 7-19
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runq.h:8: info: Metrics per 'nvkm_runq_func' region
+	Region name    : nvkm_runq_func
+	Region type    : struct
+	Offsets        : 143-407
+	Line numbers   : 8-14
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/runq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.66666667
+	Minimum        : 4
+	Maximum        : 7
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chid.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-612
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chid.h:6: info: Metrics per 'nvkm_chid' region
+	Region name    : nvkm_chid
+	Region type    : struct
+	Offsets        : 108-251
+	Line numbers   : 6-17
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chid.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chid.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 7
+	Maximum        : 9
+	Total          : 16.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8978
+	Line numbers   : 1-214
+	Modified       : None
+	std.code.lines:code: 144
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/priv.h:15: info: Metrics per 'nvkm_fifo_func' region
+	Region name    : nvkm_fifo_func
+	Region type    : struct
+	Offsets        : 335-1705
+	Line numbers   : 15-61
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/priv.h:30: info: Metrics per 'nvkm_fifo_func_mmu_fault' region
+	Region name    : nvkm_fifo_func_mmu_fault
+	Region type    : struct
+	Offsets        : 807-1090
+	Line numbers   : 30-37
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/priv.h:51: info: Metrics per 'nvkm_fifo_func_cgrp' region
+	Region name    : nvkm_fifo_func_cgrp
+	Region type    : struct
+	Offsets        : 1484-1593
+	Line numbers   : 51-55
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/priv.h:57: info: Metrics per 'nvkm_fifo_func_chan' region
+	Region name    : nvkm_fifo_func_chan
+	Region type    : struct
+	Offsets        : 1602-1697
+	Line numbers   : 57-60
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 37.0
+	Minimum        : 4
+	Maximum        : 144
+	Total          : 185.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             5 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             8 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            24 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	           144 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2626
+	Line numbers   : 1-82
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:11: info: Metrics per 'nvkm_cctx' region
+	Region name    : nvkm_cctx
+	Region type    : struct
+	Offsets        : 219-325
+	Line numbers   : 11-17
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:19: info: Metrics per 'nvkm_chan_func' region
+	Region name    : nvkm_chan_func
+	Region type    : struct
+	Offsets        : 328-1250
+	Line numbers   : 19-57
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:23: info: Metrics per 'nvkm_chan_func_inst' region
+	Region name    : nvkm_chan_func_inst
+	Region type    : struct
+	Offsets        : 466-540
+	Line numbers   : 23-27
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:29: info: Metrics per 'nvkm_chan_func_userd' region
+	Region name    : nvkm_chan_func_userd
+	Region type    : struct
+	Offsets        : 550-660
+	Line numbers   : 29-34
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:36: info: Metrics per 'nvkm_chan_func_ramfc' region
+	Region name    : nvkm_chan_func_ramfc
+	Region type    : struct
+	Offsets        : 671-1013
+	Line numbers   : 36-49
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:37: info: Metrics per 'nvkm_ramfc_layout' region
+	Region name    : nvkm_ramfc_layout
+	Region type    : struct
+	Offsets        : 709-843
+	Line numbers   : 37-43
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/chan.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.85714286
+	Minimum        : 5
+	Maximum        : 24
+	Total          : 69.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.143 : 0.143 : 1	||||||||||||||
+	             6 : 0.286 : 0.429 : 2	||||||||||||||||||||||||||||
+	             7 : 0.143 : 0.571 : 1	||||||||||||||
+	             8 : 0.143 : 0.714 : 1	||||||||||||||
+	            13 : 0.143 : 0.857 : 1	||||||||||||||
+	            24 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/cgrp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1994
+	Line numbers   : 1-76
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/cgrp.h:8: info: Metrics per 'nvkm_vctx' region
+	Region name    : nvkm_vctx
+	Region type    : struct
+	Offsets        : 143-305
+	Line numbers   : 8-17
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/cgrp.h:19: info: Metrics per 'nvkm_ectx' region
+	Region name    : nvkm_ectx
+	Region type    : struct
+	Offsets        : 308-444
+	Line numbers   : 19-27
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/cgrp.h:29: info: Metrics per 'nvkm_cgrp' region
+	Region name    : nvkm_cgrp
+	Region type    : struct
+	Offsets        : 447-963
+	Line numbers   : 29-55
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/cgrp.h:30: info: Metrics per 'nvkm_cgrp_func' region
+	Region name    : nvkm_cgrp_func
+	Region type    : struct
+	Offsets        : 467-538
+	Line numbers   : 30-32
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/cgrp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/fifo/cgrp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.6
+	Minimum        : 3
+	Maximum        : 17
+	Total          : 48.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             7 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             8 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            13 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            17 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec2/priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1360
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec2/priv.h:10: info: Metrics per 'nvkm_sec2_func' region
+	Region name    : nvkm_sec2_func
+	Region type    : struct
+	Offsets        : 277-528
+	Line numbers   : 10-17
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec2/priv.h:22: info: Metrics per 'nvkm_sec2_fwif' region
+	Region name    : nvkm_sec2_fwif
+	Region type    : struct
+	Offsets        : 625-812
+	Line numbers   : 22-27
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec2/priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/sec2/priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.66666667
+	Minimum        : 6
+	Maximum        : 15
+	Total          : 29.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            15 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/dp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7088
+	Line numbers   : 1-103
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/dp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/dp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3334
+	Line numbers   : 1-128
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:11: info: Metrics per 'nvkm_outp' region
+	Region name    : nvkm_outp
+	Region type    : struct
+	Offsets        : 227-1156
+	Line numbers   : 11-70
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:29: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 553-1080
+	Line numbers   : 29-64
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:30: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 563-603
+	Line numbers   : 30-33
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:35: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 613-1073
+	Line numbers   : 35-63
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:50: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 854-946
+	Line numbers   : 50-53
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:57: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 997-1065
+	Line numbers   : 57-62
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:67: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1112-1149
+	Line numbers   : 67-69
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:91: info: Metrics per 'nvkm_outp_func' region
+	Region name    : nvkm_outp_func
+	Region type    : struct
+	Offsets        : 1993-2847
+	Line numbers   : 91-117
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:103: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2357-2447
+	Line numbers   : 103-106
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:108: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2454-2841
+	Line numbers   : 108-116
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.63636364
+	Minimum        : 3
+	Maximum        : 17
+	Total          : 95.0
+	Distribution   : 11 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.091 : 0.091 :  1	|||||||||
+	             4 : 0.364 : 0.455 :  4	||||||||||||||||||||||||||||||||||||
+	             6 : 0.091 : 0.545 :  1	|||||||||
+	             9 : 0.091 : 0.636 :  1	|||||||||
+	            12 : 0.091 : 0.727 :  1	|||||||||
+	            15 : 0.091 : 0.818 :  1	|||||||||
+	            17 : 0.182 : 1.000 :  2	||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7341
+	Line numbers   : 1-210
+	Modified       : None
+	std.code.lines:code: 73
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:7: info: Metrics per 'nvkm_ior' region
+	Region name    : nvkm_ior
+	Region type    : struct
+	Offsets        : 131-718
+	Line numbers   : 7-50
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:22: info: Metrics per 'nvkm_ior_state' region
+	Region name    : nvkm_ior_state
+	Region type    : struct
+	Offsets        : 340-560
+	Line numbers   : 22-36
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:39: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 573-648
+	Line numbers   : 38-44
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:47: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 655-710
+	Line numbers   : 46-49
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:52: info: Metrics per 'nvkm_ior_func' region
+	Region name    : nvkm_ior_func
+	Region type    : struct
+	Offsets        : 721-2739
+	Line numbers   : 52-103
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:53: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 745-855
+	Line numbers   : 53-56
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:66: info: Metrics per 'nvkm_ior_func_bl' region
+	Region name    : nvkm_ior_func_bl
+	Region type    : struct
+	Offsets        : 1178-1287
+	Line numbers   : 66-69
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:71: info: Metrics per 'nvkm_ior_func_hdmi' region
+	Region name    : nvkm_ior_func_hdmi
+	Region type    : struct
+	Offsets        : 1295-1738
+	Line numbers   : 71-78
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:80: info: Metrics per 'nvkm_ior_func_dp' region
+	Region name    : nvkm_ior_func_dp
+	Region type    : struct
+	Offsets        : 1748-2514
+	Line numbers   : 80-96
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:98: info: Metrics per 'nvkm_ior_func_hda' region
+	Region name    : nvkm_ior_func_hda
+	Region type    : struct
+	Offsets        : 2522-2731
+	Line numbers   : 98-102
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:111: info: Metrics per 'nv50_ior_base' region
+	Region name    : nv50_ior_base
+	Region type    : function
+	Offsets        : 2982-3064
+	Line numbers   : 110-114
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:125: info: Metrics per 'nv50_sor_link' region
+	Region name    : nv50_sor_link
+	Region type    : function
+	Offsets        : 3380-3497
+	Line numbers   : 124-128
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/ior.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.53846154
+	Minimum        : 3
+	Maximum        : 73
+	Total          : 176.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.077 : 0.077 :  1	|||||||
+	             4 : 0.154 : 0.231 :  2	|||||||||||||||
+	             5 : 0.231 : 0.462 :  3	|||||||||||||||||||||||
+	             6 : 0.077 : 0.538 :  1	|||||||
+	             8 : 0.077 : 0.615 :  1	|||||||
+	            14 : 0.077 : 0.692 :  1	|||||||
+	            15 : 0.077 : 0.769 :  1	|||||||
+	            17 : 0.154 : 0.923 :  2	|||||||||||||||
+	            73 : 0.077 : 1.000 :  1	|||||||
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/conn.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-928
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/conn.h:9: info: Metrics per 'nvkm_conn' region
+	Region name    : nvkm_conn
+	Region type    : struct
+	Offsets        : 168-306
+	Line numbers   : 9-17
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/conn.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/gpu/drm/nouveau/nvkm/engine/disp/conn.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 4
+	Maximum        : 7
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

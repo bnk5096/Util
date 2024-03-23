@@ -1,0 +1,4014 @@
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8516.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-28119
+	Line numbers   : 1-1183
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8516.h:11: info: Metrics per 'mtk_desc_pin' region
+	Region name    : mtk_desc_pin
+	Region type    : struct
+	Offsets        : 213-28080
+	Line numbers   : 11-1180
+	Modified       : None
+	std.code.lines:code: 1170
+
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8516.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8516.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 585.5
+	Minimum        : 1
+	Maximum        : 1170
+	Total          : 1171.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	          1170 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8186.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-45779
+	Line numbers   : 1-2187
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8186.h:14: info: Metrics per 'mtk_pin_desc' region
+	Region name    : mtk_pin_desc
+	Region type    : struct
+	Offsets        : 230-45740
+	Line numbers   : 14-2184
+	Modified       : None
+	std.code.lines:code: 1975
+
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8186.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/mediatek/pinctrl-mtk-mt8186.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 988.0
+	Minimum        : 1
+	Maximum        : 1975
+	Total          : 1976.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	          1975 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/pinctrl-mcp23s08.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1245
+	Line numbers   : 1-61
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/pinctrl/pinctrl-mcp23s08.h:25: info: Metrics per 'mcp23s08_info' region
+	Region name    : mcp23s08_info
+	Region type    : struct
+	Offsets        : 451-581
+	Line numbers   : 25-31
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/pinctrl-mcp23s08.h:33: info: Metrics per 'mcp23s08' region
+	Region name    : mcp23s08
+	Region type    : struct
+	Offsets        : 584-1007
+	Line numbers   : 33-54
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/pinctrl/pinctrl-mcp23s08.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/pinctrl-mcp23s08.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 7
+	Maximum        : 17
+	Total          : 33.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            17 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/freescale/pinctrl-mxs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1719
+	Line numbers   : 1-85
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/freescale/pinctrl-mxs.h:51: info: Metrics per 'mxs_function' region
+	Region name    : mxs_function
+	Region type    : struct
+	Offsets        : 1125-1208
+	Line numbers   : 51-55
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/freescale/pinctrl-mxs.h:57: info: Metrics per 'mxs_group' region
+	Region name    : mxs_group
+	Region type    : struct
+	Offsets        : 1211-1313
+	Line numbers   : 57-63
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/freescale/pinctrl-mxs.h:65: info: Metrics per 'mxs_regs' region
+	Region name    : mxs_regs
+	Region type    : struct
+	Offsets        : 1316-1371
+	Line numbers   : 65-69
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/freescale/pinctrl-mxs.h:71: info: Metrics per 'mxs_pinctrl_soc_data' region
+	Region name    : mxs_pinctrl_soc_data
+	Region type    : struct
+	Offsets        : 1374-1591
+	Line numbers   : 71-79
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/pinctrl/freescale/pinctrl-mxs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/freescale/pinctrl-mxs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.4
+	Minimum        : 5
+	Maximum        : 9
+	Total          : 32.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.400 : 0.400 : 2	||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	             7 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	             9 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/pinctrl/freescale/pinctrl-imx1.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1695
+	Line numbers   : 1-69
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/freescale/pinctrl-imx1.h:22: info: Metrics per 'imx1_pin' region
+	Region name    : imx1_pin
+	Region type    : struct
+	Offsets        : 313-596
+	Line numbers   : 16-26
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/freescale/pinctrl-imx1.h:35: info: Metrics per 'imx1_pin_group' region
+	Region name    : imx1_pin_group
+	Region type    : struct
+	Offsets        : 599-999
+	Line numbers   : 28-40
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/freescale/pinctrl-imx1.h:48: info: Metrics per 'imx1_pmx_func' region
+	Region name    : imx1_pmx_func
+	Region type    : struct
+	Offsets        : 1002-1273
+	Line numbers   : 42-52
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/freescale/pinctrl-imx1.h:54: info: Metrics per 'imx1_pinctrl_soc_info' region
+	Region name    : imx1_pinctrl_soc_info
+	Region type    : struct
+	Offsets        : 1276-1503
+	Line numbers   : 54-62
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/pinctrl/freescale/pinctrl-imx1.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/freescale/pinctrl-imx1.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.4
+	Minimum        : 5
+	Maximum        : 9
+	Total          : 32.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.400 : 0.400 : 2	||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	             7 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	             9 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3566
+	Line numbers   : 1-136
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:29: info: Metrics per 'imx_pin_mmio' region
+	Region name    : imx_pin_mmio
+	Region type    : struct
+	Offsets        : 436-843
+	Line numbers   : 21-34
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:41: info: Metrics per 'imx_pin_scu' region
+	Region name    : imx_pin_scu
+	Region type    : struct
+	Offsets        : 846-1044
+	Line numbers   : 36-44
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:51: info: Metrics per 'imx_pin' region
+	Region name    : imx_pin
+	Region type    : struct
+	Offsets        : 1047-1298
+	Line numbers   : 46-57
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:53: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1226-1290
+	Line numbers   : 53-56
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:64: info: Metrics per 'imx_pin_reg' region
+	Region name    : imx_pin_reg
+	Region type    : struct
+	Offsets        : 1301-1477
+	Line numbers   : 59-67
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:73: info: Metrics per 'imx_pinctrl' region
+	Region name    : imx_pinctrl
+	Region type    : struct
+	Offsets        : 1480-1833
+	Line numbers   : 69-82
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:84: info: Metrics per 'imx_pinctrl_soc_info' region
+	Region name    : imx_pinctrl_soc_info
+	Region type    : struct
+	Offsets        : 1836-2601
+	Line numbers   : 84-105
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/freescale/pinctrl-imx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.75
+	Minimum        : 4
+	Maximum        : 19
+	Total          : 70.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.125 : 0.625 : 1	||||||||||||
+	            10 : 0.125 : 0.750 : 1	||||||||||||
+	            19 : 0.250 : 1.000 : 2	|||||||||||||||||||||||||
+
+./drivers/pinctrl/pinmux.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4462
+	Line numbers   : 1-180
+	Modified       : None
+	std.code.lines:code: 46
+
+./drivers/pinctrl/pinmux.h:48: info: Metrics per 'pinmux_check_ops' region
+	Region name    : pinmux_check_ops
+	Region type    : function
+	Offsets        : 1366-1444
+	Line numbers   : 48-51
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinmux.h:53: info: Metrics per 'pinmux_validate_map' region
+	Region name    : pinmux_validate_map
+	Region type    : function
+	Offsets        : 1446-1536
+	Line numbers   : 53-56
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinmux.h:58: info: Metrics per 'pinmux_can_be_used_for_gpio' region
+	Region name    : pinmux_can_be_used_for_gpio
+	Region type    : function
+	Offsets        : 1538-1657
+	Line numbers   : 58-62
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinmux.h:64: info: Metrics per 'pinmux_request_gpio' region
+	Region name    : pinmux_request_gpio
+	Region type    : function
+	Offsets        : 1659-1809
+	Line numbers   : 64-69
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinmux.h:71: info: Metrics per 'pinmux_free_gpio' region
+	Region name    : pinmux_free_gpio
+	Region type    : function
+	Offsets        : 1811-1943
+	Line numbers   : 71-75
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinmux.h:77: info: Metrics per 'pinmux_gpio_direction' region
+	Region name    : pinmux_gpio_direction
+	Region type    : function
+	Offsets        : 1945-2098
+	Line numbers   : 77-82
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinmux.h:84: info: Metrics per 'pinmux_map_to_setting' region
+	Region name    : pinmux_map_to_setting
+	Region type    : function
+	Offsets        : 2100-2223
+	Line numbers   : 84-88
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinmux.h:90: info: Metrics per 'pinmux_free_setting' region
+	Region name    : pinmux_free_setting
+	Region type    : function
+	Offsets        : 2225-2306
+	Line numbers   : 90-92
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/pinctrl/pinmux.h:94: info: Metrics per 'pinmux_enable_setting' region
+	Region name    : pinmux_enable_setting
+	Region type    : function
+	Offsets        : 2308-2401
+	Line numbers   : 94-97
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinmux.h:99: info: Metrics per 'pinmux_disable_setting' region
+	Region name    : pinmux_disable_setting
+	Region type    : function
+	Offsets        : 2403-2487
+	Line numbers   : 99-101
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/pinctrl/pinmux.h:115: info: Metrics per 'pinmux_show_map' region
+	Region name    : pinmux_show_map
+	Region type    : function
+	Offsets        : 2813-2909
+	Line numbers   : 115-118
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinmux.h:120: info: Metrics per 'pinmux_show_setting' region
+	Region name    : pinmux_show_setting
+	Region type    : function
+	Offsets        : 2911-3023
+	Line numbers   : 120-123
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinmux.h:125: info: Metrics per 'pinmux_init_device_debugfs' region
+	Region name    : pinmux_init_device_debugfs
+	Region type    : function
+	Offsets        : 3025-3138
+	Line numbers   : 125-128
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinmux.h:141: info: Metrics per 'function_desc' region
+	Region name    : function_desc
+	Region type    : struct
+	Offsets        : 3188-3528
+	Line numbers   : 134-146
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinmux.h:175: info: Metrics per 'pinmux_generic_free_functions' region
+	Region name    : pinmux_generic_free_functions
+	Region type    : function
+	Offsets        : 4334-4415
+	Line numbers   : 175-177
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/pinctrl/pinmux.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 14 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 14	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/pinmux.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 3
+	Maximum        : 46
+	Total          : 112.0
+	Distribution   : 16 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.188 : 0.188 :  3	||||||||||||||||||
+	             4 : 0.375 : 0.562 :  6	|||||||||||||||||||||||||||||||||||||
+	             5 : 0.188 : 0.750 :  3	||||||||||||||||||
+	             6 : 0.188 : 0.938 :  3	||||||||||||||||||
+	            46 : 0.062 : 1.000 :  1	||||||
+
+./drivers/pinctrl/sunplus/sppctl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4600
+	Line numbers   : 1-171
+	Modified       : None
+	std.code.lines:code: 28
+
+./drivers/pinctrl/sunplus/sppctl.h:119: info: Metrics per 'grp2fp_map' region
+	Region name    : grp2fp_map
+	Region type    : struct
+	Offsets        : 2830-3001
+	Line numbers   : 114-122
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/sunplus/sppctl.h:126: info: Metrics per 'sppctl_pdata' region
+	Region name    : sppctl_pdata
+	Region type    : struct
+	Offsets        : 3030-3538
+	Line numbers   : 126-140
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/pinctrl/sunplus/sppctl.h:142: info: Metrics per 'sppctl_grp' region
+	Region name    : sppctl_grp
+	Region type    : struct
+	Offsets        : 3541-3750
+	Line numbers   : 142-147
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/sunplus/sppctl.h:149: info: Metrics per 'sppctl_func' region
+	Region name    : sppctl_func
+	Region type    : struct
+	Offsets        : 3753-4173
+	Line numbers   : 149-157
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/pinctrl/sunplus/sppctl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/sunplus/sppctl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 4
+	Maximum        : 28
+	Total          : 60.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             6 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             9 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            13 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            28 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/pinctrl/pinctrl-at91.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3537
+	Line numbers   : 1-72
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/pinctrl/pinctrl-at91.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/pinctrl-at91.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/pinctrl-pic32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2708
+	Line numbers   : 1-134
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/pinctrl/pinctrl-pic32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/pinctrl-pic32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/pinctrl-rockchip.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11822
+	Line numbers   : 1-468
+	Modified       : None
+	std.code.lines:code: 46
+
+./drivers/pinctrl/pinctrl-rockchip.h:220: info: Metrics per 'rockchip_gpio_regs' region
+	Region name    : rockchip_gpio_regs
+	Region type    : struct
+	Offsets        : 4433-5436
+	Line numbers   : 202-236
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/pinctrl/pinctrl-rockchip.h:245: info: Metrics per 'rockchip_iomux' region
+	Region name    : rockchip_iomux
+	Region type    : struct
+	Offsets        : 5439-5787
+	Line numbers   : 238-248
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinctrl-rockchip.h:280: info: Metrics per 'rockchip_drv' region
+	Region name    : rockchip_drv
+	Region type    : struct
+	Offsets        : 6219-6736
+	Line numbers   : 271-283
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinctrl-rockchip.h:314: info: Metrics per 'rockchip_pin_bank' region
+	Region name    : rockchip_pin_bank
+	Region type    : struct
+	Offsets        : 6739-8815
+	Line numbers   : 285-343
+	Modified       : None
+	std.code.lines:code: 30
+
+./drivers/pinctrl/pinctrl-rockchip.h:353: info: Metrics per 'rockchip_mux_recalced_data' region
+	Region name    : rockchip_mux_recalced_data
+	Region type    : struct
+	Offsets        : 8818-9092
+	Line numbers   : 345-359
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/pinctrl-rockchip.h:376: info: Metrics per 'rockchip_mux_route_data' region
+	Region name    : rockchip_mux_route_data
+	Region type    : struct
+	Offsets        : 9202-9656
+	Line numbers   : 367-383
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/pinctrl/pinctrl-rockchip.h:385: info: Metrics per 'rockchip_pin_ctrl' region
+	Region name    : rockchip_pin_ctrl
+	Region type    : struct
+	Offsets        : 9659-10438
+	Line numbers   : 385-409
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/pinctrl/pinctrl-rockchip.h:411: info: Metrics per 'rockchip_pin_config' region
+	Region name    : rockchip_pin_config
+	Region type    : struct
+	Offsets        : 10441-10543
+	Line numbers   : 411-415
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinctrl-rockchip.h:419: info: Metrics per 'rockchip_pin_deferred' region
+	Region name    : rockchip_pin_deferred
+	Region type    : struct
+	Offsets        : 10570-10685
+	Line numbers   : 419-424
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinctrl-rockchip.h:433: info: Metrics per 'rockchip_pin_group' region
+	Region name    : rockchip_pin_group
+	Region type    : struct
+	Offsets        : 10688-11089
+	Line numbers   : 426-438
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinctrl-rockchip.h:446: info: Metrics per 'rockchip_pmx_func' region
+	Region name    : rockchip_pmx_func
+	Region type    : struct
+	Offsets        : 11092-11429
+	Line numbers   : 440-450
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinctrl-rockchip.h:452: info: Metrics per 'rockchip_pinctrl' region
+	Region name    : rockchip_pinctrl
+	Region type    : struct
+	Offsets        : 11432-11812
+	Line numbers   : 452-465
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/pinctrl/pinctrl-rockchip.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/pinctrl-rockchip.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.53846154
+	Minimum        : 4
+	Maximum        : 46
+	Total          : 176.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.154 : 0.154 :  2	|||||||||||||||
+	             5 : 0.154 : 0.308 :  2	|||||||||||||||
+	             6 : 0.154 : 0.462 :  2	|||||||||||||||
+	             7 : 0.077 : 0.538 :  1	|||||||
+	             8 : 0.077 : 0.615 :  1	|||||||
+	            14 : 0.077 : 0.692 :  1	|||||||
+	            17 : 0.077 : 0.769 :  1	|||||||
+	            24 : 0.077 : 0.846 :  1	|||||||
+	            30 : 0.077 : 0.923 :  1	|||||||
+	            46 : 0.077 : 1.000 :  1	|||||||
+
+./drivers/pinctrl/sprd/pinctrl-sprd.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1454
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/pinctrl/sprd/pinctrl-sprd.h:42: info: Metrics per 'sprd_pins_info' region
+	Region name    : sprd_pins_info
+	Region type    : struct
+	Offsets        : 973-1175
+	Line numbers   : 42-51
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/pinctrl/sprd/pinctrl-sprd.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/sprd/pinctrl-sprd.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 8
+	Maximum        : 12
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1874
+	Line numbers   : 1-89
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:45: info: Metrics per 'pxa_desc_function' region
+	Region name    : pxa_desc_function
+	Region type    : struct
+	Offsets        : 935-995
+	Line numbers   : 45-48
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:50: info: Metrics per 'pxa_desc_pin' region
+	Region name    : pxa_desc_pin
+	Region type    : struct
+	Offsets        : 998-1090
+	Line numbers   : 50-53
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:55: info: Metrics per 'pxa_pinctrl_group' region
+	Region name    : pxa_pinctrl_group
+	Region type    : struct
+	Offsets        : 1093-1155
+	Line numbers   : 55-58
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:60: info: Metrics per 'pxa_pinctrl_function' region
+	Region name    : pxa_pinctrl_function
+	Region type    : struct
+	Offsets        : 1158-1249
+	Line numbers   : 60-64
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:66: info: Metrics per 'pxa_pinctrl' region
+	Region name    : pxa_pinctrl
+	Region type    : struct
+	Offsets        : 1252-1651
+	Line numbers   : 66-81
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/pxa/pinctrl-pxa2xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 4
+	Maximum        : 16
+	Total          : 42.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.167 : 0.667 : 1	||||||||||||||||
+	             9 : 0.167 : 0.833 : 1	||||||||||||||||
+	            16 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/pinctrl/devicetree.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1161
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/pinctrl/devicetree.h:30: info: Metrics per 'pinctrl_dt_to_map' region
+	Region name    : pinctrl_dt_to_map
+	Region type    : function
+	Offsets        : 667-773
+	Line numbers   : 30-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/devicetree.h:36: info: Metrics per 'pinctrl_dt_free_maps' region
+	Region name    : pinctrl_dt_free_maps
+	Region type    : function
+	Offsets        : 775-837
+	Line numbers   : 36-38
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/pinctrl/devicetree.h:40: info: Metrics per 'pinctrl_count_index_with_args' region
+	Region name    : pinctrl_count_index_with_args
+	Region type    : function
+	Offsets        : 839-966
+	Line numbers   : 40-44
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/devicetree.h:47: info: Metrics per 'pinctrl_parse_index_with_args' region
+	Region name    : pinctrl_parse_index_with_args
+	Region type    : function
+	Offsets        : 968-1152
+	Line numbers   : 46-52
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/pinctrl/devicetree.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/devicetree.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.2
+	Minimum        : 3
+	Maximum        : 11
+	Total          : 31.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             5 : 0.400 : 0.600 : 2	||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            11 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/pinctrl/vt8500/pinctrl-wmt.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1584
+	Line numbers   : 1-71
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/vt8500/pinctrl-wmt.h:35: info: Metrics per 'wmt_pinctrl_bank_registers' region
+	Region name    : wmt_pinctrl_bank_registers
+	Region type    : struct
+	Offsets        : 861-1000
+	Line numbers   : 35-43
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/pinctrl/vt8500/pinctrl-wmt.h:45: info: Metrics per 'wmt_pinctrl_group' region
+	Region name    : wmt_pinctrl_group
+	Region type    : struct
+	Offsets        : 1003-1100
+	Line numbers   : 45-49
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/vt8500/pinctrl-wmt.h:51: info: Metrics per 'wmt_pinctrl_data' region
+	Region name    : wmt_pinctrl_data
+	Region type    : struct
+	Offsets        : 1103-1489
+	Line numbers   : 51-67
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/pinctrl/vt8500/pinctrl-wmt.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/vt8500/pinctrl-wmt.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.75
+	Minimum        : 5
+	Maximum        : 13
+	Total          : 31.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            13 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/pinctrl/pinconf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3551
+	Line numbers   : 1-142
+	Modified       : None
+	std.code.lines:code: 32
+
+./drivers/pinctrl/pinconf.h:46: info: Metrics per 'pinconf_check_ops' region
+	Region name    : pinconf_check_ops
+	Region type    : function
+	Offsets        : 1290-1369
+	Line numbers   : 46-49
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinconf.h:51: info: Metrics per 'pinconf_validate_map' region
+	Region name    : pinconf_validate_map
+	Region type    : function
+	Offsets        : 1371-1462
+	Line numbers   : 51-54
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinconf.h:56: info: Metrics per 'pinconf_map_to_setting' region
+	Region name    : pinconf_map_to_setting
+	Region type    : function
+	Offsets        : 1464-1588
+	Line numbers   : 56-60
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinconf.h:62: info: Metrics per 'pinconf_free_setting' region
+	Region name    : pinconf_free_setting
+	Region type    : function
+	Offsets        : 1590-1672
+	Line numbers   : 62-64
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/pinctrl/pinconf.h:66: info: Metrics per 'pinconf_apply_setting' region
+	Region name    : pinconf_apply_setting
+	Region type    : function
+	Offsets        : 1674-1767
+	Line numbers   : 66-69
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinconf.h:71: info: Metrics per 'pinconf_set_config' region
+	Region name    : pinconf_set_config
+	Region type    : function
+	Offsets        : 1769-1921
+	Line numbers   : 71-75
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinconf.h:89: info: Metrics per 'pinconf_show_map' region
+	Region name    : pinconf_show_map
+	Region type    : function
+	Offsets        : 2253-2351
+	Line numbers   : 89-92
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinconf.h:94: info: Metrics per 'pinconf_show_setting' region
+	Region name    : pinconf_show_setting
+	Region type    : function
+	Offsets        : 2353-2460
+	Line numbers   : 94-97
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinconf.h:99: info: Metrics per 'pinconf_init_device_debugfs' region
+	Region name    : pinconf_init_device_debugfs
+	Region type    : function
+	Offsets        : 2462-2577
+	Line numbers   : 99-102
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinconf.h:121: info: Metrics per 'pinconf_generic_dump_pins' region
+	Region name    : pinconf_generic_dump_pins
+	Region type    : function
+	Offsets        : 2999-3158
+	Line numbers   : 121-126
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinconf.h:128: info: Metrics per 'pinconf_generic_dump_config' region
+	Region name    : pinconf_generic_dump_config
+	Region type    : function
+	Offsets        : 3160-3314
+	Line numbers   : 128-133
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinconf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 11 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 11	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/pinconf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.75
+	Minimum        : 3
+	Maximum        : 32
+	Total          : 81.0
+	Distribution   : 12 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.083 : 0.083 :  1	||||||||
+	             4 : 0.500 : 0.583 :  6	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.167 : 0.750 :  2	||||||||||||||||
+	             6 : 0.167 : 0.917 :  2	||||||||||||||||
+	            32 : 0.083 : 1.000 :  1	||||||||
+
+./drivers/pinctrl/meson/pinctrl-meson.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4706
+	Line numbers   : 1-184
+	Modified       : None
+	std.code.lines:code: 33
+
+./drivers/pinctrl/meson/pinctrl-meson.h:30: info: Metrics per 'meson_pmx_group' region
+	Region name    : meson_pmx_group
+	Region type    : struct
+	Offsets        : 399-872
+	Line numbers   : 19-35
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/meson/pinctrl-meson.h:44: info: Metrics per 'meson_pmx_func' region
+	Region name    : meson_pmx_func
+	Region type    : struct
+	Offsets        : 875-1138
+	Line numbers   : 37-48
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/meson/pinctrl-meson.h:59: info: Metrics per 'meson_reg_desc' region
+	Region name    : meson_reg_desc
+	Region type    : struct
+	Offsets        : 1141-1453
+	Line numbers   : 50-62
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/meson/pinctrl-meson.h:101: info: Metrics per 'meson_bank' region
+	Region name    : meson_bank
+	Region type    : struct
+	Offsets        : 1880-2498
+	Line numbers   : 87-108
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/pinctrl/meson/pinctrl-meson.h:110: info: Metrics per 'meson_pinctrl_data' region
+	Region name    : meson_pinctrl_data
+	Region type    : struct
+	Offsets        : 2501-2874
+	Line numbers   : 110-123
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/pinctrl/meson/pinctrl-meson.h:125: info: Metrics per 'meson_pinctrl' region
+	Region name    : meson_pinctrl
+	Region type    : struct
+	Offsets        : 2877-3195
+	Line numbers   : 125-137
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/pinctrl/meson/pinctrl-meson.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/meson/pinctrl-meson.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.85714286
+	Minimum        : 4
+	Maximum        : 33
+	Total          : 83.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.143 : 0.143 : 1	||||||||||||||
+	             5 : 0.143 : 0.286 : 1	||||||||||||||
+	             6 : 0.143 : 0.429 : 1	||||||||||||||
+	             8 : 0.143 : 0.571 : 1	||||||||||||||
+	            13 : 0.143 : 0.714 : 1	||||||||||||||
+	            14 : 0.143 : 0.857 : 1	||||||||||||||
+	            33 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/pinctrl/meson/pinctrl-meson8-pmx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-945
+	Line numbers   : 1-43
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/pinctrl/meson/pinctrl-meson8-pmx.h:9: info: Metrics per 'meson8_pmx_data' region
+	Region name    : meson8_pmx_data
+	Region type    : struct
+	Offsets        : 237-316
+	Line numbers   : 9-13
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/meson/pinctrl-meson8-pmx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/meson/pinctrl-meson8-pmx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 2
+	Maximum        : 5
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/meson/pinctrl-meson-axg-pmx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1289
+	Line numbers   : 1-63
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/meson/pinctrl-meson-axg-pmx.h:11: info: Metrics per 'meson_pmx_bank' region
+	Region name    : meson_pmx_bank
+	Region type    : struct
+	Offsets        : 255-381
+	Line numbers   : 11-17
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/meson/pinctrl-meson-axg-pmx.h:19: info: Metrics per 'meson_axg_pmx_data' region
+	Region name    : meson_axg_pmx_data
+	Region type    : struct
+	Offsets        : 384-477
+	Line numbers   : 19-22
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/meson/pinctrl-meson-axg-pmx.h:33: info: Metrics per 'meson_pmx_axg_data' region
+	Region name    : meson_pmx_axg_data
+	Region type    : struct
+	Offsets        : 631-687
+	Line numbers   : 33-35
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/pinctrl/meson/pinctrl-meson-axg-pmx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/meson/pinctrl-meson-axg-pmx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 18.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             4 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7337
+	Line numbers   : 1-310
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:121: info: Metrics per 'sunxi_desc_function' region
+	Region name    : sunxi_desc_function
+	Region type    : struct
+	Offsets        : 2986-3099
+	Line numbers   : 121-127
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:129: info: Metrics per 'sunxi_desc_pin' region
+	Region name    : sunxi_desc_pin
+	Region type    : struct
+	Offsets        : 3102-3224
+	Line numbers   : 129-133
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:135: info: Metrics per 'sunxi_pinctrl_desc' region
+	Region name    : sunxi_pinctrl_desc
+	Region type    : struct
+	Offsets        : 3227-3498
+	Line numbers   : 135-144
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:146: info: Metrics per 'sunxi_pinctrl_function' region
+	Region name    : sunxi_pinctrl_function
+	Region type    : struct
+	Offsets        : 3501-3594
+	Line numbers   : 146-150
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:152: info: Metrics per 'sunxi_pinctrl_group' region
+	Region name    : sunxi_pinctrl_group
+	Region type    : struct
+	Offsets        : 3597-3661
+	Line numbers   : 152-155
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:157: info: Metrics per 'sunxi_pinctrl_regulator' region
+	Region name    : sunxi_pinctrl_regulator
+	Region type    : struct
+	Offsets        : 3664-3751
+	Line numbers   : 157-160
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:162: info: Metrics per 'sunxi_pinctrl' region
+	Region name    : sunxi_pinctrl
+	Region type    : struct
+	Offsets        : 3754-4291
+	Line numbers   : 162-181
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:226: info: Metrics per 'sunxi_irq_hw_bank_num' region
+	Region name    : sunxi_irq_hw_bank_num
+	Region type    : function
+	Offsets        : 5177-5350
+	Line numbers   : 226-232
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:234: info: Metrics per 'sunxi_irq_cfg_reg' region
+	Region name    : sunxi_irq_cfg_reg
+	Region type    : function
+	Offsets        : 5352-5626
+	Line numbers   : 234-242
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:244: info: Metrics per 'sunxi_irq_cfg_offset' region
+	Region name    : sunxi_irq_cfg_offset
+	Region type    : function
+	Offsets        : 5628-5757
+	Line numbers   : 244-248
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:250: info: Metrics per 'sunxi_irq_ctrl_reg_from_bank' region
+	Region name    : sunxi_irq_ctrl_reg_from_bank
+	Region type    : function
+	Offsets        : 5759-5930
+	Line numbers   : 250-253
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:255: info: Metrics per 'sunxi_irq_ctrl_reg' region
+	Region name    : sunxi_irq_ctrl_reg
+	Region type    : function
+	Offsets        : 5932-6111
+	Line numbers   : 255-261
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:263: info: Metrics per 'sunxi_irq_ctrl_offset' region
+	Region name    : sunxi_irq_ctrl_offset
+	Region type    : function
+	Offsets        : 6113-6245
+	Line numbers   : 263-267
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:269: info: Metrics per 'sunxi_irq_debounce_reg_from_bank' region
+	Region name    : sunxi_irq_debounce_reg_from_bank
+	Region type    : function
+	Offsets        : 6247-6434
+	Line numbers   : 269-273
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:275: info: Metrics per 'sunxi_irq_status_reg_from_bank' region
+	Region name    : sunxi_irq_status_reg_from_bank
+	Region type    : function
+	Offsets        : 6436-6619
+	Line numbers   : 275-279
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:281: info: Metrics per 'sunxi_irq_status_reg' region
+	Region name    : sunxi_irq_status_reg
+	Region type    : function
+	Offsets        : 6621-6806
+	Line numbers   : 281-287
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:289: info: Metrics per 'sunxi_irq_status_offset' region
+	Region name    : sunxi_irq_status_offset
+	Region type    : function
+	Offsets        : 6808-6946
+	Line numbers   : 289-293
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:295: info: Metrics per 'sunxi_grp_config_reg' region
+	Region name    : sunxi_grp_config_reg
+	Region type    : function
+	Offsets        : 6948-7066
+	Line numbers   : 295-300
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.09090909
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 11 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.909 : 0.909 : 10	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.091 : 1.000 :  1	|||||||||
+
+./drivers/pinctrl/sunxi/pinctrl-sunxi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.94736842
+	Minimum        : 4
+	Maximum        : 20
+	Total          : 132.0
+	Distribution   : 19 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.158 : 0.158 :  3	|||||||||||||||
+	             5 : 0.421 : 0.579 :  8	||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.105 : 0.684 :  2	||||||||||
+	             7 : 0.105 : 0.789 :  2	||||||||||
+	             8 : 0.053 : 0.842 :  1	|||||
+	            10 : 0.053 : 0.895 :  1	|||||
+	            16 : 0.053 : 0.947 :  1	|||||
+	            20 : 0.053 : 1.000 :  1	|||||
+
+./drivers/pinctrl/renesas/sh_pfc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-26696
+	Line numbers   : 1-777
+	Modified       : None
+	std.code.lines:code: 76
+
+./drivers/pinctrl/renesas/sh_pfc.h:42: info: Metrics per 'sh_pfc_pin' region
+	Region name    : sh_pfc_pin
+	Region type    : struct
+	Offsets        : 985-1072
+	Line numbers   : 42-47
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/renesas/sh_pfc.h:78: info: Metrics per 'sh_pfc_pin_group' region
+	Region name    : sh_pfc_pin_group
+	Region type    : struct
+	Offsets        : 2068-2190
+	Line numbers   : 78-83
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/renesas/sh_pfc.h:91: info: Metrics per 'sh_pfc_function' region
+	Region name    : sh_pfc_function
+	Region type    : struct
+	Offsets        : 2326-2425
+	Line numbers   : 91-95
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/renesas/sh_pfc.h:97: info: Metrics per 'pinmux_func' region
+	Region name    : pinmux_func
+	Region type    : struct
+	Offsets        : 2428-2483
+	Line numbers   : 97-100
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/renesas/sh_pfc.h:102: info: Metrics per 'pinmux_cfg_reg' region
+	Region name    : pinmux_cfg_reg
+	Region type    : struct
+	Offsets        : 2486-2750
+	Line numbers   : 102-113
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/renesas/sh_pfc.h:154: info: Metrics per 'pinmux_drive_reg_field' region
+	Region name    : pinmux_drive_reg_field
+	Region type    : struct
+	Offsets        : 4683-4748
+	Line numbers   : 154-158
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/renesas/sh_pfc.h:160: info: Metrics per 'pinmux_drive_reg' region
+	Region name    : pinmux_drive_reg
+	Region type    : struct
+	Offsets        : 4751-4837
+	Line numbers   : 160-163
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/renesas/sh_pfc.h:169: info: Metrics per 'pinmux_bias_reg' region
+	Region name    : pinmux_bias_reg
+	Region type    : struct
+	Offsets        : 4901-5108
+	Line numbers   : 169-173
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/renesas/sh_pfc.h:180: info: Metrics per 'pinmux_ioctrl_reg' region
+	Region name    : pinmux_ioctrl_reg
+	Region type    : struct
+	Offsets        : 5198-5236
+	Line numbers   : 180-182
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/pinctrl/renesas/sh_pfc.h:184: info: Metrics per 'pinmux_data_reg' region
+	Region name    : pinmux_data_reg
+	Region type    : struct
+	Offsets        : 5239-5312
+	Line numbers   : 184-188
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/renesas/sh_pfc.h:204: info: Metrics per 'pinmux_irq' region
+	Region name    : pinmux_irq
+	Region type    : struct
+	Offsets        : 5881-5923
+	Line numbers   : 204-206
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/pinctrl/renesas/sh_pfc.h:216: info: Metrics per 'pinmux_range' region
+	Region name    : pinmux_range
+	Region type    : struct
+	Offsets        : 6128-6185
+	Line numbers   : 216-220
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/renesas/sh_pfc.h:222: info: Metrics per 'sh_pfc_window' region
+	Region name    : sh_pfc_window
+	Region type    : struct
+	Offsets        : 6188-6273
+	Line numbers   : 222-226
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/renesas/sh_pfc.h:230: info: Metrics per 'sh_pfc' region
+	Region name    : sh_pfc
+	Region type    : struct
+	Offsets        : 6302-6635
+	Line numbers   : 230-247
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/pinctrl/renesas/sh_pfc.h:249: info: Metrics per 'sh_pfc_soc_operations' region
+	Region name    : sh_pfc_soc_operations
+	Region type    : struct
+	Offsets        : 6638-6946
+	Line numbers   : 249-256
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/pinctrl/renesas/sh_pfc.h:258: info: Metrics per 'sh_pfc_soc_info' region
+	Region name    : sh_pfc_soc_info
+	Region type    : struct
+	Offsets        : 6949-7863
+	Line numbers   : 258-293
+	Modified       : None
+	std.code.lines:code: 25
+
+./drivers/pinctrl/renesas/sh_pfc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/renesas/sh_pfc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.94117647
+	Minimum        : 3
+	Maximum        : 76
+	Total          : 186.0
+	Distribution   : 17 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.118 : 0.118 :  2	|||||||||||
+	             4 : 0.118 : 0.235 :  2	|||||||||||
+	             5 : 0.353 : 0.588 :  6	|||||||||||||||||||||||||||||||||||
+	             6 : 0.118 : 0.706 :  2	|||||||||||
+	             7 : 0.059 : 0.765 :  1	|||||
+	             8 : 0.059 : 0.824 :  1	|||||
+	            14 : 0.059 : 0.882 :  1	|||||
+	            25 : 0.059 : 0.941 :  1	|||||
+	            76 : 0.059 : 1.000 :  1	|||||
+
+./drivers/pinctrl/renesas/core.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-832
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/pinctrl/renesas/core.h:14: info: Metrics per 'sh_pfc_pin_range' region
+	Region name    : sh_pfc_pin_range
+	Region type    : struct
+	Offsets        : 236-285
+	Line numbers   : 14-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/renesas/core.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/renesas/core.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 4
+	Maximum        : 10
+	Total          : 14.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/actions/pinctrl-owl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8153
+	Line numbers   : 1-313
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/pinctrl/actions/pinctrl-owl.h:173: info: Metrics per 'owl_pullctl' region
+	Region name    : owl_pullctl
+	Region type    : struct
+	Offsets        : 4011-4268
+	Line numbers   : 167-177
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/actions/pinctrl-owl.h:185: info: Metrics per 'owl_st' region
+	Region name    : owl_st
+	Region type    : struct
+	Offsets        : 4271-4538
+	Line numbers   : 179-189
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/actions/pinctrl-owl.h:208: info: Metrics per 'owl_pingroup' region
+	Region name    : owl_pingroup
+	Region type    : struct
+	Offsets        : 4541-5573
+	Line numbers   : 191-226
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/pinctrl/actions/pinctrl-owl.h:234: info: Metrics per 'owl_padinfo' region
+	Region name    : owl_padinfo
+	Region type    : struct
+	Offsets        : 5576-5822
+	Line numbers   : 228-238
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/actions/pinctrl-owl.h:246: info: Metrics per 'owl_pinmux_func' region
+	Region name    : owl_pinmux_func
+	Region type    : struct
+	Offsets        : 5825-6133
+	Line numbers   : 240-250
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/actions/pinctrl-owl.h:264: info: Metrics per 'owl_gpio_port' region
+	Region name    : owl_gpio_port
+	Region type    : struct
+	Offsets        : 6136-6878
+	Line numbers   : 252-275
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/pinctrl/actions/pinctrl-owl.h:290: info: Metrics per 'owl_pinctrl_soc_data' region
+	Region name    : owl_pinctrl_soc_data
+	Region type    : struct
+	Offsets        : 6881-8024
+	Line numbers   : 277-307
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/pinctrl/actions/pinctrl-owl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/actions/pinctrl-owl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.125
+	Minimum        : 5
+	Maximum        : 18
+	Total          : 81.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.125 : 0.625 : 1	||||||||||||
+	            15 : 0.125 : 0.750 : 1	||||||||||||
+	            16 : 0.125 : 0.875 : 1	||||||||||||
+	            18 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/pinctrl/pinctrl-lantiq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3435
+	Line numbers   : 1-202
+	Modified       : None
+	std.code.lines:code: 105
+
+./drivers/pinctrl/pinctrl-lantiq.h:39: info: Metrics per 'ltq_cfg_param' region
+	Region name    : ltq_cfg_param
+	Region type    : struct
+	Offsets        : 930-1008
+	Line numbers   : 39-42
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/pinctrl-lantiq.h:44: info: Metrics per 'ltq_mfp_pin' region
+	Region name    : ltq_mfp_pin
+	Region type    : struct
+	Offsets        : 1011-1118
+	Line numbers   : 44-48
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinctrl-lantiq.h:50: info: Metrics per 'ltq_pin_group' region
+	Region name    : ltq_pin_group
+	Region type    : struct
+	Offsets        : 1121-1231
+	Line numbers   : 50-55
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/pinctrl-lantiq.h:57: info: Metrics per 'ltq_pmx_func' region
+	Region name    : ltq_pmx_func
+	Region type    : struct
+	Offsets        : 1234-1333
+	Line numbers   : 57-61
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/pinctrl-lantiq.h:63: info: Metrics per 'ltq_pinmux_info' region
+	Region name    : ltq_pinmux_info
+	Region type    : struct
+	Offsets        : 1336-2431
+	Line numbers   : 63-104
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/pinctrl/pinctrl-lantiq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/pinctrl-lantiq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 24.16666667
+	Minimum        : 4
+	Maximum        : 105
+	Total          : 145.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	             5 : 0.333 : 0.500 : 2	|||||||||||||||||||||||||||||||||
+	             6 : 0.167 : 0.667 : 1	||||||||||||||||
+	            20 : 0.167 : 0.833 : 1	||||||||||||||||
+	           105 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/pinctrl/core.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8288
+	Line numbers   : 1-260
+	Modified       : None
+	std.code.lines:code: 43
+
+./drivers/pinctrl/core.h:52: info: Metrics per 'pinctrl_dev' region
+	Region name    : pinctrl_dev
+	Region type    : struct
+	Offsets        : 565-2386
+	Line numbers   : 29-75
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/pinctrl/core.h:87: info: Metrics per 'pinctrl' region
+	Region name    : pinctrl
+	Region type    : struct
+	Offsets        : 2389-2898
+	Line numbers   : 77-94
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/pinctrl/core.h:102: info: Metrics per 'pinctrl_state' region
+	Region name    : pinctrl_state
+	Region type    : struct
+	Offsets        : 2901-3195
+	Line numbers   : 96-106
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/core.h:113: info: Metrics per 'pinctrl_setting_mux' region
+	Region name    : pinctrl_setting_mux
+	Region type    : struct
+	Offsets        : 3198-3421
+	Line numbers   : 108-116
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/core.h:126: info: Metrics per 'pinctrl_setting_configs' region
+	Region name    : pinctrl_setting_configs
+	Region type    : struct
+	Offsets        : 3424-3904
+	Line numbers   : 118-130
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/core.h:141: info: Metrics per 'pinctrl_setting' region
+	Region name    : pinctrl_setting
+	Region type    : struct
+	Offsets        : 3907-4502
+	Line numbers   : 132-150
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/core.h:146: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 4408-4494
+	Line numbers   : 146-149
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/core.h:169: info: Metrics per 'pin_desc' region
+	Region name    : pin_desc
+	Region type    : struct
+	Offsets        : 4505-5789
+	Line numbers   : 152-181
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/pinctrl/core.h:189: info: Metrics per 'pinctrl_maps' region
+	Region name    : pinctrl_maps
+	Region type    : struct
+	Offsets        : 5792-6094
+	Line numbers   : 183-193
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/core.h:204: info: Metrics per 'group_desc' region
+	Region name    : group_desc
+	Region type    : struct
+	Offsets        : 6135-6444
+	Line numbers   : 197-209
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/pinctrl/core.h:239: info: Metrics per 'pin_desc_get' region
+	Region name    : pin_desc_get
+	Region type    : function
+	Offsets        : 7556-7716
+	Line numbers   : 239-243
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/pinctrl/core.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/core.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 4
+	Maximum        : 43
+	Total          : 120.0
+	Distribution   : 12 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 :  2	||||||||||||||||
+	             5 : 0.333 : 0.500 :  4	|||||||||||||||||||||||||||||||||
+	             6 : 0.083 : 0.583 :  1	||||||||
+	             7 : 0.083 : 0.667 :  1	||||||||
+	             8 : 0.083 : 0.750 :  1	||||||||
+	            10 : 0.083 : 0.833 :  1	||||||||
+	            18 : 0.083 : 0.917 :  1	||||||||
+	            43 : 0.083 : 1.000 :  1	||||||||
+
+./drivers/pinctrl/bcm/pinctrl-bcm63xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-980
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/bcm/pinctrl-bcm63xx.h:14: info: Metrics per 'bcm63xx_pinctrl_soc' region
+	Region name    : bcm63xx_pinctrl_soc
+	Region type    : struct
+	Offsets        : 298-479
+	Line numbers   : 14-22
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/bcm/pinctrl-bcm63xx.h:26: info: Metrics per 'bcm63xx_pinctrl' region
+	Region name    : bcm63xx_pinctrl
+	Region type    : struct
+	Offsets        : 561-715
+	Line numbers   : 26-34
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/bcm/pinctrl-bcm63xx.h:36: info: Metrics per 'bcm63xx_bank_pin' region
+	Region name    : bcm63xx_bank_pin
+	Region type    : function
+	Offsets        : 718-817
+	Line numbers   : 36-39
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/pinctrl/bcm/pinctrl-bcm63xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/bcm/pinctrl-bcm63xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.75
+	Minimum        : 4
+	Maximum        : 7
+	Total          : 23.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/pinctrl/qcom/pinctrl-msm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6599
+	Line numbers   : 1-172
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/pinctrl/qcom/pinctrl-msm.h:72: info: Metrics per 'msm_pingroup' region
+	Region name    : msm_pingroup
+	Region type    : struct
+	Offsets        : 885-4132
+	Line numbers   : 37-110
+	Modified       : None
+	std.code.lines:code: 31
+
+./drivers/pinctrl/qcom/pinctrl-msm.h:117: info: Metrics per 'msm_gpio_wakeirq_map' region
+	Region name    : msm_gpio_wakeirq_map
+	Region type    : struct
+	Offsets        : 4135-4409
+	Line numbers   : 112-120
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/pinctrl/qcom/pinctrl-msm.h:146: info: Metrics per 'msm_pinctrl_soc_data' region
+	Region name    : msm_pinctrl_soc_data
+	Region type    : struct
+	Offsets        : 4412-6371
+	Line numbers   : 122-163
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/pinctrl/qcom/pinctrl-msm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/qcom/pinctrl-msm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.5
+	Minimum        : 4
+	Maximum        : 31
+	Total          : 62.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             9 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            18 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            31 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/pinctrl/qcom/pinctrl-lpass-lpi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2255
+	Line numbers   : 1-91
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/qcom/pinctrl-lpass-lpi.h:63: info: Metrics per 'lpi_pingroup' region
+	Region name    : lpi_pingroup
+	Region type    : struct
+	Offsets        : 1628-1817
+	Line numbers   : 63-70
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/pinctrl/qcom/pinctrl-lpass-lpi.h:72: info: Metrics per 'lpi_function' region
+	Region name    : lpi_function
+	Region type    : struct
+	Offsets        : 1820-1914
+	Line numbers   : 72-76
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/pinctrl/qcom/pinctrl-lpass-lpi.h:78: info: Metrics per 'lpi_pinctrl_variant_data' region
+	Region name    : lpi_pinctrl_variant_data
+	Region type    : struct
+	Offsets        : 1917-2108
+	Line numbers   : 78-85
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/pinctrl/qcom/pinctrl-lpass-lpi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/pinctrl/qcom/pinctrl-lpass-lpi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.75
+	Minimum        : 5
+	Maximum        : 8
+	Total          : 27.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             7 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/bcma/bcma_private.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6365
+	Line numbers   : 1-216
+	Modified       : None
+	std.code.lines:code: 50
+
+./drivers/bcma/bcma_private.h:70: info: Metrics per 'bcma_pflash_init' region
+	Region name    : bcma_pflash_init
+	Region type    : function
+	Offsets        : 2312-2451
+	Line numbers   : 69-74
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/bcma/bcma_private.h:82: info: Metrics per 'bcma_sflash_init' region
+	Region name    : bcma_sflash_init
+	Region type    : function
+	Offsets        : 2637-2774
+	Line numbers   : 81-86
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/bcma/bcma_private.h:94: info: Metrics per 'bcma_nflash_init' region
+	Region name    : bcma_nflash_init
+	Region type    : function
+	Offsets        : 2960-3095
+	Line numbers   : 93-98
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/bcma/bcma_private.h:112: info: Metrics per 'bcma_host_soc_register_driver' region
+	Region name    : bcma_host_soc_register_driver
+	Region type    : function
+	Offsets        : 3484-3565
+	Line numbers   : 111-115
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:116: info: Metrics per 'bcma_host_soc_unregister_driver' region
+	Region name    : bcma_host_soc_unregister_driver
+	Region type    : function
+	Offsets        : 3566-3633
+	Line numbers   : 116-118
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/bcma/bcma_private.h:129: info: Metrics per 'bcma_core_pci_early_init' region
+	Region name    : bcma_core_pci_early_init
+	Region type    : function
+	Offsets        : 3993-4127
+	Line numbers   : 128-132
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:133: info: Metrics per 'bcma_core_pci_init' region
+	Region name    : bcma_core_pci_init
+	Region type    : function
+	Offsets        : 4128-4303
+	Line numbers   : 133-137
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:145: info: Metrics per 'bcma_core_pcie2_init' region
+	Region name    : bcma_core_pcie2_init
+	Region type    : function
+	Offsets        : 4475-4666
+	Line numbers   : 144-149
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:158: info: Metrics per 'bcma_core_pci_is_in_hostmode' region
+	Region name    : bcma_core_pci_is_in_hostmode
+	Region type    : function
+	Offsets        : 4900-4997
+	Line numbers   : 157-161
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:162: info: Metrics per 'bcma_core_pci_hostmode_init' region
+	Region name    : bcma_core_pci_hostmode_init
+	Region type    : function
+	Offsets        : 4998-5073
+	Line numbers   : 162-164
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/bcma/bcma_private.h:176: info: Metrics per 'bcma_core_mips_irq' region
+	Region name    : bcma_core_mips_irq
+	Region type    : function
+	Offsets        : 5448-5539
+	Line numbers   : 175-179
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:180: info: Metrics per 'bcma_core_mips_early_init' region
+	Region name    : bcma_core_mips_early_init
+	Region type    : function
+	Offsets        : 5540-5617
+	Line numbers   : 180-182
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/bcma/bcma_private.h:183: info: Metrics per 'bcma_core_mips_init' region
+	Region name    : bcma_core_mips_init
+	Region type    : function
+	Offsets        : 5618-5689
+	Line numbers   : 183-185
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/bcma/bcma_private.h:195: info: Metrics per 'bcma_core_gmac_cmn_init' region
+	Region name    : bcma_core_gmac_cmn_init
+	Region type    : function
+	Offsets        : 5920-6002
+	Line numbers   : 194-197
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./drivers/bcma/bcma_private.h:205: info: Metrics per 'bcma_gpio_init' region
+	Region name    : bcma_gpio_init
+	Region type    : function
+	Offsets        : 6156-6241
+	Line numbers   : 204-208
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:209: info: Metrics per 'bcma_gpio_unregister' region
+	Region name    : bcma_gpio_unregister
+	Region type    : function
+	Offsets        : 6242-6319
+	Line numbers   : 209-212
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/bcma/bcma_private.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 16 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 16	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/bcma/bcma_private.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.58823529
+	Minimum        : 3
+	Maximum        : 50
+	Total          : 112.0
+	Distribution   : 17 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.294 : 0.294 :  5	|||||||||||||||||||||||||||||
+	             4 : 0.471 : 0.765 :  8	|||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.176 : 0.941 :  3	|||||||||||||||||
+	            50 : 0.059 : 1.000 :  1	|||||
+
+./drivers/bcma/scan.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1735
+	Line numbers   : 1-58
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/bcma/scan.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/bcma/scan.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/reset/sti/reset-syscfg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2158
+	Line numbers   : 1-66
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/reset/sti/reset-syscfg.h:22: info: Metrics per 'syscfg_reset_channel_data' region
+	Region name    : syscfg_reset_channel_data
+	Region type    : struct
+	Offsets        : 314-786
+	Line numbers   : 13-26
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/reset/sti/reset-syscfg.h:47: info: Metrics per 'syscfg_reset_controller_data' region
+	Region name    : syscfg_reset_controller_data
+	Region type    : struct
+	Offsets        : 1058-1677
+	Line numbers   : 37-52
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/reset/sti/reset-syscfg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/reset/sti/reset-syscfg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 3
+	Maximum        : 6
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/reset/starfive/reset-starfive-jh71x0.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-443
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/reset/starfive/reset-starfive-jh71x0.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/reset/starfive/reset-starfive-jh71x0.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v1_0.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-702
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v1_0.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v1_0.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v1_1.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-720
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v1_1.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v1_1.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_general.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1471
+	Line numbers   : 1-58
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_general.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_general.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v2_0.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1423
+	Line numbers   : 1-52
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v2_0.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/hw_ip/mmu/mmu_v2_0.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/hw_ip/pci/pci_general.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-750
+	Line numbers   : 1-31
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/accel/habanalabs/include/hw_ip/pci/pci_general.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/hw_ip/pci/pci_general.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/goya.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-854
+	Line numbers   : 1-44
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/goya.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/goya.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/goya_coresight.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4373
+	Line numbers   : 1-200
+	Modified       : None
+	std.code.lines:code: 183
+
+./drivers/accel/habanalabs/include/goya/goya_coresight.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/goya_coresight.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 183.0
+	Minimum        : 183
+	Maximum        : 183
+	Total          : 183.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           183 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/goya_reg_map.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1866
+	Line numbers   : 1-44
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/goya_reg_map.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/goya_reg_map.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc5_cfg_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-34626
+	Line numbers   : 1-887
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc5_cfg_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc5_cfg_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_nrtr_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10312
+	Line numbers   : 1-209
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_nrtr_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_nrtr_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_cmdq_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-19549
+	Line numbers   : 1-373
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_cmdq_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_cmdq_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_nrtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8560
+	Line numbers   : 1-227
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_nrtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_nrtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_cfg_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-80427
+	Line numbers   : 1-1607
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_cfg_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_cfg_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pci_nrtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8254
+	Line numbers   : 1-227
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pci_nrtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pci_nrtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc1_cfg_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-34626
+	Line numbers   : 1-887
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc1_cfg_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc1_cfg_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_nrtr_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10349
+	Line numbers   : 1-209
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_nrtr_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_nrtr_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-85229
+	Line numbers   : 1-1537
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_macro_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4146
+	Line numbers   : 1-105
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_macro_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_macro_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_cmdq_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5085
+	Line numbers   : 1-139
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_cmdq_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_cmdq_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/stlb_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1747
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/stlb_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/stlb_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_emmc_pll_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3757
+	Line numbers   : 1-105
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_emmc_pll_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_emmc_pll_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mmu_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1663
+	Line numbers   : 1-53
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mmu_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mmu_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_global_conf_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-26041
+	Line numbers   : 1-447
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_global_conf_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_global_conf_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme1_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12514
+	Line numbers   : 1-331
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme1_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme1_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_cfg_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-34626
+	Line numbers   : 1-887
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_cfg_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_cfg_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme2_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12514
+	Line numbers   : 1-331
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme2_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme2_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12352
+	Line numbers   : 1-323
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc2_qm_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6657
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc2_qm_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc2_qm_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_cfg_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-34626
+	Line numbers   : 1-887
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_cfg_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_cfg_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pci_nrtr_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10312
+	Line numbers   : 1-209
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pci_nrtr_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pci_nrtr_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_qm_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6657
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_qm_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc3_qm_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_qm_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-23893
+	Line numbers   : 1-465
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_qm_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_qm_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x4_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2895
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x4_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x4_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/stlb_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5432
+	Line numbers   : 1-117
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/stlb_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/stlb_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme4_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12668
+	Line numbers   : 1-331
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme4_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme4_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_qm_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6657
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_qm_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_qm_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_macro_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6749
+	Line numbers   : 1-181
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_macro_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_macro_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc2_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12352
+	Line numbers   : 1-323
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc2_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc2_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc4_cmdq_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5085
+	Line numbers   : 1-139
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc4_cmdq_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc4_cmdq_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_nrtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8564
+	Line numbers   : 1-227
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_nrtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_nrtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme5_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12668
+	Line numbers   : 1-331
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme5_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme5_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_eml_cfg_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-17981
+	Line numbers   : 1-347
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_eml_cfg_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_eml_cfg_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pcie_wrap_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11726
+	Line numbers   : 1-307
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pcie_wrap_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/pcie_wrap_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_mme_pll_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3753
+	Line numbers   : 1-105
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_mme_pll_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_mme_pll_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_qm_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6657
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_qm_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_qm_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_0_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-23975
+	Line numbers   : 1-465
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_0_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_0_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_4_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6661
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_4_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_4_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_cmdq_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5085
+	Line numbers   : 1-139
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_cmdq_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc7_cmdq_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mmu_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7476
+	Line numbers   : 1-143
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mmu_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mmu_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_cmdq_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5085
+	Line numbers   : 1-139
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_cmdq_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_cmdq_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x0_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2895
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x0_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x0_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/cpu_ca53_cfg_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11062
+	Line numbers   : 1-191
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/cpu_ca53_cfg_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/cpu_ca53_cfg_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-44548
+	Line numbers   : 1-1153
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/goya_blocks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-82732
+	Line numbers   : 1-1373
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/goya_blocks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/goya_blocks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc1_cmdq_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5085
+	Line numbers   : 1-139
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc1_cmdq_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc1_cmdq_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_qm_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6657
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_qm_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc0_qm_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc5_cmdq_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5085
+	Line numbers   : 1-139
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc5_cmdq_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc5_cmdq_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_global_conf_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-29057
+	Line numbers   : 1-745
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_global_conf_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_global_conf_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x3_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2895
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x3_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x3_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme3_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12514
+	Line numbers   : 1-331
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme3_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme3_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x1_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2895
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x1_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/sram_y0_x1_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_rtr_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12352
+	Line numbers   : 1-323
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_rtr_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/tpc6_rtr_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mc_pll_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3729
+	Line numbers   : 1-105
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mc_pll_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mc_pll_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_ch_2_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7848
+	Line numbers   : 1-209
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_ch_2_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_ch_2_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_qm_masks.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-23811
+	Line numbers   : 1-465
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_qm_masks.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/mme_qm_masks.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_timestamp_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1871
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_timestamp_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/psoc_timestamp_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_ch_3_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7848
+	Line numbers   : 1-209
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_ch_3_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_ch_3_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_3_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6661
+	Line numbers   : 1-179
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_3_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/accel/habanalabs/include/goya/asic_reg/dma_qm_3_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

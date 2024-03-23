@@ -1,0 +1,4425 @@
+./arch/powerpc/net/bpf_jit.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5927
+	Line numbers   : 1-178
+	Modified       : None
+	std.code.lines:code: 12
+
+./arch/powerpc/net/bpf_jit.h:121: info: Metrics per 'codegen_context' region
+	Region name    : codegen_context
+	Region type    : struct
+	Offsets        : 4141-4613
+	Line numbers   : 121-137
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/net/bpf_jit.h:147: info: Metrics per 'bpf_is_seen_register' region
+	Region name    : bpf_is_seen_register
+	Region type    : function
+	Offsets        : 4806-4922
+	Line numbers   : 147-150
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/net/bpf_jit.h:152: info: Metrics per 'bpf_set_seen_register' region
+	Region name    : bpf_set_seen_register
+	Region type    : function
+	Offsets        : 4924-5033
+	Line numbers   : 152-155
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/net/bpf_jit.h:157: info: Metrics per 'bpf_clear_seen_register' region
+	Region name    : bpf_clear_seen_register
+	Region type    : function
+	Offsets        : 5035-5149
+	Line numbers   : 157-160
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/net/bpf_jit.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/net/bpf_jit.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.4
+	Minimum        : 4
+	Maximum        : 12
+	Total          : 32.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.600 : 0.600 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            12 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/powerpc/crypto/aes-spe-regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1082
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/crypto/aes-spe-regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/crypto/aes-spe-regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/req-gen/_request-begin.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-539
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/perf/req-gen/_request-begin.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/req-gen/_request-begin.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/req-gen/perf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5641
+	Line numbers   : 1-178
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/perf/req-gen/perf.h:44: info: Metrics per 'CAT2' region
+	Region name    : CAT2
+	Region type    : function
+	Offsets        : 1024-1191
+	Line numbers   : 41-46
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./arch/powerpc/perf/req-gen/perf.h:85: info: Metrics per 'CAT2' region
+	Region name    : CAT2
+	Region type    : function
+	Offsets        : 2557-2649
+	Line numbers   : 85-88
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./arch/powerpc/perf/req-gen/perf.h:143: info: Metrics per 'attribute' region
+	Region name    : attribute
+	Region type    : struct
+	Offsets        : 4475-4652
+	Line numbers   : 142-146
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/perf/req-gen/perf.h:162: info: Metrics per 'attribute' region
+	Region name    : attribute
+	Region type    : struct
+	Offsets        : 5281-5454
+	Line numbers   : 161-165
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/perf/req-gen/perf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/req-gen/perf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.8
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 14.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             3 : 0.800 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/req-gen/_end.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-63
+	Line numbers   : 1-5
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/perf/req-gen/_end.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/req-gen/_end.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/req-gen/_begin.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-470
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/perf/req-gen/_begin.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/req-gen/_begin.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/req-gen/_clear.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-104
+	Line numbers   : 1-7
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/perf/req-gen/_clear.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/req-gen/_clear.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/req-gen/_request-end.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-163
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/perf/req-gen/_request-end.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/req-gen/_request-end.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/hv-24x7-domains.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1081
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/perf/hv-24x7-domains.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/hv-24x7-domains.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/power8-events-list.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3299
+	Line numbers   : 1-94
+	Modified       : None
+	std.code.lines:code: 42
+
+./arch/powerpc/perf/power8-events-list.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/power8-events-list.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 42.0
+	Minimum        : 42
+	Maximum        : 42
+	Total          : 42.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            42 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/power9-events-list.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3863
+	Line numbers   : 1-118
+	Modified       : None
+	std.code.lines:code: 59
+
+./arch/powerpc/perf/power9-events-list.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/power9-events-list.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 59.0
+	Minimum        : 59
+	Maximum        : 59
+	Total          : 59.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            59 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/hv-24x7-catalog.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1868
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/perf/hv-24x7-catalog.h:9: info: Metrics per 'hv_24x7_catalog_page_0' region
+	Region name    : hv_24x7_catalog_page_0
+	Region type    : struct
+	Offsets        : 233-1081
+	Line numbers   : 9-32
+	Modified       : None
+	std.code.lines:code: 23
+
+./arch/powerpc/perf/hv-24x7-catalog.h:34: info: Metrics per 'hv_24x7_event_data' region
+	Region name    : hv_24x7_event_data
+	Region type    : struct
+	Offsets        : 1093-1849
+	Line numbers   : 34-57
+	Modified       : None
+	std.code.lines:code: 14
+
+./arch/powerpc/perf/hv-24x7-catalog.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/hv-24x7-catalog.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 2
+	Maximum        : 23
+	Total          : 39.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            14 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            23 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/hv-24x7.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3893
+	Line numbers   : 1-161
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/perf/hv-24x7.h:16: info: Metrics per 'hv_24x7_request' region
+	Region name    : hv_24x7_request
+	Region type    : struct
+	Offsets        : 358-1428
+	Line numbers   : 16-57
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/powerpc/perf/hv-24x7.h:59: info: Metrics per 'hv_24x7_request_buffer' region
+	Region name    : hv_24x7_request_buffer
+	Region type    : struct
+	Offsets        : 1440-1601
+	Line numbers   : 59-66
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/perf/hv-24x7.h:68: info: Metrics per 'hv_24x7_result_element_v1' region
+	Region name    : hv_24x7_result_element_v1
+	Region type    : struct
+	Offsets        : 1613-1982
+	Line numbers   : 68-82
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/perf/hv-24x7.h:88: info: Metrics per 'hv_24x7_result_element_v2' region
+	Region name    : hv_24x7_result_element_v2
+	Region type    : struct
+	Offsets        : 1994-2515
+	Line numbers   : 84-106
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/perf/hv-24x7.h:108: info: Metrics per 'hv_24x7_result' region
+	Region name    : hv_24x7_result
+	Region type    : struct
+	Offsets        : 2527-3447
+	Line numbers   : 108-142
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/perf/hv-24x7.h:144: info: Metrics per 'hv_24x7_data_result_buffer' region
+	Region name    : hv_24x7_data_result_buffer
+	Region type    : struct
+	Offsets        : 3459-3874
+	Line numbers   : 144-158
+	Modified       : None
+	std.code.lines:code: 11
+
+./arch/powerpc/perf/hv-24x7.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/hv-24x7.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.71428571
+	Minimum        : 6
+	Maximum        : 13
+	Total          : 61.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.286 : 0.286 : 2	||||||||||||||||||||||||||||
+	             8 : 0.286 : 0.571 : 2	||||||||||||||||||||||||||||
+	             9 : 0.143 : 0.714 : 1	||||||||||||||
+	            11 : 0.143 : 0.857 : 1	||||||||||||||
+	            13 : 0.143 : 1.000 : 1	||||||||||||||
+
+./arch/powerpc/perf/internal.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-413
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/perf/internal.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/internal.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/power7-events-list.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-30247
+	Line numbers   : 1-555
+	Modified       : None
+	std.code.lines:code: 547
+
+./arch/powerpc/perf/power7-events-list.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/power7-events-list.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 547.0
+	Minimum        : 547
+	Maximum        : 547
+	Total          : 547.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           547 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/hv-common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1476
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/perf/hv-common.h:8: info: Metrics per 'hv_perf_caps' region
+	Region name    : hv_perf_caps
+	Region type    : struct
+	Offsets        : 176-296
+	Line numbers   : 8-15
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/perf/hv-common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/hv-common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 2
+	Maximum        : 8
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/hv-gpci.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-771
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/perf/hv-gpci.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/hv-gpci.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/hv-gpci-requests.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8468
+	Line numbers   : 1-267
+	Modified       : None
+	std.code.lines:code: 114
+
+./arch/powerpc/perf/hv-gpci-requests.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/hv-gpci-requests.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 114.0
+	Minimum        : 114
+	Maximum        : 114
+	Total          : 114.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           114 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/callchain.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1081
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/perf/callchain.h:10: info: Metrics per 'invalid_user_sp' region
+	Region name    : invalid_user_sp
+	Region type    : function
+	Offsets        : 314-524
+	Line numbers   : 10-16
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 6
+
+./arch/powerpc/perf/callchain.h:24: info: Metrics per '__read_user_stack' region
+	Region name    : __read_user_stack
+	Region type    : function
+	Offsets        : 526-1040
+	Line numbers   : 18-33
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./arch/powerpc/perf/callchain.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 3.0
+	Minimum        : 2
+	Maximum        : 4
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/callchain.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 4
+	Maximum        : 8
+	Total          : 18.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/power10-events-list.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2560
+	Line numbers   : 1-80
+	Modified       : None
+	std.code.lines:code: 28
+
+./arch/powerpc/perf/power10-events-list.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/power10-events-list.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 28.0
+	Minimum        : 28
+	Maximum        : 28
+	Total          : 28.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            28 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/perf/isa207-common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11620
+	Line numbers   : 1-294
+	Modified       : None
+	std.code.lines:code: 11
+
+./arch/powerpc/perf/isa207-common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/perf/isa207-common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 11
+	Maximum        : 11
+	Total          : 11.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/spu.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2972
+	Line numbers   : 1-116
+	Modified       : None
+	std.code.lines:code: 48
+
+./arch/powerpc/xmon/spu.h:72: info: Metrics per 'spu_opcode' region
+	Region name    : spu_opcode
+	Region type    : struct
+	Offsets        : 1302-1407
+	Line numbers   : 72-78
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/powerpc/xmon/spu.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/xmon/spu.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.5
+	Minimum        : 7
+	Maximum        : 48
+	Total          : 55.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            48 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/spu-insns.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-29947
+	Line numbers   : 1-400
+	Modified       : None
+	std.code.lines:code: 238
+
+./arch/powerpc/xmon/spu-insns.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/xmon/spu-insns.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 238.0
+	Minimum        : 238
+	Maximum        : 238
+	Total          : 238.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           238 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/ppc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16307
+	Line numbers   : 1-451
+	Modified       : None
+	std.code.lines:code: 14
+
+./arch/powerpc/xmon/ppc.h:32: info: Metrics per 'powerpc_opcode' region
+	Region name    : powerpc_opcode
+	Region type    : struct
+	Offsets        : 1100-2194
+	Line numbers   : 32-61
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/xmon/ppc.h:231: info: Metrics per 'powerpc_operand' region
+	Region name    : powerpc_operand
+	Region type    : struct
+	Offsets        : 7947-10281
+	Line numbers   : 231-288
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/xmon/ppc.h:416: info: Metrics per 'powerpc_macro' region
+	Region name    : powerpc_macro
+	Region type    : struct
+	Offsets        : 15431-15974
+	Line numbers   : 416-433
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/powerpc/xmon/ppc.h:439: info: Metrics per 'ppc_optional_operand_value' region
+	Region name    : ppc_optional_operand_value
+	Region type    : function
+	Offsets        : 16067-16257
+	Line numbers   : 438-444
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./arch/powerpc/xmon/ppc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/ppc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.2
+	Minimum        : 7
+	Maximum        : 14
+	Total          : 46.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.400 : 0.400 : 2	||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.400 : 0.800 : 2	||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/powerpc/xmon/ansidecl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3764
+	Line numbers   : 1-131
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/xmon/ansidecl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/xmon/ansidecl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/dis-asm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-690
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/xmon/dis-asm.h:14: info: Metrics per 'print_insn_powerpc' region
+	Region name    : print_insn_powerpc
+	Region type    : function
+	Offsets        : 404-528
+	Line numbers   : 13-18
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/xmon/dis-asm.h:20: info: Metrics per 'print_insn_spu' region
+	Region name    : print_insn_spu
+	Region type    : function
+	Offsets        : 530-644
+	Line numbers   : 20-24
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/xmon/dis-asm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/dis-asm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.33333333
+	Minimum        : 3
+	Maximum        : 5
+	Total          : 13.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/xmon_bpts.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-336
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/xmon/xmon_bpts.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/xmon/xmon_bpts.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/xmon/nonstdio.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-418
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/powerpc/xmon/nonstdio.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/xmon/nonstdio.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 7
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/book3s_xive.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8417
+	Line numbers   : 1-314
+	Modified       : None
+	std.code.lines:code: 21
+
+./arch/powerpc/kvm/book3s_xive.h:32: info: Metrics per 'kvmppc_xive_irq_state' region
+	Region name    : kvmppc_xive_irq_state
+	Region type    : struct
+	Offsets        : 397-1901
+	Line numbers   : 19-64
+	Modified       : None
+	std.code.lines:code: 22
+
+./arch/powerpc/kvm/book3s_xive.h:67: info: Metrics per 'kvmppc_xive_select_irq' region
+	Region name    : kvmppc_xive_select_irq
+	Region type    : function
+	Offsets        : 1904-2338
+	Line numbers   : 66-82
+	Modified       : None
+	std.code.complexity:cyclomatic: 5
+	std.code.lines:code: 16
+
+./arch/powerpc/kvm/book3s_xive.h:88: info: Metrics per 'kvmppc_xive_src_block' region
+	Region name    : kvmppc_xive_src_block
+	Region type    : struct
+	Offsets        : 2340-2610
+	Line numbers   : 84-92
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/book3s_xive.h:96: info: Metrics per 'kvmppc_xive_ops' region
+	Region name    : kvmppc_xive_ops
+	Region type    : struct
+	Offsets        : 2634-2724
+	Line numbers   : 96-98
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/kvm/book3s_xive.h:103: info: Metrics per 'kvmppc_xive' region
+	Region name    : kvmppc_xive
+	Region type    : struct
+	Offsets        : 2817-3858
+	Line numbers   : 103-148
+	Modified       : None
+	std.code.lines:code: 20
+
+./arch/powerpc/kvm/book3s_xive.h:152: info: Metrics per 'kvmppc_xive_vcpu' region
+	Region name    : kvmppc_xive_vcpu
+	Region type    : struct
+	Offsets        : 3892-4978
+	Line numbers   : 152-197
+	Modified       : None
+	std.code.lines:code: 29
+
+./arch/powerpc/kvm/book3s_xive.h:199: info: Metrics per 'kvmppc_xive_find_server' region
+	Region name    : kvmppc_xive_find_server
+	Region type    : function
+	Offsets        : 4981-5252
+	Line numbers   : 199-209
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 10
+
+./arch/powerpc/kvm/book3s_xive.h:211: info: Metrics per 'kvmppc_xive_find_source' region
+	Region name    : kvmppc_xive_find_source
+	Region type    : function
+	Offsets        : 5254-5567
+	Line numbers   : 211-222
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 11
+
+./arch/powerpc/kvm/book3s_xive.h:235: info: Metrics per 'kvmppc_xive_vp' region
+	Region name    : kvmppc_xive_vp
+	Region type    : function
+	Offsets        : 5569-6262
+	Line numbers   : 224-238
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/book3s_xive.h:240: info: Metrics per 'kvmppc_xive_vp_in_use' region
+	Region name    : kvmppc_xive_vp_in_use
+	Region type    : function
+	Offsets        : 6264-6523
+	Line numbers   : 240-250
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 10
+
+./arch/powerpc/kvm/book3s_xive.h:261: info: Metrics per 'xive_prio_from_guest' region
+	Region name    : xive_prio_from_guest
+	Region type    : function
+	Offsets        : 6525-6880
+	Line numbers   : 252-266
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 6
+
+./arch/powerpc/kvm/book3s_xive.h:268: info: Metrics per 'xive_prio_to_guest' region
+	Region name    : xive_prio_to_guest
+	Region type    : function
+	Offsets        : 6882-6944
+	Line numbers   : 268-271
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/book3s_xive.h:273: info: Metrics per '__xive_read_eq' region
+	Region name    : __xive_read_eq
+	Region type    : function
+	Offsets        : 6946-7227
+	Line numbers   : 273-286
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 13
+
+./arch/powerpc/kvm/book3s_xive.h:307: info: Metrics per 'kvmppc_xive_has_single_escalation' region
+	Region name    : kvmppc_xive_has_single_escalation
+	Region type    : function
+	Offsets        : 8210-8350
+	Line numbers   : 307-310
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/book3s_xive.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.77777778
+	Minimum        : 0
+	Maximum        : 5
+	Total          : 16.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.333 : 0.333 : 3	|||||||||||||||||||||||||||||||||
+	             2 : 0.444 : 0.778 : 4	||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.111 : 0.889 : 1	|||||||||||
+	             5 : 0.111 : 1.000 : 1	|||||||||||
+
+./arch/powerpc/kvm/book3s_xive.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.86666667
+	Minimum        : 3
+	Maximum        : 29
+	Total          : 178.0
+	Distribution   : 15 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.067 : 0.067 :  1	||||||
+	             4 : 0.200 : 0.267 :  3	||||||||||||||||||||
+	             5 : 0.067 : 0.333 :  1	||||||
+	             6 : 0.067 : 0.400 :  1	||||||
+	            10 : 0.133 : 0.533 :  2	|||||||||||||
+	            11 : 0.067 : 0.600 :  1	||||||
+	            13 : 0.067 : 0.667 :  1	||||||
+	            16 : 0.067 : 0.733 :  1	||||||
+	            20 : 0.067 : 0.800 :  1	||||||
+	            21 : 0.067 : 0.867 :  1	||||||
+	            22 : 0.067 : 0.933 :  1	||||||
+	            29 : 0.067 : 1.000 :  1	||||||
+
+./arch/powerpc/kvm/trace.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2875
+	Line numbers   : 1-128
+	Modified       : None
+	std.code.lines:code: 85
+
+./arch/powerpc/kvm/trace.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kvm/trace.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 85.0
+	Minimum        : 85
+	Maximum        : 85
+	Total          : 85.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            85 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/timing.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2527
+	Line numbers   : 1-100
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/timing.h:20: info: Metrics per 'kvmppc_set_exit_type' region
+	Region name    : kvmppc_set_exit_type
+	Region type    : function
+	Offsets        : 491-602
+	Line numbers   : 20-23
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/timing.h:27: info: Metrics per 'kvmppc_init_timing_stats' region
+	Region name    : kvmppc_init_timing_stats
+	Region type    : function
+	Offsets        : 604-755
+	Line numbers   : 25-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kvm/timing.h:28: info: Metrics per 'kvmppc_update_timing_stats' region
+	Region name    : kvmppc_update_timing_stats
+	Region type    : function
+	Offsets        : 756-827
+	Line numbers   : 28-28
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kvm/timing.h:29: info: Metrics per 'kvmppc_create_vcpu_debugfs_e500' region
+	Region name    : kvmppc_create_vcpu_debugfs_e500
+	Region type    : function
+	Offsets        : 828-954
+	Line numbers   : 29-33
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/timing.h:34: info: Metrics per 'kvmppc_set_exit_type' region
+	Region name    : kvmppc_set_exit_type
+	Region type    : function
+	Offsets        : 955-1030
+	Line numbers   : 34-34
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kvm/timing.h:38: info: Metrics per 'kvmppc_account_exit_stat' region
+	Region name    : kvmppc_account_exit_stat
+	Region type    : function
+	Offsets        : 1068-2269
+	Line numbers   : 37-90
+	Modified       : None
+	std.code.complexity:cyclomatic: 14
+	std.code.lines:code: 47
+
+./arch/powerpc/kvm/timing.h:93: info: Metrics per 'kvmppc_account_exit' region
+	Region name    : kvmppc_account_exit
+	Region type    : function
+	Offsets        : 2271-2483
+	Line numbers   : 92-97
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/timing.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.0
+	Minimum        : 0
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.857 : 0.857 : 6	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.143 : 1.000 : 1	||||||||||||||
+
+./arch/powerpc/kvm/timing.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.5
+	Minimum        : 1
+	Maximum        : 47
+	Total          : 68.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.375 : 0.375 : 3	|||||||||||||||||||||||||||||||||||||
+	             4 : 0.250 : 0.625 : 2	|||||||||||||||||||||||||
+	             5 : 0.250 : 0.875 : 2	|||||||||||||||||||||||||
+	            47 : 0.125 : 1.000 : 1	||||||||||||
+
+./arch/powerpc/kvm/book3s_xics.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3785
+	Line numbers   : 1-154
+	Modified       : None
+	std.code.lines:code: 11
+
+./arch/powerpc/kvm/book3s_xics.h:36: info: Metrics per 'ics_irq_state' region
+	Region name    : ics_irq_state
+	Region type    : struct
+	Offsets        : 958-1210
+	Line numbers   : 35-48
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/powerpc/kvm/book3s_xics.h:51: info: Metrics per 'kvmppc_icp_state' region
+	Region name    : kvmppc_icp_state
+	Region type    : struct
+	Offsets        : 1213-1421
+	Line numbers   : 50-61
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/book3s_xics.h:53: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1320-1418
+	Line numbers   : 53-60
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/kvm/book3s_xics.h:66: info: Metrics per 'kvmppc_icp' region
+	Region name    : kvmppc_icp
+	Region type    : struct
+	Offsets        : 1520-2358
+	Line numbers   : 66-95
+	Modified       : None
+	std.code.lines:code: 18
+
+./arch/powerpc/kvm/book3s_xics.h:97: info: Metrics per 'kvmppc_ics' region
+	Region name    : kvmppc_ics
+	Region type    : struct
+	Offsets        : 2361-2475
+	Line numbers   : 97-101
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/book3s_xics.h:103: info: Metrics per 'kvmppc_xics' region
+	Region name    : kvmppc_xics
+	Region type    : struct
+	Offsets        : 2478-2706
+	Line numbers   : 103-113
+	Modified       : None
+	std.code.lines:code: 11
+
+./arch/powerpc/kvm/book3s_xics.h:115: info: Metrics per 'kvmppc_xics_find_server' region
+	Region name    : kvmppc_xics_find_server
+	Region type    : function
+	Offsets        : 2709-2988
+	Line numbers   : 115-126
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 11
+
+./arch/powerpc/kvm/book3s_xics.h:128: info: Metrics per 'kvmppc_xics_find_ics' region
+	Region name    : kvmppc_xics_find_ics
+	Region type    : function
+	Offsets        : 2990-3361
+	Line numbers   : 128-143
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 15
+
+./arch/powerpc/kvm/book3s_xics.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.5
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/book3s_xics.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.66666667
+	Minimum        : 4
+	Maximum        : 18
+	Total          : 96.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.111 : 0.111 : 1	|||||||||||
+	             5 : 0.111 : 0.222 : 1	|||||||||||
+	             8 : 0.111 : 0.333 : 1	|||||||||||
+	            11 : 0.333 : 0.667 : 3	|||||||||||||||||||||||||||||||||
+	            13 : 0.111 : 0.778 : 1	|||||||||||
+	            15 : 0.111 : 0.889 : 1	|||||||||||
+	            18 : 0.111 : 1.000 : 1	|||||||||||
+
+./arch/powerpc/kvm/e500_mmu_host.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-433
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500_mmu_host.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kvm/e500_mmu_host.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/book3s.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1548
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 20
+
+./arch/powerpc/kvm/book3s.h:32: info: Metrics per 'kvmppc_emulate_tabort' region
+	Region name    : kvmppc_emulate_tabort
+	Region type    : function
+	Offsets        : 1296-1380
+	Line numbers   : 31-32
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kvm/book3s.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/book3s.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.5
+	Minimum        : 1
+	Maximum        : 20
+	Total          : 21.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            20 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/e500.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8816
+	Line numbers   : 1-340
+	Modified       : None
+	std.code.lines:code: 31
+
+./arch/powerpc/kvm/e500.h:40: info: Metrics per 'tlbe_ref' region
+	Region name    : tlbe_ref
+	Region type    : struct
+	Offsets        : 1095-1211
+	Line numbers   : 40-43
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:45: info: Metrics per 'tlbe_priv' region
+	Region name    : tlbe_priv
+	Region type    : struct
+	Offsets        : 1214-1256
+	Line numbers   : 45-47
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/kvm/e500.h:53: info: Metrics per 'kvmppc_e500_tlb_params' region
+	Region name    : kvmppc_e500_tlb_params
+	Region type    : struct
+	Offsets        : 1314-1373
+	Line numbers   : 53-55
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/kvm/e500.h:57: info: Metrics per 'kvmppc_vcpu_e500' region
+	Region name    : kvmppc_vcpu_e500
+	Region type    : struct
+	Offsets        : 1376-2264
+	Line numbers   : 57-98
+	Modified       : None
+	std.code.lines:code: 23
+
+./arch/powerpc/kvm/e500.h:100: info: Metrics per 'to_e500' region
+	Region name    : to_e500
+	Region type    : function
+	Offsets        : 2267-2399
+	Line numbers   : 100-103
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:151: info: Metrics per 'get_tlb_size' region
+	Region name    : get_tlb_size
+	Region type    : function
+	Offsets        : 4182-4331
+	Line numbers   : 149-154
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:156: info: Metrics per 'get_tlb_eaddr' region
+	Region name    : get_tlb_eaddr
+	Region type    : function
+	Offsets        : 4333-4446
+	Line numbers   : 156-159
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:161: info: Metrics per 'get_tlb_bytes' region
+	Region name    : get_tlb_bytes
+	Region type    : function
+	Offsets        : 4448-4601
+	Line numbers   : 161-165
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:167: info: Metrics per 'get_tlb_end' region
+	Region name    : get_tlb_end
+	Region type    : function
+	Offsets        : 4603-4758
+	Line numbers   : 167-171
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:173: info: Metrics per 'get_tlb_raddr' region
+	Region name    : get_tlb_raddr
+	Region type    : function
+	Offsets        : 4760-4874
+	Line numbers   : 173-176
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:179: info: Metrics per 'get_tlb_tid' region
+	Region name    : get_tlb_tid
+	Region type    : function
+	Offsets        : 4876-4998
+	Line numbers   : 178-182
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:185: info: Metrics per 'get_tlb_ts' region
+	Region name    : get_tlb_ts
+	Region type    : function
+	Offsets        : 5000-5120
+	Line numbers   : 184-188
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:191: info: Metrics per 'get_tlb_v' region
+	Region name    : get_tlb_v
+	Region type    : function
+	Offsets        : 5122-5241
+	Line numbers   : 190-194
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:197: info: Metrics per 'get_tlb_iprot' region
+	Region name    : get_tlb_iprot
+	Region type    : function
+	Offsets        : 5243-5366
+	Line numbers   : 196-200
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:203: info: Metrics per 'get_tlb_tsize' region
+	Region name    : get_tlb_tsize
+	Region type    : function
+	Offsets        : 5368-5517
+	Line numbers   : 202-206
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/e500.h:208: info: Metrics per 'get_cur_pid' region
+	Region name    : get_cur_pid
+	Region type    : function
+	Offsets        : 5519-5615
+	Line numbers   : 208-211
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:213: info: Metrics per 'get_cur_as' region
+	Region name    : get_cur_as
+	Region type    : function
+	Offsets        : 5617-5737
+	Line numbers   : 213-216
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:218: info: Metrics per 'get_cur_pr' region
+	Region name    : get_cur_pr
+	Region type    : function
+	Offsets        : 5739-5848
+	Line numbers   : 218-221
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:223: info: Metrics per 'get_cur_spid' region
+	Region name    : get_cur_spid
+	Region type    : function
+	Offsets        : 5850-5970
+	Line numbers   : 223-226
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:228: info: Metrics per 'get_cur_sas' region
+	Region name    : get_cur_sas
+	Region type    : function
+	Offsets        : 5972-6082
+	Line numbers   : 228-231
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:233: info: Metrics per 'get_tlb_tlbsel' region
+	Region name    : get_tlb_tlbsel
+	Region type    : function
+	Offsets        : 6084-6316
+	Line numbers   : 233-240
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:242: info: Metrics per 'get_tlb_nv_bit' region
+	Region name    : get_tlb_nv_bit
+	Region type    : function
+	Offsets        : 6318-6433
+	Line numbers   : 242-245
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:247: info: Metrics per 'get_tlb_esel_bit' region
+	Region name    : get_tlb_esel_bit
+	Region type    : function
+	Offsets        : 6435-6560
+	Line numbers   : 247-250
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:252: info: Metrics per 'tlbe_is_host_safe' region
+	Region name    : tlbe_is_host_safe
+	Region type    : function
+	Offsets        : 6562-7044
+	Line numbers   : 252-273
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 13
+
+./arch/powerpc/kvm/e500.h:275: info: Metrics per 'get_entry' region
+	Region name    : get_entry
+	Region type    : function
+	Offsets        : 7046-7260
+	Line numbers   : 275-280
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/powerpc/kvm/e500.h:295: info: Metrics per 'get_thread_specific_lpid' region
+	Region name    : get_thread_specific_lpid
+	Region type    : function
+	Offsets        : 7658-7955
+	Line numbers   : 291-303
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./arch/powerpc/kvm/e500.h:305: info: Metrics per 'get_lpid' region
+	Region name    : get_lpid
+	Region type    : function
+	Offsets        : 7957-8066
+	Line numbers   : 305-308
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/e500.h:313: info: Metrics per 'get_tlbmiss_tid' region
+	Region name    : get_tlbmiss_tid
+	Region type    : function
+	Offsets        : 8186-8405
+	Line numbers   : 313-319
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/powerpc/kvm/e500.h:325: info: Metrics per 'has_feature' region
+	Region name    : has_feature
+	Region type    : function
+	Offsets        : 8522-8790
+	Line numbers   : 325-337
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 13
+
+./arch/powerpc/kvm/e500.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.2
+	Minimum        : 0
+	Maximum        : 3
+	Total          : 5.0
+	Distribution   : 25 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.880 : 0.880 : 22	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.080 : 0.960 :  2	||||||||
+	             3 : 0.040 : 1.000 :  1	||||
+
+./arch/powerpc/kvm/e500.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.56666667
+	Minimum        : 3
+	Maximum        : 31
+	Total          : 197.0
+	Distribution   : 30 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.067 : 0.067 :  2	||||||
+	             4 : 0.433 : 0.500 : 13	|||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.267 : 0.767 :  8	||||||||||||||||||||||||||
+	             6 : 0.067 : 0.833 :  2	||||||
+	             7 : 0.033 : 0.867 :  1	|||
+	            13 : 0.067 : 0.933 :  2	||||||
+	            23 : 0.033 : 0.967 :  1	|||
+	            31 : 0.033 : 1.000 :  1	|||
+
+./arch/powerpc/kvm/trace_book3s.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-768
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/kvm/trace_book3s.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kvm/trace_book3s.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/trace_booke.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5231
+	Line numbers   : 1-212
+	Modified       : None
+	std.code.lines:code: 102
+
+./arch/powerpc/kvm/trace_booke.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kvm/trace_booke.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 102.0
+	Minimum        : 102
+	Maximum        : 102
+	Total          : 102.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           102 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/trace_hv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15511
+	Line numbers   : 1-526
+	Modified       : None
+	std.code.lines:code: 221
+
+./arch/powerpc/kvm/trace_hv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kvm/trace_hv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 221.0
+	Minimum        : 221
+	Maximum        : 221
+	Total          : 221.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           221 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/booke.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3757
+	Line numbers   : 1-116
+	Modified       : None
+	std.code.lines:code: 35
+
+./arch/powerpc/kvm/booke.h:108: info: Metrics per 'kvmppc_clear_dbsr' region
+	Region name    : kvmppc_clear_dbsr
+	Region type    : function
+	Offsets        : 3573-3656
+	Line numbers   : 108-111
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/booke.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/booke.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.5
+	Minimum        : 4
+	Maximum        : 35
+	Total          : 39.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            35 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/trace_pr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6426
+	Line numbers   : 1-266
+	Modified       : None
+	std.code.lines:code: 199
+
+./arch/powerpc/kvm/trace_pr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kvm/trace_pr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 199.0
+	Minimum        : 199
+	Maximum        : 199
+	Total          : 199.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           199 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/book3s_hv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4574
+	Line numbers   : 1-129
+	Modified       : None
+	std.code.lines:code: 35
+
+./arch/powerpc/kvm/book3s_hv.h:8: info: Metrics per 'p9_host_os_sprs' region
+	Region name    : p9_host_os_sprs
+	Region type    : struct
+	Offsets        : 141-547
+	Line numbers   : 8-28
+	Modified       : None
+	std.code.lines:code: 20
+
+./arch/powerpc/kvm/book3s_hv.h:30: info: Metrics per 'nesting_enabled' region
+	Region name    : nesting_enabled
+	Region type    : function
+	Offsets        : 550-659
+	Line numbers   : 30-33
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 4
+
+./arch/powerpc/kvm/book3s_hv.h:56: info: Metrics per '__kvmppc_set_msr_hv' region
+	Region name    : __kvmppc_set_msr_hv
+	Region type    : function
+	Offsets        : 1536-1691
+	Line numbers   : 56-60
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/book3s_hv.h:62: info: Metrics per '__kvmppc_get_msr_hv' region
+	Region name    : __kvmppc_get_msr_hv
+	Region type    : function
+	Offsets        : 1693-1855
+	Line numbers   : 62-66
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kvm/book3s_hv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.33333333
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kvm/book3s_hv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.8
+	Minimum        : 4
+	Maximum        : 35
+	Total          : 69.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             5 : 0.400 : 0.600 : 2	||||||||||||||||||||||||||||||||||||||||
+	            20 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            35 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./arch/powerpc/platforms/85xx/mpc85xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-550
+	Line numbers   : 1-25
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/85xx/mpc85xx.h:9: info: Metrics per 'mpc85xx_cpm2_pic_init' region
+	Region name    : mpc85xx_cpm2_pic_init
+	Region type    : function
+	Offsets        : 185-247
+	Line numbers   : 8-9
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/85xx/mpc85xx.h:15: info: Metrics per 'mpc85xx_qe_par_io_init' region
+	Region name    : mpc85xx_qe_par_io_init
+	Region type    : function
+	Offsets        : 343-406
+	Line numbers   : 14-15
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/85xx/mpc85xx.h:21: info: Metrics per 'mpc85xx_8259_init' region
+	Region name    : mpc85xx_8259_init
+	Region type    : function
+	Offsets        : 476-534
+	Line numbers   : 20-21
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/85xx/mpc85xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/85xx/mpc85xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.75
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 7.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.750 : 0.750 : 3	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/powerpc/platforms/85xx/smp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-331
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/85xx/smp.h:11: info: Metrics per 'mpc85xx_smp_init' region
+	Region name    : mpc85xx_smp_init
+	Region type    : function
+	Offsets        : 213-285
+	Line numbers   : 10-14
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./arch/powerpc/platforms/85xx/smp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/85xx/smp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/85xx/socrates_fpga_pic.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-229
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/85xx/socrates_fpga_pic.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/85xx/socrates_fpga_pic.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/maple/maple.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-552
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/maple/maple.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/maple/maple.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 8
+	Maximum        : 8
+	Total          : 8.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powermac/pmac.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1242
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 23
+
+./arch/powerpc/platforms/powermac/pmac.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/powermac/pmac.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 23.0
+	Minimum        : 23
+	Maximum        : 23
+	Total          : 23.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            23 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/embedded6xx/flipper-pic.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-515
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/embedded6xx/flipper-pic.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/embedded6xx/flipper-pic.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/embedded6xx/mpc10x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6091
+	Line numbers   : 1-160
+	Modified       : None
+	std.code.lines:code: 16
+
+./arch/powerpc/platforms/embedded6xx/mpc10x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/embedded6xx/mpc10x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 16
+	Maximum        : 16
+	Total          : 16.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            16 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/embedded6xx/usbgecko_udbg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-554
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/embedded6xx/usbgecko_udbg.h:19: info: Metrics per 'ug_udbg_init' region
+	Region name    : ug_udbg_init
+	Region type    : function
+	Offsets        : 399-447
+	Line numbers   : 19-21
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./arch/powerpc/platforms/embedded6xx/usbgecko_udbg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/embedded6xx/usbgecko_udbg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.5
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/embedded6xx/hlwd-pic.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-410
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/platforms/embedded6xx/hlwd-pic.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/embedded6xx/hlwd-pic.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/chrp/gg2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2448
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/chrp/gg2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/chrp/gg2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/chrp/chrp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-303
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/chrp/chrp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/chrp/chrp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/83xx/mpc83xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2905
+	Line numbers   : 1-84
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/platforms/83xx/mpc83xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/83xx/mpc83xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/8xx/pic.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-402
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/8xx/pic.h:14: info: Metrics per 'mk_int_int_mask' region
+	Region name    : mk_int_int_mask
+	Region type    : function
+	Offsets        : 176-366
+	Line numbers   : 10-17
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/8xx/pic.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/8xx/pic.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 2
+	Maximum        : 4
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/8xx/mpc885ads.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1575
+	Line numbers   : 1-50
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/platforms/8xx/mpc885ads.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/8xx/mpc885ads.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/8xx/mpc86xads.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1546
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/platforms/8xx/mpc86xads.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/8xx/mpc86xads.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/8xx/mpc8xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-675
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/8xx/mpc8xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/8xx/mpc8xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/microwatt/microwatt.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-140
+	Line numbers   : 1-8
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/microwatt/microwatt.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/microwatt/microwatt.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/pasemi/pasemi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-904
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 12
+
+./arch/powerpc/platforms/pasemi/pasemi.h:24: info: Metrics per 'check_astate' region
+	Region name    : check_astate
+	Region type    : function
+	Offsets        : 653-757
+	Line numbers   : 23-28
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pasemi/pasemi.h:29: info: Metrics per 'restore_astate' region
+	Region name    : restore_astate
+	Region type    : function
+	Offsets        : 758-804
+	Line numbers   : 29-31
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./arch/powerpc/platforms/pasemi/pasemi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/pasemi/pasemi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 3
+	Maximum        : 12
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            12 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/4xx/pci.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-14773
+	Line numbers   : 1-506
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/platforms/4xx/pci.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/4xx/pci.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/cell.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-275
+	Line numbers   : 1-16
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/cell/cell.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/cell/cell.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/ras.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-308
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/ras.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/cell/ras.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/interrupt.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2950
+	Line numbers   : 1-91
+	Modified       : None
+	std.code.lines:code: 45
+
+./arch/powerpc/platforms/cell/interrupt.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/cell/interrupt.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 45.0
+	Minimum        : 45
+	Maximum        : 45
+	Total          : 45.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            45 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/pervasive.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-531
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/cell/pervasive.h:20: info: Metrics per 'cbe_sysreset_hack' region
+	Region name    : cbe_sysreset_hack
+	Region type    : function
+	Offsets        : 415-477
+	Line numbers   : 19-23
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/pervasive.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/pervasive.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 2
+	Maximum        : 4
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10766
+	Line numbers   : 1-357
+	Modified       : None
+	std.code.lines:code: 87
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:54: info: Metrics per 'switch_log' region
+	Region name    : switch_log
+	Region type    : struct
+	Offsets        : 1028-1240
+	Line numbers   : 54-65
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:58: info: Metrics per 'switch_log_entry' region
+	Region name    : switch_log_entry
+	Region type    : struct
+	Offsets        : 1118-1231
+	Line numbers   : 58-64
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:67: info: Metrics per 'spu_context' region
+	Region name    : spu_context
+	Region type    : struct
+	Offsets        : 1243-3442
+	Line numbers   : 67-140
+	Modified       : None
+	std.code.lines:code: 46
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:117: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2703-3313
+	Line numbers   : 116-132
+	Modified       : None
+	std.code.lines:code: 15
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:142: info: Metrics per 'spu_gang' region
+	Region name    : spu_gang
+	Region type    : struct
+	Offsets        : 3445-3705
+	Line numbers   : 142-154
+	Modified       : None
+	std.code.lines:code: 12
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:160: info: Metrics per 'mfc_dma_command' region
+	Region name    : mfc_dma_command
+	Region type    : struct
+	Offsets        : 3797-4070
+	Line numbers   : 160-168
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:172: info: Metrics per 'spu_context_ops' region
+	Region name    : spu_context_ops
+	Region type    : struct
+	Offsets        : 4074-5900
+	Line numbers   : 171-206
+	Modified       : None
+	std.code.lines:code: 35
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:211: info: Metrics per 'spufs_inode_info' region
+	Region name    : spufs_inode_info
+	Region type    : struct
+	Offsets        : 5993-6115
+	Line numbers   : 211-216
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:220: info: Metrics per 'spufs_tree_descr' region
+	Region name    : spufs_tree_descr
+	Region type    : struct
+	Offsets        : 6200-6311
+	Line numbers   : 220-225
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:259: info: Metrics per 'spu_acquire' region
+	Region name    : spu_acquire
+	Region type    : function
+	Offsets        : 7580-7704
+	Line numbers   : 259-262
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:264: info: Metrics per 'spu_release' region
+	Region name    : spu_release
+	Region type    : function
+	Offsets        : 7706-7799
+	Line numbers   : 264-267
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:336: info: Metrics per 'spufs_coredump_reader' region
+	Region name    : spufs_coredump_reader
+	Region type    : struct
+	Offsets        : 10001-10171
+	Line numbers   : 336-341
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/spufs/spufs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.69230769
+	Minimum        : 4
+	Maximum        : 87
+	Total          : 243.0
+	Distribution   : 13 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.154 : 0.154 :  2	|||||||||||||||
+	             6 : 0.308 : 0.462 :  4	||||||||||||||||||||||||||||||
+	             7 : 0.077 : 0.538 :  1	|||||||
+	             9 : 0.077 : 0.615 :  1	|||||||
+	            12 : 0.077 : 0.692 :  1	|||||||
+	            15 : 0.077 : 0.769 :  1	|||||||
+	            35 : 0.077 : 0.846 :  1	|||||||
+	            46 : 0.077 : 0.923 :  1	|||||||
+	            87 : 0.077 : 1.000 :  1	|||||||
+
+./arch/powerpc/platforms/cell/spufs/sputrace.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1032
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 16
+
+./arch/powerpc/platforms/cell/spufs/sputrace.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/cell/spufs/sputrace.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 16
+	Maximum        : 16
+	Total          : 16.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            16 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3069
+	Line numbers   : 1-148
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:14: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 214-303
+	Line numbers   : 11-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:22: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 313-414
+	Line numbers   : 19-25
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:30: info: Metrics per 'dma_list_elem' region
+	Region name    : dma_list_elem
+	Region type    : struct
+	Offsets        : 429-525
+	Line numbers   : 27-33
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:54: info: Metrics per 'set_event_mask' region
+	Region name    : set_event_mask
+	Region type    : function
+	Offsets        : 1045-1279
+	Line numbers   : 54-64
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:66: info: Metrics per 'set_tag_mask' region
+	Region name    : set_tag_mask
+	Region type    : function
+	Offsets        : 1281-1513
+	Line numbers   : 66-76
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:78: info: Metrics per 'build_dma_list' region
+	Region name    : build_dma_list
+	Region type    : function
+	Offsets        : 1515-1919
+	Line numbers   : 78-95
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 11
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:97: info: Metrics per 'enqueue_putllc' region
+	Region name    : enqueue_putllc
+	Region type    : function
+	Offsets        : 1921-2485
+	Line numbers   : 97-116
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 13
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:118: info: Metrics per 'set_tag_update' region
+	Region name    : set_tag_update
+	Region type    : function
+	Offsets        : 2487-2699
+	Line numbers   : 118-127
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:129: info: Metrics per 'read_tag_status' region
+	Region name    : read_tag_status
+	Region type    : function
+	Offsets        : 2701-2860
+	Line numbers   : 129-136
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:138: info: Metrics per 'read_llar_status' region
+	Region name    : read_llar_status
+	Region type    : function
+	Offsets        : 2862-3029
+	Line numbers   : 138-145
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.14285714
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.857 : 0.857 : 6	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.143 : 1.000 : 1	||||||||||||||
+
+./arch/powerpc/platforms/cell/spufs/spu_utils.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.90909091
+	Minimum        : 4
+	Maximum        : 13
+	Total          : 65.0
+	Distribution   : 11 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.455 : 0.455 :  5	|||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.273 : 0.727 :  3	|||||||||||||||||||||||||||
+	             6 : 0.091 : 0.818 :  1	|||||||||
+	            11 : 0.091 : 0.909 :  1	|||||||||
+	            13 : 0.091 : 1.000 :  1	|||||||||
+
+./arch/powerpc/platforms/cell/spu_priv1_mmio.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-331
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/cell/spu_priv1_mmio.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/cell/spu_priv1_mmio.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/86xx/mpc86xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-454
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/86xx/mpc86xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/86xx/mpc86xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/ps3/platform.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8766
+	Line numbers   : 1-254
+	Modified       : None
+	std.code.lines:code: 142
+
+./arch/powerpc/platforms/ps3/platform.h:42: info: Metrics per 'ps3_smp_cleanup_cpu' region
+	Region name    : ps3_smp_cleanup_cpu
+	Region type    : function
+	Offsets        : 864-921
+	Line numbers   : 41-42
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/ps3/platform.h:62: info: Metrics per 'ps3_spu_set_platform' region
+	Region name    : ps3_spu_set_platform
+	Region type    : function
+	Offsets        : 1282-1337
+	Line numbers   : 61-62
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/ps3/platform.h:125: info: Metrics per 'ps3_repository_device' region
+	Region name    : ps3_repository_device
+	Region type    : struct
+	Offsets        : 3289-3455
+	Line numbers   : 125-132
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/ps3/platform.h:197: info: Metrics per 'ps3_repository_write_highmem_region_count' region
+	Region name    : ps3_repository_write_highmem_region_count
+	Region type    : function
+	Offsets        : 6615-6721
+	Line numbers   : 196-198
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/ps3/platform.h:199: info: Metrics per 'ps3_repository_write_highmem_base' region
+	Region name    : ps3_repository_write_highmem_base
+	Region type    : function
+	Offsets        : 6722-6831
+	Line numbers   : 199-200
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/ps3/platform.h:201: info: Metrics per 'ps3_repository_write_highmem_size' region
+	Region name    : ps3_repository_write_highmem_size
+	Region type    : function
+	Offsets        : 6832-6941
+	Line numbers   : 201-202
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/ps3/platform.h:203: info: Metrics per 'ps3_repository_write_highmem_info' region
+	Region name    : ps3_repository_write_highmem_info
+	Region type    : function
+	Offsets        : 6942-7069
+	Line numbers   : 203-204
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/ps3/platform.h:205: info: Metrics per 'ps3_repository_delete_highmem_info' region
+	Region name    : ps3_repository_delete_highmem_info
+	Region type    : function
+	Offsets        : 7070-7162
+	Line numbers   : 205-206
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/ps3/platform.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 7	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/ps3/platform.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.0
+	Minimum        : 1
+	Maximum        : 142
+	Total          : 162.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.222 : 0.222 : 2	||||||||||||||||||||||
+	             2 : 0.556 : 0.778 : 5	|||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.111 : 0.889 : 1	|||||||||||
+	           142 : 0.111 : 1.000 : 1	|||||||||||
+
+./arch/powerpc/platforms/82xx/pq2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-308
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/platforms/82xx/pq2.h:11: info: Metrics per 'pq2ads_pci_init_irq' region
+	Region name    : pq2ads_pci_init_irq
+	Region type    : function
+	Offsets        : 185-249
+	Line numbers   : 10-14
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/82xx/pq2.h:16: info: Metrics per 'pq2_init_pci' region
+	Region name    : pq2_init_pci
+	Region type    : function
+	Offsets        : 251-292
+	Line numbers   : 16-18
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 3
+
+./arch/powerpc/platforms/82xx/pq2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/82xx/pq2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.33333333
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 10.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/512x/mpc512x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-562
+	Line numbers   : 1-19
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/powerpc/platforms/512x/mpc512x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/512x/mpc512x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 7
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/512x/mpc5121_ads.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-351
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/512x/mpc5121_ads.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/512x/mpc5121_ads.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/44x/fsp2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9829
+	Line numbers   : 1-273
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/platforms/44x/fsp2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/44x/fsp2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/44x/44x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-342
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/44x/44x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/44x/44x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/copy-paste.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-817
+	Line numbers   : 1-43
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/platforms/powernv/copy-paste.h:19: info: Metrics per 'vas_copy' region
+	Region name    : vas_copy
+	Region type    : function
+	Offsets        : 136-530
+	Line numbers   : 8-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/powernv/copy-paste.h:29: info: Metrics per 'vas_paste' region
+	Region name    : vas_paste
+	Region type    : function
+	Offsets        : 532-816
+	Line numbers   : 29-42
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 11
+
+./arch/powerpc/platforms/powernv/copy-paste.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/copy-paste.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 0
+	Maximum        : 11
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/powernv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1225
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 16
+
+./arch/powerpc/platforms/powernv/powernv.h:15: info: Metrics per 'pnv_smp_init' region
+	Region name    : pnv_smp_init
+	Region type    : function
+	Offsets        : 347-394
+	Line numbers   : 14-15
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/powernv/powernv.h:26: info: Metrics per 'pnv_pci_init' region
+	Region name    : pnv_pci_init
+	Region type    : function
+	Offsets        : 596-643
+	Line numbers   : 25-26
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/powernv/powernv.h:27: info: Metrics per 'pnv_pci_shutdown' region
+	Region name    : pnv_pci_shutdown
+	Region type    : function
+	Offsets        : 644-689
+	Line numbers   : 27-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/powernv/powernv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/powernv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.75
+	Minimum        : 1
+	Maximum        : 16
+	Total          : 19.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.750 : 0.750 : 3	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            16 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/vas.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15046
+	Line numbers   : 1-502
+	Modified       : None
+	std.code.lines:code: 32
+
+./arch/powerpc/platforms/powernv/vas.h:319: info: Metrics per 'vas_instance' region
+	Region name    : vas_instance
+	Region type    : struct
+	Offsets        : 10153-11026
+	Line numbers   : 312-346
+	Modified       : None
+	std.code.lines:code: 24
+
+./arch/powerpc/platforms/powernv/vas.h:351: info: Metrics per 'pnv_vas_window' region
+	Region name    : pnv_vas_window
+	Region type    : struct
+	Offsets        : 11029-11638
+	Line numbers   : 348-368
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/powerpc/platforms/powernv/vas.h:378: info: Metrics per 'vas_winctx' region
+	Region name    : vas_winctx
+	Region type    : struct
+	Offsets        : 11641-12774
+	Line numbers   : 370-418
+	Modified       : None
+	std.code.lines:code: 37
+
+./arch/powerpc/platforms/powernv/vas.h:436: info: Metrics per 'vas_window_pid' region
+	Region name    : vas_window_pid
+	Region type    : function
+	Offsets        : 13542-13644
+	Line numbers   : 436-439
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/powernv/vas.h:441: info: Metrics per 'vas_log_write' region
+	Region name    : vas_log_write
+	Region type    : function
+	Offsets        : 13646-13885
+	Line numbers   : 441-448
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/powernv/vas.h:450: info: Metrics per 'write_uwc_reg' region
+	Region name    : write_uwc_reg
+	Region type    : function
+	Offsets        : 13887-14095
+	Line numbers   : 450-459
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/powernv/vas.h:461: info: Metrics per 'write_hvwc_reg' region
+	Region name    : write_hvwc_reg
+	Region type    : function
+	Offsets        : 14097-14307
+	Line numbers   : 461-470
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/powernv/vas.h:472: info: Metrics per 'read_hvwc_reg' region
+	Region name    : read_hvwc_reg
+	Region type    : function
+	Offsets        : 14309-14447
+	Line numbers   : 472-476
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/powernv/vas.h:488: info: Metrics per 'encode_pswid' region
+	Region name    : encode_pswid
+	Region type    : function
+	Offsets        : 14449-14864
+	Line numbers   : 478-491
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/powernv/vas.h:493: info: Metrics per 'decode_pswid' region
+	Region name    : decode_pswid
+	Region type    : function
+	Offsets        : 14866-15025
+	Line numbers   : 493-500
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./arch/powerpc/platforms/powernv/vas.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.57142857
+	Minimum        : 0
+	Maximum        : 2
+	Total          : 4.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.714 : 0.714 : 5	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.286 : 1.000 : 2	||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/vas.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.63636364
+	Minimum        : 4
+	Maximum        : 37
+	Total          : 150.0
+	Distribution   : 11 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.182 : 0.182 :  2	||||||||||||||||||
+	             5 : 0.091 : 0.273 :  1	|||||||||
+	             7 : 0.091 : 0.364 :  1	|||||||||
+	             8 : 0.273 : 0.636 :  3	|||||||||||||||||||||||||||
+	            13 : 0.091 : 0.727 :  1	|||||||||
+	            24 : 0.091 : 0.818 :  1	|||||||||
+	            32 : 0.091 : 0.909 :  1	|||||||||
+	            37 : 0.091 : 1.000 :  1	|||||||||
+
+./arch/powerpc/platforms/powernv/pci.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10327
+	Line numbers   : 1-341
+	Modified       : None
+	std.code.lines:code: 68
+
+./arch/powerpc/platforms/powernv/pci.h:55: info: Metrics per 'pnv_ioda_pe' region
+	Region name    : pnv_ioda_pe
+	Region type    : struct
+	Offsets        : 1894-3097
+	Line numbers   : 55-104
+	Modified       : None
+	std.code.lines:code: 18
+
+./arch/powerpc/platforms/powernv/pci.h:108: info: Metrics per 'pnv_phb' region
+	Region name    : pnv_phb
+	Region type    : struct
+	Offsets        : 3135-4837
+	Line numbers   : 108-182
+	Modified       : None
+	std.code.lines:code: 22
+
+./arch/powerpc/platforms/powernv/pci.h:131: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 3674-4748
+	Line numbers   : 131-177
+	Modified       : None
+	std.code.lines:code: 27
+
+./arch/powerpc/platforms/powernv/pci.h:187: info: Metrics per 'pnv_pci_is_m64' region
+	Region name    : pnv_pci_is_m64
+	Region type    : function
+	Offsets        : 4867-5305
+	Line numbers   : 187-198
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/powernv/pci.h:200: info: Metrics per 'pnv_pci_is_m64_flags' region
+	Region name    : pnv_pci_is_m64_flags
+	Region type    : function
+	Offsets        : 5307-5490
+	Line numbers   : 200-205
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/powernv/pci.h:222: info: Metrics per 'pnv_iov_data' region
+	Region name    : pnv_iov_data
+	Region type    : struct
+	Offsets        : 5896-7013
+	Line numbers   : 216-253
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/powernv/pci.h:255: info: Metrics per 'pnv_iov_get' region
+	Region name    : pnv_iov_get
+	Region type    : function
+	Offsets        : 7016-7125
+	Line numbers   : 255-258
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/powernv/pci.h:330: info: Metrics per 'pci_bus_to_pnvhb' region
+	Region name    : pci_bus_to_pnvhb
+	Region type    : function
+	Offsets        : 10124-10296
+	Line numbers   : 330-338
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./arch/powerpc/platforms/powernv/pci.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.5
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/pci.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.22222222
+	Minimum        : 4
+	Maximum        : 68
+	Total          : 164.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.111 : 0.111 : 1	|||||||||||
+	             5 : 0.222 : 0.333 : 2	||||||||||||||||||||||
+	             7 : 0.111 : 0.444 : 1	|||||||||||
+	             8 : 0.111 : 0.556 : 1	|||||||||||
+	            18 : 0.111 : 0.667 : 1	|||||||||||
+	            22 : 0.111 : 0.778 : 1	|||||||||||
+	            27 : 0.111 : 0.889 : 1	|||||||||||
+	            68 : 0.111 : 1.000 : 1	|||||||||||
+
+./arch/powerpc/platforms/powernv/subcore.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-649
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 2
+
+./arch/powerpc/platforms/powernv/subcore.h:18: info: Metrics per 'update_subcore_sibling_mask' region
+	Region name    : update_subcore_sibling_mask
+	Region type    : function
+	Offsets        : 535-597
+	Line numbers   : 17-18
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/powernv/subcore.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/subcore.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.5
+	Minimum        : 1
+	Maximum        : 2
+	Total          : 3.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/vas-trace.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2660
+	Line numbers   : 1-114
+	Modified       : None
+	std.code.lines:code: 77
+
+./arch/powerpc/platforms/powernv/vas-trace.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/powernv/vas-trace.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 77.0
+	Minimum        : 77
+	Maximum        : 77
+	Total          : 77.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            77 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3939
+	Line numbers   : 1-147
+	Modified       : None
+	std.code.lines:code: 3
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:36: info: Metrics per 'opal_fadump_mem_struct' region
+	Region name    : opal_fadump_mem_struct
+	Region type    : struct
+	Offsets        : 891-1307
+	Line numbers   : 30-43
+	Modified       : None
+	std.code.lines:code: 8
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:58: info: Metrics per 'hdat_fadump_thread_hdr' region
+	Region name    : hdat_fadump_thread_hdr
+	Region type    : struct
+	Offsets        : 1726-2142
+	Line numbers   : 57-68
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:80: info: Metrics per 'hdat_fadump_reg_entry' region
+	Region name    : hdat_fadump_reg_entry
+	Region type    : struct
+	Offsets        : 2453-2567
+	Line numbers   : 79-84
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:86: info: Metrics per 'opal_fadump_set_regval_regnum' region
+	Region name    : opal_fadump_set_regval_regnum
+	Region type    : function
+	Offsets        : 2579-3272
+	Line numbers   : 86-122
+	Modified       : None
+	std.code.complexity:cyclomatic: 10
+	std.code.lines:code: 36
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:124: info: Metrics per 'opal_fadump_read_regs' region
+	Region name    : opal_fadump_read_regs
+	Region type    : function
+	Offsets        : 3274-3901
+	Line numbers   : 124-144
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 19
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 6.0
+	Minimum        : 2
+	Maximum        : 10
+	Total          : 12.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/powernv/opal-fadump.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.33333333
+	Minimum        : 3
+	Maximum        : 36
+	Total          : 80.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.167 : 0.167 : 1	||||||||||||||||
+	             5 : 0.167 : 0.333 : 1	||||||||||||||||
+	             8 : 0.167 : 0.500 : 1	||||||||||||||||
+	             9 : 0.167 : 0.667 : 1	||||||||||||||||
+	            19 : 0.167 : 0.833 : 1	||||||||||||||||
+	            36 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./arch/powerpc/platforms/pseries/pseries.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3601
+	Line numbers   : 1-132
+	Modified       : None
+	std.code.lines:code: 44
+
+./arch/powerpc/platforms/pseries/pseries.h:37: info: Metrics per 'smp_init_pseries' region
+	Region name    : smp_init_pseries
+	Region type    : function
+	Offsets        : 772-958
+	Line numbers   : 31-37
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/pseries/pseries.h:66: info: Metrics per 'dlpar_memory' region
+	Region name    : dlpar_memory
+	Region type    : function
+	Offsets        : 2004-2102
+	Line numbers   : 65-69
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/pseries.h:70: info: Metrics per 'dlpar_hp_pmem' region
+	Region name    : dlpar_hp_pmem
+	Region type    : function
+	Offsets        : 2103-2196
+	Line numbers   : 70-73
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/pseries.h:80: info: Metrics per 'dlpar_cpu' region
+	Region name    : dlpar_cpu
+	Region type    : function
+	Offsets        : 2320-2415
+	Line numbers   : 79-83
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/pseries.h:84: info: Metrics per 'pseries_cpu_hotplug_init' region
+	Region name    : pseries_cpu_hotplug_init
+	Region type    : function
+	Offsets        : 2416-2469
+	Line numbers   : 84-84
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/pseries/pseries.h:99: info: Metrics per 'cmo_get_primary_psp' region
+	Region name    : cmo_get_primary_psp
+	Region type    : function
+	Offsets        : 2892-2958
+	Line numbers   : 99-102
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/pseries.h:104: info: Metrics per 'cmo_get_secondary_psp' region
+	Region name    : cmo_get_secondary_psp
+	Region type    : function
+	Offsets        : 2960-3029
+	Line numbers   : 104-107
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/pseries.h:109: info: Metrics per 'cmo_get_page_size' region
+	Region name    : cmo_get_page_size
+	Region type    : function
+	Offsets        : 3031-3108
+	Line numbers   : 109-112
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/pseries.h:122: info: Metrics per 'pseries_lpar_read_hblkrm_characteristics' region
+	Region name    : pseries_lpar_read_hblkrm_characteristics
+	Region type    : function
+	Offsets        : 3311-3386
+	Line numbers   : 121-122
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/pseries/pseries.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 9	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/pseries/pseries.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.1
+	Minimum        : 1
+	Maximum        : 44
+	Total          : 71.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.300 : 0.300 :  3	||||||||||||||||||||||||||||||
+	             4 : 0.600 : 0.900 :  6	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            44 : 0.100 : 1.000 :  1	||||||||||
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3148
+	Line numbers   : 1-115
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:33: info: Metrics per 'rtas_fadump_section' region
+	Region name    : rtas_fadump_section
+	Region type    : struct
+	Offsets        : 975-1200
+	Line numbers   : 32-41
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:44: info: Metrics per 'rtas_fadump_section_header' region
+	Region name    : rtas_fadump_section_header
+	Region type    : struct
+	Offsets        : 1203-1623
+	Line numbers   : 43-58
+	Modified       : None
+	std.code.lines:code: 11
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:66: info: Metrics per 'rtas_fadump_mem_struct' region
+	Region name    : rtas_fadump_mem_struct
+	Region type    : struct
+	Offsets        : 1626-2201
+	Line numbers   : 60-78
+	Modified       : None
+	std.code.lines:code: 6
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:91: info: Metrics per 'rtas_fadump_reg_save_area_header' region
+	Region name    : rtas_fadump_reg_save_area_header
+	Region type    : struct
+	Offsets        : 2597-2739
+	Line numbers   : 90-95
+	Modified       : None
+	std.code.lines:code: 5
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:98: info: Metrics per 'rtas_fadump_reg_entry' region
+	Region name    : rtas_fadump_reg_entry
+	Region type    : struct
+	Offsets        : 2742-2833
+	Line numbers   : 97-101
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/pseries/rtas-fadump.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.66666667
+	Minimum        : 4
+	Maximum        : 11
+	Total          : 40.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	             5 : 0.333 : 0.500 : 2	|||||||||||||||||||||||||||||||||
+	             6 : 0.167 : 0.667 : 1	||||||||||||||||
+	             9 : 0.167 : 0.833 : 1	||||||||||||||||
+	            11 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./arch/powerpc/platforms/pseries/vas.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4210
+	Line numbers   : 1-156
+	Modified       : None
+	std.code.lines:code: 19
+
+./arch/powerpc/platforms/pseries/vas.h:54: info: Metrics per 'hv_vas_cop_feat_caps' region
+	Region name    : hv_vas_cop_feat_caps
+	Region type    : struct
+	Offsets        : 1192-1541
+	Line numbers   : 50-65
+	Modified       : None
+	std.code.lines:code: 9
+
+./arch/powerpc/platforms/pseries/vas.h:60: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1421-1511
+	Line numbers   : 60-63
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/vas.h:70: info: Metrics per 'vas_cop_feat_caps' region
+	Region name    : vas_cop_feat_caps
+	Region type    : struct
+	Offsets        : 1571-2238
+	Line numbers   : 67-85
+	Modified       : None
+	std.code.lines:code: 10
+
+./arch/powerpc/platforms/pseries/vas.h:77: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1897-2011
+	Line numbers   : 77-80
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/vas.h:91: info: Metrics per 'vas_caps' region
+	Region name    : vas_caps
+	Region type    : struct
+	Offsets        : 2241-2603
+	Line numbers   : 87-97
+	Modified       : None
+	std.code.lines:code: 7
+
+./arch/powerpc/platforms/pseries/vas.h:102: info: Metrics per 'hv_vas_win_lpar' region
+	Region name    : hv_vas_win_lpar
+	Region type    : struct
+	Offsets        : 2606-3189
+	Line numbers   : 99-117
+	Modified       : None
+	std.code.lines:code: 14
+
+./arch/powerpc/platforms/pseries/vas.h:119: info: Metrics per 'pseries_vas_window' region
+	Region name    : pseries_vas_window
+	Region type    : struct
+	Offsets        : 3219-3772
+	Line numbers   : 119-136
+	Modified       : None
+	std.code.lines:code: 15
+
+./arch/powerpc/platforms/pseries/vas.h:146: info: Metrics per 'vas_migration_handler' region
+	Region name    : vas_migration_handler
+	Region type    : function
+	Offsets        : 4049-4121
+	Line numbers   : 145-149
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/vas.h:150: info: Metrics per 'pseries_vas_dlpar_cpu' region
+	Region name    : pseries_vas_dlpar_cpu
+	Region type    : function
+	Offsets        : 4122-4182
+	Line numbers   : 150-153
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./arch/powerpc/platforms/pseries/vas.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/platforms/pseries/vas.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 4
+	Maximum        : 19
+	Total          : 90.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.400 : 0.400 :  4	||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.100 : 0.500 :  1	||||||||||
+	             9 : 0.100 : 0.600 :  1	||||||||||
+	            10 : 0.100 : 0.700 :  1	||||||||||
+	            14 : 0.100 : 0.800 :  1	||||||||||
+	            15 : 0.100 : 0.900 :  1	||||||||||
+	            19 : 0.100 : 1.000 :  1	||||||||||
+
+./arch/powerpc/platforms/pseries/of_helpers.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-223
+	Line numbers   : 1-10
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/platforms/pseries/of_helpers.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/platforms/pseries/of_helpers.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cpu_specs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-528
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 0
+
+./arch/powerpc/kernel/cpu_specs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cpu_specs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/head_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4917
+	Line numbers   : 1-223
+	Modified       : None
+	std.code.lines:code: 146
+
+./arch/powerpc/kernel/head_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/head_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 146.0
+	Minimum        : 146
+	Maximum        : 146
+	Total          : 146.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           146 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cpu_specs_e500mc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2327
+	Line numbers   : 1-76
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/cpu_specs_e500mc.h:17: info: Metrics per 'cpu_spec' region
+	Region name    : cpu_spec
+	Region type    : struct
+	Offsets        : 460-2325
+	Line numbers   : 17-75
+	Modified       : None
+	std.code.lines:code: 53
+
+./arch/powerpc/kernel/cpu_specs_e500mc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cpu_specs_e500mc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.0
+	Minimum        : 1
+	Maximum        : 53
+	Total          : 54.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            53 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cpu_specs_44x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8965
+	Line numbers   : 1-305
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/cpu_specs_44x.h:9: info: Metrics per 'cpu_spec' region
+	Region name    : cpu_spec
+	Region type    : struct
+	Offsets        : 218-8963
+	Line numbers   : 9-304
+	Modified       : None
+	std.code.lines:code: 296
+
+./arch/powerpc/kernel/cpu_specs_44x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cpu_specs_44x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 148.5
+	Minimum        : 1
+	Maximum        : 296
+	Total          : 297.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           296 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/ptrace/ptrace-decl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6626
+	Line numbers   : 1-184
+	Modified       : None
+	std.code.lines:code: 107
+
+./arch/powerpc/kernel/ptrace/ptrace-decl.h:118: info: Metrics per 'flush_tmregs_to_thread' region
+	Region name    : flush_tmregs_to_thread
+	Region type    : function
+	Offsets        : 3252-3328
+	Line numbers   : 117-118
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/ptrace/ptrace-decl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/ptrace/ptrace-decl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 54.0
+	Minimum        : 1
+	Maximum        : 107
+	Total          : 108.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           107 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cpu_specs_8xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-596
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/cpu_specs_8xx.h:6: info: Metrics per 'cpu_spec' region
+	Region name    : cpu_spec
+	Region type    : struct
+	Offsets        : 125-594
+	Line numbers   : 6-23
+	Modified       : None
+	std.code.lines:code: 14
+
+./arch/powerpc/kernel/cpu_specs_8xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cpu_specs_8xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 1
+	Maximum        : 14
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/signal.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6639
+	Line numbers   : 1-208
+	Modified       : None
+	std.code.lines:code: 22
+
+./arch/powerpc/kernel/signal.h:19: info: Metrics per '__get_user_sigset' region
+	Region name    : __get_user_sigset
+	Region type    : function
+	Offsets        : 546-738
+	Line numbers   : 19-24
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kernel/signal.h:140: info: Metrics per 'copy_fpr_to_user' region
+	Region name    : copy_fpr_to_user
+	Region type    : function
+	Offsets        : 4789-4973
+	Line numbers   : 139-144
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/powerpc/kernel/signal.h:147: info: Metrics per 'copy_fpr_from_user' region
+	Region name    : copy_fpr_from_user
+	Region type    : function
+	Offsets        : 4975-5167
+	Line numbers   : 146-151
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/powerpc/kernel/signal.h:158: info: Metrics per 'copy_ckfpr_to_user' region
+	Region name    : copy_ckfpr_to_user
+	Region type    : function
+	Offsets        : 5361-5542
+	Line numbers   : 158-162
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kernel/signal.h:165: info: Metrics per 'copy_ckfpr_from_user' region
+	Region name    : copy_ckfpr_from_user
+	Region type    : function
+	Offsets        : 5544-5735
+	Line numbers   : 164-169
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./arch/powerpc/kernel/signal.h:177: info: Metrics per 'copy_fpr_to_user' region
+	Region name    : copy_fpr_to_user
+	Region type    : function
+	Offsets        : 5958-6060
+	Line numbers   : 176-180
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kernel/signal.h:183: info: Metrics per 'copy_fpr_from_user' region
+	Region name    : copy_fpr_from_user
+	Region type    : function
+	Offsets        : 6062-6168
+	Line numbers   : 182-186
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kernel/signal.h:196: info: Metrics per 'handle_rt_signal64' region
+	Region name    : handle_rt_signal64
+	Region type    : function
+	Offsets        : 6327-6455
+	Line numbers   : 196-200
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./arch/powerpc/kernel/signal.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 8	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/signal.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.22222222
+	Minimum        : 5
+	Maximum        : 22
+	Total          : 65.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.556 : 0.556 : 5	|||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.889 : 3	|||||||||||||||||||||||||||||||||
+	            22 : 0.111 : 1.000 : 1	|||||||||||
+
+./arch/powerpc/kernel/audit_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-136
+	Line numbers   : 1-8
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/audit_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/audit_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cpu_specs_book3s_32.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-18011
+	Line numbers   : 1-606
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/cpu_specs_book3s_32.h:9: info: Metrics per 'cpu_spec' region
+	Region name    : cpu_spec
+	Region type    : struct
+	Offsets        : 213-18009
+	Line numbers   : 9-605
+	Modified       : None
+	std.code.lines:code: 591
+
+./arch/powerpc/kernel/cpu_specs_book3s_32.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cpu_specs_book3s_32.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 296.0
+	Minimum        : 1
+	Maximum        : 591
+	Total          : 592.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           591 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cacheinfo.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-425
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 4
+
+./arch/powerpc/kernel/cacheinfo.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cacheinfo.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/head_booke.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-18529
+	Line numbers   : 1-528
+	Modified       : None
+	std.code.lines:code: 72
+
+./arch/powerpc/kernel/head_booke.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/head_booke.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 72.0
+	Minimum        : 72
+	Maximum        : 72
+	Total          : 72.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            72 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cpu_specs_40x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8302
+	Line numbers   : 1-281
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/cpu_specs_40x.h:6: info: Metrics per 'cpu_spec' region
+	Region name    : cpu_spec
+	Region type    : struct
+	Offsets        : 125-8300
+	Line numbers   : 6-280
+	Modified       : None
+	std.code.lines:code: 274
+
+./arch/powerpc/kernel/cpu_specs_40x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cpu_specs_40x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 137.5
+	Minimum        : 1
+	Maximum        : 274
+	Total          : 275.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           274 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/cpu_specs_book3s_64.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15389
+	Line numbers   : 1-482
+	Modified       : None
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/cpu_specs_book3s_64.h:63: info: Metrics per 'cpu_spec' region
+	Region name    : cpu_spec
+	Region type    : struct
+	Offsets        : 2545-15387
+	Line numbers   : 63-481
+	Modified       : None
+	std.code.lines:code: 419
+
+./arch/powerpc/kernel/cpu_specs_book3s_64.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./arch/powerpc/kernel/cpu_specs_book3s_64.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 210.0
+	Minimum        : 1
+	Maximum        : 419
+	Total          : 420.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           419 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/setup.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1588
+	Line numbers   : 1-68
+	Modified       : None
+	std.code.lines:code: 13
+
+./arch/powerpc/kernel/setup.h:17: info: Metrics per 'setup_power_save' region
+	Region name    : setup_power_save
+	Region type    : function
+	Offsets        : 380-431
+	Line numbers   : 16-17
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/setup.h:23: info: Metrics per 'check_smt_enabled' region
+	Region name    : check_smt_enabled
+	Region type    : function
+	Offsets        : 519-571
+	Line numbers   : 22-23
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/setup.h:29: info: Metrics per 'setup_tlb_core_data' region
+	Region name    : setup_tlb_core_data
+	Region type    : function
+	Offsets        : 669-723
+	Line numbers   : 28-29
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/setup.h:35: info: Metrics per 'exc_lvl_early_init' region
+	Region name    : exc_lvl_early_init
+	Region type    : function
+	Offsets        : 790-843
+	Line numbers   : 34-35
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/setup.h:41: info: Metrics per 'emergency_stack_init' region
+	Region name    : emergency_stack_init
+	Region type    : function
+	Offsets        : 941-996
+	Line numbers   : 40-41
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/setup.h:58: info: Metrics per 'kvm_cma_reserve' region
+	Region name    : kvm_cma_reserve
+	Region type    : function
+	Offsets        : 1333-1383
+	Line numbers   : 57-58
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./arch/powerpc/kernel/setup.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 6	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./arch/powerpc/kernel/setup.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.71428571
+	Minimum        : 1
+	Maximum        : 13
+	Total          : 19.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.857 : 0.857 : 6	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            13 : 0.143 : 1.000 : 1	||||||||||||||
+
+

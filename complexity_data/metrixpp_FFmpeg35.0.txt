@@ -1,0 +1,4865 @@
+./libavcodec/svq1encdsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1170
+	Line numbers   : 1-35
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/svq1encdsp.h:26: info: Metrics per 'SVQ1EncDSPContext' region
+	Region name    : SVQ1EncDSPContext
+	Region type    : struct
+	Offsets        : 867-1018
+	Line numbers   : 26-29
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/svq1encdsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/svq1encdsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/vp8dsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4500
+	Line numbers   : 1-103
+	Modified       : None
+	std.code.lines:code: 18
+
+./libavcodec/vp8dsp.h:37: info: Metrics per 'VP8DSPContext' region
+	Region name    : VP8DSPContext
+	Region type    : struct
+	Offsets        : 1194-3891
+	Line numbers   : 37-82
+	Modified       : None
+	std.code.lines:code: 32
+
+./libavcodec/vp8dsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/vp8dsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 25.0
+	Minimum        : 18
+	Maximum        : 32
+	Total          : 50.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            18 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            32 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/jpeg2000.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-11050
+	Line numbers   : 1-312
+	Modified       : None
+	std.code.lines:code: 53
+
+./libavcodec/jpeg2000.h:123: info: Metrics per 'Jpeg2000T1Context' region
+	Region name    : Jpeg2000T1Context
+	Region type    : struct
+	Offsets        : 4966-5082
+	Line numbers   : 123-128
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/jpeg2000.h:130: info: Metrics per 'Jpeg2000TgtNode' region
+	Region name    : Jpeg2000TgtNode
+	Region type    : struct
+	Offsets        : 5103-5229
+	Line numbers   : 130-135
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/jpeg2000.h:137: info: Metrics per 'Jpeg2000CodingStyle' region
+	Region name    : Jpeg2000CodingStyle
+	Region type    : struct
+	Offsets        : 5248-6037
+	Line numbers   : 137-151
+	Modified       : None
+	std.code.lines:code: 15
+
+./libavcodec/jpeg2000.h:153: info: Metrics per 'Jpeg2000QuantStyle' region
+	Region name    : Jpeg2000QuantStyle
+	Region type    : struct
+	Offsets        : 6060-6341
+	Line numbers   : 153-158
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/jpeg2000.h:160: info: Metrics per 'Jpeg2000Pass' region
+	Region name    : Jpeg2000Pass
+	Region type    : struct
+	Offsets        : 6363-6477
+	Line numbers   : 160-165
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/jpeg2000.h:167: info: Metrics per 'Jpeg2000Layer' region
+	Region name    : Jpeg2000Layer
+	Region type    : struct
+	Offsets        : 6493-6623
+	Line numbers   : 167-173
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/jpeg2000.h:175: info: Metrics per 'Jpeg2000Cblk' region
+	Region name    : Jpeg2000Cblk
+	Region type    : struct
+	Offsets        : 6640-7214
+	Line numbers   : 175-195
+	Modified       : None
+	std.code.lines:code: 20
+
+./libavcodec/jpeg2000.h:197: info: Metrics per 'Jpeg2000Prec' region
+	Region name    : Jpeg2000Prec
+	Region type    : struct
+	Offsets        : 7244-7508
+	Line numbers   : 197-205
+	Modified       : None
+	std.code.lines:code: 9
+
+./libavcodec/jpeg2000.h:207: info: Metrics per 'Jpeg2000Band' region
+	Region name    : Jpeg2000Band
+	Region type    : struct
+	Offsets        : 7536-7795
+	Line numbers   : 207-213
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/jpeg2000.h:215: info: Metrics per 'Jpeg2000ResLevel' region
+	Region name    : Jpeg2000ResLevel
+	Region type    : struct
+	Offsets        : 7822-8123
+	Line numbers   : 215-221
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/jpeg2000.h:223: info: Metrics per 'Jpeg2000Component' region
+	Region name    : Jpeg2000Component
+	Region type    : struct
+	Offsets        : 8163-8559
+	Line numbers   : 223-231
+	Modified       : None
+	std.code.lines:code: 9
+
+./libavcodec/jpeg2000.h:234: info: Metrics per 'ff_jpeg2000_ceildivpow2' region
+	Region name    : ff_jpeg2000_ceildivpow2
+	Region type    : function
+	Offsets        : 8580-8690
+	Line numbers   : 233-237
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/jpeg2000.h:239: info: Metrics per 'ff_jpeg2000_ceildiv' region
+	Region name    : ff_jpeg2000_ceildiv
+	Region type    : function
+	Offsets        : 8692-8779
+	Line numbers   : 239-242
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/jpeg2000.h:258: info: Metrics per 'ff_jpeg2000_getsigctxno' region
+	Region name    : ff_jpeg2000_getsigctxno
+	Region type    : function
+	Offsets        : 9150-9398
+	Line numbers   : 256-261
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/jpeg2000.h:267: info: Metrics per 'ff_jpeg2000_getrefctxno' region
+	Region name    : ff_jpeg2000_getrefctxno
+	Region type    : function
+	Offsets        : 9471-9689
+	Line numbers   : 265-270
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/jpeg2000.h:276: info: Metrics per 'ff_jpeg2000_getsgnctxno' region
+	Region name    : ff_jpeg2000_getsgnctxno
+	Region type    : function
+	Offsets        : 9788-10057
+	Line numbers   : 275-280
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./libavcodec/jpeg2000.h:292: info: Metrics per 'needs_termination' region
+	Region name    : needs_termination
+	Region type    : function
+	Offsets        : 10506-10949
+	Line numbers   : 292-307
+	Modified       : None
+	std.code.complexity:cyclomatic: 8
+	std.code.lines:code: 16
+
+./libavcodec/jpeg2000.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.33333333
+	Minimum        : 0
+	Maximum        : 8
+	Total          : 8.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.833 : 0.833 : 5	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./libavcodec/jpeg2000.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.44444444
+	Minimum        : 4
+	Maximum        : 53
+	Total          : 188.0
+	Distribution   : 18 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.222 : 0.222 :  4	||||||||||||||||||||||
+	             5 : 0.056 : 0.278 :  1	|||||
+	             6 : 0.222 : 0.500 :  4	||||||||||||||||||||||
+	             7 : 0.167 : 0.667 :  3	||||||||||||||||
+	             9 : 0.111 : 0.778 :  2	|||||||||||
+	            15 : 0.056 : 0.833 :  1	|||||
+	            16 : 0.056 : 0.889 :  1	|||||
+	            20 : 0.056 : 0.944 :  1	|||||
+	            53 : 0.056 : 1.000 :  1	|||||
+
+./libavcodec/mpeg4videoenc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1546
+	Line numbers   : 1-44
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/mpeg4videoenc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/mpeg4videoenc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/hca_data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9791
+	Line numbers   : 1-177
+	Modified       : None
+	std.code.lines:code: 140
+
+./libavcodec/hca_data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/hca_data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 140.0
+	Minimum        : 140
+	Maximum        : 140
+	Total          : 140.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           140 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/packet.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-28678
+	Line numbers   : 1-847
+	Modified       : None
+	std.code.lines:code: 85
+
+./libavcodec/packet.h:342: info: Metrics per 'AVPacketSideData' region
+	Region name    : AVPacketSideData
+	Region type    : struct
+	Offsets        : 10607-12148
+	Line numbers   : 315-346
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/packet.h:468: info: Metrics per 'AVPacket' region
+	Region name    : AVPacket
+	Region type    : struct
+	Offsets        : 15714-19350
+	Line numbers   : 438-536
+	Modified       : None
+	std.code.lines:code: 16
+
+./libavcodec/packet.h:540: info: Metrics per 'AVPacketList' region
+	Region name    : AVPacketList
+	Region type    : struct
+	Offsets        : 19362-19486
+	Line numbers   : 538-543
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/packet.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/packet.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.75
+	Minimum        : 5
+	Maximum        : 85
+	Total          : 111.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            16 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            85 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/v4l2_buffers.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3978
+	Line numbers   : 1-135
+	Modified       : None
+	std.code.lines:code: 12
+
+./libavcodec/v4l2_buffers.h:44: info: Metrics per 'V4L2Buffer' region
+	Region name    : V4L2Buffer
+	Region type    : struct
+	Offsets        : 1244-2027
+	Line numbers   : 41-69
+	Modified       : None
+	std.code.lines:code: 11
+
+./libavcodec/v4l2_buffers.h:54: info: Metrics per 'V4L2Plane_info' region
+	Region name    : V4L2Plane_info
+	Region type    : struct
+	Offsets        : 1617-1776
+	Line numbers   : 53-58
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/v4l2_buffers.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/v4l2_buffers.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.33333333
+	Minimum        : 5
+	Maximum        : 12
+	Total          : 28.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            12 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/sinewin_tablegen.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3365
+	Line numbers   : 1-114
+	Modified       : None
+	std.code.lines:code: 20
+
+./libavcodec/sinewin_tablegen.h:59: info: Metrics per 'ff_sine_window_init' region
+	Region name    : ff_sine_window_init
+	Region type    : function
+	Offsets        : 1714-1895
+	Line numbers   : 58-64
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./libavcodec/sinewin_tablegen.h:73: info: Metrics per 'INIT_FF_SINE_WINDOW_INIT_FUNC' region
+	Region name    : INIT_FF_SINE_WINDOW_INIT_FUNC
+	Region type    : function
+	Offsets        : 2179-2790
+	Line numbers   : 73-93
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 20
+
+./libavcodec/sinewin_tablegen.h:101: info: Metrics per 'ff_init_ff_sine_windows' region
+	Region name    : ff_init_ff_sine_windows
+	Region type    : function
+	Offsets        : 2980-3323
+	Line numbers   : 101-111
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./libavcodec/sinewin_tablegen.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.66666667
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             1 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/sinewin_tablegen.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 6
+	Maximum        : 20
+	Total          : 52.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            20 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/tiff_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4362
+	Line numbers   : 1-132
+	Modified       : None
+	std.code.lines:code: 43
+
+./libavcodec/tiff_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/tiff_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 43.0
+	Minimum        : 43
+	Maximum        : 43
+	Total          : 43.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            43 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mjpegenc_huffman.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2711
+	Line numbers   : 1-77
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/mjpegenc_huffman.h:32: info: Metrics per 'MJpegEncHuffmanContext' region
+	Region name    : MJpegEncHuffmanContext
+	Region type    : struct
+	Offsets        : 997-1062
+	Line numbers   : 32-34
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/mjpegenc_huffman.h:38: info: Metrics per 'ff_mjpeg_encode_huffman_increment' region
+	Region name    : ff_mjpeg_encode_huffman_increment
+	Region type    : function
+	Offsets        : 1216-1390
+	Line numbers   : 38-42
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./libavcodec/mjpegenc_huffman.h:51: info: Metrics per 'PTable' region
+	Region name    : PTable
+	Region type    : struct
+	Offsets        : 1573-1776
+	Line numbers   : 48-54
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/mjpegenc_huffman.h:59: info: Metrics per 'PackageMergerList' region
+	Region name    : PackageMergerList
+	Region type    : struct
+	Offsets        : 1786-2309
+	Line numbers   : 56-64
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/mjpegenc_huffman.h:69: info: Metrics per 'HuffTable' region
+	Region name    : HuffTable
+	Region type    : struct
+	Offsets        : 2330-2513
+	Line numbers   : 66-72
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/mjpegenc_huffman.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mjpegenc_huffman.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.33333333
+	Minimum        : 3
+	Maximum        : 10
+	Total          : 32.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.167 : 0.167 : 1	||||||||||||||||
+	             4 : 0.333 : 0.500 : 2	|||||||||||||||||||||||||||||||||
+	             5 : 0.167 : 0.667 : 1	||||||||||||||||
+	             6 : 0.167 : 0.833 : 1	||||||||||||||||
+	            10 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./libavcodec/dolby_e.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2836
+	Line numbers   : 1-106
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/dolby_e.h:37: info: Metrics per 'DolbyEHeaderInfo' region
+	Region name    : DolbyEHeaderInfo
+	Region type    : struct
+	Offsets        : 1001-1735
+	Line numbers   : 33-66
+	Modified       : None
+	std.code.lines:code: 16
+
+./libavcodec/dolby_e.h:72: info: Metrics per 'DBEContext' region
+	Region name    : DBEContext
+	Region type    : struct
+	Offsets        : 1755-2155
+	Line numbers   : 68-86
+	Modified       : None
+	std.code.lines:code: 11
+
+./libavcodec/dolby_e.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/dolby_e.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.33333333
+	Minimum        : 4
+	Maximum        : 16
+	Total          : 31.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/vp8.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10201
+	Line numbers   : 1-360
+	Modified       : None
+	std.code.lines:code: 46
+
+./libavcodec/vp8.h:84: info: Metrics per 'VP8mv' region
+	Region name    : VP8mv
+	Region type    : struct
+	Offsets        : 2116-2191
+	Line numbers   : 84-87
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/vp8.h:89: info: Metrics per 'VP8FilterStrength' region
+	Region name    : VP8FilterStrength
+	Region type    : struct
+	Offsets        : 2200-2313
+	Line numbers   : 89-93
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/vp8.h:95: info: Metrics per 'VP8Macroblock' region
+	Region name    : VP8Macroblock
+	Region type    : struct
+	Offsets        : 2334-2742
+	Line numbers   : 95-108
+	Modified       : None
+	std.code.lines:code: 12
+
+./libavcodec/vp8.h:110: info: Metrics per 'VP8intmv' region
+	Region name    : VP8intmv
+	Region type    : struct
+	Offsets        : 2759-2808
+	Line numbers   : 110-113
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/vp8.h:115: info: Metrics per 'VP8mvbounds' region
+	Region name    : VP8mvbounds
+	Region type    : struct
+	Offsets        : 2820-2892
+	Line numbers   : 115-118
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/vp8.h:120: info: Metrics per 'VP8ThreadData' region
+	Region name    : VP8ThreadData
+	Region type    : struct
+	Offsets        : 2907-4087
+	Line numbers   : 120-150
+	Modified       : None
+	std.code.lines:code: 14
+
+./libavcodec/vp8.h:152: info: Metrics per 'VP8Frame' region
+	Region name    : VP8Frame
+	Region type    : struct
+	Offsets        : 4104-4259
+	Line numbers   : 152-157
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/vp8.h:160: info: Metrics per 'VP8Context' region
+	Region name    : VP8Context
+	Region type    : struct
+	Offsets        : 4271-9942
+	Line numbers   : 159-350
+	Modified       : None
+	std.code.lines:code: 61
+
+./libavcodec/vp8.h:190: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 4921-5374
+	Line numbers   : 185-197
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/vp8.h:199: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 5394-5482
+	Line numbers   : 199-203
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/vp8.h:215: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 5607-5985
+	Line numbers   : 210-220
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/vp8.h:223: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6000-6224
+	Line numbers   : 222-230
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/vp8.h:232: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6237-7017
+	Line numbers   : 232-255
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/vp8.h:267: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 7182-7554
+	Line numbers   : 262-272
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/vp8.h:282: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 7619-8188
+	Line numbers   : 276-293
+	Modified       : None
+	std.code.lines:code: 12
+
+./libavcodec/vp8.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/vp8.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.8125
+	Minimum        : 4
+	Maximum        : 61
+	Total          : 205.0
+	Distribution   : 16 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.188 : 0.188 :  3	||||||||||||||||||
+	             5 : 0.250 : 0.438 :  4	|||||||||||||||||||||||||
+	             6 : 0.125 : 0.562 :  2	||||||||||||
+	             8 : 0.125 : 0.688 :  2	||||||||||||
+	            12 : 0.125 : 0.812 :  2	||||||||||||
+	            14 : 0.062 : 0.875 :  1	||||||
+	            46 : 0.062 : 0.938 :  1	||||||
+	            61 : 0.062 : 1.000 :  1	||||||
+
+./libavcodec/cbs_internal.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-13736
+	Line numbers   : 1-348
+	Modified       : None
+	std.code.lines:code: 40
+
+./libavcodec/cbs_internal.h:56: info: Metrics per 'CodedBitstreamUnitTypeDescriptor' region
+	Region name    : CodedBitstreamUnitTypeDescriptor
+	Region type    : struct
+	Offsets        : 1861-3601
+	Line numbers   : 56-100
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/cbs_internal.h:62: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2108-2459
+	Line numbers   : 62-71
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_internal.h:67: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2244-2446
+	Line numbers   : 65-70
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_internal.h:79: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2700-3593
+	Line numbers   : 79-99
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_internal.h:83: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2716-3389
+	Line numbers   : 80-93
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_internal.h:95: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 3404-3578
+	Line numbers   : 95-98
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_internal.h:102: info: Metrics per 'CodedBitstreamType' region
+	Region name    : CodedBitstreamType
+	Region type    : struct
+	Offsets        : 3637-5768
+	Line numbers   : 102-153
+	Modified       : None
+	std.code.lines:code: 21
+
+./libavcodec/cbs_internal.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/cbs_internal.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 4
+	Maximum        : 40
+	Total          : 88.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.625 : 0.625 : 5	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.125 : 0.750 : 1	||||||||||||
+	            21 : 0.125 : 0.875 : 1	||||||||||||
+	            40 : 0.125 : 1.000 : 1	||||||||||||
+
+./libavcodec/dv_profile.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3694
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/dv_profile.h:38: info: Metrics per 'AVDVProfile' region
+	Region name    : AVDVProfile
+	Region type    : struct
+	Offsets        : 1054-2820
+	Line numbers   : 32-58
+	Modified       : None
+	std.code.lines:code: 19
+
+./libavcodec/dv_profile.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/dv_profile.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 5
+	Maximum        : 19
+	Total          : 24.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/opus.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1690
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 19
+
+./libavcodec/opus.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/opus.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 19
+	Maximum        : 19
+	Total          : 19.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            19 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mediacodec_wrapper.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-14191
+	Line numbers   : 1-422
+	Modified       : None
+	std.code.lines:code: 42
+
+./libavcodec/mediacodec_wrapper.h:63: info: Metrics per 'FFAMediaFormat' region
+	Region name    : FFAMediaFormat
+	Region type    : struct
+	Offsets        : 2297-3643
+	Line numbers   : 63-88
+	Modified       : None
+	std.code.lines:code: 20
+
+./libavcodec/mediacodec_wrapper.h:92: info: Metrics per 'ff_AMediaFormat_delete' region
+	Region name    : ff_AMediaFormat_delete
+	Region type    : function
+	Offsets        : 3693-3796
+	Line numbers   : 92-95
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:97: info: Metrics per 'ff_AMediaFormat_toString' region
+	Region name    : ff_AMediaFormat_toString
+	Region type    : function
+	Offsets        : 3798-3907
+	Line numbers   : 97-100
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:102: info: Metrics per 'ff_AMediaFormat_getInt32' region
+	Region name    : ff_AMediaFormat_getInt32
+	Region type    : function
+	Offsets        : 3909-4059
+	Line numbers   : 102-105
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:107: info: Metrics per 'ff_AMediaFormat_getInt64' region
+	Region name    : ff_AMediaFormat_getInt64
+	Region type    : function
+	Offsets        : 4061-4211
+	Line numbers   : 107-110
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:112: info: Metrics per 'ff_AMediaFormat_getFloat' region
+	Region name    : ff_AMediaFormat_getFloat
+	Region type    : function
+	Offsets        : 4213-4361
+	Line numbers   : 112-115
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:117: info: Metrics per 'ff_AMediaFormat_getBuffer' region
+	Region name    : ff_AMediaFormat_getBuffer
+	Region type    : function
+	Offsets        : 4363-4535
+	Line numbers   : 117-120
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:122: info: Metrics per 'ff_AMediaFormat_getString' region
+	Region name    : ff_AMediaFormat_getString
+	Region type    : function
+	Offsets        : 4537-4693
+	Line numbers   : 122-125
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:127: info: Metrics per 'ff_AMediaFormat_getRect' region
+	Region name    : ff_AMediaFormat_getRect
+	Region type    : function
+	Offsets        : 4695-5013
+	Line numbers   : 127-133
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./libavcodec/mediacodec_wrapper.h:135: info: Metrics per 'ff_AMediaFormat_setInt32' region
+	Region name    : ff_AMediaFormat_setInt32
+	Region type    : function
+	Offsets        : 5015-5162
+	Line numbers   : 135-138
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:140: info: Metrics per 'ff_AMediaFormat_setInt64' region
+	Region name    : ff_AMediaFormat_setInt64
+	Region type    : function
+	Offsets        : 5164-5311
+	Line numbers   : 140-143
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:145: info: Metrics per 'ff_AMediaFormat_setFloat' region
+	Region name    : ff_AMediaFormat_setFloat
+	Region type    : function
+	Offsets        : 5313-5458
+	Line numbers   : 145-148
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:150: info: Metrics per 'ff_AMediaFormat_setString' region
+	Region name    : ff_AMediaFormat_setString
+	Region type    : function
+	Offsets        : 5460-5613
+	Line numbers   : 150-153
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:155: info: Metrics per 'ff_AMediaFormat_setBuffer' region
+	Region name    : ff_AMediaFormat_setBuffer
+	Region type    : function
+	Offsets        : 5615-5779
+	Line numbers   : 155-158
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:160: info: Metrics per 'ff_AMediaFormat_setRect' region
+	Region name    : ff_AMediaFormat_setRect
+	Region type    : function
+	Offsets        : 5781-6150
+	Line numbers   : 160-168
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 9
+
+./libavcodec/mediacodec_wrapper.h:172: info: Metrics per 'FFAMediaCodecBufferInfo' region
+	Region name    : FFAMediaCodecBufferInfo
+	Region type    : struct
+	Offsets        : 6217-6341
+	Line numbers   : 172-177
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/mediacodec_wrapper.h:181: info: Metrics per 'FFAMediaCodec' region
+	Region name    : FFAMediaCodec
+	Region type    : struct
+	Offsets        : 6452-8341
+	Line numbers   : 181-222
+	Modified       : None
+	std.code.lines:code: 29
+
+./libavcodec/mediacodec_wrapper.h:224: info: Metrics per 'ff_AMediaCodec_getName' region
+	Region name    : ff_AMediaCodec_getName
+	Region type    : function
+	Offsets        : 8344-8446
+	Line numbers   : 224-227
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:233: info: Metrics per 'ff_AMediaCodec_configure' region
+	Region name    : ff_AMediaCodec_configure
+	Region type    : function
+	Offsets        : 8691-9042
+	Line numbers   : 233-239
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./libavcodec/mediacodec_wrapper.h:241: info: Metrics per 'ff_AMediaCodec_start' region
+	Region name    : ff_AMediaCodec_start
+	Region type    : function
+	Offsets        : 9044-9140
+	Line numbers   : 241-244
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:246: info: Metrics per 'ff_AMediaCodec_stop' region
+	Region name    : ff_AMediaCodec_stop
+	Region type    : function
+	Offsets        : 9142-9236
+	Line numbers   : 246-249
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:251: info: Metrics per 'ff_AMediaCodec_flush' region
+	Region name    : ff_AMediaCodec_flush
+	Region type    : function
+	Offsets        : 9238-9334
+	Line numbers   : 251-254
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:256: info: Metrics per 'ff_AMediaCodec_delete' region
+	Region name    : ff_AMediaCodec_delete
+	Region type    : function
+	Offsets        : 9336-9434
+	Line numbers   : 256-259
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:261: info: Metrics per 'ff_AMediaCodec_getInputBuffer' region
+	Region name    : ff_AMediaCodec_getInputBuffer
+	Region type    : function
+	Offsets        : 9436-9600
+	Line numbers   : 261-264
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:266: info: Metrics per 'ff_AMediaCodec_getOutputBuffer' region
+	Region name    : ff_AMediaCodec_getOutputBuffer
+	Region type    : function
+	Offsets        : 9602-9768
+	Line numbers   : 266-269
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:271: info: Metrics per 'ff_AMediaCodec_dequeueInputBuffer' region
+	Region name    : ff_AMediaCodec_dequeueInputBuffer
+	Region type    : function
+	Offsets        : 9770-9926
+	Line numbers   : 271-274
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:276: info: Metrics per 'ff_AMediaCodec_queueInputBuffer' region
+	Region name    : ff_AMediaCodec_queueInputBuffer
+	Region type    : function
+	Offsets        : 9928-10148
+	Line numbers   : 276-279
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:281: info: Metrics per 'ff_AMediaCodec_dequeueOutputBuffer' region
+	Region name    : ff_AMediaCodec_dequeueOutputBuffer
+	Region type    : function
+	Offsets        : 10150-10345
+	Line numbers   : 281-284
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:286: info: Metrics per 'ff_AMediaCodec_getOutputFormat' region
+	Region name    : ff_AMediaCodec_getOutputFormat
+	Region type    : function
+	Offsets        : 10347-10475
+	Line numbers   : 286-289
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:291: info: Metrics per 'ff_AMediaCodec_releaseOutputBuffer' region
+	Region name    : ff_AMediaCodec_releaseOutputBuffer
+	Region type    : function
+	Offsets        : 10477-10638
+	Line numbers   : 291-294
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:296: info: Metrics per 'ff_AMediaCodec_releaseOutputBufferAtTime' region
+	Region name    : ff_AMediaCodec_releaseOutputBufferAtTime
+	Region type    : function
+	Offsets        : 10640-10827
+	Line numbers   : 296-299
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:301: info: Metrics per 'ff_AMediaCodec_infoTryAgainLater' region
+	Region name    : ff_AMediaCodec_infoTryAgainLater
+	Region type    : function
+	Offsets        : 10829-10967
+	Line numbers   : 301-304
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:306: info: Metrics per 'ff_AMediaCodec_infoOutputBuffersChanged' region
+	Region name    : ff_AMediaCodec_infoOutputBuffersChanged
+	Region type    : function
+	Offsets        : 10969-11121
+	Line numbers   : 306-309
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:311: info: Metrics per 'ff_AMediaCodec_infoOutputFormatChanged' region
+	Region name    : ff_AMediaCodec_infoOutputFormatChanged
+	Region type    : function
+	Offsets        : 11123-11273
+	Line numbers   : 311-314
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:316: info: Metrics per 'ff_AMediaCodec_getBufferFlagCodecConfig' region
+	Region name    : ff_AMediaCodec_getBufferFlagCodecConfig
+	Region type    : function
+	Offsets        : 11275-11409
+	Line numbers   : 316-319
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:321: info: Metrics per 'ff_AMediaCodec_getBufferFlagEndOfStream' region
+	Region name    : ff_AMediaCodec_getBufferFlagEndOfStream
+	Region type    : function
+	Offsets        : 11411-11545
+	Line numbers   : 321-324
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:326: info: Metrics per 'ff_AMediaCodec_getBufferFlagKeyFrame' region
+	Region name    : ff_AMediaCodec_getBufferFlagKeyFrame
+	Region type    : function
+	Offsets        : 11547-11675
+	Line numbers   : 326-329
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:331: info: Metrics per 'ff_AMediaCodec_getConfigureFlagEncode' region
+	Region name    : ff_AMediaCodec_getConfigureFlagEncode
+	Region type    : function
+	Offsets        : 11677-11807
+	Line numbers   : 331-334
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:336: info: Metrics per 'ff_AMediaCodec_cleanOutputBuffers' region
+	Region name    : ff_AMediaCodec_cleanOutputBuffers
+	Region type    : function
+	Offsets        : 11809-11931
+	Line numbers   : 336-339
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:341: info: Metrics per 'ff_AMediaCodec_signalEndOfInputStream' region
+	Region name    : ff_AMediaCodec_signalEndOfInputStream
+	Region type    : function
+	Offsets        : 11933-12063
+	Line numbers   : 341-344
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/mediacodec_wrapper.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.05405405
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 2.0
+	Distribution   : 37 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.946 : 0.946 : 35	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.054 : 1.000 :  2	|||||
+
+./libavcodec/mediacodec_wrapper.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.24390244
+	Minimum        : 4
+	Maximum        : 42
+	Total          : 256.0
+	Distribution   : 41 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.829 : 0.829 : 34	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.024 : 0.854 :  1	||
+	             7 : 0.049 : 0.902 :  2	||||
+	             9 : 0.024 : 0.927 :  1	||
+	            20 : 0.024 : 0.951 :  1	||
+	            29 : 0.024 : 0.976 :  1	||
+	            42 : 0.024 : 1.000 :  1	||
+
+./libavcodec/scpr3.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1978
+	Line numbers   : 1-78
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/scpr3.h:28: info: Metrics per 'PixelModel3' region
+	Region name    : PixelModel3
+	Region type    : struct
+	Offsets        : 910-1211
+	Line numbers   : 28-40
+	Modified       : None
+	std.code.lines:code: 13
+
+./libavcodec/scpr3.h:42: info: Metrics per 'FillModel3' region
+	Region name    : FillModel3
+	Region type    : struct
+	Offsets        : 1226-1357
+	Line numbers   : 42-47
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/scpr3.h:49: info: Metrics per 'OpModel3' region
+	Region name    : OpModel3
+	Region type    : struct
+	Offsets        : 1371-1500
+	Line numbers   : 49-54
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/scpr3.h:56: info: Metrics per 'RunModel3' region
+	Region name    : RunModel3
+	Region type    : struct
+	Offsets        : 1512-1646
+	Line numbers   : 56-61
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/scpr3.h:63: info: Metrics per 'SxyModel3' region
+	Region name    : SxyModel3
+	Region type    : struct
+	Offsets        : 1659-1791
+	Line numbers   : 63-68
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/scpr3.h:70: info: Metrics per 'MVModel3' region
+	Region name    : MVModel3
+	Region type    : struct
+	Offsets        : 1804-1937
+	Line numbers   : 70-75
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/scpr3.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/scpr3.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 6
+	Maximum        : 13
+	Total          : 49.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.857 : 0.857 : 6	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            13 : 0.143 : 1.000 : 1	||||||||||||||
+
+./libavcodec/dv_internal.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2049
+	Line numbers   : 1-63
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/dv_internal.h:30: info: Metrics per 'DVwork_chunk' region
+	Region name    : DVwork_chunk
+	Region type    : struct
+	Offsets        : 962-1050
+	Line numbers   : 30-33
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/dv_internal.h:37: info: Metrics per 'dv_work_pool_size' region
+	Region name    : dv_work_pool_size
+	Region type    : function
+	Offsets        : 1147-1391
+	Line numbers   : 37-45
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./libavcodec/dv_internal.h:47: info: Metrics per 'dv_calculate_mb_xy' region
+	Region name    : dv_calculate_mb_xy
+	Region type    : function
+	Offsets        : 1393-2015
+	Line numbers   : 47-60
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 10
+
+./libavcodec/dv_internal.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.5
+	Minimum        : 2
+	Maximum        : 3
+	Total          : 5.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             3 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/dv_internal.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.25
+	Minimum        : 2
+	Maximum        : 10
+	Total          : 25.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             4 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             9 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            10 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/rv10dec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-944
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 1
+
+./libavcodec/rv10dec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/rv10dec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/adts_parser.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1354
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/adts_parser.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/adts_parser.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/aacenc_utils.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8663
+	Line numbers   : 1-280
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/aacenc_utils.h:40: info: Metrics per 'abs_pow34_v' region
+	Region name    : abs_pow34_v
+	Region type    : function
+	Offsets        : 1174-1373
+	Line numbers   : 40-47
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./libavcodec/aacenc_utils.h:49: info: Metrics per 'pos_pow34' region
+	Region name    : pos_pow34
+	Region type    : function
+	Offsets        : 1375-1449
+	Line numbers   : 49-52
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/aacenc_utils.h:59: info: Metrics per 'quant' region
+	Region name    : quant
+	Region type    : function
+	Offsets        : 1451-1742
+	Line numbers   : 54-63
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./libavcodec/aacenc_utils.h:65: info: Metrics per 'quantize_bands' region
+	Region name    : quantize_bands
+	Region type    : function
+	Offsets        : 1744-2216
+	Line numbers   : 65-78
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 14
+
+./libavcodec/aacenc_utils.h:80: info: Metrics per 'find_max_val' region
+	Region name    : find_max_val
+	Region type    : function
+	Offsets        : 2218-2515
+	Line numbers   : 80-90
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 11
+
+./libavcodec/aacenc_utils.h:92: info: Metrics per 'find_min_book' region
+	Region name    : find_min_book
+	Region type    : function
+	Offsets        : 2517-2850
+	Line numbers   : 92-102
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 11
+
+./libavcodec/aacenc_utils.h:104: info: Metrics per 'find_form_factor' region
+	Region name    : find_form_factor
+	Region type    : function
+	Offsets        : 2852-4567
+	Line numbers   : 104-154
+	Modified       : None
+	std.code.complexity:cyclomatic: 7
+	std.code.lines:code: 44
+
+./libavcodec/aacenc_utils.h:157: info: Metrics per 'coef2minsf' region
+	Region name    : coef2minsf
+	Region type    : function
+	Offsets        : 4569-4773
+	Line numbers   : 156-160
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/aacenc_utils.h:163: info: Metrics per 'coef2maxsf' region
+	Region name    : coef2maxsf
+	Region type    : function
+	Offsets        : 4775-4977
+	Line numbers   : 162-166
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/aacenc_utils.h:171: info: Metrics per 'quant_array_idx' region
+	Region name    : quant_array_idx
+	Region type    : function
+	Offsets        : 4979-5427
+	Line numbers   : 168-183
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 13
+
+./libavcodec/aacenc_utils.h:188: info: Metrics per 'bval2bmax' region
+	Region name    : bval2bmax
+	Region type    : function
+	Offsets        : 5429-5625
+	Line numbers   : 185-191
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/aacenc_utils.h:199: info: Metrics per 'ff_init_nextband_map' region
+	Region name    : ff_init_nextband_map
+	Region type    : function
+	Offsets        : 5627-6523
+	Line numbers   : 193-215
+	Modified       : None
+	std.code.complexity:cyclomatic: 5
+	std.code.lines:code: 14
+
+./libavcodec/aacenc_utils.h:221: info: Metrics per 'ff_nextband_remove' region
+	Region name    : ff_nextband_remove
+	Region type    : function
+	Offsets        : 6525-6780
+	Line numbers   : 217-224
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/aacenc_utils.h:232: info: Metrics per 'ff_sfdelta_can_remove_band' region
+	Region name    : ff_sfdelta_can_remove_band
+	Region type    : function
+	Offsets        : 6782-7362
+	Line numbers   : 226-238
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./libavcodec/aacenc_utils.h:246: info: Metrics per 'ff_sfdelta_can_replace' region
+	Region name    : ff_sfdelta_can_replace
+	Region type    : function
+	Offsets        : 7364-8023
+	Line numbers   : 240-253
+	Modified       : None
+	std.code.complexity:cyclomatic: 3
+	std.code.lines:code: 8
+
+./libavcodec/aacenc_utils.h:262: info: Metrics per 'lcg_random' region
+	Region name    : lcg_random
+	Region type    : function
+	Offsets        : 8025-8376
+	Line numbers   : 255-266
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./libavcodec/aacenc_utils.h:264: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 8284-8312
+	Line numbers   : 264-264
+	Modified       : None
+	std.code.lines:code: 1
+
+./libavcodec/aacenc_utils.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.625
+	Minimum        : 0
+	Maximum        : 7
+	Total          : 26.0
+	Distribution   : 16 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.438 : 0.438 :  7	|||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.125 : 0.562 :  2	||||||||||||
+	             2 : 0.188 : 0.750 :  3	||||||||||||||||||
+	             3 : 0.125 : 0.875 :  2	||||||||||||
+	             5 : 0.062 : 0.938 :  1	||||||
+	             7 : 0.062 : 1.000 :  1	||||||
+
+./libavcodec/aacenc_utils.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.94444444
+	Minimum        : 0
+	Maximum        : 44
+	Total          : 161.0
+	Distribution   : 18 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.056 : 0.056 :  1	|||||
+	             1 : 0.056 : 0.111 :  1	|||||
+	             4 : 0.278 : 0.389 :  5	|||||||||||||||||||||||||||
+	             5 : 0.111 : 0.500 :  2	|||||||||||
+	             7 : 0.056 : 0.556 :  1	|||||
+	             8 : 0.111 : 0.667 :  2	|||||||||||
+	            11 : 0.111 : 0.778 :  2	|||||||||||
+	            13 : 0.056 : 0.833 :  1	|||||
+	            14 : 0.111 : 0.944 :  2	|||||||||||
+	            44 : 0.056 : 1.000 :  1	|||||
+
+./libavcodec/wavpackenc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-42986
+	Line numbers   : 1-656
+	Modified       : None
+	std.code.lines:code: 617
+
+./libavcodec/wavpackenc.h:28: info: Metrics per 'WavPackDecorrSpec' region
+	Region name    : WavPackDecorrSpec
+	Region type    : struct
+	Offsets        : 932-1020
+	Line numbers   : 28-30
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/wavpackenc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/wavpackenc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 310.0
+	Minimum        : 3
+	Maximum        : 617
+	Total          : 620.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           617 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/ttaencdsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1205
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/ttaencdsp.h:24: info: Metrics per 'TTAEncDSPContext' region
+	Region name    : TTAEncDSPContext
+	Region type    : struct
+	Offsets        : 842-1057
+	Line numbers   : 24-28
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/ttaencdsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/ttaencdsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 3
+	Maximum        : 5
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mpegvideoenc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12456
+	Line numbers   : 1-150
+	Modified       : None
+	std.code.lines:code: 15
+
+./libavcodec/mpegvideoenc.h:139: info: Metrics per 'get_bits_diff' region
+	Region name    : get_bits_diff
+	Region type    : function
+	Offsets        : 12262-12447
+	Line numbers   : 139-147
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./libavcodec/mpegvideoenc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mpegvideoenc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 7
+	Maximum        : 15
+	Total          : 22.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/flacdsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1821
+	Line numbers   : 1-44
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/flacdsp.h:26: info: Metrics per 'FLACDSPContext' region
+	Region name    : FLACDSPContext
+	Region type    : struct
+	Offsets        : 872-1523
+	Line numbers   : 26-37
+	Modified       : None
+	std.code.lines:code: 12
+
+./libavcodec/flacdsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/flacdsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 4
+	Maximum        : 12
+	Total          : 16.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/speedhq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1222
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/speedhq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/speedhq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/lzw.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1949
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 17
+
+./libavcodec/lzw.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/lzw.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.0
+	Minimum        : 17
+	Maximum        : 17
+	Total          : 17.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            17 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/atrac1data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2660
+	Line numbers   : 1-65
+	Modified       : None
+	std.code.lines:code: 19
+
+./libavcodec/atrac1data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/atrac1data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 19
+	Maximum        : 19
+	Total          : 19.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            19 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/atrac3plus_data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-94964
+	Line numbers   : 1-1660
+	Modified       : None
+	std.code.lines:code: 1407
+
+./libavcodec/atrac3plus_data.h:1407: info: Metrics per 'Atrac3pSpecCodeTab' region
+	Region name    : Atrac3pSpecCodeTab
+	Region type    : struct
+	Offsets        : 84822-85236
+	Line numbers   : 1406-1412
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/atrac3plus_data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/atrac3plus_data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 706.5
+	Minimum        : 6
+	Maximum        : 1407
+	Total          : 1413.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	          1407 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/cbs_h264.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12894
+	Line numbers   : 1-426
+	Modified       : None
+	std.code.lines:code: 20
+
+./libavcodec/cbs_h264.h:31: info: Metrics per 'H264RawNALUnitHeader' region
+	Region name    : H264RawNALUnitHeader
+	Region type    : struct
+	Offsets        : 941-1100
+	Line numbers   : 31-37
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/cbs_h264.h:39: info: Metrics per 'H264RawScalingList' region
+	Region name    : H264RawScalingList
+	Region type    : struct
+	Offsets        : 1124-1189
+	Line numbers   : 39-41
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/cbs_h264.h:43: info: Metrics per 'H264RawHRD' region
+	Region name    : H264RawHRD
+	Region type    : struct
+	Offsets        : 1211-1648
+	Line numbers   : 43-56
+	Modified       : None
+	std.code.lines:code: 12
+
+./libavcodec/cbs_h264.h:58: info: Metrics per 'H264RawVUI' region
+	Region name    : H264RawVUI
+	Region type    : struct
+	Offsets        : 1662-2969
+	Line numbers   : 58-100
+	Modified       : None
+	std.code.lines:code: 36
+
+./libavcodec/cbs_h264.h:102: info: Metrics per 'H264RawSPS' region
+	Region name    : H264RawSPS
+	Region type    : struct
+	Offsets        : 2983-4607
+	Line numbers   : 102-155
+	Modified       : None
+	std.code.lines:code: 44
+
+./libavcodec/cbs_h264.h:157: info: Metrics per 'H264RawSPSExtension' region
+	Region name    : H264RawSPSExtension
+	Region type    : struct
+	Offsets        : 4621-4939
+	Line numbers   : 157-169
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/cbs_h264.h:171: info: Metrics per 'H264RawPPS' region
+	Region name    : H264RawPPS
+	Region type    : struct
+	Offsets        : 4962-6320
+	Line numbers   : 171-216
+	Modified       : None
+	std.code.lines:code: 34
+
+./libavcodec/cbs_h264.h:218: info: Metrics per 'H264RawAUD' region
+	Region name    : H264RawAUD
+	Region type    : struct
+	Offsets        : 6334-6436
+	Line numbers   : 218-222
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_h264.h:224: info: Metrics per 'H264RawSEIBufferingPeriod' region
+	Region name    : H264RawSEIBufferingPeriod
+	Region type    : struct
+	Offsets        : 6450-6688
+	Line numbers   : 224-230
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_h264.h:226: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 6531-6676
+	Line numbers   : 226-229
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_h264.h:232: info: Metrics per 'H264RawSEIPicTimestamp' region
+	Region name    : H264RawSEIPicTimestamp
+	Region type    : struct
+	Offsets        : 6717-7138
+	Line numbers   : 232-247
+	Modified       : None
+	std.code.lines:code: 16
+
+./libavcodec/cbs_h264.h:249: info: Metrics per 'H264RawSEIPicTiming' region
+	Region name    : H264RawSEIPicTiming
+	Region type    : struct
+	Offsets        : 7164-7367
+	Line numbers   : 249-255
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/cbs_h264.h:257: info: Metrics per 'H264RawSEIPanScanRect' region
+	Region name    : H264RawSEIPanScanRect
+	Region type    : struct
+	Offsets        : 7390-7755
+	Line numbers   : 257-266
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/cbs_h264.h:268: info: Metrics per 'H264RawSEIRecoveryPoint' region
+	Region name    : H264RawSEIRecoveryPoint
+	Region type    : struct
+	Offsets        : 7780-7953
+	Line numbers   : 268-273
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/cbs_h264.h:275: info: Metrics per 'H264RawFilmGrainCharacteristics' region
+	Region name    : H264RawFilmGrainCharacteristics
+	Region type    : struct
+	Offsets        : 7980-8918
+	Line numbers   : 275-294
+	Modified       : None
+	std.code.lines:code: 20
+
+./libavcodec/cbs_h264.h:296: info: Metrics per 'H264RawSEIDisplayOrientation' region
+	Region name    : H264RawSEIDisplayOrientation
+	Region type    : struct
+	Offsets        : 8953-9226
+	Line numbers   : 296-303
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/cbs_h264.h:305: info: Metrics per 'H264RawSEI' region
+	Region name    : H264RawSEI
+	Region type    : struct
+	Offsets        : 9258-9368
+	Line numbers   : 305-308
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_h264.h:310: info: Metrics per 'H264RawSliceHeader' region
+	Region name    : H264RawSliceHeader
+	Region type    : struct
+	Offsets        : 9382-11601
+	Line numbers   : 310-386
+	Modified       : None
+	std.code.lines:code: 48
+
+./libavcodec/cbs_h264.h:339: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 10104-10240
+	Line numbers   : 339-343
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/cbs_h264.h:366: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 11064-11297
+	Line numbers   : 366-372
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/cbs_h264.h:388: info: Metrics per 'H264RawSlice' region
+	Region name    : H264RawSlice
+	Region type    : struct
+	Offsets        : 11623-11797
+	Line numbers   : 388-395
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/cbs_h264.h:397: info: Metrics per 'H264RawFiller' region
+	Region name    : H264RawFiller
+	Region type    : struct
+	Offsets        : 11813-11914
+	Line numbers   : 397-401
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_h264.h:404: info: Metrics per 'CodedBitstreamH264Context' region
+	Region name    : CodedBitstreamH264Context
+	Region type    : struct
+	Offsets        : 11932-12833
+	Line numbers   : 404-423
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/cbs_h264.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/cbs_h264.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.625
+	Minimum        : 3
+	Maximum        : 48
+	Total          : 327.0
+	Distribution   : 24 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.042 : 0.042 :  1	||||
+	             4 : 0.208 : 0.250 :  5	||||||||||||||||||||
+	             5 : 0.042 : 0.292 :  1	||||
+	             6 : 0.083 : 0.375 :  2	||||||||
+	             7 : 0.125 : 0.500 :  3	||||||||||||
+	             8 : 0.083 : 0.583 :  2	||||||||
+	            10 : 0.083 : 0.667 :  2	||||||||
+	            12 : 0.042 : 0.708 :  1	||||
+	            16 : 0.042 : 0.750 :  1	||||
+	            20 : 0.083 : 0.833 :  2	||||||||
+	            34 : 0.042 : 0.875 :  1	||||
+	            36 : 0.042 : 0.917 :  1	||||
+	            44 : 0.042 : 0.958 :  1	||||
+	            48 : 0.042 : 1.000 :  1	||||
+
+./libavcodec/qdm2data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-24735
+	Line numbers   : 1-462
+	Modified       : None
+	std.code.lines:code: 365
+
+./libavcodec/qdm2data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/qdm2data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 365.0
+	Minimum        : 365
+	Maximum        : 365
+	Total          : 365.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           365 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/amr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2232
+	Line numbers   : 1-71
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/amr.h:51: info: Metrics per 'ff_amr_bit_reorder' region
+	Region name    : ff_amr_bit_reorder
+	Region type    : function
+	Offsets        : 1043-2203
+	Line numbers   : 36-68
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 17
+
+./libavcodec/amr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/amr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 2
+	Maximum        : 17
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            17 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/xvididct.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1268
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/xvididct.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/xvididct.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/msrledec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1281
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/msrledec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/msrledec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/dcadec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3344
+	Line numbers   : 1-107
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/dcadec.h:53: info: Metrics per 'DCAContext' region
+	Region name    : DCAContext
+	Region type    : struct
+	Offsets        : 1542-2268
+	Line numbers   : 53-75
+	Modified       : None
+	std.code.lines:code: 17
+
+./libavcodec/dcadec.h:84: info: Metrics per 'ff_dca_check_crc' region
+	Region name    : ff_dca_check_crc
+	Region type    : function
+	Offsets        : 2679-3137
+	Line numbers   : 84-96
+	Modified       : None
+	std.code.complexity:cyclomatic: 6
+	std.code.lines:code: 12
+
+./libavcodec/dcadec.h:98: info: Metrics per 'ff_dca_seek_bits' region
+	Region name    : ff_dca_seek_bits
+	Region type    : function
+	Offsets        : 3139-3335
+	Line numbers   : 98-104
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./libavcodec/dcadec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 4.0
+	Minimum        : 2
+	Maximum        : 6
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/dcadec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.5
+	Minimum        : 7
+	Maximum        : 17
+	Total          : 46.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	            10 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            12 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            17 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/defs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12358
+	Line numbers   : 1-336
+	Modified       : None
+	std.code.lines:code: 34
+
+./libavcodec/defs.h:240: info: Metrics per 'AVPanScan' region
+	Region name    : AVPanScan
+	Region type    : struct
+	Offsets        : 9560-10178
+	Line numbers   : 235-262
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/defs.h:269: info: Metrics per 'AVCPBProperties' region
+	Region name    : AVCPBProperties
+	Region type    : struct
+	Offsets        : 10191-11254
+	Line numbers   : 264-300
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/defs.h:318: info: Metrics per 'AVProducerReferenceTime' region
+	Region name    : AVProducerReferenceTime
+	Region type    : struct
+	Offsets        : 11632-12012
+	Line numbers   : 313-324
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/defs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/defs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.75
+	Minimum        : 4
+	Maximum        : 34
+	Total          : 51.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             6 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             7 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            34 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/mpeg12dec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1614
+	Line numbers   : 1-51
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/mpeg12dec.h:28: info: Metrics per 'decode_dc' region
+	Region name    : decode_dc
+	Region type    : function
+	Offsets        : 954-1319
+	Line numbers   : 28-43
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 15
+
+./libavcodec/mpeg12dec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mpeg12dec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 4
+	Maximum        : 15
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/xvmc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6136
+	Line numbers   : 1-172
+	Modified       : None
+	std.code.lines:code: 1
+
+./libavcodec/xvmc.h:45: info: Metrics per 'MCo' region
+	Region name    : MCo
+	Region type    : function
+	Offsets        : 1215-6090
+	Line numbers   : 44-165
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 18
+
+./libavcodec/xvmc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/xvmc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 1
+	Maximum        : 18
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            18 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mpeg4videodec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3668
+	Line numbers   : 1-110
+	Modified       : None
+	std.code.lines:code: 16
+
+./libavcodec/mpeg4videodec.h:33: info: Metrics per 'Mpeg4DecContext' region
+	Region name    : Mpeg4DecContext
+	Region type    : struct
+	Offsets        : 1071-2684
+	Line numbers   : 33-90
+	Modified       : None
+	std.code.lines:code: 36
+
+./libavcodec/mpeg4videodec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/mpeg4videodec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 26.0
+	Minimum        : 16
+	Maximum        : 36
+	Total          : 52.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            16 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            36 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/xface.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3185
+	Line numbers   : 1-102
+	Modified       : None
+	std.code.lines:code: 9
+
+./libavcodec/xface.h:61: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1901-2079
+	Line numbers   : 59-64
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/xface.h:90: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2693-2964
+	Line numbers   : 87-93
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/xface.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/xface.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.66666667
+	Minimum        : 4
+	Maximum        : 9
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/to_upper4.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1251
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/to_upper4.h:29: info: Metrics per 'ff_toupper4' region
+	Region name    : ff_toupper4
+	Region type    : function
+	Offsets        : 1018-1242
+	Line numbers   : 29-35
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./libavcodec/to_upper4.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/to_upper4.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 0
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/proresdec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1999
+	Line numbers   : 1-64
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/proresdec.h:34: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1059-1200
+	Line numbers   : 34-41
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/proresdec.h:43: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 1216-1949
+	Line numbers   : 43-61
+	Modified       : None
+	std.code.lines:code: 19
+
+./libavcodec/proresdec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/proresdec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.66666667
+	Minimum        : 2
+	Maximum        : 19
+	Total          : 29.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            19 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/aaccoder_trellis.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7215
+	Line numbers   : 1-193
+	Modified       : None
+	std.code.lines:code: 1
+
+./libavcodec/aaccoder_trellis.h:52: info: Metrics per 'TrellisBandCodingPath' region
+	Region name    : TrellisBandCodingPath
+	Region type    : struct
+	Offsets        : 1569-1766
+	Line numbers   : 49-56
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/aaccoder_trellis.h:59: info: Metrics per 'codebook_trellis_rate' region
+	Region name    : codebook_trellis_rate
+	Region type    : function
+	Offsets        : 1792-7172
+	Line numbers   : 59-189
+	Modified       : None
+	std.code.complexity:cyclomatic: 21
+	std.code.lines:code: 126
+
+./libavcodec/aaccoder_trellis.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 21.0
+	Minimum        : 21
+	Maximum        : 21
+	Total          : 21.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            21 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/aaccoder_trellis.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 44.0
+	Minimum        : 1
+	Maximum        : 126
+	Total          : 132.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	           126 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/dvdsub.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-931
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 1
+
+./libavcodec/dvdsub.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/dvdsub.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/vc1data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4749
+	Line numbers   : 1-135
+	Modified       : None
+	std.code.lines:code: 41
+
+./libavcodec/vc1data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/vc1data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 41.0
+	Minimum        : 41
+	Maximum        : 41
+	Total          : 41.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            41 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/ilbcdata.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12823
+	Line numbers   : 1-240
+	Modified       : None
+	std.code.lines:code: 181
+
+./libavcodec/ilbcdata.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/ilbcdata.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 181.0
+	Minimum        : 181
+	Maximum        : 181
+	Total          : 181.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           181 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/ratecontrol.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2978
+	Line numbers   : 1-97
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/ratecontrol.h:35: info: Metrics per 'Predictor' region
+	Region name    : Predictor
+	Region type    : struct
+	Offsets        : 1049-1130
+	Line numbers   : 35-39
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/ratecontrol.h:41: info: Metrics per 'RateControlEntry' region
+	Region name    : RateControlEntry
+	Region type    : struct
+	Offsets        : 1143-1504
+	Line numbers   : 41-58
+	Modified       : None
+	std.code.lines:code: 18
+
+./libavcodec/ratecontrol.h:63: info: Metrics per 'RateControlContext' region
+	Region name    : RateControlContext
+	Region type    : struct
+	Offsets        : 1523-2536
+	Line numbers   : 60-84
+	Modified       : None
+	std.code.lines:code: 21
+
+./libavcodec/ratecontrol.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/ratecontrol.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.5
+	Minimum        : 5
+	Maximum        : 21
+	Total          : 54.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	            10 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            18 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            21 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/codec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-13460
+	Line numbers   : 1-379
+	Modified       : None
+	std.code.lines:code: 18
+
+./libavcodec/codec.h:179: info: Metrics per 'AVProfile' region
+	Region name    : AVProfile
+	Region type    : struct
+	Offsets        : 6232-6353
+	Line numbers   : 176-182
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/codec.h:187: info: Metrics per 'AVCodec' region
+	Region name    : AVCodec
+	Region type    : struct
+	Offsets        : 6366-8826
+	Line numbers   : 184-238
+	Modified       : None
+	std.code.lines:code: 18
+
+./libavcodec/codec.h:341: info: Metrics per 'AVCodecHWConfig' region
+	Region name    : AVCodecHWConfig
+	Region type    : struct
+	Offsets        : 12207-13029
+	Line numbers   : 341-363
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/codec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/codec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.25
+	Minimum        : 4
+	Maximum        : 18
+	Total          : 45.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            18 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mlp_parse.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5212
+	Line numbers   : 1-131
+	Modified       : None
+	std.code.lines:code: 20
+
+./libavcodec/mlp_parse.h:30: info: Metrics per 'MLPHeaderInfo' region
+	Region name    : MLPHeaderInfo
+	Region type    : struct
+	Offsets        : 943-3241
+	Line numbers   : 30-64
+	Modified       : None
+	std.code.lines:code: 26
+
+./libavcodec/mlp_parse.h:87: info: Metrics per 'mlp_samplerate' region
+	Region name    : mlp_samplerate
+	Region type    : function
+	Offsets        : 4356-4488
+	Line numbers   : 87-93
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 6
+
+./libavcodec/mlp_parse.h:95: info: Metrics per 'truehd_channels' region
+	Region name    : truehd_channels
+	Region type    : function
+	Offsets        : 4490-4678
+	Line numbers   : 95-103
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./libavcodec/mlp_parse.h:105: info: Metrics per 'truehd_layout' region
+	Region name    : truehd_layout
+	Region type    : function
+	Offsets        : 4680-4875
+	Line numbers   : 105-114
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./libavcodec/mlp_parse.h:116: info: Metrics per 'layout_truehd' region
+	Region name    : layout_truehd
+	Region type    : function
+	Offsets        : 4877-5099
+	Line numbers   : 116-126
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./libavcodec/mlp_parse.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.5
+	Minimum        : 1
+	Maximum        : 2
+	Total          : 6.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mlp_parse.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.66666667
+	Minimum        : 6
+	Maximum        : 26
+	Total          : 76.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.167 : 0.167 : 1	||||||||||||||||
+	             7 : 0.167 : 0.333 : 1	||||||||||||||||
+	             8 : 0.167 : 0.500 : 1	||||||||||||||||
+	             9 : 0.167 : 0.667 : 1	||||||||||||||||
+	            20 : 0.167 : 0.833 : 1	||||||||||||||||
+	            26 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./libavcodec/audio_frame_queue.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2506
+	Line numbers   : 1-84
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/audio_frame_queue.h:27: info: Metrics per 'AudioFrame' region
+	Region name    : AudioFrame
+	Region type    : struct
+	Offsets        : 920-984
+	Line numbers   : 27-30
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/audio_frame_queue.h:32: info: Metrics per 'AudioFrameQueue' region
+	Region name    : AudioFrameQueue
+	Region type    : struct
+	Offsets        : 998-1187
+	Line numbers   : 32-39
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/audio_frame_queue.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/audio_frame_queue.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 4
+	Maximum        : 8
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/cfhddsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1709
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/cfhddsp.h:25: info: Metrics per 'CFHDDSPContext' region
+	Region name    : CFHDDSPContext
+	Region type    : struct
+	Offsets        : 858-1526
+	Line numbers   : 25-38
+	Modified       : None
+	std.code.lines:code: 12
+
+./libavcodec/cfhddsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/cfhddsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 3
+	Maximum        : 12
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/rv34dsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3515
+	Line numbers   : 1-89
+	Modified       : None
+	std.code.lines:code: 30
+
+./libavcodec/rv34dsp.h:57: info: Metrics per 'RV34DSPContext' region
+	Region name    : RV34DSPContext
+	Region type    : struct
+	Offsets        : 2298-3111
+	Line numbers   : 57-75
+	Modified       : None
+	std.code.lines:code: 14
+
+./libavcodec/rv34dsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/rv34dsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.0
+	Minimum        : 14
+	Maximum        : 30
+	Total          : 44.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            30 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/sbr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7798
+	Line numbers   : 1-223
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/sbr.h:45: info: Metrics per 'SpectrumParameters' region
+	Region name    : SpectrumParameters
+	Region type    : struct
+	Offsets        : 1274-1699
+	Line numbers   : 42-58
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/sbr.h:65: info: Metrics per 'SBRData' region
+	Region name    : SBRData
+	Region type    : struct
+	Offsets        : 1768-3592
+	Line numbers   : 62-116
+	Modified       : None
+	std.code.lines:code: 32
+
+./libavcodec/sbr.h:123: info: Metrics per 'AACSBRContext' region
+	Region name    : AACSBRContext
+	Region type    : struct
+	Offsets        : 3668-4587
+	Line numbers   : 120-137
+	Modified       : None
+	std.code.lines:code: 15
+
+./libavcodec/sbr.h:142: info: Metrics per 'SpectralBandReplication' region
+	Region name    : SpectralBandReplication
+	Region type    : struct
+	Offsets        : 4604-7768
+	Line numbers   : 139-220
+	Modified       : None
+	std.code.lines:code: 51
+
+./libavcodec/sbr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/sbr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.4
+	Minimum        : 6
+	Maximum        : 51
+	Total          : 112.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             8 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            15 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            32 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            51 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./libavcodec/vp5data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10165
+	Line numbers   : 1-178
+	Modified       : None
+	std.code.lines:code: 139
+
+./libavcodec/vp5data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/vp5data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 139.0
+	Minimum        : 139
+	Maximum        : 139
+	Total          : 139.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           139 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/ac3tab.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2688
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 27
+
+./libavcodec/ac3tab.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/ac3tab.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.0
+	Minimum        : 27
+	Maximum        : 27
+	Total          : 27.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            27 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/wma_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1021
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/wma_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/wma_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/rv34.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6105
+	Line numbers   : 1-145
+	Modified       : None
+	std.code.lines:code: 24
+
+./libavcodec/rv34.h:65: info: Metrics per 'RV34VLC' region
+	Region name    : RV34VLC
+	Region type    : struct
+	Offsets        : 2262-2966
+	Line numbers   : 60-72
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/rv34.h:75: info: Metrics per 'SliceInfo' region
+	Region name    : SliceInfo
+	Region type    : struct
+	Offsets        : 2976-3423
+	Line numbers   : 74-83
+	Modified       : None
+	std.code.lines:code: 9
+
+./libavcodec/rv34.h:86: info: Metrics per 'RV34DecContext' region
+	Region name    : RV34DecContext
+	Region type    : struct
+	Offsets        : 3435-5653
+	Line numbers   : 85-132
+	Modified       : None
+	std.code.lines:code: 36
+
+./libavcodec/rv34.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/rv34.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.25
+	Minimum        : 8
+	Maximum        : 36
+	Total          : 77.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             9 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            24 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            36 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/h263.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1325
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/h263.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/h263.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/jacosub.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1229
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/jacosub.h:33: info: Metrics per 'jss_whitespace' region
+	Region name    : jss_whitespace
+	Region type    : function
+	Offsets        : 959-1062
+	Line numbers   : 33-36
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 4
+
+./libavcodec/jacosub.h:38: info: Metrics per 'jss_skip_whitespace' region
+	Region name    : jss_skip_whitespace
+	Region type    : function
+	Offsets        : 1064-1196
+	Line numbers   : 38-43
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./libavcodec/jacosub.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.5
+	Minimum        : 1
+	Maximum        : 2
+	Total          : 3.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/jacosub.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.33333333
+	Minimum        : 0
+	Maximum        : 6
+	Total          : 10.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/amfenc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5634
+	Line numbers   : 1-183
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/amfenc.h:40: info: Metrics per 'AmfTraceWriter' region
+	Region name    : AmfTraceWriter
+	Region type    : struct
+	Offsets        : 1146-1240
+	Line numbers   : 40-43
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/amfenc.h:49: info: Metrics per 'AmfContext' region
+	Region name    : AmfContext
+	Region type    : struct
+	Offsets        : 1288-4917
+	Line numbers   : 49-150
+	Modified       : None
+	std.code.lines:code: 74
+
+./libavcodec/amfenc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/amfenc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 28.33333333
+	Minimum        : 4
+	Maximum        : 74
+	Total          : 85.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            74 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/jni.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1650
+	Line numbers   : 1-47
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/jni.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/jni.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mpc7data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6746
+	Line numbers   : 1-136
+	Modified       : None
+	std.code.lines:code: 80
+
+./libavcodec/mpc7data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/mpc7data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 80.0
+	Minimum        : 80
+	Maximum        : 80
+	Total          : 80.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            80 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/ttadata.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1511
+	Line numbers   : 1-51
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/ttadata.h:27: info: Metrics per 'TTAFilter' region
+	Region name    : TTAFilter
+	Region type    : struct
+	Offsets        : 879-1042
+	Line numbers   : 26-32
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/ttadata.h:34: info: Metrics per 'TTARice' region
+	Region name    : TTARice
+	Region type    : struct
+	Offsets        : 1055-1114
+	Line numbers   : 34-36
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/ttadata.h:38: info: Metrics per 'TTAChannel' region
+	Region name    : TTAChannel
+	Region type    : struct
+	Offsets        : 1125-1217
+	Line numbers   : 38-42
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/ttadata.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/ttadata.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 22.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             6 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	             8 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/h261.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1543
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/h261.h:37: info: Metrics per 'H261Context' region
+	Region name    : H261Context
+	Region type    : struct
+	Offsets        : 1007-1075
+	Line numbers   : 34-39
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/h261.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/h261.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.5
+	Minimum        : 3
+	Maximum        : 10
+	Total          : 13.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/av1_parse.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4785
+	Line numbers   : 1-185
+	Modified       : None
+	std.code.lines:code: 9
+
+./libavcodec/av1_parse.h:37: info: Metrics per 'AV1OBU' region
+	Region name    : AV1OBU
+	Region type    : struct
+	Offsets        : 1101-1485
+	Line numbers   : 37-56
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/av1_parse.h:59: info: Metrics per 'AV1Packet' region
+	Region name    : AV1Packet
+	Region type    : struct
+	Offsets        : 1495-1655
+	Line numbers   : 58-64
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/av1_parse.h:91: info: Metrics per 'leb128' region
+	Region name    : leb128
+	Region type    : function
+	Offsets        : 2440-2709
+	Line numbers   : 91-102
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 11
+
+./libavcodec/av1_parse.h:104: info: Metrics per 'parse_obu_header' region
+	Region name    : parse_obu_header
+	Region type    : function
+	Offsets        : 2711-3937
+	Line numbers   : 104-146
+	Modified       : None
+	std.code.complexity:cyclomatic: 6
+	std.code.lines:code: 33
+
+./libavcodec/av1_parse.h:148: info: Metrics per 'get_obu_bit_length' region
+	Region name    : get_obu_bit_length
+	Region type    : function
+	Offsets        : 3939-4623
+	Line numbers   : 148-179
+	Modified       : None
+	std.code.complexity:cyclomatic: 9
+	std.code.lines:code: 23
+
+./libavcodec/av1_parse.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 5.66666667
+	Minimum        : 2
+	Maximum        : 9
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/av1_parse.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.33333333
+	Minimum        : 6
+	Maximum        : 33
+	Total          : 92.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.167 : 0.167 : 1	||||||||||||||||
+	             9 : 0.167 : 0.333 : 1	||||||||||||||||
+	            10 : 0.167 : 0.500 : 1	||||||||||||||||
+	            11 : 0.167 : 0.667 : 1	||||||||||||||||
+	            23 : 0.167 : 0.833 : 1	||||||||||||||||
+	            33 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./libavcodec/qcelpdata.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-20329
+	Line numbers   : 1-553
+	Modified       : None
+	std.code.lines:code: 347
+
+./libavcodec/qcelpdata.h:40: info: Metrics per 'QCELPFrame' region
+	Region name    : QCELPFrame
+	Region type    : struct
+	Offsets        : 1163-2100
+	Line numbers   : 37-66
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/qcelpdata.h:76: info: Metrics per 'QCELPBitmap' region
+	Region name    : QCELPBitmap
+	Region type    : struct
+	Offsets        : 2352-2574
+	Line numbers   : 76-80
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/qcelpdata.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/qcelpdata.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 120.66666667
+	Minimum        : 5
+	Maximum        : 347
+	Total          : 362.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            10 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	           347 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/rv30data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5613
+	Line numbers   : 1-182
+	Modified       : None
+	std.code.lines:code: 120
+
+./libavcodec/rv30data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/rv30data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 120.0
+	Minimum        : 120
+	Maximum        : 120
+	Total          : 120.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           120 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/audiodsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2444
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/audiodsp.h:24: info: Metrics per 'AudioDSPContext' region
+	Region name    : AudioDSPContext
+	Region type    : struct
+	Offsets        : 840-2159
+	Line numbers   : 24-53
+	Modified       : None
+	std.code.lines:code: 14
+
+./libavcodec/audiodsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/audiodsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 6
+	Maximum        : 14
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/dca.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8833
+	Line numbers   : 1-227
+	Modified       : None
+	std.code.lines:code: 109
+
+./libavcodec/dca.h:50: info: Metrics per 'DCACoreFrameHeader' region
+	Region name    : DCACoreFrameHeader
+	Region type    : struct
+	Offsets        : 1577-3192
+	Line numbers   : 50-75
+	Modified       : None
+	std.code.lines:code: 26
+
+./libavcodec/dca.h:158: info: Metrics per 'ff_dca_count_chs_for_mask' region
+	Region name    : ff_dca_count_chs_for_mask
+	Region type    : function
+	Offsets        : 6791-6995
+	Line numbers   : 155-161
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/dca.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/dca.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 46.33333333
+	Minimum        : 4
+	Maximum        : 109
+	Total          : 139.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            26 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	           109 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/lzf.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1004
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 1
+
+./libavcodec/lzf.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/lzf.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/alacdsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1359
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/alacdsp.h:24: info: Metrics per 'ALACDSPContext' region
+	Region name    : ALACDSPContext
+	Region type    : struct
+	Offsets        : 838-1176
+	Line numbers   : 24-29
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/alacdsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/alacdsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 4
+	Maximum        : 6
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/hpeldsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4187
+	Line numbers   : 1-108
+	Modified       : None
+	std.code.lines:code: 14
+
+./libavcodec/hpeldsp.h:45: info: Metrics per 'HpelDSPContext' region
+	Region name    : HpelDSPContext
+	Region type    : struct
+	Offsets        : 1452-3679
+	Line numbers   : 42-95
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/hpeldsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/hpeldsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 6
+	Maximum        : 14
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/videotoolbox.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4677
+	Line numbers   : 1-151
+	Modified       : None
+	std.code.lines:code: 9
+
+./libavcodec/videotoolbox.h:57: info: Metrics per 'AVVideotoolboxContext' region
+	Region name    : AVVideotoolboxContext
+	Region type    : struct
+	Offsets        : 1381-2608
+	Line numbers   : 51-88
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/videotoolbox.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/videotoolbox.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.5
+	Minimum        : 8
+	Maximum        : 9
+	Total          : 17.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/g729postfilter.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3914
+	Line numbers   : 1-118
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/g729postfilter.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/g729postfilter.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 7
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/aarch64/idct.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1108
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/aarch64/idct.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/aarch64/idct.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/aarch64/vp8dsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3440
+	Line numbers   : 1-76
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/aarch64/vp8dsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/aarch64/vp8dsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/aarch64/vp9dsp_init.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1064
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/aarch64/vp9dsp_init.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/aarch64/vp9dsp_init.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/aarch64/cabac.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5053
+	Line numbers   : 1-105
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/aarch64/cabac.h:30: info: Metrics per 'get_cabac_inline_aarch64' region
+	Region name    : get_cabac_inline_aarch64
+	Region type    : function
+	Offsets        : 967-4984
+	Line numbers   : 29-100
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 69
+
+./libavcodec/aarch64/cabac.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/aarch64/cabac.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 34.5
+	Minimum        : 0
+	Maximum        : 69
+	Total          : 69.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            69 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/vdpau_internal.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3706
+	Line numbers   : 1-135
+	Modified       : None
+	std.code.lines:code: 16
+
+./libavcodec/vdpau_internal.h:38: info: Metrics per 'ff_vdpau_get_surface_id' region
+	Region name    : ff_vdpau_get_surface_id
+	Region type    : function
+	Offsets        : 1177-1325
+	Line numbers   : 37-41
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./libavcodec/vdpau_internal.h:43: info: Metrics per 'VDPAUPictureInfo' region
+	Region name    : VDPAUPictureInfo
+	Region type    : struct
+	Offsets        : 1327-1926
+	Line numbers   : 43-63
+	Modified       : None
+	std.code.lines:code: 11
+
+./libavcodec/vdpau_internal.h:65: info: Metrics per 'VDPAUHWContext' region
+	Region name    : VDPAUHWContext
+	Region type    : struct
+	Offsets        : 1929-2094
+	Line numbers   : 65-71
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/vdpau_internal.h:73: info: Metrics per 'VDPAUContext' region
+	Region name    : VDPAUContext
+	Region type    : struct
+	Offsets        : 2112-2488
+	Line numbers   : 73-96
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/vdpau_internal.h:98: info: Metrics per 'vdpau_picture_context' region
+	Region name    : vdpau_picture_context
+	Region type    : struct
+	Offsets        : 2504-2934
+	Line numbers   : 98-118
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/vdpau_internal.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/vdpau_internal.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.66666667
+	Minimum        : 4
+	Maximum        : 16
+	Total          : 52.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	             6 : 0.167 : 0.333 : 1	||||||||||||||||
+	             7 : 0.167 : 0.500 : 1	||||||||||||||||
+	             8 : 0.167 : 0.667 : 1	||||||||||||||||
+	            11 : 0.167 : 0.833 : 1	||||||||||||||||
+	            16 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./libavcodec/x86/simple_idct.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2212
+	Line numbers   : 1-54
+	Modified       : None
+	std.code.lines:code: 19
+
+./libavcodec/x86/simple_idct.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/simple_idct.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 19
+	Maximum        : 19
+	Total          : 19.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            19 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/vc1dsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1036
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 2
+
+./libavcodec/x86/vc1dsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/vc1dsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/constants.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2272
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 40
+
+./libavcodec/x86/constants.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/constants.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 40.0
+	Minimum        : 40
+	Maximum        : 40
+	Total          : 40.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            40 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/vpx_arith.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1777
+	Line numbers   : 1-56
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/x86/vpx_arith.h:33: info: Metrics per 'vpx_rac_get_prob' region
+	Region name    : vpx_rac_get_prob
+	Region type    : function
+	Offsets        : 1105-1731
+	Line numbers   : 32-52
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 18
+
+./libavcodec/x86/vpx_arith.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/vpx_arith.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 0
+	Maximum        : 18
+	Total          : 18.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            18 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/idctdsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1292
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/x86/idctdsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/idctdsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/mathops.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3806
+	Line numbers   : 1-154
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/x86/mathops.h:35: info: Metrics per 'MULL' region
+	Region name    : MULL
+	Region type    : function
+	Offsets        : 1042-1585
+	Line numbers   : 34-53
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 19
+
+./libavcodec/x86/mathops.h:56: info: Metrics per 'MULH' region
+	Region name    : MULH
+	Region type    : function
+	Offsets        : 1587-1794
+	Line numbers   : 55-65
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 10
+
+./libavcodec/x86/mathops.h:68: info: Metrics per 'MUL64' region
+	Region name    : MUL64
+	Region type    : function
+	Offsets        : 1796-1994
+	Line numbers   : 67-77
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 10
+
+./libavcodec/x86/mathops.h:84: info: Metrics per 'mid_pred' region
+	Region name    : mid_pred
+	Region type    : function
+	Offsets        : 2022-2443
+	Line numbers   : 81-99
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 16
+
+./libavcodec/x86/mathops.h:123: info: Metrics per 'NEG_SSR32' region
+	Region name    : NEG_SSR32
+	Region type    : function
+	Offsets        : 3007-3403
+	Line numbers   : 121-135
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 13
+
+./libavcodec/x86/mathops.h:138: info: Metrics per 'NEG_USR32' region
+	Region name    : NEG_USR32
+	Region type    : function
+	Offsets        : 3405-3740
+	Line numbers   : 137-150
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 13
+
+./libavcodec/x86/mathops.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.5
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 3.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.500 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/mathops.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.57142857
+	Minimum        : 0
+	Maximum        : 19
+	Total          : 81.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.143 : 0.143 : 1	||||||||||||||
+	            10 : 0.286 : 0.429 : 2	||||||||||||||||||||||||||||
+	            13 : 0.286 : 0.714 : 2	||||||||||||||||||||||||||||
+	            16 : 0.143 : 0.857 : 1	||||||||||||||
+	            19 : 0.143 : 1.000 : 1	||||||||||||||
+
+./libavcodec/x86/inline_asm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4704
+	Line numbers   : 1-101
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/x86/inline_asm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/inline_asm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/fdct.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-908
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 1
+
+./libavcodec/x86/fdct.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/fdct.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/xvididct.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1181
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/x86/xvididct.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/xvididct.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/fpel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2202
+	Line numbers   : 1-50
+	Modified       : None
+	std.code.lines:code: 22
+
+./libavcodec/x86/fpel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/fpel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.0
+	Minimum        : 22
+	Maximum        : 22
+	Total          : 22.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            22 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/vp9dsp_init.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9272
+	Line numbers   : 1-193
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/x86/vp9dsp_init.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/vp9dsp_init.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/hpeldsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2304
+	Line numbers   : 1-52
+	Modified       : None
+	std.code.lines:code: 22
+
+./libavcodec/x86/hpeldsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/hpeldsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.0
+	Minimum        : 22
+	Maximum        : 22
+	Total          : 22.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            22 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/cabac.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-14257
+	Line numbers   : 1-309
+	Modified       : None
+	std.code.lines:code: 0
+
+./libavcodec/x86/cabac.h:186: info: Metrics per 'get_cabac_inline_x86' region
+	Region name    : get_cabac_inline_x86
+	Region type    : function
+	Offsets        : 9689-10888
+	Line numbers   : 178-216
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 30
+
+./libavcodec/x86/cabac.h:221: info: Metrics per 'get_cabac_bypass_sign_x86' region
+	Region name    : get_cabac_bypass_sign_x86
+	Region type    : function
+	Offsets        : 10934-12677
+	Line numbers   : 219-264
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 40
+
+./libavcodec/x86/cabac.h:267: info: Metrics per 'get_cabac_bypass_x86' region
+	Region name    : get_cabac_bypass_x86
+	Region type    : function
+	Offsets        : 12679-14163
+	Line numbers   : 266-304
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 37
+
+./libavcodec/x86/cabac.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/x86/cabac.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 26.75
+	Minimum        : 0
+	Maximum        : 40
+	Total          : 107.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	            30 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            37 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            40 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./libavcodec/x86/hevcdsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-14663
+	Line numbers   : 1-267
+	Modified       : None
+	std.code.lines:code: 129
+
+./libavcodec/x86/hevcdsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/x86/hevcdsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 129.0
+	Minimum        : 129
+	Maximum        : 129
+	Total          : 129.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           129 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/vc1_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2487
+	Line numbers   : 1-91
+	Modified       : None
+	std.code.lines:code: 15
+
+./libavcodec/vc1_common.h:59: info: Metrics per 'find_next_marker' region
+	Region name    : find_next_marker
+	Region type    : function
+	Offsets        : 1528-1936
+	Line numbers   : 56-68
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 10
+
+./libavcodec/vc1_common.h:70: info: Metrics per 'vc1_unescape_buffer' region
+	Region name    : vc1_unescape_buffer
+	Region type    : function
+	Offsets        : 1938-2451
+	Line numbers   : 70-88
+	Modified       : None
+	std.code.complexity:cyclomatic: 9
+	std.code.lines:code: 18
+
+./libavcodec/vc1_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 5.5
+	Minimum        : 2
+	Maximum        : 9
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/vc1_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.33333333
+	Minimum        : 10
+	Maximum        : 18
+	Total          : 43.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            15 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            18 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./libavcodec/leaddata.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2483
+	Line numbers   : 1-63
+	Modified       : None
+	std.code.lines:code: 32
+
+./libavcodec/leaddata.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/leaddata.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 32.0
+	Minimum        : 32
+	Maximum        : 32
+	Total          : 32.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            32 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/huffyuvencdsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1592
+	Line numbers   : 1-41
+	Modified       : None
+	std.code.lines:code: 3
+
+./libavcodec/huffyuvencdsp.h:26: info: Metrics per 'HuffYUVEncDSPContext' region
+	Region name    : HuffYUVEncDSPContext
+	Region type    : struct
+	Offsets        : 881-1364
+	Line numbers   : 26-35
+	Modified       : None
+	std.code.lines:code: 12
+
+./libavcodec/huffyuvencdsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/huffyuvencdsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 3
+	Maximum        : 12
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/vp8data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-33036
+	Line numbers   : 1-807
+	Modified       : None
+	std.code.lines:code: 732
+
+./libavcodec/vp8data.h:61: info: Metrics per 'VP7MVPred' region
+	Region name    : VP7MVPred
+	Region type    : struct
+	Offsets        : 1847-1956
+	Line numbers   : 61-66
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/vp8data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/vp8data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 369.0
+	Minimum        : 6
+	Maximum        : 732
+	Total          : 738.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           732 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/truespeech_data.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5423
+	Line numbers   : 1-160
+	Modified       : None
+	std.code.lines:code: 105
+
+./libavcodec/truespeech_data.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/truespeech_data.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 105.0
+	Minimum        : 105
+	Maximum        : 105
+	Total          : 105.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           105 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/mpegaudiodsp.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3779
+	Line numbers   : 1-93
+	Modified       : None
+	std.code.lines:code: 36
+
+./libavcodec/mpegaudiodsp.h:27: info: Metrics per 'MPADSPContext' region
+	Region name    : MPADSPContext
+	Region type    : struct
+	Offsets        : 899-1688
+	Line numbers   : 27-41
+	Modified       : None
+	std.code.lines:code: 14
+
+./libavcodec/mpegaudiodsp.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/mpegaudiodsp.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 25.0
+	Minimum        : 14
+	Maximum        : 36
+	Total          : 50.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            36 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./libavcodec/cbs_h265.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-24208
+	Line numbers   : 1-698
+	Modified       : None
+	std.code.lines:code: 26
+
+./libavcodec/cbs_h265.h:29: info: Metrics per 'H265RawNALUnitHeader' region
+	Region name    : H265RawNALUnitHeader
+	Region type    : struct
+	Offsets        : 923-1050
+	Line numbers   : 29-33
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/cbs_h265.h:35: info: Metrics per 'H265RawProfileTierLevel' region
+	Region name    : H265RawProfileTierLevel
+	Region type    : struct
+	Offsets        : 1074-3494
+	Line numbers   : 35-90
+	Modified       : None
+	std.code.lines:code: 44
+
+./libavcodec/cbs_h265.h:92: info: Metrics per 'H265RawSubLayerHRDParameters' region
+	Region name    : H265RawSubLayerHRDParameters
+	Region type    : struct
+	Offsets        : 3521-3830
+	Line numbers   : 92-98
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/cbs_h265.h:100: info: Metrics per 'H265RawHRDParameters' region
+	Region name    : H265RawHRDParameters
+	Region type    : struct
+	Offsets        : 3862-4929
+	Line numbers   : 100-125
+	Modified       : None
+	std.code.lines:code: 22
+
+./libavcodec/cbs_h265.h:127: info: Metrics per 'H265RawVUI' region
+	Region name    : H265RawVUI
+	Region type    : struct
+	Offsets        : 4953-6562
+	Line numbers   : 127-175
+	Modified       : None
+	std.code.lines:code: 42
+
+./libavcodec/cbs_h265.h:177: info: Metrics per 'H265RawExtensionData' region
+	Region name    : H265RawExtensionData
+	Region type    : struct
+	Offsets        : 6576-6694
+	Line numbers   : 177-181
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/cbs_h265.h:183: info: Metrics per 'H265RawVPS' region
+	Region name    : H265RawVPS
+	Region type    : struct
+	Offsets        : 6718-7957
+	Line numbers   : 183-217
+	Modified       : None
+	std.code.lines:code: 28
+
+./libavcodec/cbs_h265.h:219: info: Metrics per 'H265RawSTRefPicSet' region
+	Region name    : H265RawSTRefPicSet
+	Region type    : struct
+	Offsets        : 7971-8510
+	Line numbers   : 219-235
+	Modified       : None
+	std.code.lines:code: 14
+
+./libavcodec/cbs_h265.h:237: info: Metrics per 'H265RawScalingList' region
+	Region name    : H265RawScalingList
+	Region type    : struct
+	Offsets        : 8532-8763
+	Line numbers   : 237-242
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/cbs_h265.h:244: info: Metrics per 'H265RawSPS' region
+	Region name    : H265RawSPS
+	Region type    : struct
+	Offsets        : 8785-12258
+	Line numbers   : 244-344
+	Modified       : None
+	std.code.lines:code: 76
+
+./libavcodec/cbs_h265.h:346: info: Metrics per 'H265RawPPS' region
+	Region name    : H265RawPPS
+	Region type    : struct
+	Offsets        : 12272-15287
+	Line numbers   : 346-435
+	Modified       : None
+	std.code.lines:code: 70
+
+./libavcodec/cbs_h265.h:437: info: Metrics per 'H265RawAUD' region
+	Region name    : H265RawAUD
+	Region type    : struct
+	Offsets        : 15301-15395
+	Line numbers   : 437-441
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_h265.h:443: info: Metrics per 'H265RawSliceHeader' region
+	Region name    : H265RawSliceHeader
+	Region type    : struct
+	Offsets        : 15409-18296
+	Line numbers   : 443-530
+	Modified       : None
+	std.code.lines:code: 70
+
+./libavcodec/cbs_h265.h:533: info: Metrics per 'H265RawSlice' region
+	Region name    : H265RawSlice
+	Region type    : struct
+	Offsets        : 18319-18493
+	Line numbers   : 533-540
+	Modified       : None
+	std.code.lines:code: 7
+
+./libavcodec/cbs_h265.h:543: info: Metrics per 'H265RawSEIBufferingPeriod' region
+	Region name    : H265RawSEIBufferingPeriod
+	Region type    : struct
+	Offsets        : 18510-19335
+	Line numbers   : 543-562
+	Modified       : None
+	std.code.lines:code: 17
+
+./libavcodec/cbs_h265.h:564: info: Metrics per 'H265RawSEIPicTiming' region
+	Region name    : H265RawSEIPicTiming
+	Region type    : struct
+	Offsets        : 19364-19886
+	Line numbers   : 564-578
+	Modified       : None
+	std.code.lines:code: 13
+
+./libavcodec/cbs_h265.h:580: info: Metrics per 'H265RawSEIPanScanRect' region
+	Region name    : H265RawSEIPanScanRect
+	Region type    : struct
+	Offsets        : 19909-20273
+	Line numbers   : 580-589
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/cbs_h265.h:591: info: Metrics per 'H265RawSEIRecoveryPoint' region
+	Region name    : H265RawSEIRecoveryPoint
+	Region type    : struct
+	Offsets        : 20298-20430
+	Line numbers   : 591-595
+	Modified       : None
+	std.code.lines:code: 5
+
+./libavcodec/cbs_h265.h:597: info: Metrics per 'H265RawFilmGrainCharacteristics' region
+	Region name    : H265RawFilmGrainCharacteristics
+	Region type    : struct
+	Offsets        : 20457-21388
+	Line numbers   : 597-616
+	Modified       : None
+	std.code.lines:code: 20
+
+./libavcodec/cbs_h265.h:618: info: Metrics per 'H265RawSEIDisplayOrientation' region
+	Region name    : H265RawSEIDisplayOrientation
+	Region type    : struct
+	Offsets        : 21423-21698
+	Line numbers   : 618-625
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/cbs_h265.h:627: info: Metrics per 'H265RawSEIActiveParameterSets' region
+	Region name    : H265RawSEIActiveParameterSets
+	Region type    : struct
+	Offsets        : 21730-22037
+	Line numbers   : 627-634
+	Modified       : None
+	std.code.lines:code: 8
+
+./libavcodec/cbs_h265.h:636: info: Metrics per 'H265RawSEIDecodedPictureHash' region
+	Region name    : H265RawSEIDecodedPictureHash
+	Region type    : struct
+	Offsets        : 22070-22237
+	Line numbers   : 636-641
+	Modified       : None
+	std.code.lines:code: 6
+
+./libavcodec/cbs_h265.h:643: info: Metrics per 'H265RawSEITimeCode' region
+	Region name    : H265RawSEITimeCode
+	Region type    : struct
+	Offsets        : 22269-22825
+	Line numbers   : 643-660
+	Modified       : None
+	std.code.lines:code: 18
+
+./libavcodec/cbs_h265.h:662: info: Metrics per 'H265RawSEIAlphaChannelInfo' region
+	Region name    : H265RawSEIAlphaChannelInfo
+	Region type    : struct
+	Offsets        : 22847-23203
+	Line numbers   : 662-671
+	Modified       : None
+	std.code.lines:code: 10
+
+./libavcodec/cbs_h265.h:673: info: Metrics per 'H265RawSEI' region
+	Region name    : H265RawSEI
+	Region type    : struct
+	Offsets        : 23233-23343
+	Line numbers   : 673-676
+	Modified       : None
+	std.code.lines:code: 4
+
+./libavcodec/cbs_h265.h:678: info: Metrics per 'CodedBitstreamH265Context' region
+	Region name    : CodedBitstreamH265Context
+	Region type    : struct
+	Offsets        : 23357-24146
+	Line numbers   : 678-694
+	Modified       : None
+	std.code.lines:code: 9
+
+./libavcodec/cbs_h265.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./libavcodec/cbs_h265.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 20.51851852
+	Minimum        : 4
+	Maximum        : 76
+	Total          : 554.0
+	Distribution   : 27 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.074 : 0.074 :  2	|||||||
+	             5 : 0.111 : 0.185 :  3	|||||||||||
+	             6 : 0.074 : 0.259 :  2	|||||||
+	             7 : 0.074 : 0.333 :  2	|||||||
+	             8 : 0.074 : 0.407 :  2	|||||||
+	             9 : 0.037 : 0.444 :  1	|||
+	            10 : 0.074 : 0.519 :  2	|||||||
+	            13 : 0.037 : 0.556 :  1	|||
+	            14 : 0.037 : 0.593 :  1	|||
+	            17 : 0.037 : 0.630 :  1	|||
+	            18 : 0.037 : 0.667 :  1	|||
+	            20 : 0.037 : 0.704 :  1	|||
+	            22 : 0.037 : 0.741 :  1	|||
+	            26 : 0.037 : 0.778 :  1	|||
+	            28 : 0.037 : 0.815 :  1	|||
+	            42 : 0.037 : 0.852 :  1	|||
+	            44 : 0.037 : 0.889 :  1	|||
+	            70 : 0.074 : 0.963 :  2	|||||||
+	            76 : 0.037 : 1.000 :  1	|||
+
+

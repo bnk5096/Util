@@ -1,0 +1,82 @@
+./:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 3.00300986
+	Minimum        : 0
+	Maximum        : 1134
+	Total          : 2201978.0
+	Distribution   : 733257 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.385 : 0.385 : 282294	||||||||||||||||||||||||||||||||||||||
+	             1 : 0.167 : 0.552 : 122282	||||||||||||||||
+	             2 : 0.117 : 0.669 :  85822	|||||||||||
+	             3 : 0.078 : 0.747 :  57529	|||||||
+	             4 : 0.056 : 0.803 :  41085	|||||
+	             5 : 0.039 : 0.843 :  28890	|||
+	             6 : 0.031 : 0.873 :  22511	|||
+	             7 : 0.023 : 0.896 :  16836	||
+	             8 : 0.018 : 0.914 :  13007	|
+	             9 : 0.014 : 0.928 :  10246	|
+	            10 : 0.011 : 0.939 :   8170	|
+	            11 : 0.009 : 0.948 :   6500	
+	            12 : 0.007 : 0.955 :   5282	
+	         13-14 : 0.011 : 0.966 :   8060	|
+	         15-16 : 0.008 : 0.974 :   5655	
+	         17-18 : 0.005 : 0.979 :   3960	
+	         19-21 : 0.006 : 0.985 :   4133	
+	         22-26 : 0.006 : 0.991 :   4085	
+	         27-35 : 0.005 : 0.995 :   3501	
+	       36-1134 : 0.005 : 1.000 :   3409	
+
+./:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.91289307
+	Minimum        : 0
+	Maximum        : 42319
+	Total          : 19143473.0
+	Distribution   : 1068698 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           0-2 : 0.055 : 0.055 :   59122	|||||
+	           3-4 : 0.148 : 0.204 :  158458	||||||||||||||
+	             5 : 0.078 : 0.282 :   83783	|||||||
+	             6 : 0.073 : 0.355 :   78160	|||||||
+	             7 : 0.062 : 0.417 :   65901	||||||
+	             8 : 0.055 : 0.472 :   59169	|||||
+	             9 : 0.045 : 0.517 :   47593	||||
+	            10 : 0.038 : 0.555 :   40980	|||
+	         11-12 : 0.064 : 0.619 :   68003	||||||
+	         13-14 : 0.050 : 0.669 :   53448	|||||
+	         15-16 : 0.041 : 0.710 :   44339	||||
+	         17-18 : 0.034 : 0.744 :   36539	|||
+	         19-21 : 0.041 : 0.786 :   44275	||||
+	         22-24 : 0.033 : 0.818 :   34817	|||
+	         25-28 : 0.034 : 0.852 :   36418	|||
+	         29-33 : 0.031 : 0.883 :   33095	|||
+	         34-40 : 0.030 : 0.914 :   32520	|||
+	         41-51 : 0.030 : 0.943 :   31584	||
+	         52-74 : 0.029 : 0.972 :   30810	||
+	      75-42319 : 0.028 : 1.000 :   29684	||
+
+./:: info: Directory content:
+	Directory      : Documentation
+	Directory      : arch
+	Directory      : block
+	Directory      : certs
+	Directory      : crypto
+	Directory      : drivers
+	Directory      : fs
+	Directory      : include
+	Directory      : init
+	Directory      : io_uring
+	Directory      : ipc
+	Directory      : kernel
+	Directory      : lib
+	Directory      : mm
+	Directory      : net
+	Directory      : rust
+	Directory      : samples
+	Directory      : scripts
+	Directory      : security
+	Directory      : sound
+	Directory      : tools
+	Directory      : usr
+	Directory      : virt
+
+

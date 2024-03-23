@@ -1,0 +1,73 @@
+./:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 4.94633253
+	Minimum        : 0
+	Maximum        : 362
+	Total          : 170139.0
+	Distribution   : 34397 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.389 : 0.389 : 13367	||||||||||||||||||||||||||||||||||||||
+	             1 : 0.127 : 0.515 :  4362	||||||||||||
+	             2 : 0.096 : 0.611 :  3291	|||||||||
+	             3 : 0.063 : 0.674 :  2170	||||||
+	             4 : 0.052 : 0.727 :  1802	|||||
+	             5 : 0.037 : 0.763 :  1259	|||
+	             6 : 0.031 : 0.794 :  1065	|||
+	             7 : 0.025 : 0.819 :   846	||
+	             8 : 0.021 : 0.840 :   720	||
+	             9 : 0.018 : 0.857 :   611	|
+	         10-11 : 0.028 : 0.885 :   948	||
+	         12-13 : 0.021 : 0.906 :   736	||
+	         14-15 : 0.014 : 0.921 :   493	|
+	         16-17 : 0.012 : 0.933 :   426	|
+	         18-20 : 0.015 : 0.948 :   502	|
+	         21-23 : 0.011 : 0.959 :   373	|
+	         24-28 : 0.012 : 0.970 :   401	|
+	         29-35 : 0.010 : 0.981 :   357	|
+	         36-51 : 0.010 : 0.990 :   337	
+	        52-362 : 0.010 : 1.000 :   331	
+
+./:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.5432006
+	Minimum        : 0
+	Maximum        : 13767
+	Total          : 1173120.0
+	Distribution   : 42592 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           0-1 : 0.136 : 0.136 :  5810	|||||||||||||
+	           2-3 : 0.057 : 0.193 :  2424	|||||
+	             4 : 0.047 : 0.240 :  1981	||||
+	           5-6 : 0.084 : 0.324 :  3590	||||||||
+	           7-8 : 0.073 : 0.397 :  3090	|||||||
+	          9-10 : 0.063 : 0.460 :  2679	||||||
+	         11-12 : 0.054 : 0.513 :  2285	|||||
+	         13-14 : 0.050 : 0.564 :  2146	|||||
+	         15-16 : 0.038 : 0.601 :  1604	|||
+	         17-19 : 0.046 : 0.648 :  1980	||||
+	         20-22 : 0.040 : 0.688 :  1709	||||
+	         23-26 : 0.041 : 0.729 :  1754	||||
+	         27-30 : 0.035 : 0.764 :  1489	|||
+	         31-35 : 0.035 : 0.799 :  1502	|||
+	         36-42 : 0.036 : 0.835 :  1541	|||
+	         43-50 : 0.034 : 0.869 :  1441	|||
+	         51-62 : 0.035 : 0.904 :  1471	|||
+	         63-80 : 0.033 : 0.936 :  1388	|||
+	        81-115 : 0.032 : 0.969 :  1369	|||
+	     116-13767 : 0.031 : 1.000 :  1339	|||
+
+./:: info: Directory content:
+	Directory      : compat
+	Directory      : doc
+	Directory      : ffbuild
+	Directory      : fftools
+	Directory      : libavcodec
+	Directory      : libavdevice
+	Directory      : libavfilter
+	Directory      : libavformat
+	Directory      : libavutil
+	Directory      : libpostproc
+	Directory      : libswresample
+	Directory      : libswscale
+	Directory      : tests
+	Directory      : tools
+
+

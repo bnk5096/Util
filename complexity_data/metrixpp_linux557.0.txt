@@ -1,0 +1,4050 @@
+./sound/soc/codecs/wm8955.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-25085
+	Line numbers   : 1-484
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8955.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8955.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wcd938x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-34654
+	Line numbers   : 1-719
+	Modified       : None
+	std.code.lines:code: 57
+
+./sound/soc/codecs/wcd938x.h:595: info: Metrics per 'wcd938x_sdw_ch_info' region
+	Region name    : wcd938x_sdw_ch_info
+	Region type    : struct
+	Offsets        : 31900-31968
+	Line numbers   : 595-598
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/wcd938x.h:654: info: Metrics per 'wcd938x_sdw_priv' region
+	Region name    : wcd938x_sdw_priv
+	Region type    : struct
+	Offsets        : 32849-33249
+	Line numbers   : 654-667
+	Modified       : None
+	std.code.lines:code: 14
+
+./sound/soc/codecs/wcd938x.h:686: info: Metrics per 'wcd938x_sdw_free' region
+	Region name    : wcd938x_sdw_free
+	Region type    : function
+	Offsets        : 33857-34022
+	Line numbers   : 686-691
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./sound/soc/codecs/wcd938x.h:693: info: Metrics per 'wcd938x_sdw_set_sdw_stream' region
+	Region name    : wcd938x_sdw_set_sdw_stream
+	Region type    : function
+	Offsets        : 34024-34197
+	Line numbers   : 693-698
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./sound/soc/codecs/wcd938x.h:700: info: Metrics per 'wcd938x_sdw_hw_params' region
+	Region name    : wcd938x_sdw_hw_params
+	Region type    : function
+	Offsets        : 34199-34404
+	Line numbers   : 700-706
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./sound/soc/codecs/wcd938x.h:708: info: Metrics per 'wcd938x_sdw_device_get' region
+	Region name    : wcd938x_sdw_device_get
+	Region type    : function
+	Offsets        : 34406-34499
+	Line numbers   : 708-711
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/codecs/wcd938x.h:713: info: Metrics per 'wcd938x_swr_get_current_bank' region
+	Region name    : wcd938x_swr_get_current_bank
+	Region type    : function
+	Offsets        : 34501-34586
+	Line numbers   : 713-716
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/codecs/wcd938x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 5	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wcd938x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.75
+	Minimum        : 4
+	Maximum        : 57
+	Total          : 102.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.375 : 0.375 : 3	|||||||||||||||||||||||||||||||||||||
+	             6 : 0.250 : 0.625 : 2	|||||||||||||||||||||||||
+	             7 : 0.125 : 0.750 : 1	||||||||||||
+	            14 : 0.125 : 0.875 : 1	||||||||||||
+	            57 : 0.125 : 1.000 : 1	||||||||||||
+
+./sound/soc/codecs/da732x_reg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-23221
+	Line numbers   : 1-652
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/da732x_reg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/da732x_reg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/madera.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15197
+	Line numbers   : 1-459
+	Modified       : None
+	std.code.lines:code: 106
+
+./sound/soc/codecs/madera.h:110: info: Metrics per 'madera_voice_trigger_info' region
+	Region name    : madera_voice_trigger_info
+	Region type    : struct
+	Offsets        : 3032-3137
+	Line numbers   : 110-113
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/madera.h:115: info: Metrics per 'madera_dai_priv' region
+	Region name    : madera_dai_priv
+	Region type    : struct
+	Offsets        : 3140-3223
+	Line numbers   : 115-118
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/madera.h:120: info: Metrics per 'madera_priv' region
+	Region name    : madera_priv
+	Region type    : struct
+	Offsets        : 3226-3767
+	Line numbers   : 120-146
+	Modified       : None
+	std.code.lines:code: 20
+
+./sound/soc/codecs/madera.h:148: info: Metrics per 'madera_fll_cfg' region
+	Region name    : madera_fll_cfg
+	Region type    : struct
+	Offsets        : 3770-3898
+	Line numbers   : 148-156
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/codecs/madera.h:158: info: Metrics per 'madera_fll' region
+	Region name    : madera_fll
+	Region type    : struct
+	Offsets        : 3901-4108
+	Line numbers   : 158-171
+	Modified       : None
+	std.code.lines:code: 11
+
+./sound/soc/codecs/madera.h:173: info: Metrics per 'madera_enum' region
+	Region name    : madera_enum
+	Region type    : struct
+	Offsets        : 4111-4172
+	Line numbers   : 173-176
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/madera.h:439: info: Metrics per 'madera_register_notifier' region
+	Region name    : madera_register_notifier
+	Region type    : function
+	Offsets        : 14541-14891
+	Line numbers   : 438-446
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./sound/soc/codecs/madera.h:449: info: Metrics per 'madera_unregister_notifier' region
+	Region name    : madera_unregister_notifier
+	Region type    : function
+	Offsets        : 14893-15188
+	Line numbers   : 448-456
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./sound/soc/codecs/madera.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/madera.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.11111111
+	Minimum        : 3
+	Maximum        : 106
+	Total          : 172.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.111 : 0.111 : 1	|||||||||||
+	             4 : 0.222 : 0.333 : 2	||||||||||||||||||||||
+	             7 : 0.111 : 0.444 : 1	|||||||||||
+	             8 : 0.111 : 0.556 : 1	|||||||||||
+	             9 : 0.111 : 0.667 : 1	|||||||||||
+	            11 : 0.111 : 0.778 : 1	|||||||||||
+	            20 : 0.111 : 0.889 : 1	|||||||||||
+	           106 : 0.111 : 1.000 : 1	|||||||||||
+
+./sound/soc/codecs/cs42l42.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2501
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 20
+
+./sound/soc/codecs/cs42l42.h:27: info: Metrics per 'cs42l42_private' region
+	Region name    : cs42l42_private
+	Region type    : struct
+	Offsets        : 677-1385
+	Line numbers   : 27-58
+	Modified       : None
+	std.code.lines:code: 32
+
+./sound/soc/codecs/cs42l42.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/cs42l42.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 26.0
+	Minimum        : 20
+	Maximum        : 32
+	Total          : 52.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            20 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            32 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/uda1380.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1825
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/uda1380.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/uda1380.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/max9860.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4102
+	Line numbers   : 1-155
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/max9860.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/max9860.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt5677-spi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-912
+	Line numbers   : 1-34
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/rt5677-spi.h:18: info: Metrics per 'rt5677_spi_read' region
+	Region name    : rt5677_spi_read
+	Region type    : function
+	Offsets        : 524-619
+	Line numbers   : 17-21
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/codecs/rt5677-spi.h:22: info: Metrics per 'rt5677_spi_write' region
+	Region name    : rt5677_spi_write
+	Region type    : function
+	Offsets        : 620-716
+	Line numbers   : 22-25
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/codecs/rt5677-spi.h:26: info: Metrics per 'rt5677_spi_write_firmware' region
+	Region name    : rt5677_spi_write_firmware
+	Region type    : function
+	Offsets        : 717-818
+	Line numbers   : 26-29
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/codecs/rt5677-spi.h:30: info: Metrics per 'rt5677_spi_hotword_detected' region
+	Region name    : rt5677_spi_hotword_detected
+	Region type    : function
+	Offsets        : 819-873
+	Line numbers   : 30-30
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 1
+
+./sound/soc/codecs/rt5677-spi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt5677-spi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.4
+	Minimum        : 1
+	Maximum        : 4
+	Total          : 17.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             4 : 0.800 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/cs42l56.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5510
+	Line numbers   : 1-174
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/cs42l56.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/cs42l56.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/max9867.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2013
+	Line numbers   : 1-68
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/max9867.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/max9867.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/lpass-macro-common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-597
+	Line numbers   : 1-23
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/lpass-macro-common.h:14: info: Metrics per 'lpass_macro' region
+	Region name    : lpass_macro
+	Region type    : struct
+	Offsets        : 366-441
+	Line numbers   : 14-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/lpass-macro-common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/lpass-macro-common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/88pm860x-codec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2835
+	Line numbers   : 1-94
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/88pm860x-codec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/88pm860x-codec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/tlv320aic3x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10104
+	Line numbers   : 1-345
+	Modified       : None
+	std.code.lines:code: 64
+
+./sound/soc/codecs/tlv320aic3x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/tlv320aic3x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 64.0
+	Minimum        : 64
+	Maximum        : 64
+	Total          : 64.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            64 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/hda.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-510
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/hda.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/hda.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/pcm3008.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-330
+	Line numbers   : 1-20
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/codecs/pcm3008.h:12: info: Metrics per 'pcm3008_setup_data' region
+	Region name    : pcm3008_setup_data
+	Region type    : struct
+	Offsets        : 211-320
+	Line numbers   : 12-17
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/pcm3008.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/pcm3008.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 1
+	Maximum        : 6
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/tas2562.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3044
+	Line numbers   : 1-91
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/tas2562.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/tas2562.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/nau8825.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-20059
+	Line numbers   : 1-539
+	Modified       : None
+	std.code.lines:code: 18
+
+./sound/soc/codecs/nau8825.h:495: info: Metrics per 'nau8825' region
+	Region name    : nau8825
+	Region type    : struct
+	Offsets        : 19057-19926
+	Line numbers   : 495-532
+	Modified       : None
+	std.code.lines:code: 38
+
+./sound/soc/codecs/nau8825.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/nau8825.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 28.0
+	Minimum        : 18
+	Maximum        : 38
+	Total          : 56.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            18 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            38 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8991.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-35053
+	Line numbers   : 1-816
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8991.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8991.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/pcm186x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9411
+	Line numbers   : 1-220
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/codecs/pcm186x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/pcm186x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8904.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-91655
+	Line numbers   : 1-1591
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8904.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8904.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/nau8824.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16490
+	Line numbers   : 1-478
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/codecs/nau8824.h:430: info: Metrics per 'nau8824' region
+	Region name    : nau8824
+	Region type    : struct
+	Offsets        : 15618-16081
+	Line numbers   : 430-451
+	Modified       : None
+	std.code.lines:code: 22
+
+./sound/soc/codecs/nau8824.h:453: info: Metrics per 'nau8824_fll' region
+	Region name    : nau8824_fll
+	Region type    : struct
+	Offsets        : 16084-16180
+	Line numbers   : 453-459
+	Modified       : None
+	std.code.lines:code: 7
+
+./sound/soc/codecs/nau8824.h:461: info: Metrics per 'nau8824_fll_attr' region
+	Region name    : nau8824_fll_attr
+	Region type    : struct
+	Offsets        : 16183-16250
+	Line numbers   : 461-464
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/nau8824.h:466: info: Metrics per 'nau8824_osr_attr' region
+	Region name    : nau8824_osr_attr
+	Region type    : struct
+	Offsets        : 16253-16322
+	Line numbers   : 466-469
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/nau8824.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/nau8824.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.4
+	Minimum        : 4
+	Maximum        : 22
+	Total          : 52.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.400 : 0.400 : 2	||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            15 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            22 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./sound/soc/codecs/hdac_hda.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-620
+	Line numbers   : 1-35
+	Modified       : None
+	std.code.lines:code: 13
+
+./sound/soc/codecs/hdac_hda.h:20: info: Metrics per 'hdac_hda_pcm' region
+	Region name    : hdac_hda_pcm
+	Region type    : struct
+	Offsets        : 321-393
+	Line numbers   : 20-23
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/hdac_hda.h:25: info: Metrics per 'hdac_hda_priv' region
+	Region name    : hdac_hda_priv
+	Region type    : struct
+	Offsets        : 396-531
+	Line numbers   : 25-30
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/hdac_hda.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/hdac_hda.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.66666667
+	Minimum        : 4
+	Maximum        : 13
+	Total          : 23.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            13 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt711-sdw.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5446
+	Line numbers   : 1-284
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/codecs/rt711-sdw.h:11: info: Metrics per 'reg_default' region
+	Region name    : reg_default
+	Region type    : struct
+	Offsets        : 201-5414
+	Line numbers   : 11-281
+	Modified       : None
+	std.code.lines:code: 271
+
+./sound/soc/codecs/rt711-sdw.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/rt711-sdw.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 136.0
+	Minimum        : 1
+	Maximum        : 271
+	Total          : 272.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           271 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8990.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-35250
+	Line numbers   : 1-822
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8990.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8990.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm5102.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-394
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm5102.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm5102.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/max98090.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-45978
+	Line numbers   : 1-1550
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/codecs/max98090.h:1512: info: Metrics per 'max98090_cdata' region
+	Region name    : max98090_cdata
+	Region type    : struct
+	Offsets        : 45168-45232
+	Line numbers   : 1512-1515
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/max98090.h:1517: info: Metrics per 'max98090_priv' region
+	Region name    : max98090_priv
+	Region type    : struct
+	Offsets        : 45235-45877
+	Line numbers   : 1517-1544
+	Modified       : None
+	std.code.lines:code: 28
+
+./sound/soc/codecs/max98090.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/max98090.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.33333333
+	Minimum        : 4
+	Maximum        : 28
+	Total          : 40.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            28 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt711.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8563
+	Line numbers   : 1-252
+	Modified       : None
+	std.code.lines:code: 19
+
+./sound/soc/codecs/rt711.h:13: info: Metrics per 'rt711_priv' region
+	Region name    : rt711_priv
+	Region type    : struct
+	Offsets        : 239-764
+	Line numbers   : 13-29
+	Modified       : None
+	std.code.lines:code: 17
+
+./sound/soc/codecs/rt711.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/rt711.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.0
+	Minimum        : 17
+	Maximum        : 19
+	Total          : 36.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            17 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/max98390.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-24936
+	Line numbers   : 1-668
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/codecs/max98390.h:656: info: Metrics per 'max98390_priv' region
+	Region name    : max98390_priv
+	Region type    : struct
+	Offsets        : 24669-24927
+	Line numbers   : 656-666
+	Modified       : None
+	std.code.lines:code: 11
+
+./sound/soc/codecs/max98390.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/max98390.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 1
+	Maximum        : 11
+	Total          : 12.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/es8316.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3324
+	Line numbers   : 1-136
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/es8316.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/es8316.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm5100.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-289053
+	Line numbers   : 1-5312
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/wm5100.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm5100.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/max98388.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7897
+	Line numbers   : 1-235
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/codecs/max98388.h:223: info: Metrics per 'max98388_priv' region
+	Region name    : max98388_priv
+	Region type    : struct
+	Offsets        : 7676-7887
+	Line numbers   : 223-232
+	Modified       : None
+	std.code.lines:code: 10
+
+./sound/soc/codecs/max98388.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/max98388.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 1
+	Maximum        : 10
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/da7219-aad.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7212
+	Line numbers   : 1-223
+	Modified       : None
+	std.code.lines:code: 12
+
+./sound/soc/codecs/da7219-aad.h:188: info: Metrics per 'da7219_aad_priv' region
+	Region name    : da7219_aad_priv
+	Region type    : struct
+	Offsets        : 6334-6730
+	Line numbers   : 187-206
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/codecs/da7219-aad.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/da7219-aad.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.5
+	Minimum        : 12
+	Maximum        : 15
+	Total          : 27.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/cs35l41.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1091
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/cs35l41.h:26: info: Metrics per 'cs35l41_private' region
+	Region name    : cs35l41_private
+	Region type    : struct
+	Offsets        : 613-919
+	Line numbers   : 26-36
+	Modified       : None
+	std.code.lines:code: 10
+
+./sound/soc/codecs/cs35l41.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/cs35l41.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 4
+	Maximum        : 10
+	Total          : 14.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8750.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1377
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8750.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8750.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8985.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-61914
+	Line numbers   : 1-1081
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/wm8985.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8985.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt5616.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-63879
+	Line numbers   : 1-1817
+	Modified       : None
+	std.code.lines:code: 18
+
+./sound/soc/codecs/rt5616.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/rt5616.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 18.0
+	Minimum        : 18
+	Maximum        : 18
+	Total          : 18.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            18 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/nau8810.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8174
+	Line numbers   : 1-287
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/nau8810.h:271: info: Metrics per 'nau8810_pll' region
+	Region name    : nau8810_pll
+	Region type    : struct
+	Offsets        : 7961-8047
+	Line numbers   : 271-276
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/nau8810.h:278: info: Metrics per 'nau8810' region
+	Region name    : nau8810
+	Region type    : struct
+	Offsets        : 8050-8164
+	Line numbers   : 278-284
+	Modified       : None
+	std.code.lines:code: 7
+
+./sound/soc/codecs/nau8810.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/nau8810.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 6
+	Maximum        : 7
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/adav80x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-721
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 22
+
+./sound/soc/codecs/adav80x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/adav80x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.0
+	Minimum        : 22
+	Maximum        : 22
+	Total          : 22.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            22 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/max98396.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-13435
+	Line numbers   : 1-328
+	Modified       : None
+	std.code.lines:code: 5
+
+./sound/soc/codecs/max98396.h:308: info: Metrics per 'max98396_priv' region
+	Region name    : max98396_priv
+	Region type    : struct
+	Offsets        : 12920-13426
+	Line numbers   : 308-326
+	Modified       : None
+	std.code.lines:code: 19
+
+./sound/soc/codecs/max98396.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/max98396.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 5
+	Maximum        : 19
+	Total          : 24.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/adau1372.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-453
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/adau1372.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/adau1372.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8753.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2816
+	Line numbers   : 1-111
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8753.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8753.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8400.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1890
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8400.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8400.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm8900.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1376
+	Line numbers   : 1-53
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm8900.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm8900.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/ad193x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3550
+	Line numbers   : 1-111
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/codecs/ad193x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/ad193x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt700.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5787
+	Line numbers   : 1-172
+	Modified       : None
+	std.code.lines:code: 12
+
+./sound/soc/codecs/rt700.h:13: info: Metrics per 'rt700_priv' region
+	Region name    : rt700_priv
+	Region type    : struct
+	Offsets        : 239-657
+	Line numbers   : 13-27
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/codecs/rt700.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/rt700.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.5
+	Minimum        : 12
+	Maximum        : 15
+	Total          : 27.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/tas2764.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3877
+	Line numbers   : 1-114
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/tas2764.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/tas2764.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/max98095.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-13041
+	Line numbers   : 1-319
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/codecs/max98095.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/max98095.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/pcm512x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9966
+	Line numbers   : 1-265
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/pcm512x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/pcm512x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/mt6660.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2226
+	Line numbers   : 1-78
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/codecs/mt6660.h:13: info: Metrics per 'mt6660_platform_data' region
+	Region name    : mt6660_platform_data
+	Region type    : struct
+	Offsets        : 190-339
+	Line numbers   : 12-18
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/mt6660.h:20: info: Metrics per 'mt6660_chip' region
+	Region name    : mt6660_chip
+	Region type    : struct
+	Offsets        : 342-548
+	Line numbers   : 20-28
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/codecs/mt6660.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/mt6660.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.66666667
+	Minimum        : 2
+	Maximum        : 9
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/cs42l73.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9153
+	Line numbers   : 1-213
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/cs42l73.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/cs42l73.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt711-sdca-sdw.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3569
+	Line numbers   : 1-100
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:14: info: Metrics per 'reg_default' region
+	Region name    : reg_default
+	Region type    : struct
+	Offsets        : 296-2050
+	Line numbers   : 14-69
+	Modified       : None
+	std.code.lines:code: 56
+
+./sound/soc/codecs/rt711-sdca-sdw.h:61: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 1235-1436
+	Line numbers   : 61-62
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:63: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 1441-1640
+	Line numbers   : 63-64
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:65: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 1645-1845
+	Line numbers   : 65-66
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:67: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 1850-2047
+	Line numbers   : 67-68
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:71: info: Metrics per 'reg_default' region
+	Region name    : reg_default
+	Region type    : struct
+	Offsets        : 2053-3532
+	Line numbers   : 71-97
+	Modified       : None
+	std.code.lines:code: 27
+
+./sound/soc/codecs/rt711-sdca-sdw.h:87: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 2478-2681
+	Line numbers   : 87-88
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:89: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 2686-2887
+	Line numbers   : 89-90
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:91: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 2892-3095
+	Line numbers   : 91-92
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:93: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 3100-3313
+	Line numbers   : 93-94
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:95: info: Metrics per 'SDW_SDCA_CTL' region
+	Region name    : SDW_SDCA_CTL
+	Region type    : function
+	Offsets        : 3318-3529
+	Line numbers   : 95-96
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 2
+
+./sound/soc/codecs/rt711-sdca-sdw.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 9	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt711-sdca-sdw.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.58333333
+	Minimum        : 2
+	Maximum        : 56
+	Total          : 103.0
+	Distribution   : 12 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.833 : 0.833 : 10	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	            27 : 0.083 : 0.917 :  1	||||||||
+	            56 : 0.083 : 1.000 :  1	||||||||
+
+./sound/soc/codecs/ab8500-codec.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-17991
+	Line numbers   : 1-588
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/ab8500-codec.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/ab8500-codec.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rt5514.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9619
+	Line numbers   : 1-287
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/codecs/rt5514.h:270: info: Metrics per 'rt5514_priv' region
+	Region name    : rt5514_priv
+	Region type    : struct
+	Offsets        : 9281-9590
+	Line numbers   : 270-284
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/codecs/rt5514.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/rt5514.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 9
+	Maximum        : 15
+	Total          : 24.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/ml26124.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4878
+	Line numbers   : 1-173
+	Modified       : None
+	std.code.lines:code: 7
+
+./sound/soc/codecs/ml26124.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/ml26124.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.0
+	Minimum        : 7
+	Maximum        : 7
+	Total          : 7.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/wm2000.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2350
+	Line numbers   : 1-72
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/wm2000.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/wm2000.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/adau-utils.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-206
+	Line numbers   : 1-9
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/codecs/adau-utils.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/adau-utils.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/cs35l34.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10931
+	Line numbers   : 1-266
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/cs35l34.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/cs35l34.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/aw88395/aw88395_reg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12512
+	Line numbers   : 1-387
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/aw88395/aw88395_reg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/aw88395/aw88395_reg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/aw88395/aw88395_device.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4389
+	Line numbers   : 1-193
+	Modified       : None
+	std.code.lines:code: 76
+
+./sound/soc/codecs/aw88395/aw88395_device.h:101: info: Metrics per 'aw_profctrl_desc' region
+	Region name    : aw_profctrl_desc
+	Region type    : struct
+	Offsets        : 2063-2114
+	Line numbers   : 101-103
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/aw88395/aw88395_device.h:105: info: Metrics per 'aw_volume_desc' region
+	Region name    : aw_volume_desc
+	Region type    : struct
+	Offsets        : 2117-2248
+	Line numbers   : 105-110
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/aw88395/aw88395_device.h:112: info: Metrics per 'aw_dsp_mem_desc' region
+	Region name    : aw_dsp_mem_desc
+	Region type    : struct
+	Offsets        : 2251-2398
+	Line numbers   : 112-117
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/aw88395/aw88395_device.h:119: info: Metrics per 'aw_vmax_desc' region
+	Region name    : aw_vmax_desc
+	Region type    : struct
+	Offsets        : 2401-2449
+	Line numbers   : 119-121
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/aw88395/aw88395_device.h:123: info: Metrics per 'aw_cali_delay_desc' region
+	Region name    : aw_cali_delay_desc
+	Region type    : struct
+	Offsets        : 2452-2502
+	Line numbers   : 123-125
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/aw88395/aw88395_device.h:127: info: Metrics per 'aw_cali_desc' region
+	Region name    : aw_cali_desc
+	Region type    : struct
+	Offsets        : 2505-2551
+	Line numbers   : 127-130
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/aw88395/aw88395_device.h:132: info: Metrics per 'aw_container' region
+	Region name    : aw_container
+	Region type    : struct
+	Offsets        : 2554-2599
+	Line numbers   : 132-135
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/aw88395/aw88395_device.h:137: info: Metrics per 'aw_device' region
+	Region name    : aw_device
+	Region type    : struct
+	Offsets        : 2602-3327
+	Line numbers   : 137-173
+	Modified       : None
+	std.code.lines:code: 29
+
+./sound/soc/codecs/aw88395/aw88395_device.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/aw88395/aw88395_device.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.88888889
+	Minimum        : 3
+	Maximum        : 76
+	Total          : 134.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 3	|||||||||||||||||||||||||||||||||
+	             4 : 0.222 : 0.556 : 2	||||||||||||||||||||||
+	             6 : 0.222 : 0.778 : 2	||||||||||||||||||||||
+	            29 : 0.111 : 0.889 : 1	|||||||||||
+	            76 : 0.111 : 1.000 : 1	|||||||||||
+
+./sound/soc/codecs/aw88395/aw88395_lib.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2202
+	Line numbers   : 1-93
+	Modified       : None
+	std.code.lines:code: 19
+
+./sound/soc/codecs/aw88395/aw88395_lib.h:57: info: Metrics per 'bin_header_info' region
+	Region name    : bin_header_info
+	Region type    : struct
+	Offsets        : 1400-1897
+	Line numbers   : 57-76
+	Modified       : None
+	std.code.lines:code: 19
+
+./sound/soc/codecs/aw88395/aw88395_lib.h:78: info: Metrics per 'bin_container' region
+	Region name    : bin_container
+	Region type    : struct
+	Offsets        : 1900-1966
+	Line numbers   : 78-81
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/aw88395/aw88395_lib.h:83: info: Metrics per 'aw_bin' region
+	Region name    : aw_bin
+	Region type    : struct
+	Offsets        : 1969-2192
+	Line numbers   : 83-90
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/codecs/aw88395/aw88395_lib.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/aw88395/aw88395_lib.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.5
+	Minimum        : 4
+	Maximum        : 19
+	Total          : 50.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             8 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2696
+	Line numbers   : 1-143
+	Modified       : None
+	std.code.lines:code: 55
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:75: info: Metrics per 'aw_cfg_hdr' region
+	Region name    : aw_cfg_hdr
+	Region type    : struct
+	Offsets        : 1600-1826
+	Line numbers   : 75-86
+	Modified       : None
+	std.code.lines:code: 12
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:88: info: Metrics per 'aw_cfg_dde' region
+	Region name    : aw_cfg_dde
+	Region type    : struct
+	Offsets        : 1829-2037
+	Line numbers   : 88-100
+	Modified       : None
+	std.code.lines:code: 13
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:102: info: Metrics per 'aw_cfg_dde_v1' region
+	Region name    : aw_cfg_dde_v1
+	Region type    : struct
+	Offsets        : 2040-2305
+	Line numbers   : 102-116
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:118: info: Metrics per 'aw_sec_data_desc' region
+	Region name    : aw_sec_data_desc
+	Region type    : struct
+	Offsets        : 2308-2356
+	Line numbers   : 118-121
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:123: info: Metrics per 'aw_prof_desc' region
+	Region name    : aw_prof_desc
+	Region type    : struct
+	Offsets        : 2359-2492
+	Line numbers   : 123-129
+	Modified       : None
+	std.code.lines:code: 7
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:131: info: Metrics per 'aw_all_prof_info' region
+	Region name    : aw_all_prof_info
+	Region type    : struct
+	Offsets        : 2495-2575
+	Line numbers   : 131-133
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:135: info: Metrics per 'aw_prof_info' region
+	Region name    : aw_prof_info
+	Region type    : struct
+	Offsets        : 2578-2686
+	Line numbers   : 135-140
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/aw88395/aw88395_data_type.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.375
+	Minimum        : 3
+	Maximum        : 55
+	Total          : 115.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.125 : 0.125 : 1	||||||||||||
+	             4 : 0.125 : 0.250 : 1	||||||||||||
+	             6 : 0.125 : 0.375 : 1	||||||||||||
+	             7 : 0.125 : 0.500 : 1	||||||||||||
+	            12 : 0.125 : 0.625 : 1	||||||||||||
+	            13 : 0.125 : 0.750 : 1	||||||||||||
+	            15 : 0.125 : 0.875 : 1	||||||||||||
+	            55 : 0.125 : 1.000 : 1	||||||||||||
+
+./sound/soc/codecs/aw88395/aw88395.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1217
+	Line numbers   : 1-59
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/codecs/aw88395/aw88395.h:49: info: Metrics per 'aw88395' region
+	Region name    : aw88395
+	Region type    : struct
+	Offsets        : 1025-1207
+	Line numbers   : 49-56
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/codecs/aw88395/aw88395.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/aw88395/aw88395.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.5
+	Minimum        : 8
+	Maximum        : 9
+	Total          : 17.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/sgtl5000.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-12592
+	Line numbers   : 1-409
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/codecs/sgtl5000.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/sgtl5000.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/src4xxx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3483
+	Line numbers   : 1-114
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/src4xxx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/src4xxx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/tas2770.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5548
+	Line numbers   : 1-146
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/codecs/tas2770.h:133: info: Metrics per 'tas2770_priv' region
+	Region name    : tas2770_priv
+	Region type    : struct
+	Offsets        : 5282-5520
+	Line numbers   : 133-143
+	Modified       : None
+	std.code.lines:code: 11
+
+./sound/soc/codecs/tas2770.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/tas2770.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 1
+	Maximum        : 11
+	Total          : 12.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/rl6347a.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-811
+	Line numbers   : 1-32
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/codecs/rl6347a.h:23: info: Metrics per 'rl6347a_priv' region
+	Region name    : rl6347a_priv
+	Region type    : struct
+	Offsets        : 550-630
+	Line numbers   : 23-26
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/codecs/rl6347a.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/rl6347a.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 3
+	Maximum        : 4
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             4 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/codecs/nau8821.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-22700
+	Line numbers   : 1-583
+	Modified       : None
+	std.code.lines:code: 11
+
+./sound/soc/codecs/nau8821.h:557: info: Metrics per 'nau8821' region
+	Region name    : nau8821
+	Region type    : struct
+	Offsets        : 22127-22571
+	Line numbers   : 557-577
+	Modified       : None
+	std.code.lines:code: 21
+
+./sound/soc/codecs/nau8821.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/codecs/nau8821.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 11
+	Maximum        : 21
+	Total          : 32.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            21 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/cirrus/ep93xx-pcm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-235
+	Line numbers   : 1-12
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/cirrus/ep93xx-pcm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/cirrus/ep93xx-pcm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_admaif.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6810
+	Line numbers   : 1-163
+	Modified       : None
+	std.code.lines:code: 12
+
+./sound/soc/tegra/tegra210_admaif.h:143: info: Metrics per 'tegra_admaif_soc_data' region
+	Region name    : tegra_admaif_soc_data
+	Region type    : struct
+	Offsets        : 6254-6504
+	Line numbers   : 143-151
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/tegra/tegra210_admaif.h:153: info: Metrics per 'tegra_admaif' region
+	Region name    : tegra_admaif
+	Region type    : struct
+	Offsets        : 6507-6800
+	Line numbers   : 153-160
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/tegra/tegra210_admaif.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_admaif.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.66666667
+	Minimum        : 8
+	Maximum        : 12
+	Total          : 29.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            12 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_sfc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2073
+	Line numbers   : 1-79
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra210_sfc.h:70: info: Metrics per 'tegra210_sfc' region
+	Region name    : tegra210_sfc
+	Region type    : struct
+	Offsets        : 1885-2063
+	Line numbers   : 70-76
+	Modified       : None
+	std.code.lines:code: 7
+
+./sound/soc/tegra/tegra210_sfc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_sfc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.5
+	Minimum        : 6
+	Maximum        : 7
+	Total          : 13.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_adx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2559
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/tegra/tegra210_adx.h:66: info: Metrics per 'tegra210_adx' region
+	Region name    : tegra210_adx
+	Region type    : struct
+	Offsets        : 2431-2549
+	Line numbers   : 66-70
+	Modified       : None
+	std.code.lines:code: 5
+
+./sound/soc/tegra/tegra210_adx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_adx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 1
+	Maximum        : 5
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra20_i2s.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7106
+	Line numbers   : 1-151
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/tegra/tegra20_i2s.h:141: info: Metrics per 'tegra20_i2s' region
+	Region name    : tegra20_i2s
+	Region type    : struct
+	Offsets        : 6859-7096
+	Line numbers   : 141-148
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/tegra/tegra20_i2s.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra20_i2s.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 1
+	Maximum        : 8
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra30_i2s.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10990
+	Line numbers   : 1-241
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/tegra/tegra30_i2s.h:217: info: Metrics per 'tegra30_i2s_soc_data' region
+	Region name    : tegra30_i2s_soc_data
+	Region type    : struct
+	Offsets        : 10289-10439
+	Line numbers   : 217-221
+	Modified       : None
+	std.code.lines:code: 5
+
+./sound/soc/tegra/tegra30_i2s.h:223: info: Metrics per 'tegra30_i2s' region
+	Region name    : tegra30_i2s
+	Region type    : struct
+	Offsets        : 10442-10980
+	Line numbers   : 223-238
+	Modified       : None
+	std.code.lines:code: 16
+
+./sound/soc/tegra/tegra30_i2s.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra30_i2s.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.66666667
+	Minimum        : 2
+	Maximum        : 16
+	Total          : 23.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra20_ac97.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3409
+	Line numbers   : 1-87
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/tegra/tegra20_ac97.h:77: info: Metrics per 'tegra20_ac97' region
+	Region name    : tegra20_ac97
+	Region type    : struct
+	Offsets        : 3135-3375
+	Line numbers   : 77-85
+	Modified       : None
+	std.code.lines:code: 9
+
+./sound/soc/tegra/tegra20_ac97.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra20_ac97.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 1
+	Maximum        : 9
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_ahub.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4154
+	Line numbers   : 1-130
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/tegra/tegra210_ahub.h:114: info: Metrics per 'tegra_ahub_soc_data' region
+	Region name    : tegra_ahub_soc_data
+	Region type    : struct
+	Offsets        : 3799-4033
+	Line numbers   : 114-121
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/tegra/tegra210_ahub.h:123: info: Metrics per 'tegra_ahub' region
+	Region name    : tegra_ahub
+	Region type    : struct
+	Offsets        : 4036-4144
+	Line numbers   : 123-127
+	Modified       : None
+	std.code.lines:code: 5
+
+./sound/soc/tegra/tegra210_ahub.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_ahub.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 2
+	Maximum        : 8
+	Total          : 15.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_mixer.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4103
+	Line numbers   : 1-101
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/tegra/tegra210_mixer.h:89: info: Metrics per 'tegra210_mixer_gain_params' region
+	Region name    : tegra210_mixer_gain_params
+	Region type    : struct
+	Offsets        : 3873-4001
+	Line numbers   : 89-93
+	Modified       : None
+	std.code.lines:code: 5
+
+./sound/soc/tegra/tegra210_mixer.h:95: info: Metrics per 'tegra210_mixer' region
+	Region name    : tegra210_mixer
+	Region type    : struct
+	Offsets        : 4004-4093
+	Line numbers   : 95-98
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/tegra/tegra210_mixer.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_mixer.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.66666667
+	Minimum        : 2
+	Maximum        : 5
+	Total          : 11.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_peq.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1871
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra210_peq.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_peq.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 6
+	Maximum        : 6
+	Total          : 6.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra_cif.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1945
+	Line numbers   : 1-66
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/tegra/tegra_cif.h:33: info: Metrics per 'tegra_cif_conf' region
+	Region name    : tegra_cif_conf
+	Region type    : struct
+	Offsets        : 873-1148
+	Line numbers   : 33-44
+	Modified       : None
+	std.code.lines:code: 12
+
+./sound/soc/tegra/tegra_cif.h:46: info: Metrics per 'tegra_set_cif' region
+	Region name    : tegra_set_cif
+	Region type    : function
+	Offsets        : 1151-1936
+	Line numbers   : 46-63
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 16
+
+./sound/soc/tegra/tegra_cif.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra_cif.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.66666667
+	Minimum        : 1
+	Maximum        : 16
+	Total          : 29.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            12 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra186_dspk.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1697
+	Line numbers   : 1-71
+	Modified       : None
+	std.code.lines:code: 16
+
+./sound/soc/tegra/tegra186_dspk.h:59: info: Metrics per 'tegra186_dspk' region
+	Region name    : tegra186_dspk
+	Region type    : struct
+	Offsets        : 1464-1687
+	Line numbers   : 59-68
+	Modified       : None
+	std.code.lines:code: 10
+
+./sound/soc/tegra/tegra186_dspk.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra186_dspk.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 10
+	Maximum        : 16
+	Total          : 26.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            16 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra30_ahub.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-24551
+	Line numbers   : 1-526
+	Modified       : None
+	std.code.lines:code: 57
+
+./sound/soc/tegra/tegra30_ahub.h:474: info: Metrics per 'tegra30_ahub_cif_conf' region
+	Region name    : tegra30_ahub_cif_conf
+	Region type    : struct
+	Offsets        : 22925-23244
+	Line numbers   : 474-486
+	Modified       : None
+	std.code.lines:code: 13
+
+./sound/soc/tegra/tegra30_ahub.h:493: info: Metrics per 'tegra30_ahub_soc_data' region
+	Region name    : tegra30_ahub_soc_data
+	Region type    : struct
+	Offsets        : 23468-24116
+	Line numbers   : 493-509
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra30_ahub.h:511: info: Metrics per 'tegra30_ahub' region
+	Region name    : tegra30_ahub
+	Region type    : struct
+	Offsets        : 24119-24541
+	Line numbers   : 511-523
+	Modified       : None
+	std.code.lines:code: 13
+
+./sound/soc/tegra/tegra30_ahub.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra30_ahub.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.25
+	Minimum        : 6
+	Maximum        : 57
+	Total          : 89.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	            13 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            57 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_mbdrc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-8378
+	Line numbers   : 1-216
+	Modified       : None
+	std.code.lines:code: 11
+
+./sound/soc/tegra/tegra210_mbdrc.h:180: info: Metrics per 'tegra210_mbdrc_band_params' region
+	Region name    : tegra210_mbdrc_band_params
+	Region type    : struct
+	Offsets        : 7304-7790
+	Line numbers   : 180-196
+	Modified       : None
+	std.code.lines:code: 16
+
+./sound/soc/tegra/tegra210_mbdrc.h:198: info: Metrics per 'tegra210_mbdrc_config' region
+	Region name    : tegra210_mbdrc_config
+	Region type    : struct
+	Offsets        : 7793-8174
+	Line numbers   : 198-209
+	Modified       : None
+	std.code.lines:code: 12
+
+./sound/soc/tegra/tegra210_mbdrc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_mbdrc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.0
+	Minimum        : 11
+	Maximum        : 16
+	Total          : 39.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            12 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra_pcm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1389
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 17
+
+./sound/soc/tegra/tegra_pcm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra_pcm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.0
+	Minimum        : 17
+	Maximum        : 17
+	Total          : 17.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            17 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra20_spdif.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-18070
+	Line numbers   : 1-458
+	Modified       : None
+	std.code.lines:code: 1
+
+./sound/soc/tegra/tegra20_spdif.h:449: info: Metrics per 'tegra20_spdif' region
+	Region name    : tegra20_spdif
+	Region type    : struct
+	Offsets        : 17847-18060
+	Line numbers   : 449-455
+	Modified       : None
+	std.code.lines:code: 7
+
+./sound/soc/tegra/tegra20_spdif.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra20_spdif.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 1
+	Maximum        : 7
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_mvc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3986
+	Line numbers   : 1-123
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra210_mvc.h:107: info: Metrics per 'tegra210_mvc_gain_params' region
+	Region name    : tegra210_mvc_gain_params
+	Region type    : struct
+	Offsets        : 3696-3832
+	Line numbers   : 107-113
+	Modified       : None
+	std.code.lines:code: 7
+
+./sound/soc/tegra/tegra210_mvc.h:115: info: Metrics per 'tegra210_mvc' region
+	Region name    : tegra210_mvc
+	Region type    : struct
+	Offsets        : 3835-3976
+	Line numbers   : 115-120
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra210_mvc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_mvc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 6
+	Maximum        : 7
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.667 : 0.667 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra186_asrc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4583
+	Line numbers   : 1-113
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/tegra/tegra186_asrc.h:98: info: Metrics per 'tegra186_asrc_lane' region
+	Region name    : tegra186_asrc_lane
+	Region type    : struct
+	Offsets        : 4270-4463
+	Line numbers   : 98-105
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/tegra/tegra186_asrc.h:107: info: Metrics per 'tegra186_asrc' region
+	Region name    : tegra186_asrc
+	Region type    : struct
+	Offsets        : 4466-4573
+	Line numbers   : 107-110
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/tegra/tegra186_asrc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra186_asrc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 2
+	Maximum        : 8
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_dmic.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2286
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/tegra/tegra210_dmic.h:71: info: Metrics per 'tegra210_dmic' region
+	Region name    : tegra210_dmic
+	Region type    : struct
+	Offsets        : 2050-2276
+	Line numbers   : 71-80
+	Modified       : None
+	std.code.lines:code: 10
+
+./sound/soc/tegra/tegra210_dmic.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_dmic.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.5
+	Minimum        : 10
+	Maximum        : 15
+	Total          : 25.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_ope.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2501
+	Line numbers   : 1-91
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/tegra/tegra210_ope.h:57: info: Metrics per 'tegra210_ope' region
+	Region name    : tegra210_ope
+	Region type    : struct
+	Offsets        : 1523-1774
+	Line numbers   : 57-64
+	Modified       : None
+	std.code.lines:code: 8
+
+./sound/soc/tegra/tegra210_ope.h:67: info: Metrics per 'tegra_soc_bytes' region
+	Region name    : tegra_soc_bytes
+	Region type    : struct
+	Offsets        : 1777-1953
+	Line numbers   : 66-70
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/tegra/tegra210_ope.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_ope.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 2
+	Maximum        : 8
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra_asoc_machine.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1281
+	Line numbers   : 1-52
+	Modified       : None
+	std.code.lines:code: 11
+
+./sound/soc/tegra/tegra_asoc_machine.h:14: info: Metrics per 'tegra_asoc_data' region
+	Region name    : tegra_asoc_data
+	Region type    : struct
+	Offsets        : 263-638
+	Line numbers   : 14-28
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/tegra/tegra_asoc_machine.h:30: info: Metrics per 'tegra_machine' region
+	Region name    : tegra_machine
+	Region type    : struct
+	Offsets        : 641-1148
+	Line numbers   : 30-46
+	Modified       : None
+	std.code.lines:code: 17
+
+./sound/soc/tegra/tegra_asoc_machine.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra_asoc_machine.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.33333333
+	Minimum        : 11
+	Maximum        : 17
+	Total          : 43.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            15 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            17 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_amx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3040
+	Line numbers   : 1-94
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra210_amx.h:81: info: Metrics per 'tegra210_amx_soc_data' region
+	Region name    : tegra210_amx_soc_data
+	Region type    : struct
+	Offsets        : 2768-2862
+	Line numbers   : 81-84
+	Modified       : None
+	std.code.lines:code: 4
+
+./sound/soc/tegra/tegra210_amx.h:86: info: Metrics per 'tegra210_amx' region
+	Region name    : tegra210_amx
+	Region type    : struct
+	Offsets        : 2865-3030
+	Line numbers   : 86-91
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra210_amx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_amx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.33333333
+	Minimum        : 4
+	Maximum        : 6
+	Total          : 16.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/tegra/tegra210_i2s.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3932
+	Line numbers   : 1-127
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/tegra/tegra210_i2s.h:111: info: Metrics per 'tegra210_i2s' region
+	Region name    : tegra210_i2s
+	Region type    : struct
+	Offsets        : 3578-3922
+	Line numbers   : 111-124
+	Modified       : None
+	std.code.lines:code: 14
+
+./sound/soc/tegra/tegra210_i2s.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/tegra/tegra210_i2s.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 6
+	Maximum        : 14
+	Total          : 20.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            14 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/spear/spdif_in_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1333
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/spear/spdif_in_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/spear/spdif_in_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/spear/spear_pcm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-331
+	Line numbers   : 1-14
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/spear/spear_pcm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/spear/spear_pcm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/spear/spdif_out_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2169
+	Line numbers   : 1-67
+	Modified       : None
+	std.code.lines:code: 0
+
+./sound/soc/spear/spdif_out_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/spear/spdif_out_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/sof/sof-acpi-dev.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-521
+	Line numbers   : 1-17
+	Modified       : None
+	std.code.lines:code: 3
+
+./sound/soc/sof/sof-acpi-dev.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/sof/sof-acpi-dev.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/sof/ipc3-priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2069
+	Line numbers   : 1-68
+	Modified       : None
+	std.code.lines:code: 13
+
+./sound/soc/sof/ipc3-priv.h:35: info: Metrics per 'sof_dtrace_host_init' region
+	Region name    : sof_dtrace_host_init
+	Region type    : function
+	Offsets        : 1252-1620
+	Line numbers   : 34-45
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 9
+
+./sound/soc/sof/ipc3-priv.h:47: info: Metrics per 'sof_dtrace_host_release' region
+	Region name    : sof_dtrace_host_release
+	Region type    : function
+	Offsets        : 1622-1833
+	Line numbers   : 47-55
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./sound/soc/sof/ipc3-priv.h:57: info: Metrics per 'sof_dtrace_host_trigger' region
+	Region name    : sof_dtrace_host_trigger
+	Region type    : function
+	Offsets        : 1835-2060
+	Line numbers   : 57-65
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./sound/soc/sof/ipc3-priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 3.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/sof/ipc3-priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 7
+	Maximum        : 13
+	Total          : 36.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            13 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./sound/soc/sof/ops.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-16659
+	Line numbers   : 1-641
+	Modified       : None
+	std.code.lines:code: 17
+
+./sound/soc/sof/ops.h:24: info: Metrics per 'sof_ops_init' region
+	Region name    : sof_ops_init
+	Region type    : function
+	Offsets        : 597-747
+	Line numbers   : 24-30
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:32: info: Metrics per 'sof_ops_free' region
+	Region name    : sof_ops_free
+	Region type    : function
+	Offsets        : 749-881
+	Line numbers   : 32-36
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 5
+
+./sound/soc/sof/ops.h:41: info: Metrics per 'snd_sof_probe_early' region
+	Region name    : snd_sof_probe_early
+	Region type    : function
+	Offsets        : 939-1105
+	Line numbers   : 40-47
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:49: info: Metrics per 'snd_sof_probe' region
+	Region name    : snd_sof_probe
+	Region type    : function
+	Offsets        : 1107-1204
+	Line numbers   : 49-52
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/sof/ops.h:54: info: Metrics per 'snd_sof_remove' region
+	Region name    : snd_sof_remove
+	Region type    : function
+	Offsets        : 1206-1328
+	Line numbers   : 54-58
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 5
+
+./sound/soc/sof/ops.h:60: info: Metrics per 'snd_sof_remove_late' region
+	Region name    : snd_sof_remove_late
+	Region type    : function
+	Offsets        : 1330-1467
+	Line numbers   : 60-64
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 5
+
+./sound/soc/sof/ops.h:66: info: Metrics per 'snd_sof_shutdown' region
+	Region name    : snd_sof_shutdown
+	Region type    : function
+	Offsets        : 1469-1615
+	Line numbers   : 66-72
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:80: info: Metrics per 'snd_sof_dsp_run' region
+	Region name    : snd_sof_dsp_run
+	Region type    : function
+	Offsets        : 1632-1837
+	Line numbers   : 76-83
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/sof/ops.h:85: info: Metrics per 'snd_sof_dsp_stall' region
+	Region name    : snd_sof_dsp_stall
+	Region type    : function
+	Offsets        : 1839-2015
+	Line numbers   : 85-91
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:93: info: Metrics per 'snd_sof_dsp_reset' region
+	Region name    : snd_sof_dsp_reset
+	Region type    : function
+	Offsets        : 2017-2158
+	Line numbers   : 93-99
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:102: info: Metrics per 'snd_sof_dsp_core_get' region
+	Region name    : snd_sof_dsp_core_get
+	Region type    : function
+	Offsets        : 2160-2927
+	Line numbers   : 101-134
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 22
+
+./sound/soc/sof/ops.h:136: info: Metrics per 'snd_sof_dsp_core_put' region
+	Region name    : snd_sof_dsp_core_put
+	Region type    : function
+	Offsets        : 2929-3565
+	Line numbers   : 136-163
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 19
+
+./sound/soc/sof/ops.h:166: info: Metrics per 'snd_sof_dsp_pre_fw_run' region
+	Region name    : snd_sof_dsp_pre_fw_run
+	Region type    : function
+	Offsets        : 3567-3746
+	Line numbers   : 165-172
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:174: info: Metrics per 'snd_sof_dsp_post_fw_run' region
+	Region name    : snd_sof_dsp_post_fw_run
+	Region type    : function
+	Offsets        : 3748-3907
+	Line numbers   : 174-180
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:183: info: Metrics per 'snd_sof_dsp_parse_platform_ext_manifest' region
+	Region name    : snd_sof_dsp_parse_platform_ext_manifest
+	Region type    : function
+	Offsets        : 3909-4221
+	Line numbers   : 182-190
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./sound/soc/sof/ops.h:203: info: Metrics per 'snd_sof_dsp_get_bar_index' region
+	Region name    : snd_sof_dsp_get_bar_index
+	Region type    : function
+	Offsets        : 4235-4693
+	Line numbers   : 194-209
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:211: info: Metrics per 'snd_sof_dsp_get_mailbox_offset' region
+	Region name    : snd_sof_dsp_get_mailbox_offset
+	Region type    : function
+	Offsets        : 4695-4943
+	Line numbers   : 211-218
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./sound/soc/sof/ops.h:220: info: Metrics per 'snd_sof_dsp_get_window_offset' region
+	Region name    : snd_sof_dsp_get_window_offset
+	Region type    : function
+	Offsets        : 4945-5208
+	Line numbers   : 220-228
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:230: info: Metrics per 'snd_sof_dsp_resume' region
+	Region name    : snd_sof_dsp_resume
+	Region type    : function
+	Offsets        : 5209-5376
+	Line numbers   : 229-236
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:238: info: Metrics per 'snd_sof_dsp_suspend' region
+	Region name    : snd_sof_dsp_suspend
+	Region type    : function
+	Offsets        : 5378-5567
+	Line numbers   : 238-245
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 7
+
+./sound/soc/sof/ops.h:247: info: Metrics per 'snd_sof_dsp_runtime_resume' region
+	Region name    : snd_sof_dsp_runtime_resume
+	Region type    : function
+	Offsets        : 5569-5737
+	Line numbers   : 247-253
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:255: info: Metrics per 'snd_sof_dsp_runtime_suspend' region
+	Region name    : snd_sof_dsp_runtime_suspend
+	Region type    : function
+	Offsets        : 5739-5910
+	Line numbers   : 255-261
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:263: info: Metrics per 'snd_sof_dsp_runtime_idle' region
+	Region name    : snd_sof_dsp_runtime_idle
+	Region type    : function
+	Offsets        : 5912-6074
+	Line numbers   : 263-269
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:271: info: Metrics per 'snd_sof_dsp_hw_params_upon_resume' region
+	Region name    : snd_sof_dsp_hw_params_upon_resume
+	Region type    : function
+	Offsets        : 6076-6272
+	Line numbers   : 271-276
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:278: info: Metrics per 'snd_sof_dsp_set_clk' region
+	Region name    : snd_sof_dsp_set_clk
+	Region type    : function
+	Offsets        : 6274-6437
+	Line numbers   : 278-284
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:287: info: Metrics per 'snd_sof_dsp_set_power_state' region
+	Region name    : snd_sof_dsp_set_power_state
+	Region type    : function
+	Offsets        : 6439-6779
+	Line numbers   : 286-300
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 11
+
+./sound/soc/sof/ops.h:305: info: Metrics per 'snd_sof_debugfs_add_region_item' region
+	Region name    : snd_sof_debugfs_add_region_item
+	Region type    : function
+	Offsets        : 6875-7263
+	Line numbers   : 305-314
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 9
+
+./sound/soc/sof/ops.h:317: info: Metrics per 'snd_sof_dsp_write8' region
+	Region name    : snd_sof_dsp_write8
+	Region type    : function
+	Offsets        : 7265-7531
+	Line numbers   : 316-324
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:326: info: Metrics per 'snd_sof_dsp_write' region
+	Region name    : snd_sof_dsp_write
+	Region type    : function
+	Offsets        : 7533-7778
+	Line numbers   : 326-333
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:335: info: Metrics per 'snd_sof_dsp_write64' region
+	Region name    : snd_sof_dsp_write64
+	Region type    : function
+	Offsets        : 7780-8032
+	Line numbers   : 335-342
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:344: info: Metrics per 'snd_sof_dsp_read8' region
+	Region name    : snd_sof_dsp_read8
+	Region type    : function
+	Offsets        : 8034-8262
+	Line numbers   : 344-351
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:353: info: Metrics per 'snd_sof_dsp_read' region
+	Region name    : snd_sof_dsp_read
+	Region type    : function
+	Offsets        : 8264-8490
+	Line numbers   : 353-360
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:362: info: Metrics per 'snd_sof_dsp_read64' region
+	Region name    : snd_sof_dsp_read64
+	Region type    : function
+	Offsets        : 8492-8726
+	Line numbers   : 362-369
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:371: info: Metrics per 'snd_sof_dsp_update8' region
+	Region name    : snd_sof_dsp_update8
+	Region type    : function
+	Offsets        : 8728-8977
+	Line numbers   : 371-380
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 9
+
+./sound/soc/sof/ops.h:383: info: Metrics per 'snd_sof_dsp_block_read' region
+	Region name    : snd_sof_dsp_block_read
+	Region type    : function
+	Offsets        : 8979-9221
+	Line numbers   : 382-388
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:390: info: Metrics per 'snd_sof_dsp_block_write' region
+	Region name    : snd_sof_dsp_block_write
+	Region type    : function
+	Offsets        : 9223-9452
+	Line numbers   : 390-395
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:398: info: Metrics per 'snd_sof_dsp_mailbox_read' region
+	Region name    : snd_sof_dsp_mailbox_read
+	Region type    : function
+	Offsets        : 9454-9683
+	Line numbers   : 397-403
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:405: info: Metrics per 'snd_sof_dsp_mailbox_write' region
+	Region name    : snd_sof_dsp_mailbox_write
+	Region type    : function
+	Offsets        : 9685-9899
+	Line numbers   : 405-410
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:413: info: Metrics per 'snd_sof_dsp_send_msg' region
+	Region name    : snd_sof_dsp_send_msg
+	Region type    : function
+	Offsets        : 9901-10063
+	Line numbers   : 412-417
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./sound/soc/sof/ops.h:421: info: Metrics per 'snd_sof_pcm_platform_open' region
+	Region name    : snd_sof_pcm_platform_open
+	Region type    : function
+	Offsets        : 10065-10309
+	Line numbers   : 419-428
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:432: info: Metrics per 'snd_sof_pcm_platform_close' region
+	Region name    : snd_sof_pcm_platform_close
+	Region type    : function
+	Offsets        : 10311-10588
+	Line numbers   : 430-439
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:443: info: Metrics per 'snd_sof_pcm_platform_hw_params' region
+	Region name    : snd_sof_pcm_platform_hw_params
+	Region type    : function
+	Offsets        : 10590-11008
+	Line numbers   : 441-453
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 11
+
+./sound/soc/sof/ops.h:457: info: Metrics per 'snd_sof_pcm_platform_hw_free' region
+	Region name    : snd_sof_pcm_platform_hw_free
+	Region type    : function
+	Offsets        : 11010-11273
+	Line numbers   : 455-464
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:468: info: Metrics per 'snd_sof_pcm_platform_trigger' region
+	Region name    : snd_sof_pcm_platform_trigger
+	Region type    : function
+	Offsets        : 11275-11552
+	Line numbers   : 466-475
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:478: info: Metrics per 'snd_sof_load_firmware' region
+	Region name    : snd_sof_load_firmware
+	Region type    : function
+	Offsets        : 11554-11734
+	Line numbers   : 477-483
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./sound/soc/sof/ops.h:486: info: Metrics per 'snd_sof_ipc_msg_data' region
+	Region name    : snd_sof_ipc_msg_data
+	Region type    : function
+	Offsets        : 11736-11961
+	Line numbers   : 485-491
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:494: info: Metrics per 'snd_sof_set_stream_data_offset' region
+	Region name    : snd_sof_set_stream_data_offset
+	Region type    : function
+	Offsets        : 11962-12350
+	Line numbers   : 492-503
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 10
+
+./sound/soc/sof/ops.h:507: info: Metrics per 'snd_sof_pcm_platform_pointer' region
+	Region name    : snd_sof_pcm_platform_pointer
+	Region type    : function
+	Offsets        : 12352-12629
+	Line numbers   : 505-514
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:517: info: Metrics per 'snd_sof_pcm_platform_ack' region
+	Region name    : snd_sof_pcm_platform_ack
+	Region type    : function
+	Offsets        : 12631-12870
+	Line numbers   : 516-524
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./sound/soc/sof/ops.h:526: info: Metrics per 'snd_sof_pcm_get_stream_position' region
+	Region name    : snd_sof_pcm_get_stream_position
+	Region type    : function
+	Offsets        : 12872-13184
+	Line numbers   : 526-534
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 8
+
+./sound/soc/sof/ops.h:538: info: Metrics per 'snd_sof_machine_register' region
+	Region name    : snd_sof_machine_register
+	Region type    : function
+	Offsets        : 13186-13414
+	Line numbers   : 536-544
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./sound/soc/sof/ops.h:547: info: Metrics per 'snd_sof_machine_unregister' region
+	Region name    : snd_sof_machine_unregister
+	Region type    : function
+	Offsets        : 13416-13611
+	Line numbers   : 546-551
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 6
+
+./sound/soc/sof/ops.h:554: info: Metrics per 'snd_sof_machine_select' region
+	Region name    : snd_sof_machine_select
+	Region type    : function
+	Offsets        : 13613-13820
+	Line numbers   : 553-560
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./sound/soc/sof/ops.h:563: info: Metrics per 'snd_sof_set_mach_params' region
+	Region name    : snd_sof_set_mach_params
+	Region type    : function
+	Offsets        : 13822-14029
+	Line numbers   : 562-568
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 7
+
+./sound/soc/sof/ops.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 1.22222222
+	Minimum        : 0
+	Maximum        : 4
+	Total          : 66.0
+	Distribution   : 54 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.148 : 0.148 :  8	||||||||||||||
+	             1 : 0.556 : 0.704 : 30	|||||||||||||||||||||||||||||||||||||||||||||||||||||||
+	             2 : 0.259 : 0.963 : 14	|||||||||||||||||||||||||
+	             4 : 0.037 : 1.000 :  2	|||
+
+./sound/soc/sof/ops.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.52727273
+	Minimum        : 4
+	Maximum        : 22
+	Total          : 414.0
+	Distribution   : 55 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.036 : 0.036 :  2	|||
+	             5 : 0.091 : 0.127 :  5	|||||||||
+	             6 : 0.364 : 0.491 : 20	||||||||||||||||||||||||||||||||||||
+	             7 : 0.127 : 0.618 :  7	||||||||||||
+	             8 : 0.236 : 0.855 : 13	|||||||||||||||||||||||
+	             9 : 0.036 : 0.891 :  2	|||
+	            10 : 0.018 : 0.909 :  1	|
+	            11 : 0.036 : 0.945 :  2	|||
+	            17 : 0.018 : 0.964 :  1	|
+	            19 : 0.018 : 0.982 :  1	|
+	            22 : 0.018 : 1.000 :  1	|
+
+./sound/soc/sof/sof-client.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2836
+	Line numbers   : 1-81
+	Modified       : None
+	std.code.lines:code: 31
+
+./sound/soc/sof/sof-client.h:25: info: Metrics per 'sof_client_dev' region
+	Region name    : sof_client_dev
+	Region type    : struct
+	Offsets        : 322-644
+	Line numbers   : 18-30
+	Modified       : None
+	std.code.lines:code: 6
+
+./sound/soc/sof/sof-client.h:42: info: Metrics per 'sof_client_ipc_tx_message_no_reply' region
+	Region name    : sof_client_ipc_tx_message_no_reply
+	Region type    : function
+	Offsets        : 1050-1209
+	Line numbers   : 42-45
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./sound/soc/sof/sof-client.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/sof/sof-client.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.66666667
+	Minimum        : 4
+	Maximum        : 31
+	Total          : 41.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            31 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./sound/soc/sof/intel/telemetry.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-811
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 2
+
+./sound/soc/sof/intel/telemetry.h:16: info: Metrics per 'xtensa_arch_block' region
+	Region name    : xtensa_arch_block
+	Region type    : struct
+	Offsets        : 404-683
+	Line numbers   : 16-31
+	Modified       : None
+	std.code.lines:code: 15
+
+./sound/soc/sof/intel/telemetry.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/sof/intel/telemetry.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.5
+	Minimum        : 2
+	Maximum        : 15
+	Total          : 17.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/sof/intel/atom.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1978
+	Line numbers   : 1-75
+	Modified       : None
+	std.code.lines:code: 12
+
+./sound/soc/sof/intel/atom.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/sof/intel/atom.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 12
+	Maximum        : 12
+	Total          : 12.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            12 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./sound/soc/sof/intel/mtl.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-4086
+	Line numbers   : 1-109
+	Modified       : None
+	std.code.lines:code: 17
+
+./sound/soc/sof/intel/mtl.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./sound/soc/sof/intel/mtl.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.0
+	Minimum        : 17
+	Maximum        : 17
+	Total          : 17.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            17 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+

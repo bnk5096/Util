@@ -1,0 +1,4833 @@
+./drivers/media/dvb-frontends/bsbe1.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2606
+	Line numbers   : 1-90
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/media/dvb-frontends/bsbe1.h:34: info: Metrics per 'alps_bsbe1_set_symbol_rate' region
+	Region name    : alps_bsbe1_set_symbol_rate
+	Region type    : function
+	Offsets        : 1024-1717
+	Line numbers   : 34-53
+	Modified       : None
+	std.code.complexity:cyclomatic: 6
+	std.code.lines:code: 17
+
+./drivers/media/dvb-frontends/bsbe1.h:55: info: Metrics per 'alps_bsbe1_tuner_set_params' region
+	Region name    : alps_bsbe1_tuner_set_params
+	Region type    : function
+	Offsets        : 1719-2362
+	Line numbers   : 55-77
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 20
+
+./drivers/media/dvb-frontends/bsbe1.h:61: info: Metrics per 'i2c_msg' region
+	Region name    : i2c_msg
+	Region type    : struct
+	Offsets        : 1881-1964
+	Line numbers   : 61-61
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/bsbe1.h:79: info: Metrics per 'stv0299_config' region
+	Region name    : stv0299_config
+	Region type    : struct
+	Offsets        : 2364-2596
+	Line numbers   : 79-87
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/dvb-frontends/bsbe1.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 5.0
+	Minimum        : 4
+	Maximum        : 6
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/bsbe1.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.8
+	Minimum        : 1
+	Maximum        : 22
+	Total          : 69.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             9 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            17 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            20 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            22 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mt352.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1581
+	Line numbers   : 1-60
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/mt352.h:24: info: Metrics per 'mt352_config' region
+	Region name    : mt352_config
+	Region type    : struct
+	Offsets        : 665-1020
+	Line numbers   : 24-38
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/mt352.h:44: info: Metrics per 'mt352_attach' region
+	Region name    : mt352_attach
+	Region type    : function
+	Offsets        : 1166-1371
+	Line numbers   : 43-49
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/mt352.h:52: info: Metrics per 'mt352_write' region
+	Region name    : mt352_write
+	Region type    : function
+	Offsets        : 1400-1561
+	Line numbers   : 52-57
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/mt352.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.5
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mt352.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.75
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 23.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             6 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/sp2_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-881
+	Line numbers   : 1-42
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/sp2_priv.h:15: info: Metrics per 'sp2' region
+	Region name    : sp2
+	Region type    : struct
+	Offsets        : 231-461
+	Line numbers   : 14-24
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/dvb-frontends/sp2_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/sp2_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 1
+	Maximum        : 10
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mn88443x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-561
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/mn88443x.h:18: info: Metrics per 'mn88443x_config' region
+	Region name    : mn88443x_config
+	Region type    : struct
+	Offsets        : 360-534
+	Line numbers   : 18-25
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/mn88443x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/mn88443x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 1
+	Maximum        : 6
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/isl6405.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1450
+	Line numbers   : 1-58
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/dvb-frontends/isl6405.h:48: info: Metrics per 'isl6405_attach' region
+	Region name    : isl6405_attach
+	Region type    : function
+	Offsets        : 1153-1409
+	Line numbers   : 47-54
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/isl6405.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/isl6405.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 2
+	Maximum        : 7
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mn88473.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-556
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/mn88473.h:13: info: Metrics per 'mn88473_config' region
+	Region name    : mn88473_config
+	Region type    : struct
+	Offsets        : 233-546
+	Line numbers   : 13-33
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mn88473.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/mn88473.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 1
+	Maximum        : 5
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mxl5xx_regs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-15864
+	Line numbers   : 1-359
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/mxl5xx_regs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/mxl5xx_regs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/rtl2832.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1521
+	Line numbers   : 1-50
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/rtl2832.h:25: info: Metrics per 'rtl2832_platform_data' region
+	Region name    : rtl2832_platform_data
+	Region type    : struct
+	Offsets        : 318-1495
+	Line numbers   : 15-47
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/dvb-frontends/rtl2832.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/rtl2832.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.5
+	Minimum        : 1
+	Maximum        : 10
+	Total          : 11.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            10 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv090x_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5878
+	Line numbers   : 1-268
+	Modified       : None
+	std.code.lines:code: 100
+
+./drivers/media/dvb-frontends/stv090x_priv.h:186: info: Metrics per 'stv090x_long_frame_crloop' region
+	Region name    : stv090x_long_frame_crloop
+	Region type    : struct
+	Offsets        : 4211-4498
+	Line numbers   : 186-199
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/dvb-frontends/stv090x_priv.h:201: info: Metrics per 'stv090x_short_frame_crloop' region
+	Region name    : stv090x_short_frame_crloop
+	Region type    : struct
+	Offsets        : 4501-4741
+	Line numbers   : 201-209
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/stv090x_priv.h:211: info: Metrics per 'stv090x_reg' region
+	Region name    : stv090x_reg
+	Region type    : struct
+	Offsets        : 4744-4788
+	Line numbers   : 211-214
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/stv090x_priv.h:216: info: Metrics per 'stv090x_tab' region
+	Region name    : stv090x_tab
+	Region type    : struct
+	Offsets        : 4791-4835
+	Line numbers   : 216-219
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/stv090x_priv.h:221: info: Metrics per 'stv090x_internal' region
+	Region name    : stv090x_internal
+	Region type    : struct
+	Offsets        : 4838-5112
+	Line numbers   : 221-231
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/dvb-frontends/stv090x_priv.h:233: info: Metrics per 'stv090x_state' region
+	Region name    : stv090x_state
+	Region type    : struct
+	Offsets        : 5115-5845
+	Line numbers   : 233-265
+	Modified       : None
+	std.code.lines:code: 26
+
+./drivers/media/dvb-frontends/stv090x_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/stv090x_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 23.42857143
+	Minimum        : 4
+	Maximum        : 100
+	Total          : 164.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.286 : 0.286 : 2	||||||||||||||||||||||||||||
+	             8 : 0.143 : 0.429 : 1	||||||||||||||
+	             9 : 0.143 : 0.571 : 1	||||||||||||||
+	            13 : 0.143 : 0.714 : 1	||||||||||||||
+	            26 : 0.143 : 0.857 : 1	||||||||||||||
+	           100 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/media/dvb-frontends/rtl2830.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-995
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/rtl2830.h:25: info: Metrics per 'rtl2830_platform_data' region
+	Region name    : rtl2830_platform_data
+	Region type    : struct
+	Offsets        : 226-969
+	Line numbers   : 13-36
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/dvb-frontends/rtl2830.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/rtl2830.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 1
+	Maximum        : 11
+	Total          : 12.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cx24117.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-758
+	Line numbers   : 1-35
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cx24117.h:15: info: Metrics per 'cx24117_config' region
+	Region name    : cx24117_config
+	Region type    : struct
+	Offsets        : 290-371
+	Line numbers   : 15-18
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/cx24117.h:25: info: Metrics per 'cx24117_attach' region
+	Region name    : cx24117_attach
+	Region type    : function
+	Offsets        : 520-726
+	Line numbers   : 24-31
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/cx24117.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cx24117.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/isl6423.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1029
+	Line numbers   : 1-52
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/dvb-frontends/isl6423.h:26: info: Metrics per 'isl6423_config' region
+	Region name    : isl6423_config
+	Region type    : struct
+	Offsets        : 419-534
+	Line numbers   : 26-31
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/isl6423.h:41: info: Metrics per 'isl6423_attach' region
+	Region name    : isl6423_attach
+	Region type    : function
+	Offsets        : 724-968
+	Line numbers   : 40-47
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/isl6423.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/isl6423.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 6
+	Maximum        : 14
+	Total          : 27.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            14 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lnbh24.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1056
+	Line numbers   : 1-41
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/lnbh24.h:31: info: Metrics per 'lnbh24_attach' region
+	Region name    : lnbh24_attach
+	Region type    : function
+	Offsets        : 793-1040
+	Line numbers   : 30-37
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/lnbh24.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lnbh24.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mt312_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2697
+	Line numbers   : 1-153
+	Modified       : None
+	std.code.lines:code: 137
+
+./drivers/media/dvb-frontends/mt312_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/mt312_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 137.0
+	Minimum        : 137
+	Maximum        : 137
+	Total          : 137.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	           137 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/eds1547.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1858
+	Line numbers   : 1-131
+	Modified       : None
+	std.code.lines:code: 112
+
+./drivers/media/dvb-frontends/eds1547.h:124: info: Metrics per 'stv0288_config' region
+	Region name    : stv0288_config
+	Region type    : struct
+	Offsets        : 1720-1848
+	Line numbers   : 124-128
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/eds1547.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/eds1547.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 58.5
+	Minimum        : 5
+	Maximum        : 112
+	Total          : 117.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           112 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/tda1002x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1910
+	Line numbers   : 1-75
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/dvb-frontends/tda1002x.h:17: info: Metrics per 'tda1002x_config' region
+	Region name    : tda1002x_config
+	Region type    : struct
+	Offsets        : 402-496
+	Line numbers   : 17-21
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/tda1002x.h:30: info: Metrics per 'tda10023_config' region
+	Region name    : tda10023_config
+	Region type    : struct
+	Offsets        : 712-1064
+	Line numbers   : 30-46
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/dvb-frontends/tda1002x.h:52: info: Metrics per 'tda10021_attach' region
+	Region name    : tda10021_attach
+	Region type    : function
+	Offsets        : 1230-1452
+	Line numbers   : 51-57
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/tda1002x.h:65: info: Metrics per 'tda10023_attach' region
+	Region name    : tda10023_attach
+	Region type    : function
+	Offsets        : 1641-1857
+	Line numbers   : 64-71
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/tda1002x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/tda1002x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 4
+	Maximum        : 13
+	Total          : 40.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             6 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	             7 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            10 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            13 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/media/dvb-frontends/zd1301_demod.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1630
+	Line numbers   : 1-62
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/zd1301_demod.h:21: info: Metrics per 'zd1301_demod_platform_data' region
+	Region name    : zd1301_demod_platform_data
+	Region type    : struct
+	Offsets        : 296-656
+	Line numbers   : 15-25
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/zd1301_demod.h:46: info: Metrics per 'zd1301_demod_get_dvb_frontend' region
+	Region name    : zd1301_demod_get_dvb_frontend
+	Region type    : function
+	Offsets        : 1233-1413
+	Line numbers   : 46-51
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/zd1301_demod.h:52: info: Metrics per 'zd1301_demod_get_i2c_adapter' region
+	Region name    : zd1301_demod_get_i2c_adapter
+	Region type    : function
+	Offsets        : 1414-1592
+	Line numbers   : 52-57
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/zd1301_demod.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/zd1301_demod.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 3
+	Maximum        : 5
+	Total          : 18.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.750 : 1.000 : 3	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stb6100_proc.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2712
+	Line numbers   : 1-116
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/stb6100_proc.h:11: info: Metrics per 'stb6100_get_freq' region
+	Region name    : stb6100_get_freq
+	Region type    : function
+	Offsets        : 207-737
+	Line numbers   : 11-32
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 18
+
+./drivers/media/dvb-frontends/stb6100_proc.h:34: info: Metrics per 'stb6100_set_freq' region
+	Region name    : stb6100_set_freq
+	Region type    : function
+	Offsets        : 739-1449
+	Line numbers   : 34-62
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 23
+
+./drivers/media/dvb-frontends/stb6100_proc.h:64: info: Metrics per 'stb6100_get_bandw' region
+	Region name    : stb6100_get_bandw
+	Region type    : function
+	Offsets        : 1451-1991
+	Line numbers   : 64-85
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 18
+
+./drivers/media/dvb-frontends/stb6100_proc.h:87: info: Metrics per 'stb6100_set_bandw' region
+	Region name    : stb6100_set_bandw
+	Region type    : function
+	Offsets        : 1993-2711
+	Line numbers   : 87-115
+	Modified       : None
+	std.code.complexity:cyclomatic: 4
+	std.code.lines:code: 23
+
+./drivers/media/dvb-frontends/stb6100_proc.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 16.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stb6100_proc.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.4
+	Minimum        : 0
+	Maximum        : 23
+	Total          : 82.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	            18 : 0.400 : 0.600 : 2	||||||||||||||||||||||||||||||||||||||||
+	            23 : 0.400 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/au8522_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-17736
+	Line numbers   : 1-447
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/media/dvb-frontends/au8522_priv.h:38: info: Metrics per 'au8522_state' region
+	Region name    : au8522_state
+	Region type    : struct
+	Offsets        : 847-1521
+	Line numbers   : 38-71
+	Modified       : None
+	std.code.lines:code: 21
+
+./drivers/media/dvb-frontends/au8522_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/au8522_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 17
+	Maximum        : 21
+	Total          : 38.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            17 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            21 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/or51132.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-882
+	Line numbers   : 1-36
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/or51132.h:14: info: Metrics per 'or51132_config' region
+	Region name    : or51132_config
+	Region type    : struct
+	Offsets        : 272-466
+	Line numbers   : 14-21
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/or51132.h:27: info: Metrics per 'or51132_attach' region
+	Region name    : or51132_attach
+	Region type    : function
+	Offsets        : 620-831
+	Line numbers   : 26-32
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/or51132.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/or51132.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.66666667
+	Minimum        : 3
+	Maximum        : 6
+	Total          : 14.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             5 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-20680
+	Line numbers   : 1-729
+	Modified       : None
+	std.code.lines:code: 369
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:158: info: Metrics per 'MBIN_FILE_HEADER_T' region
+	Region name    : MBIN_FILE_HEADER_T
+	Region type    : struct
+	Offsets        : 4463-4631
+	Line numbers   : 158-167
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:169: info: Metrics per 'MBIN_FILE_T' region
+	Region name    : MBIN_FILE_T
+	Region type    : struct
+	Offsets        : 4634-4704
+	Line numbers   : 169-172
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:174: info: Metrics per 'MBIN_SEGMENT_HEADER_T' region
+	Region name    : MBIN_SEGMENT_HEADER_T
+	Region type    : struct
+	Offsets        : 4707-4777
+	Line numbers   : 174-178
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:180: info: Metrics per 'MBIN_SEGMENT_T' region
+	Region name    : MBIN_SEGMENT_T
+	Region type    : struct
+	Offsets        : 4780-4856
+	Line numbers   : 180-183
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:199: info: Metrics per 'MXL_REG_FIELD_T' region
+	Region name    : MXL_REG_FIELD_T
+	Region type    : struct
+	Offsets        : 5406-5477
+	Line numbers   : 199-203
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:205: info: Metrics per 'MXL_DEV_CMD_DATA_T' region
+	Region name    : MXL_DEV_CMD_DATA_T
+	Region type    : struct
+	Offsets        : 5480-5549
+	Line numbers   : 205-208
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:228: info: Metrics per 'MXL_HYDRA_SKU_COMMAND_T' region
+	Region name    : MXL_HYDRA_SKU_COMMAND_T
+	Region type    : struct
+	Offsets        : 6067-6138
+	Line numbers   : 228-230
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:350: info: Metrics per 'MXL_HYDRA_DEMOD_LOCK_T' region
+	Region name    : MXL_HYDRA_DEMOD_LOCK_T
+	Region type    : struct
+	Offsets        : 8727-8842
+	Line numbers   : 350-353
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:355: info: Metrics per 'MXL_HYDRA_DEMOD_STATUS_DVBS_T' region
+	Region name    : MXL_HYDRA_DEMOD_STATUS_DVBS_T
+	Region type    : struct
+	Offsets        : 8845-9127
+	Line numbers   : 355-361
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:363: info: Metrics per 'MXL_HYDRA_DEMOD_STATUS_DSS_T' region
+	Region name    : MXL_HYDRA_DEMOD_STATUS_DSS_T
+	Region type    : struct
+	Offsets        : 9130-9283
+	Line numbers   : 363-367
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:369: info: Metrics per 'MXL_HYDRA_DEMOD_STATUS_DVBS2_T' region
+	Region name    : MXL_HYDRA_DEMOD_STATUS_DVBS2_T
+	Region type    : struct
+	Offsets        : 9286-9474
+	Line numbers   : 369-373
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:375: info: Metrics per 'MXL_HYDRA_DEMOD_STATUS_T' region
+	Region name    : MXL_HYDRA_DEMOD_STATUS_T
+	Region type    : struct
+	Offsets        : 9477-9861
+	Line numbers   : 375-383
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:378: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 9592-9856
+	Line numbers   : 378-382
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:385: info: Metrics per 'MXL_HYDRA_DEMOD_SIG_OFFSET_INFO_T' region
+	Region name    : MXL_HYDRA_DEMOD_SIG_OFFSET_INFO_T
+	Region type    : struct
+	Offsets        : 9864-10009
+	Line numbers   : 385-388
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:390: info: Metrics per 'MXL_HYDRA_DEMOD_SCRAMBLE_INFO_T' region
+	Region name    : MXL_HYDRA_DEMOD_SCRAMBLE_INFO_T
+	Region type    : struct
+	Offsets        : 10012-10174
+	Line numbers   : 390-393
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:423: info: Metrics per 'MXL_HYDRA_SPECTRUM_REQ_T' region
+	Region name    : MXL_HYDRA_SPECTRUM_REQ_T
+	Region type    : struct
+	Offsets        : 11286-11600
+	Line numbers   : 423-430
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:437: info: Metrics per 'MXL58X_CFG_FREQ_OFF_SEARCH_RANGE_T' region
+	Region name    : MXL58X_CFG_FREQ_OFF_SEARCH_RANGE_T
+	Region type    : struct
+	Offsets        : 11808-11926
+	Line numbers   : 437-440
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:492: info: Metrics per 'MXL_HYDRA_TS_PID_T' region
+	Region name    : MXL_HYDRA_TS_PID_T
+	Region type    : struct
+	Offsets        : 13453-13924
+	Line numbers   : 492-500
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:502: info: Metrics per 'MXL_HYDRA_TS_MUX_PREFIX_HEADER_T' region
+	Region name    : MXL_HYDRA_TS_MUX_PREFIX_HEADER_T
+	Region type    : struct
+	Offsets        : 13927-14025
+	Line numbers   : 502-506
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:557: info: Metrics per 'MXL_HYDRA_MPEGOUT_PARAM_T' region
+	Region name    : MXL_HYDRA_MPEGOUT_PARAM_T
+	Region type    : struct
+	Offsets        : 15377-16488
+	Line numbers   : 557-569
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:620: info: Metrics per 'MXL_HYDRA_DEMOD_IQ_SRC_T' region
+	Region name    : MXL_HYDRA_DEMOD_IQ_SRC_T
+	Region type    : struct
+	Offsets        : 17546-17803
+	Line numbers   : 619-630
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:632: info: Metrics per 'MXL_HYDRA_DEMOD_ABORT_TUNE_T' region
+	Region name    : MXL_HYDRA_DEMOD_ABORT_TUNE_T
+	Region type    : struct
+	Offsets        : 17806-17860
+	Line numbers   : 632-634
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:636: info: Metrics per 'MXL_HYDRA_TUNER_CMD' region
+	Region name    : MXL_HYDRA_TUNER_CMD
+	Region type    : struct
+	Offsets        : 17863-17919
+	Line numbers   : 636-639
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:642: info: Metrics per 'MXL_HYDRA_DEMOD_PARAM_T' region
+	Region name    : MXL_HYDRA_DEMOD_PARAM_T
+	Region type    : struct
+	Offsets        : 17922-18646
+	Line numbers   : 641-654
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:656: info: Metrics per 'MXL_HYDRA_DEMOD_SCRAMBLE_CODE_T' region
+	Region name    : MXL_HYDRA_DEMOD_SCRAMBLE_CODE_T
+	Region type    : struct
+	Offsets        : 18649-18805
+	Line numbers   : 656-660
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:662: info: Metrics per 'MXL_INTR_CFG_T' region
+	Region name    : MXL_INTR_CFG_T
+	Region type    : struct
+	Offsets        : 18808-18898
+	Line numbers   : 662-666
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:668: info: Metrics per 'MXL_HYDRA_POWER_MODE_CMD' region
+	Region name    : MXL_HYDRA_POWER_MODE_CMD
+	Region type    : struct
+	Offsets        : 18901-19028
+	Line numbers   : 668-670
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:672: info: Metrics per 'MXL_HYDRA_RF_WAKEUP_PARAM_T' region
+	Region name    : MXL_HYDRA_RF_WAKEUP_PARAM_T
+	Region type    : struct
+	Offsets        : 19031-19156
+	Line numbers   : 672-676
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:678: info: Metrics per 'MXL_HYDRA_RF_WAKEUP_CFG_T' region
+	Region name    : MXL_HYDRA_RF_WAKEUP_CFG_T
+	Region type    : struct
+	Offsets        : 19159-19257
+	Line numbers   : 678-681
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:718: info: Metrics per 'MXL58X_DSQ_OP_MODE_T' region
+	Region name    : MXL58X_DSQ_OP_MODE_T
+	Region type    : struct
+	Offsets        : 20328-20566
+	Line numbers   : 718-723
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:725: info: Metrics per 'MXL_HYDRA_DISEQC_CFG_CONT_TONE_T' region
+	Region name    : MXL_HYDRA_DISEQC_CFG_CONT_TONE_T
+	Region type    : struct
+	Offsets        : 20569-20678
+	Line numbers   : 725-728
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/mxl5xx_defs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.78125
+	Minimum        : 3
+	Maximum        : 369
+	Total          : 537.0
+	Distribution   : 32 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.094 : 0.094 :  3	|||||||||
+	             4 : 0.375 : 0.469 : 12	|||||||||||||||||||||||||||||||||||||
+	             5 : 0.281 : 0.750 :  9	||||||||||||||||||||||||||||
+	             6 : 0.031 : 0.781 :  1	|||
+	             7 : 0.031 : 0.812 :  1	|||
+	             8 : 0.031 : 0.844 :  1	|||
+	             9 : 0.031 : 0.875 :  1	|||
+	            10 : 0.031 : 0.906 :  1	|||
+	            13 : 0.062 : 0.969 :  2	||||||
+	           369 : 0.031 : 1.000 :  1	|||
+
+./drivers/media/dvb-frontends/stv0910.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-886
+	Line numbers   : 1-43
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/stv0910.h:16: info: Metrics per 'stv0910_cfg' region
+	Region name    : stv0910_cfg
+	Region type    : struct
+	Offsets        : 380-477
+	Line numbers   : 16-23
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/stv0910.h:32: info: Metrics per 'stv0910_attach' region
+	Region name    : stv0910_attach
+	Region type    : function
+	Offsets        : 629-826
+	Line numbers   : 32-38
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/stv0910.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv0910.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 18.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lgs8gxx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1919
+	Line numbers   : 1-81
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/lgs8gxx.h:25: info: Metrics per 'lgs8gxx_config' region
+	Region name    : lgs8gxx_config
+	Region type    : struct
+	Offsets        : 702-1493
+	Line numbers   : 25-66
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/dvb-frontends/lgs8gxx.h:73: info: Metrics per 'lgs8gxx_attach' region
+	Region name    : lgs8gxx_attach
+	Region type    : function
+	Offsets        : 1647-1858
+	Line numbers   : 71-77
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/lgs8gxx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lgs8gxx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 3
+	Maximum        : 15
+	Total          : 24.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            15 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stb6100_cfg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2132
+	Line numbers   : 1-88
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/stb6100_cfg.h:13: info: Metrics per 'stb6100_get_frequency' region
+	Region name    : stb6100_get_frequency
+	Region type    : function
+	Offsets        : 233-617
+	Line numbers   : 13-27
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 14
+
+./drivers/media/dvb-frontends/stb6100_cfg.h:29: info: Metrics per 'stb6100_set_frequency' region
+	Region name    : stb6100_set_frequency
+	Region type    : function
+	Offsets        : 619-1182
+	Line numbers   : 29-49
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 19
+
+./drivers/media/dvb-frontends/stb6100_cfg.h:51: info: Metrics per 'stb6100_get_bandwidth' region
+	Region name    : stb6100_get_bandwidth
+	Region type    : function
+	Offsets        : 1184-1568
+	Line numbers   : 51-65
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 14
+
+./drivers/media/dvb-frontends/stb6100_cfg.h:67: info: Metrics per 'stb6100_set_bandwidth' region
+	Region name    : stb6100_set_bandwidth
+	Region type    : function
+	Offsets        : 1570-2131
+	Line numbers   : 67-87
+	Modified       : None
+	std.code.complexity:cyclomatic: 2
+	std.code.lines:code: 19
+
+./drivers/media/dvb-frontends/stb6100_cfg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 8.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 4	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stb6100_cfg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 13.2
+	Minimum        : 0
+	Maximum        : 19
+	Total          : 66.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	            14 : 0.400 : 0.600 : 2	||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.400 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv6110x_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1816
+	Line numbers   : 1-66
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/stv6110x_priv.h:56: info: Metrics per 'stv6110x_state' region
+	Region name    : stv6110x_state
+	Region type    : struct
+	Offsets        : 1608-1782
+	Line numbers   : 56-63
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/stv6110x_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/stv6110x_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 1
+	Maximum        : 7
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv6110x_reg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2078
+	Line numbers   : 1-71
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/stv6110x_reg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/stv6110x_reg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/dvb_dummy_fe.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-923
+	Line numbers   : 1-37
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/dvb_dummy_fe.h:19: info: Metrics per 'dvb_dummy_fe_ofdm_attach' region
+	Region name    : dvb_dummy_fe_ofdm_attach
+	Region type    : function
+	Offsets        : 439-584
+	Line numbers   : 18-23
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/dvb_dummy_fe.h:24: info: Metrics per 'dvb_dummy_fe_qpsk_attach' region
+	Region name    : dvb_dummy_fe_qpsk_attach
+	Region type    : function
+	Offsets        : 585-724
+	Line numbers   : 24-28
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/dvb_dummy_fe.h:29: info: Metrics per 'dvb_dummy_fe_qam_attach' region
+	Region name    : dvb_dummy_fe_qam_attach
+	Region type    : function
+	Offsets        : 725-863
+	Line numbers   : 29-33
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/dvb_dummy_fe.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/dvb_dummy_fe.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 3
+	Maximum        : 5
+	Total          : 18.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             5 : 0.750 : 1.000 : 3	|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mxl5xx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1224
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/mxl5xx.h:22: info: Metrics per 'mxl5xx_cfg' region
+	Region name    : mxl5xx_cfg
+	Region type    : struct
+	Offsets        : 538-707
+	Line numbers   : 22-34
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/dvb-frontends/mxl5xx.h:44: info: Metrics per 'mxl5xx_attach' region
+	Region name    : mxl5xx_attach
+	Region type    : function
+	Offsets        : 921-1166
+	Line numbers   : 44-50
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/mxl5xx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mxl5xx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.33333333
+	Minimum        : 4
+	Maximum        : 11
+	Total          : 22.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv090x_reg.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-101091
+	Line numbers   : 1-2360
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/stv090x_reg.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/stv090x_reg.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/ves1x93.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1034
+	Line numbers   : 1-43
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/ves1x93.h:18: info: Metrics per 'ves1x93_config' region
+	Region name    : ves1x93_config
+	Region type    : struct
+	Offsets        : 449-618
+	Line numbers   : 18-28
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/ves1x93.h:34: info: Metrics per 'ves1x93_attach' region
+	Region name    : ves1x93_attach
+	Region type    : function
+	Offsets        : 772-983
+	Line numbers   : 33-39
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/ves1x93.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/ves1x93.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 6
+	Total          : 15.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/s5h1411.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1820
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/s5h1411.h:18: info: Metrics per 's5h1411_config' region
+	Region name    : s5h1411_config
+	Region type    : struct
+	Offsets        : 321-1399
+	Line numbers   : 18-57
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/dvb-frontends/s5h1411.h:63: info: Metrics per 's5h1411_attach' region
+	Region name    : s5h1411_attach
+	Region type    : function
+	Offsets        : 1553-1759
+	Line numbers   : 62-69
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/s5h1411.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/s5h1411.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 3
+	Maximum        : 9
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lnbp21.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1598
+	Line numbers   : 1-58
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/lnbp21.h:48: info: Metrics per 'lnbp21_attach' region
+	Region name    : lnbp21_attach
+	Region type    : function
+	Offsets        : 1348-1582
+	Line numbers   : 47-54
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/lnbp21.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lnbp21.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/bsbe1-d01a.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1821
+	Line numbers   : 1-130
+	Modified       : None
+	std.code.lines:code: 107
+
+./drivers/media/dvb-frontends/bsbe1-d01a.h:123: info: Metrics per 'stv0288_config' region
+	Region name    : stv0288_config
+	Region type    : struct
+	Offsets        : 1665-1811
+	Line numbers   : 123-127
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/bsbe1-d01a.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/bsbe1-d01a.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 56.0
+	Minimum        : 5
+	Maximum        : 107
+	Total          : 112.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	           107 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/si2168.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1077
+	Line numbers   : 1-52
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/si2168.h:35: info: Metrics per 'si2168_config' region
+	Region name    : si2168_config
+	Region type    : struct
+	Offsets        : 200-1067
+	Line numbers   : 11-49
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/si2168.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/si2168.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 1
+	Maximum        : 8
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/helene.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2469
+	Line numbers   : 1-89
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/dvb-frontends/helene.h:35: info: Metrics per 'helene_config' region
+	Region name    : helene_config
+	Region type    : struct
+	Offsets        : 547-1154
+	Line numbers   : 25-43
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/helene.h:72: info: Metrics per 'helene_attach' region
+	Region name    : helene_attach
+	Region type    : function
+	Offsets        : 2008-2232
+	Line numbers   : 71-78
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/helene.h:79: info: Metrics per 'helene_attach_s' region
+	Region name    : helene_attach_s
+	Region type    : function
+	Offsets        : 2233-2453
+	Line numbers   : 79-85
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/helene.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/helene.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.75
+	Minimum        : 7
+	Maximum        : 13
+	Total          : 35.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            13 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lgdt3305.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1945
+	Line numbers   : 1-83
+	Modified       : None
+	std.code.lines:code: 24
+
+./drivers/media/dvb-frontends/lgdt3305.h:40: info: Metrics per 'lgdt3305_config' region
+	Region name    : lgdt3305_config
+	Region type    : struct
+	Offsets        : 730-1502
+	Line numbers   : 40-66
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/dvb-frontends/lgdt3305.h:74: info: Metrics per 'lgdt3305_attach' region
+	Region name    : lgdt3305_attach
+	Region type    : function
+	Offsets        : 1665-1884
+	Line numbers   : 72-79
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/lgdt3305.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lgdt3305.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 15.66666667
+	Minimum        : 7
+	Maximum        : 24
+	Total          : 47.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            24 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv090x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2995
+	Line numbers   : 1-120
+	Modified       : None
+	std.code.lines:code: 40
+
+./drivers/media/dvb-frontends/stv090x.h:56: info: Metrics per 'stv090x_config' region
+	Region name    : stv090x_config
+	Region type    : struct
+	Offsets        : 1009-2500
+	Line numbers   : 56-99
+	Modified       : None
+	std.code.lines:code: 34
+
+./drivers/media/dvb-frontends/stv090x.h:109: info: Metrics per 'stv090x_attach' region
+	Region name    : stv090x_attach
+	Region type    : function
+	Offsets        : 2690-2935
+	Line numbers   : 109-115
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/stv090x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv090x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.0
+	Minimum        : 7
+	Maximum        : 40
+	Total          : 81.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            34 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            40 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1115
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 19
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt.h:16: info: Metrics per 'cxd2880_dvbt_tune_param' region
+	Region name    : cxd2880_dvbt_tune_param
+	Region type    : struct
+	Offsets        : 351-482
+	Line numbers   : 16-20
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 5
+	Maximum        : 19
+	Total          : 24.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            19 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_io.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1276
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_io.h:20: info: Metrics per 'cxd2880_reg_value' region
+	Region name    : cxd2880_reg_value
+	Region type    : struct
+	Offsets        : 370-419
+	Line numbers   : 20-23
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_io.h:25: info: Metrics per 'cxd2880_io' region
+	Region name    : cxd2880_io
+	Region type    : struct
+	Offsets        : 422-867
+	Line numbers   : 25-40
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_io.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_io.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.0
+	Minimum        : 4
+	Maximum        : 16
+	Total          : 36.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.667 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_driver_version.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-346
+	Line numbers   : 1-13
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_driver_version.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_driver_version.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-713
+	Line numbers   : 1-35
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi.h:22: info: Metrics per 'cxd2880_spi' region
+	Region name    : cxd2880_spi
+	Region type    : struct
+	Offsets        : 405-703
+	Line numbers   : 22-32
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 7
+	Maximum        : 11
+	Total          : 18.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10361
+	Line numbers   : 1-386
+	Modified       : None
+	std.code.lines:code: 259
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:291: info: Metrics per 'cxd2880_dvbt2_l1pre' region
+	Region name    : cxd2880_dvbt2_l1pre
+	Region type    : struct
+	Offsets        : 8471-9140
+	Line numbers   : 291-321
+	Modified       : None
+	std.code.lines:code: 31
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:323: info: Metrics per 'cxd2880_dvbt2_plp' region
+	Region name    : cxd2880_dvbt2_plp
+	Region type    : struct
+	Offsets        : 9143-9634
+	Line numbers   : 323-345
+	Modified       : None
+	std.code.lines:code: 23
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:347: info: Metrics per 'cxd2880_dvbt2_l1post' region
+	Region name    : cxd2880_dvbt2_l1post
+	Region type    : struct
+	Offsets        : 9637-9808
+	Line numbers   : 347-357
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:359: info: Metrics per 'cxd2880_dvbt2_ofdm' region
+	Region name    : cxd2880_dvbt2_ofdm
+	Region type    : struct
+	Offsets        : 9811-10013
+	Line numbers   : 359-368
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:370: info: Metrics per 'cxd2880_dvbt2_bbheader' region
+	Region name    : cxd2880_dvbt2_bbheader
+	Region type    : struct
+	Offsets        : 10016-10351
+	Line numbers   : 370-383
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 58.0
+	Minimum        : 10
+	Maximum        : 259
+	Total          : 348.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 0.167 : 0.167 : 1	||||||||||||||||
+	            11 : 0.167 : 0.333 : 1	||||||||||||||||
+	            14 : 0.167 : 0.500 : 1	||||||||||||||||
+	            23 : 0.167 : 0.667 : 1	||||||||||||||||
+	            31 : 0.167 : 0.833 : 1	||||||||||||||||
+	           259 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_mon.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-758
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_mon.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_mon.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt2.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1698
+	Line numbers   : 1-66
+	Modified       : None
+	std.code.lines:code: 31
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt2.h:21: info: Metrics per 'cxd2880_dvbt2_tune_param' region
+	Region name    : cxd2880_dvbt2_tune_param
+	Region type    : struct
+	Offsets        : 480-679
+	Line numbers   : 21-27
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt2.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt2.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 19.0
+	Minimum        : 7
+	Maximum        : 31
+	Total          : 38.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            31 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-10389
+	Line numbers   : 1-366
+	Modified       : None
+	std.code.lines:code: 201
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:152: info: Metrics per 'cxd2880_tnrdmd_cfg_mem' region
+	Region name    : cxd2880_tnrdmd_cfg_mem
+	Region type    : struct
+	Offsets        : 4701-4808
+	Line numbers   : 152-158
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:160: info: Metrics per 'cxd2880_tnrdmd_pid_cfg' region
+	Region name    : cxd2880_tnrdmd_pid_cfg
+	Region type    : struct
+	Offsets        : 4811-4865
+	Line numbers   : 160-163
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:165: info: Metrics per 'cxd2880_tnrdmd_pid_ftr_cfg' region
+	Region name    : cxd2880_tnrdmd_pid_ftr_cfg
+	Region type    : struct
+	Offsets        : 4868-4966
+	Line numbers   : 165-168
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:170: info: Metrics per 'cxd2880_tnrdmd_lna_thrs' region
+	Region name    : cxd2880_tnrdmd_lna_thrs
+	Region type    : struct
+	Offsets        : 4969-5027
+	Line numbers   : 170-173
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:175: info: Metrics per 'cxd2880_tnrdmd_lna_thrs_tbl_air' region
+	Region name    : cxd2880_tnrdmd_lna_thrs_tbl_air
+	Region type    : struct
+	Offsets        : 5030-5114
+	Line numbers   : 175-177
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:179: info: Metrics per 'cxd2880_tnrdmd_lna_thrs_tbl_cable' region
+	Region name    : cxd2880_tnrdmd_lna_thrs_tbl_cable
+	Region type    : struct
+	Offsets        : 5117-5203
+	Line numbers   : 179-181
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:183: info: Metrics per 'cxd2880_tnrdmd_create_param' region
+	Region name    : cxd2880_tnrdmd_create_param
+	Region type    : struct
+	Offsets        : 5206-5422
+	Line numbers   : 183-191
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:193: info: Metrics per 'cxd2880_tnrdmd_diver_create_param' region
+	Region name    : cxd2880_tnrdmd_diver_create_param
+	Region type    : struct
+	Offsets        : 5425-5624
+	Line numbers   : 193-201
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:203: info: Metrics per 'cxd2880_tnrdmd' region
+	Region name    : cxd2880_tnrdmd
+	Region type    : struct
+	Offsets        : 5627-6706
+	Line numbers   : 203-234
+	Modified       : None
+	std.code.lines:code: 32
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 27.6
+	Minimum        : 3
+	Maximum        : 201
+	Total          : 276.0
+	Distribution   : 10 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.200 : 0.200 :  2	||||||||||||||||||||
+	             4 : 0.300 : 0.500 :  3	||||||||||||||||||||||||||||||
+	             7 : 0.100 : 0.600 :  1	||||||||||
+	             9 : 0.200 : 0.800 :  2	||||||||||||||||||||
+	            32 : 0.100 : 0.900 :  1	||||||||||
+	           201 : 0.100 : 1.000 :  1	||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1619
+	Line numbers   : 1-75
+	Modified       : None
+	std.code.lines:code: 39
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt.h:59: info: Metrics per 'cxd2880_dvbt_tpsinfo' region
+	Region name    : cxd2880_dvbt_tpsinfo
+	Region type    : struct
+	Offsets        : 1255-1609
+	Line numbers   : 59-72
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dvbt.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 26.5
+	Minimum        : 14
+	Maximum        : 39
+	Total          : 53.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            39 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_devio_spi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-499
+	Line numbers   : 1-24
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_devio_spi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_devio_spi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 3
+	Maximum        : 3
+	Total          : 3.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-747
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880.h:12: info: Metrics per 'cxd2880_config' region
+	Region name    : cxd2880_config
+	Region type    : struct
+	Offsets        : 246-361
+	Line numbers   : 12-15
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880.h:21: info: Metrics per 'cxd2880_attach' region
+	Region name    : cxd2880_attach
+	Region type    : function
+	Offsets        : 503-690
+	Line numbers   : 20-26
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.33333333
+	Minimum        : 3
+	Maximum        : 6
+	Total          : 13.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             4 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dtv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-592
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dtv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_dtv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 14
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-458
+	Line numbers   : 1-21
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 1.0
+	Minimum        : 1
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt2_mon.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3658
+	Line numbers   : 1-136
+	Modified       : None
+	std.code.lines:code: 94
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt2_mon.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt2_mon.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 94.0
+	Minimum        : 94
+	Maximum        : 94
+	Total          : 94.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            94 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi_device.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-635
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi_device.h:15: info: Metrics per 'cxd2880_spi_device' region
+	Region name    : cxd2880_spi_device
+	Region type    : struct
+	Offsets        : 310-364
+	Line numbers   : 15-17
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi_device.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_spi_device.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 3
+	Maximum        : 6
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt_mon.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2043
+	Line numbers   : 1-78
+	Modified       : None
+	std.code.lines:code: 47
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt_mon.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_tnrdmd_dvbt_mon.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 47.0
+	Minimum        : 47
+	Maximum        : 47
+	Total          : 47.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            47 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_integ.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-648
+	Line numbers   : 1-28
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_integ.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/cxd2880/cxd2880_integ.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/lgs8gxx_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1899
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/lgs8gxx_priv.h:15: info: Metrics per 'lgs8gxx_state' region
+	Region name    : lgs8gxx_state
+	Region type    : struct
+	Offsets        : 461-653
+	Line numbers   : 15-21
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/lgs8gxx_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/lgs8gxx_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.5
+	Minimum        : 1
+	Maximum        : 6
+	Total          : 7.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/zl10039.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-611
+	Line numbers   : 1-27
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/zl10039.h:17: info: Metrics per 'zl10039_attach' region
+	Region name    : zl10039_attach
+	Region type    : function
+	Offsets        : 340-554
+	Line numbers   : 16-23
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/zl10039.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/zl10039.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/drxd_map_firm.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-75724
+	Line numbers   : 1-998
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/drxd_map_firm.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/drxd_map_firm.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv0900_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-9444
+	Line numbers   : 1-394
+	Modified       : None
+	std.code.lines:code: 195
+
+./drivers/media/dvb-frontends/stv0900_priv.h:46: info: Metrics per 'stv000_lookpoint' region
+	Region name    : stv000_lookpoint
+	Region type    : struct
+	Offsets        : 909-1033
+	Line numbers   : 45-49
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/stv0900_priv.h:52: info: Metrics per 'stv0900_table' region
+	Region name    : stv0900_table
+	Region type    : struct
+	Offsets        : 1036-1203
+	Line numbers   : 51-55
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/stv0900_priv.h:225: info: Metrics per 'stv0900_init_params' region
+	Region name    : stv0900_init_params
+	Region type    : struct
+	Offsets        : 4524-5138
+	Line numbers   : 225-248
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/dvb-frontends/stv0900_priv.h:250: info: Metrics per 'stv0900_search_params' region
+	Region name    : stv0900_search_params
+	Region type    : struct
+	Offsets        : 5141-5624
+	Line numbers   : 250-264
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/dvb-frontends/stv0900_priv.h:266: info: Metrics per 'stv0900_signal_info' region
+	Region name    : stv0900_signal_info
+	Region type    : struct
+	Offsets        : 5627-6235
+	Line numbers   : 266-284
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/dvb-frontends/stv0900_priv.h:286: info: Metrics per 'stv0900_internal' region
+	Region name    : stv0900_internal
+	Region type    : struct
+	Offsets        : 6238-7275
+	Line numbers   : 286-323
+	Modified       : None
+	std.code.lines:code: 26
+
+./drivers/media/dvb-frontends/stv0900_priv.h:326: info: Metrics per 'stv0900_state' region
+	Region name    : stv0900_state
+	Region type    : struct
+	Offsets        : 7278-7544
+	Line numbers   : 325-333
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/stv0900_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/stv0900_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 35.0
+	Minimum        : 4
+	Maximum        : 195
+	Total          : 280.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.250 : 0.250 : 2	|||||||||||||||||||||||||
+	             7 : 0.125 : 0.375 : 1	||||||||||||
+	            12 : 0.125 : 0.500 : 1	||||||||||||
+	            16 : 0.250 : 0.750 : 2	|||||||||||||||||||||||||
+	            26 : 0.125 : 0.875 : 1	||||||||||||
+	           195 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/media/dvb-frontends/cx24113.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-945
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/cx24113.h:13: info: Metrics per 'cx24113_config' region
+	Region name    : cx24113_config
+	Region type    : struct
+	Offsets        : 236-310
+	Line numbers   : 13-17
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cx24113.h:25: info: Metrics per 'cx24113_attach' region
+	Region name    : cx24113_attach
+	Region type    : function
+	Offsets        : 546-775
+	Line numbers   : 24-30
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/cx24113.h:32: info: Metrics per 'cx24113_agc_callback' region
+	Region name    : cx24113_agc_callback
+	Region type    : function
+	Offsets        : 777-913
+	Line numbers   : 32-35
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/cx24113.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/cx24113.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.75
+	Minimum        : 4
+	Maximum        : 6
+	Total          : 19.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	             6 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/ts2020.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1547
+	Line numbers   : 1-75
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/ts2020.h:15: info: Metrics per 'ts2020_config' region
+	Region name    : ts2020_config
+	Region type    : struct
+	Offsets        : 297-1044
+	Line numbers   : 15-55
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/dvb-frontends/ts2020.h:64: info: Metrics per 'ts2020_attach' region
+	Region name    : ts2020_attach
+	Region type    : function
+	Offsets        : 1286-1516
+	Line numbers   : 63-71
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/ts2020.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/ts2020.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.0
+	Minimum        : 5
+	Maximum        : 11
+	Total          : 24.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             8 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            11 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/mxl692.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-555
+	Line numbers   : 1-30
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/mxl692.h:19: info: Metrics per 'mxl692_config' region
+	Region name    : mxl692_config
+	Region type    : struct
+	Offsets        : 398-528
+	Line numbers   : 19-27
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/mxl692.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/mxl692.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 3.0
+	Minimum        : 1
+	Maximum        : 5
+	Total          : 6.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/tda18271c2dd.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-464
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/dvb-frontends/tda18271c2dd.h:9: info: Metrics per 'tda18271c2dd_attach' region
+	Region name    : tda18271c2dd_attach
+	Region type    : function
+	Offsets        : 238-448
+	Line numbers   : 8-14
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/tda18271c2dd.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/tda18271c2dd.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 2
+	Maximum        : 6
+	Total          : 8.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/drxk_map.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-37485
+	Line numbers   : 1-456
+	Modified       : None
+	std.code.lines:code: 0
+
+./drivers/media/dvb-frontends/drxk_map.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/drxk_map.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/rtl2832_sdr.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1334
+	Line numbers   : 1-48
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/dvb-frontends/rtl2832_sdr.h:27: info: Metrics per 'rtl2832_sdr_platform_data' region
+	Region name    : rtl2832_sdr_platform_data
+	Region type    : struct
+	Offsets        : 386-1304
+	Line numbers   : 18-45
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/rtl2832_sdr.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/rtl2832_sdr.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 1
+	Maximum        : 8
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv6110x.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1790
+	Line numbers   : 1-65
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/dvb-frontends/stv6110x.h:14: info: Metrics per 'stv6110x_config' region
+	Region name    : stv6110x_config
+	Region type    : struct
+	Offsets        : 222-423
+	Line numbers   : 14-21
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/stv6110x.h:32: info: Metrics per 'stv6110x_devctl' region
+	Region name    : stv6110x_devctl
+	Region type    : struct
+	Offsets        : 527-1255
+	Line numbers   : 32-44
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/dvb-frontends/stv6110x.h:54: info: Metrics per 'stv6110x_attach' region
+	Region name    : stv6110x_attach
+	Region type    : function
+	Offsets        : 1465-1728
+	Line numbers   : 53-60
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/stv6110x.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv6110x.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.75
+	Minimum        : 7
+	Maximum        : 13
+	Total          : 39.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            12 : 0.250 : 0.750 : 1	|||||||||||||||||||||||||
+	            13 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv0367_defs.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-44037
+	Line numbers   : 1-1292
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/stv0367_defs.h:26: info: Metrics per 'st_register' region
+	Region name    : st_register
+	Region type    : struct
+	Offsets        : 552-596
+	Line numbers   : 26-29
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/stv0367_defs.h:32: info: Metrics per 'st_register' region
+	Region name    : st_register
+	Region type    : struct
+	Offsets        : 599-13485
+	Line numbers   : 31-480
+	Modified       : None
+	std.code.lines:code: 448
+
+./drivers/media/dvb-frontends/stv0367_defs.h:482: info: Metrics per 'st_register' region
+	Region name    : st_register
+	Region type    : struct
+	Offsets        : 13488-19376
+	Line numbers   : 482-672
+	Modified       : None
+	std.code.lines:code: 190
+
+./drivers/media/dvb-frontends/stv0367_defs.h:680: info: Metrics per 'st_register' region
+	Region name    : st_register
+	Region type    : struct
+	Offsets        : 19482-36126
+	Line numbers   : 680-1086
+	Modified       : None
+	std.code.lines:code: 407
+
+./drivers/media/dvb-frontends/stv0367_defs.h:1088: info: Metrics per 'st_register' region
+	Region name    : st_register
+	Region type    : struct
+	Offsets        : 36129-43006
+	Line numbers   : 1088-1251
+	Modified       : None
+	std.code.lines:code: 164
+
+./drivers/media/dvb-frontends/stv0367_defs.h:1253: info: Metrics per 'st_register' region
+	Region name    : st_register
+	Region type    : struct
+	Offsets        : 43009-43727
+	Line numbers   : 1253-1277
+	Modified       : None
+	std.code.lines:code: 25
+
+./drivers/media/dvb-frontends/stv0367_defs.h:1283: info: Metrics per 'st_register' region
+	Region name    : st_register
+	Region type    : struct
+	Offsets        : 43757-44027
+	Line numbers   : 1283-1289
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/stv0367_defs.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/stv0367_defs.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 156.25
+	Minimum        : 4
+	Maximum        : 448
+	Total          : 1250.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.125 : 0.125 : 1	||||||||||||
+	             5 : 0.125 : 0.250 : 1	||||||||||||
+	             7 : 0.125 : 0.375 : 1	||||||||||||
+	            25 : 0.125 : 0.500 : 1	||||||||||||
+	           164 : 0.125 : 0.625 : 1	||||||||||||
+	           190 : 0.125 : 0.750 : 1	||||||||||||
+	           407 : 0.125 : 0.875 : 1	||||||||||||
+	           448 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/media/dvb-frontends/ascot2e.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1527
+	Line numbers   : 1-58
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/ascot2e.h:27: info: Metrics per 'ascot2e_config' region
+	Region name    : ascot2e_config
+	Region type    : struct
+	Offsets        : 402-850
+	Line numbers   : 19-32
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/ascot2e.h:48: info: Metrics per 'ascot2e_attach' region
+	Region name    : ascot2e_attach
+	Region type    : function
+	Offsets        : 1273-1511
+	Line numbers   : 47-54
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/ascot2e.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/ascot2e.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.66666667
+	Minimum        : 4
+	Maximum        : 7
+	Total          : 17.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv0288.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1297
+	Line numbers   : 1-55
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/stv0288.h:21: info: Metrics per 'stv0288_config' region
+	Region name    : stv0288_config
+	Region type    : struct
+	Offsets        : 472-692
+	Line numbers   : 21-31
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/stv0288.h:37: info: Metrics per 'stv0288_attach' region
+	Region name    : stv0288_attach
+	Region type    : function
+	Offsets        : 846-1057
+	Line numbers   : 36-42
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/stv0288.h:45: info: Metrics per 'stv0288_writereg' region
+	Region name    : stv0288_writereg
+	Region type    : function
+	Offsets        : 1091-1272
+	Line numbers   : 45-52
+	Modified       : None
+	std.code.complexity:cyclomatic: 1
+	std.code.lines:code: 8
+
+./drivers/media/dvb-frontends/stv0288.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.5
+	Minimum        : 0
+	Maximum        : 1
+	Total          : 1.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             1 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/stv0288.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.75
+	Minimum        : 3
+	Maximum        : 8
+	Total          : 23.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             6 : 0.500 : 0.750 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.250 : 1.000 : 1	|||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/dibx000_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6223
+	Line numbers   : 1-279
+	Modified       : None
+	std.code.lines:code: 66
+
+./drivers/media/dvb-frontends/dibx000_common.h:12: info: Metrics per 'dibx000_i2c_master' region
+	Region name    : dibx000_i2c_master
+	Region type    : struct
+	Offsets        : 267-878
+	Line numbers   : 12-38
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/dvb-frontends/dibx000_common.h:64: info: Metrics per 'dibx000_agc_config' region
+	Region name    : dibx000_agc_config
+	Region type    : struct
+	Offsets        : 1797-2425
+	Line numbers   : 64-113
+	Modified       : None
+	std.code.lines:code: 31
+
+./drivers/media/dvb-frontends/dibx000_common.h:107: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 2349-2416
+	Line numbers   : 107-112
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/dibx000_common.h:115: info: Metrics per 'dibx000_bandwidth_config' region
+	Region name    : dibx000_bandwidth_config
+	Region type    : struct
+	Offsets        : 2428-2707
+	Line numbers   : 115-137
+	Modified       : None
+	std.code.lines:code: 18
+
+./drivers/media/dvb-frontends/dibx000_common.h:205: info: Metrics per 'dvb_frontend_parametersContext' region
+	Region name    : dvb_frontend_parametersContext
+	Region type    : struct
+	Offsets        : 4020-4234
+	Line numbers   : 205-212
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/dibx000_common.h:230: info: Metrics per 'dibGPIOFunction' region
+	Region name    : dibGPIOFunction
+	Region type    : struct
+	Offsets        : 4816-5775
+	Line numbers   : 230-256
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/dibx000_common.h:259: info: Metrics per 'dibSubbandSelection' region
+	Region name    : dibSubbandSelection
+	Region type    : struct
+	Offsets        : 5778-5963
+	Line numbers   : 258-265
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/dibx000_common.h:261: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 5846-5935
+	Line numbers   : 260-264
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/dibx000_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/dibx000_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 17.44444444
+	Minimum        : 4
+	Maximum        : 66
+	Total          : 157.0
+	Distribution   : 9 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.222 : 0.222 : 2	||||||||||||||||||||||
+	             6 : 0.222 : 0.444 : 2	||||||||||||||||||||||
+	             7 : 0.111 : 0.556 : 1	|||||||||||
+	            15 : 0.111 : 0.667 : 1	|||||||||||
+	            18 : 0.111 : 0.778 : 1	|||||||||||
+	            31 : 0.111 : 0.889 : 1	|||||||||||
+	            66 : 0.111 : 1.000 : 1	|||||||||||
+
+./drivers/media/dvb-frontends/stb0899_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-6668
+	Line numbers   : 1-252
+	Modified       : None
+	std.code.lines:code: 96
+
+./drivers/media/dvb-frontends/stb0899_priv.h:130: info: Metrics per 'stb0899_tab' region
+	Region name    : stb0899_tab
+	Region type    : struct
+	Offsets        : 2844-2888
+	Line numbers   : 130-133
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/stb0899_priv.h:144: info: Metrics per 'stb0899_params' region
+	Region name    : stb0899_params
+	Region type    : struct
+	Offsets        : 3063-3181
+	Line numbers   : 144-148
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/stb0899_priv.h:150: info: Metrics per 'stb0899_internal' region
+	Region name    : stb0899_internal
+	Region type    : struct
+	Offsets        : 3184-4878
+	Line numbers   : 150-195
+	Modified       : None
+	std.code.lines:code: 36
+
+./drivers/media/dvb-frontends/stb0899_priv.h:197: info: Metrics per 'stb0899_state' region
+	Region name    : stb0899_state
+	Region type    : struct
+	Offsets        : 4881-5299
+	Line numbers   : 197-212
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/dvb-frontends/stb0899_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/stb0899_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 30.4
+	Minimum        : 4
+	Maximum        : 96
+	Total          : 152.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.200 : 0.200 : 1	||||||||||||||||||||
+	             5 : 0.200 : 0.400 : 1	||||||||||||||||||||
+	            11 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	            36 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	            96 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/media/dvb-frontends/af9033_priv.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-41796
+	Line numbers   : 1-1992
+	Modified       : None
+	std.code.lines:code: 27
+
+./drivers/media/dvb-frontends/af9033_priv.h:19: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 405-443
+	Line numbers   : 19-22
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/af9033_priv.h:24: info: Metrics per 'reg_val_mask' region
+	Region name    : reg_val_mask
+	Region type    : struct
+	Offsets        : 446-500
+	Line numbers   : 24-28
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/af9033_priv.h:30: info: Metrics per 'coeff' region
+	Region name    : coeff
+	Region type    : struct
+	Offsets        : 503-563
+	Line numbers   : 30-34
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/dvb-frontends/af9033_priv.h:36: info: Metrics per 'clock_adc' region
+	Region name    : clock_adc
+	Region type    : struct
+	Offsets        : 566-608
+	Line numbers   : 36-39
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/af9033_priv.h:41: info: Metrics per 'val_snr' region
+	Region name    : val_snr
+	Region type    : struct
+	Offsets        : 611-648
+	Line numbers   : 41-44
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/af9033_priv.h:47: info: Metrics per 'clock_adc' region
+	Region name    : clock_adc
+	Region type    : struct
+	Offsets        : 651-1021
+	Line numbers   : 46-59
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/dvb-frontends/af9033_priv.h:62: info: Metrics per 'coeff' region
+	Region name    : coeff
+	Region type    : struct
+	Offsets        : 1024-1884
+	Line numbers   : 61-82
+	Modified       : None
+	std.code.lines:code: 20
+
+./drivers/media/dvb-frontends/af9033_priv.h:87: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 1887-4236
+	Line numbers   : 84-196
+	Modified       : None
+	std.code.lines:code: 110
+
+./drivers/media/dvb-frontends/af9033_priv.h:202: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 4239-5143
+	Line numbers   : 198-240
+	Modified       : None
+	std.code.lines:code: 39
+
+./drivers/media/dvb-frontends/af9033_priv.h:246: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 5146-6446
+	Line numbers   : 242-303
+	Modified       : None
+	std.code.lines:code: 58
+
+./drivers/media/dvb-frontends/af9033_priv.h:309: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 6449-7371
+	Line numbers   : 305-348
+	Modified       : None
+	std.code.lines:code: 40
+
+./drivers/media/dvb-frontends/af9033_priv.h:354: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 7374-8134
+	Line numbers   : 350-385
+	Modified       : None
+	std.code.lines:code: 32
+
+./drivers/media/dvb-frontends/af9033_priv.h:391: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 8137-8814
+	Line numbers   : 387-421
+	Modified       : None
+	std.code.lines:code: 31
+
+./drivers/media/dvb-frontends/af9033_priv.h:427: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 8817-9651
+	Line numbers   : 423-462
+	Modified       : None
+	std.code.lines:code: 36
+
+./drivers/media/dvb-frontends/af9033_priv.h:467: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 9654-12008
+	Line numbers   : 464-576
+	Modified       : None
+	std.code.lines:code: 110
+
+./drivers/media/dvb-frontends/af9033_priv.h:582: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 12011-16600
+	Line numbers   : 578-795
+	Modified       : None
+	std.code.lines:code: 214
+
+./drivers/media/dvb-frontends/af9033_priv.h:801: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 16603-21205
+	Line numbers   : 797-1014
+	Modified       : None
+	std.code.lines:code: 214
+
+./drivers/media/dvb-frontends/af9033_priv.h:1020: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 21208-25810
+	Line numbers   : 1016-1233
+	Modified       : None
+	std.code.lines:code: 214
+
+./drivers/media/dvb-frontends/af9033_priv.h:1238: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 25813-27903
+	Line numbers   : 1235-1334
+	Modified       : None
+	std.code.lines:code: 97
+
+./drivers/media/dvb-frontends/af9033_priv.h:1340: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 27906-32432
+	Line numbers   : 1336-1550
+	Modified       : None
+	std.code.lines:code: 211
+
+./drivers/media/dvb-frontends/af9033_priv.h:1556: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 32435-36974
+	Line numbers   : 1552-1766
+	Modified       : None
+	std.code.lines:code: 211
+
+./drivers/media/dvb-frontends/af9033_priv.h:1772: info: Metrics per 'reg_val' region
+	Region name    : reg_val
+	Region type    : struct
+	Offsets        : 36977-41537
+	Line numbers   : 1768-1983
+	Modified       : None
+	std.code.lines:code: 212
+
+./drivers/media/dvb-frontends/af9033_priv.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/dvb-frontends/af9033_priv.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 83.08695652
+	Minimum        : 4
+	Maximum        : 214
+	Total          : 1911.0
+	Distribution   : 23 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.130 : 0.130 :  3	|||||||||||||
+	             5 : 0.087 : 0.217 :  2	||||||||
+	            13 : 0.043 : 0.261 :  1	||||
+	            20 : 0.043 : 0.304 :  1	||||
+	            27 : 0.043 : 0.348 :  1	||||
+	            31 : 0.043 : 0.391 :  1	||||
+	            32 : 0.043 : 0.435 :  1	||||
+	            36 : 0.043 : 0.478 :  1	||||
+	            39 : 0.043 : 0.522 :  1	||||
+	            40 : 0.043 : 0.565 :  1	||||
+	            58 : 0.043 : 0.609 :  1	||||
+	            97 : 0.043 : 0.652 :  1	||||
+	           110 : 0.087 : 0.739 :  2	||||||||
+	           211 : 0.087 : 0.826 :  2	||||||||
+	           212 : 0.043 : 0.870 :  1	||||
+	           214 : 0.130 : 1.000 :  3	|||||||||||||
+
+./drivers/media/dvb-frontends/tda10048.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1641
+	Line numbers   : 1-78
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/dvb-frontends/tda10048.h:16: info: Metrics per 'tda10048_config' region
+	Region name    : tda10048_config
+	Region type    : struct
+	Offsets        : 263-1222
+	Line numbers   : 16-61
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/dvb-frontends/tda10048.h:68: info: Metrics per 'tda10048_attach' region
+	Region name    : tda10048_attach
+	Region type    : function
+	Offsets        : 1374-1582
+	Line numbers   : 67-74
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/tda10048.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/tda10048.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 4
+	Maximum        : 16
+	Total          : 27.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            16 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/s5h1432.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2047
+	Line numbers   : 1-77
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/s5h1432.h:22: info: Metrics per 's5h1432_config' region
+	Region name    : s5h1432_config
+	Region type    : struct
+	Offsets        : 535-1613
+	Line numbers   : 22-61
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/dvb-frontends/s5h1432.h:67: info: Metrics per 's5h1432_attach' region
+	Region name    : s5h1432_attach
+	Region type    : function
+	Offsets        : 1767-1986
+	Line numbers   : 66-73
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/s5h1432.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/s5h1432.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.33333333
+	Minimum        : 3
+	Maximum        : 9
+	Total          : 19.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             9 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/ds3000.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-991
+	Line numbers   : 1-38
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/dvb-frontends/ds3000.h:15: info: Metrics per 'ds3000_config' region
+	Region name    : ds3000_config
+	Region type    : struct
+	Offsets        : 303-583
+	Line numbers   : 15-23
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/dvb-frontends/ds3000.h:30: info: Metrics per 'ds3000_attach' region
+	Region name    : ds3000_attach
+	Region type    : function
+	Offsets        : 731-937
+	Line numbers   : 28-35
+	Modified       : None
+	std.code.complexity:cyclomatic: 0
+	std.code.lines:code: 7
+
+./drivers/media/dvb-frontends/ds3000.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : 0.0
+	Minimum        : 0
+	Maximum        : 0
+	Total          : 0.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             0 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/dvb-frontends/ds3000.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.33333333
+	Minimum        : 3
+	Maximum        : 7
+	Total          : 16.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	             6 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	             7 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vimc/vimc-streamer.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1343
+	Line numbers   : 1-46
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vimc/vimc-streamer.h:34: info: Metrics per 'vimc_stream' region
+	Region name    : vimc_stream
+	Region type    : struct
+	Offsets        : 325-1202
+	Line numbers   : 18-39
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vimc/vimc-streamer.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vimc/vimc-streamer.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 4
+	Maximum        : 6
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vimc/vimc-common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-7498
+	Line numbers   : 1-242
+	Modified       : None
+	std.code.lines:code: 29
+
+./drivers/media/test-drivers/vimc/vimc-common.h:82: info: Metrics per 'vimc_pix_map' region
+	Region name    : vimc_pix_map
+	Region type    : struct
+	Offsets        : 2113-2671
+	Line numbers   : 71-87
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vimc/vimc-common.h:108: info: Metrics per 'vimc_ent_device' region
+	Region name    : vimc_ent_device
+	Region type    : struct
+	Offsets        : 2674-3768
+	Line numbers   : 89-115
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vimc/vimc-common.h:125: info: Metrics per 'vimc_device' region
+	Region name    : vimc_device
+	Region type    : struct
+	Offsets        : 3771-4197
+	Line numbers   : 117-130
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vimc/vimc-common.h:142: info: Metrics per 'vimc_ent_type' region
+	Region name    : vimc_ent_type
+	Region type    : struct
+	Offsets        : 4200-4732
+	Line numbers   : 132-147
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vimc/vimc-common.h:157: info: Metrics per 'vimc_ent_config' region
+	Region name    : vimc_ent_config
+	Region type    : struct
+	Offsets        : 4735-5000
+	Line numbers   : 149-160
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vimc/vimc-common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vimc/vimc-common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.83333333
+	Minimum        : 4
+	Maximum        : 29
+	Total          : 59.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.167 : 0.167 : 1	||||||||||||||||
+	             6 : 0.500 : 0.667 : 3	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             8 : 0.167 : 0.833 : 1	||||||||||||||||
+	            29 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_encoder.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3843
+	Line numbers   : 1-166
+	Modified       : None
+	std.code.lines:code: 69
+
+./drivers/media/test-drivers/vidtv/vidtv_encoder.h:22: info: Metrics per 'vidtv_access_unit' region
+	Region name    : vidtv_access_unit
+	Region type    : struct
+	Offsets        : 509-634
+	Line numbers   : 22-29
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_encoder.h:127: info: Metrics per 'vidtv_encoder' region
+	Region name    : vidtv_encoder
+	Region type    : struct
+	Offsets        : 1816-3811
+	Line numbers   : 98-163
+	Modified       : None
+	std.code.lines:code: 23
+
+./drivers/media/test-drivers/vidtv/vidtv_encoder.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_encoder.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 33.33333333
+	Minimum        : 8
+	Maximum        : 69
+	Total          : 100.0
+	Distribution   : 3 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             8 : 0.333 : 0.333 : 1	|||||||||||||||||||||||||||||||||
+	            23 : 0.333 : 0.667 : 1	|||||||||||||||||||||||||||||||||
+	            69 : 0.333 : 1.000 : 1	|||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_tuner.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1488
+	Line numbers   : 1-45
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/test-drivers/vidtv/vidtv_tuner.h:34: info: Metrics per 'vidtv_tuner_config' region
+	Region name    : vidtv_tuner_config
+	Region type    : struct
+	Offsets        : 423-1462
+	Line numbers   : 19-42
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vidtv/vidtv_tuner.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_tuner.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 1
+	Maximum        : 9
+	Total          : 10.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_bridge.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2322
+	Line numbers   : 1-73
+	Modified       : None
+	std.code.lines:code: 1
+
+./drivers/media/test-drivers/vidtv/vidtv_bridge.h:49: info: Metrics per 'vidtv_dvb' region
+	Region name    : vidtv_dvb
+	Region type    : struct
+	Offsets        : 793-2295
+	Line numbers   : 32-70
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/test-drivers/vidtv/vidtv_bridge.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_bridge.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.5
+	Minimum        : 1
+	Maximum        : 16
+	Total          : 17.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             1 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            16 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2739
+	Line numbers   : 1-107
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:23: info: Metrics per 'vidtv_mpeg_ts_adaption' region
+	Region name    : vidtv_mpeg_ts_adaption
+	Region type    : struct
+	Offsets        : 601-828
+	Line numbers   : 23-36
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:25: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 646-804
+	Line numbers   : 25-34
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:38: info: Metrics per 'vidtv_mpeg_ts' region
+	Region name    : vidtv_mpeg_ts
+	Region type    : struct
+	Offsets        : 840-1057
+	Line numbers   : 38-47
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:41: info: Metrics per '__noname__' region
+	Region name    : __noname__
+	Region type    : struct
+	Offsets        : 896-1045
+	Line numbers   : 40-46
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:58: info: Metrics per 'pcr_write_args' region
+	Region name    : pcr_write_args
+	Region type    : struct
+	Offsets        : 1069-1533
+	Line numbers   : 49-65
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:74: info: Metrics per 'null_packet_write_args' region
+	Region name    : null_packet_write_args
+	Region type    : struct
+	Offsets        : 1536-1914
+	Line numbers   : 67-79
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_ts.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.71428571
+	Minimum        : 5
+	Maximum        : 10
+	Total          : 47.0
+	Distribution   : 7 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.286 : 0.286 : 2	||||||||||||||||||||||||||||
+	             6 : 0.286 : 0.571 : 2	||||||||||||||||||||||||||||
+	             7 : 0.143 : 0.714 : 1	||||||||||||||
+	             8 : 0.143 : 0.857 : 1	||||||||||||||
+	            10 : 0.143 : 1.000 : 1	||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_channel.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3010
+	Line numbers   : 1-82
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_channel.h:53: info: Metrics per 'vidtv_channel' region
+	Region name    : vidtv_channel
+	Region type    : struct
+	Offsets        : 1005-2450
+	Line numbers   : 31-63
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/vidtv/vidtv_channel.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_channel.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 7
+	Maximum        : 11
+	Total          : 18.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             7 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            11 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5371
+	Line numbers   : 1-194
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:25: info: Metrics per 'vidtv_pes_optional_pts' region
+	Region name    : vidtv_pes_optional_pts
+	Region type    : struct
+	Offsets        : 715-827
+	Line numbers   : 24-29
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:32: info: Metrics per 'vidtv_pes_optional_pts_dts' region
+	Region name    : vidtv_pes_optional_pts_dts
+	Region type    : struct
+	Offsets        : 839-994
+	Line numbers   : 31-40
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:43: info: Metrics per 'vidtv_pes_optional' region
+	Region name    : vidtv_pes_optional
+	Region type    : struct
+	Offsets        : 1006-1571
+	Line numbers   : 42-65
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:68: info: Metrics per 'vidtv_mpeg_pes' region
+	Region name    : vidtv_mpeg_pes
+	Region type    : struct
+	Offsets        : 1583-1812
+	Line numbers   : 67-73
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:91: info: Metrics per 'pes_header_write_args' region
+	Region name    : pes_header_write_args
+	Region type    : struct
+	Offsets        : 1824-2797
+	Line numbers   : 75-107
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:121: info: Metrics per 'pes_ts_header_write_args' region
+	Region name    : pes_ts_header_write_args
+	Region type    : struct
+	Offsets        : 2800-3529
+	Line numbers   : 109-130
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:152: info: Metrics per 'pes_write_args' region
+	Region name    : pes_write_args
+	Region type    : struct
+	Offsets        : 3532-4694
+	Line numbers   : 132-175
+	Modified       : None
+	std.code.lines:code: 17
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_pes.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 8.75
+	Minimum        : 4
+	Maximum        : 17
+	Total          : 70.0
+	Distribution   : 8 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.125 : 0.125 : 1	||||||||||||
+	             5 : 0.250 : 0.375 : 2	|||||||||||||||||||||||||
+	             8 : 0.250 : 0.625 : 2	|||||||||||||||||||||||||
+	            10 : 0.125 : 0.750 : 1	||||||||||||
+	            13 : 0.125 : 0.875 : 1	||||||||||||
+	            17 : 0.125 : 1.000 : 1	||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_s302m.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2648
+	Line numbers   : 1-98
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_s302m.h:40: info: Metrics per 'vidtv_s302m_ctx' region
+	Region name    : vidtv_s302m_ctx
+	Region type    : struct
+	Offsets        : 845-1392
+	Line numbers   : 31-47
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_s302m.h:54: info: Metrics per 'vidtv_smpte_s302m_es' region
+	Region name    : vidtv_smpte_s302m_es
+	Region type    : struct
+	Offsets        : 1395-1698
+	Line numbers   : 49-64
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/vidtv/vidtv_s302m.h:66: info: Metrics per 'vidtv_s302m_frame_16' region
+	Region name    : vidtv_s302m_frame_16
+	Region type    : struct
+	Offsets        : 1710-1754
+	Line numbers   : 66-68
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/vidtv/vidtv_s302m.h:81: info: Metrics per 'vidtv_s302m_encoder_init_args' region
+	Region name    : vidtv_s302m_encoder_init_args
+	Region type    : struct
+	Offsets        : 1766-2460
+	Line numbers   : 70-90
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vidtv/vidtv_s302m.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_s302m.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 6.0
+	Minimum        : 3
+	Maximum        : 9
+	Total          : 30.0
+	Distribution   : 5 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.400 : 0.400 : 2	||||||||||||||||||||||||||||||||||||||||
+	             7 : 0.200 : 0.600 : 1	||||||||||||||||||||
+	             8 : 0.200 : 0.800 : 1	||||||||||||||||||||
+	             9 : 0.200 : 1.000 : 1	||||||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-25481
+	Line numbers   : 1-810
+	Modified       : None
+	std.code.lines:code: 145
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:51: info: Metrics per 'vidtv_psi_desc' region
+	Region name    : vidtv_psi_desc
+	Region type    : struct
+	Offsets        : 1733-2061
+	Line numbers   : 46-56
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:62: info: Metrics per 'vidtv_psi_desc_service' region
+	Region name    : vidtv_psi_desc_service
+	Region type    : struct
+	Offsets        : 2073-2366
+	Line numbers   : 58-72
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:78: info: Metrics per 'vidtv_psi_desc_registration' region
+	Region name    : vidtv_psi_desc_registration
+	Region type    : struct
+	Offsets        : 2378-2948
+	Line numbers   : 74-94
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:100: info: Metrics per 'vidtv_psi_desc_network_name' region
+	Region name    : vidtv_psi_desc_network_name
+	Region type    : struct
+	Offsets        : 2960-3190
+	Line numbers   : 96-105
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:107: info: Metrics per 'vidtv_psi_desc_service_list_entry' region
+	Region name    : vidtv_psi_desc_service_list_entry
+	Region type    : struct
+	Offsets        : 3202-3333
+	Line numbers   : 107-111
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:117: info: Metrics per 'vidtv_psi_desc_service_list' region
+	Region name    : vidtv_psi_desc_service_list
+	Region type    : struct
+	Offsets        : 3345-3611
+	Line numbers   : 113-122
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:128: info: Metrics per 'vidtv_psi_desc_short_event' region
+	Region name    : vidtv_psi_desc_short_event
+	Region type    : struct
+	Offsets        : 3623-3921
+	Line numbers   : 124-137
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:148: info: Metrics per 'vidtv_psi_table_header' region
+	Region name    : vidtv_psi_table_header
+	Region type    : struct
+	Offsets        : 4101-4466
+	Line numbers   : 145-159
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:165: info: Metrics per 'vidtv_psi_table_pat_program' region
+	Region name    : vidtv_psi_table_pat_program
+	Region type    : struct
+	Offsets        : 4478-4758
+	Line numbers   : 161-169
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:175: info: Metrics per 'vidtv_psi_table_pat' region
+	Region name    : vidtv_psi_table_pat
+	Region type    : struct
+	Offsets        : 4770-5022
+	Line numbers   : 171-180
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:186: info: Metrics per 'vidtv_psi_table_sdt_service' region
+	Region name    : vidtv_psi_table_sdt_service
+	Region type    : struct
+	Offsets        : 5034-5433
+	Line numbers   : 182-194
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:201: info: Metrics per 'vidtv_psi_table_sdt' region
+	Region name    : vidtv_psi_table_sdt
+	Region type    : struct
+	Offsets        : 5572-5748
+	Line numbers   : 201-206
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:230: info: Metrics per 'vidtv_psi_table_pmt_stream' region
+	Region name    : vidtv_psi_table_pmt_stream
+	Region type    : struct
+	Offsets        : 6179-6532
+	Line numbers   : 226-236
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:242: info: Metrics per 'vidtv_psi_table_pmt' region
+	Region name    : vidtv_psi_table_pmt
+	Region type    : struct
+	Offsets        : 6544-6905
+	Line numbers   : 238-248
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:263: info: Metrics per 'psi_write_args' region
+	Region name    : psi_write_args
+	Region type    : struct
+	Offsets        : 6917-7615
+	Line numbers   : 250-274
+	Modified       : None
+	std.code.lines:code: 12
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:286: info: Metrics per 'desc_write_args' region
+	Region name    : desc_write_args
+	Region type    : struct
+	Offsets        : 7618-8165
+	Line numbers   : 276-294
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:306: info: Metrics per 'crc32_write_args' region
+	Region name    : crc32_write_args
+	Region type    : struct
+	Offsets        : 8168-8659
+	Line numbers   : 296-313
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:326: info: Metrics per 'header_write_args' region
+	Region name    : header_write_args
+	Region type    : struct
+	Offsets        : 8662-9225
+	Line numbers   : 315-334
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:538: info: Metrics per 'vidtv_psi_pat_write_args' region
+	Region name    : vidtv_psi_pat_write_args
+	Region type    : struct
+	Offsets        : 16127-16583
+	Line numbers   : 529-544
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:570: info: Metrics per 'vidtv_psi_sdt_write_args' region
+	Region name    : vidtv_psi_sdt_write_args
+	Region type    : struct
+	Offsets        : 17493-17625
+	Line numbers   : 570-576
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:603: info: Metrics per 'vidtv_psi_pmt_write_args' region
+	Region name    : vidtv_psi_pmt_write_args
+	Region type    : struct
+	Offsets        : 18210-18800
+	Line numbers   : 592-611
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:652: info: Metrics per 'vidtv_psi_table_transport' region
+	Region name    : vidtv_psi_table_transport
+	Region type    : struct
+	Offsets        : 19987-20550
+	Line numbers   : 642-658
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:670: info: Metrics per 'vidtv_psi_table_nit' region
+	Region name    : vidtv_psi_table_nit
+	Region type    : struct
+	Offsets        : 20562-21175
+	Line numbers   : 660-676
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:693: info: Metrics per 'vidtv_psi_nit_write_args' region
+	Region name    : vidtv_psi_nit_write_args
+	Region type    : struct
+	Offsets        : 21374-21831
+	Line numbers   : 684-699
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:721: info: Metrics per 'vidtv_psi_table_eit_event' region
+	Region name    : vidtv_psi_table_eit_event
+	Region type    : struct
+	Offsets        : 22484-22844
+	Line numbers   : 717-728
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:734: info: Metrics per 'vidtv_psi_table_eit' region
+	Region name    : vidtv_psi_table_eit
+	Region type    : struct
+	Offsets        : 22856-23151
+	Line numbers   : 730-741
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:757: info: Metrics per 'vidtv_psi_eit_write_args' region
+	Region name    : vidtv_psi_eit_write_args
+	Region type    : struct
+	Offsets        : 23288-23746
+	Line numbers   : 748-763
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_psi.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 12.5
+	Minimum        : 5
+	Maximum        : 145
+	Total          : 350.0
+	Distribution   : 28 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.071 : 0.071 :  2	|||||||
+	             6 : 0.179 : 0.250 :  5	|||||||||||||||||
+	             7 : 0.321 : 0.571 :  9	||||||||||||||||||||||||||||||||
+	             8 : 0.107 : 0.679 :  3	||||||||||
+	             9 : 0.143 : 0.821 :  4	||||||||||||||
+	            10 : 0.107 : 0.929 :  3	||||||||||
+	            12 : 0.036 : 0.964 :  1	|||
+	           145 : 0.036 : 1.000 :  1	|||
+
+./drivers/media/test-drivers/vidtv/vidtv_common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-735
+	Line numbers   : 1-33
+	Modified       : None
+	std.code.lines:code: 10
+
+./drivers/media/test-drivers/vidtv/vidtv_common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 10.0
+	Minimum        : 10
+	Maximum        : 10
+	Total          : 10.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            10 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-5638
+	Line numbers   : 1-183
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:40: info: Metrics per 'vidtv_mux_timing' region
+	Region name    : vidtv_mux_timing
+	Region type    : struct
+	Offsets        : 586-1396
+	Line numbers   : 26-49
+	Modified       : None
+	std.code.lines:code: 8
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:65: info: Metrics per 'vidtv_mux_si' region
+	Region name    : vidtv_mux_si
+	Region type    : struct
+	Offsets        : 1399-2159
+	Line numbers   : 51-72
+	Modified       : None
+	std.code.lines:code: 7
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:82: info: Metrics per 'vidtv_mux_pid_ctx' region
+	Region name    : vidtv_mux_pid_ctx
+	Region type    : struct
+	Offsets        : 2162-2639
+	Line numbers   : 74-86
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:113: info: Metrics per 'vidtv_mux' region
+	Region name    : vidtv_mux
+	Region type    : struct
+	Offsets        : 2642-4374
+	Line numbers   : 88-143
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:160: info: Metrics per 'vidtv_mux_init_args' region
+	Region name    : vidtv_mux_init_args
+	Region type    : struct
+	Offsets        : 4377-5345
+	Line numbers   : 145-172
+	Modified       : None
+	std.code.lines:code: 13
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_mux.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 5
+	Maximum        : 22
+	Total          : 66.0
+	Distribution   : 6 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 0.167 : 0.167 : 1	||||||||||||||||
+	             7 : 0.167 : 0.333 : 1	||||||||||||||||
+	             8 : 0.167 : 0.500 : 1	||||||||||||||||
+	            11 : 0.167 : 0.667 : 1	||||||||||||||||
+	            13 : 0.167 : 0.833 : 1	||||||||||||||||
+	            22 : 0.167 : 1.000 : 1	||||||||||||||||
+
+./drivers/media/test-drivers/vidtv/vidtv_demod.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-2105
+	Line numbers   : 1-69
+	Modified       : None
+	std.code.lines:code: 3
+
+./drivers/media/test-drivers/vidtv/vidtv_demod.h:33: info: Metrics per 'vidtv_demod_cnr_to_qual_s' region
+	Region name    : vidtv_demod_cnr_to_qual_s
+	Region type    : struct
+	Offsets        : 475-1155
+	Line numbers   : 18-38
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_demod.h:50: info: Metrics per 'vidtv_demod_config' region
+	Region name    : vidtv_demod_config
+	Region type    : struct
+	Offsets        : 1158-1688
+	Line numbers   : 40-53
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vidtv/vidtv_demod.h:62: info: Metrics per 'vidtv_demod_state' region
+	Region name    : vidtv_demod_state
+	Region type    : struct
+	Offsets        : 1691-2079
+	Line numbers   : 55-67
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vidtv/vidtv_demod.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vidtv/vidtv_demod.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.75
+	Minimum        : 3
+	Maximum        : 6
+	Total          : 19.0
+	Distribution   : 4 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             3 : 0.250 : 0.250 : 1	|||||||||||||||||||||||||
+	             4 : 0.250 : 0.500 : 1	|||||||||||||||||||||||||
+	             6 : 0.500 : 1.000 : 2	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-touch-cap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1224
+	Line numbers   : 1-40
+	Modified       : None
+	std.code.lines:code: 22
+
+./drivers/media/test-drivers/vivid/vivid-touch-cap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-touch-cap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 22.0
+	Minimum        : 22
+	Maximum        : 22
+	Total          : 22.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            22 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-vid-cap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-3487
+	Line numbers   : 1-57
+	Modified       : None
+	std.code.lines:code: 41
+
+./drivers/media/test-drivers/vivid/vivid-vid-cap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-vid-cap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 41.0
+	Minimum        : 41
+	Maximum        : 41
+	Total          : 41.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            41 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-kthread-cap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-429
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/test-drivers/vivid/vivid-kthread-cap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-kthread-cap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-vbi-gen.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-554
+	Line numbers   : 1-22
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vivid/vivid-vbi-gen.h:11: info: Metrics per 'vivid_vbi_gen_data' region
+	Region name    : vivid_vbi_gen_data
+	Region type    : struct
+	Offsets        : 244-340
+	Line numbers   : 11-14
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-vbi-gen.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-vbi-gen.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.5
+	Minimum        : 4
+	Maximum        : 5
+	Total          : 9.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             5 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-vid-common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1528
+	Line numbers   : 1-39
+	Modified       : None
+	std.code.lines:code: 16
+
+./drivers/media/test-drivers/vivid/vivid-vid-common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-vid-common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 16.0
+	Minimum        : 16
+	Maximum        : 16
+	Total          : 16.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            16 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-vbi-out.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-815
+	Line numbers   : 1-23
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vivid/vivid-vbi-out.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-vbi-out.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.0
+	Minimum        : 9
+	Maximum        : 9
+	Total          : 9.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             9 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-vbi-cap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1205
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 14
+
+./drivers/media/test-drivers/vivid/vivid-vbi-cap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-vbi-cap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 14.0
+	Minimum        : 14
+	Maximum        : 14
+	Total          : 14.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            14 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-meta-out.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-652
+	Line numbers   : 1-26
+	Modified       : None
+	std.code.lines:code: 9
+
+./drivers/media/test-drivers/vivid/vivid-meta-out.h:8: info: Metrics per 'vivid_meta_out_buf' region
+	Region name    : vivid_meta_out_buf
+	Region type    : struct
+	Offsets        : 159-247
+	Line numbers   : 8-13
+	Modified       : None
+	std.code.lines:code: 6
+
+./drivers/media/test-drivers/vivid/vivid-meta-out.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-meta-out.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 7.5
+	Minimum        : 6
+	Maximum        : 9
+	Total          : 15.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             6 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	             9 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-kthread-out.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-428
+	Line numbers   : 1-15
+	Modified       : None
+	std.code.lines:code: 2
+
+./drivers/media/test-drivers/vivid/vivid-kthread-out.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-kthread-out.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 2.0
+	Minimum        : 2
+	Maximum        : 2
+	Total          : 2.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             2 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-radio-tx.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-589
+	Line numbers   : 1-18
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-radio-tx.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-radio-tx.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 4.0
+	Minimum        : 4
+	Maximum        : 4
+	Total          : 4.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-rds-gen.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1220
+	Line numbers   : 1-43
+	Modified       : None
+	std.code.lines:code: 4
+
+./drivers/media/test-drivers/vivid/vivid-rds-gen.h:22: info: Metrics per 'vivid_rds_gen' region
+	Region name    : vivid_rds_gen
+	Region type    : struct
+	Offsets        : 784-1064
+	Line numbers   : 22-36
+	Modified       : None
+	std.code.lines:code: 15
+
+./drivers/media/test-drivers/vivid/vivid-rds-gen.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-rds-gen.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 9.5
+	Minimum        : 4
+	Maximum        : 15
+	Total          : 19.0
+	Distribution   : 2 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             4 : 0.500 : 0.500 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+	            15 : 0.500 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-radio-common.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-966
+	Line numbers   : 1-29
+	Modified       : None
+	std.code.lines:code: 5
+
+./drivers/media/test-drivers/vivid/vivid-radio-common.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-radio-common.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 5.0
+	Minimum        : 5
+	Maximum        : 5
+	Total          : 5.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	             5 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+./drivers/media/test-drivers/vivid/vivid-sdr-cap.h:0: info: Metrics per '__global__' region
+	Region name    : __global__
+	Region type    : global
+	Offsets        : 0-1127
+	Line numbers   : 1-25
+	Modified       : None
+	std.code.lines:code: 11
+
+./drivers/media/test-drivers/vivid/vivid-sdr-cap.h:: info: Overall metrics for 'std.code.complexity:cyclomatic' metric
+	Average        : None
+	Minimum        : None
+	Maximum        : None
+	Total          : 0.0
+	Distribution   : 0 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+
+./drivers/media/test-drivers/vivid/vivid-sdr-cap.h:: info: Overall metrics for 'std.code.lines:code' metric
+	Average        : 11.0
+	Minimum        : 11
+	Maximum        : 11
+	Total          : 11.0
+	Distribution   : 1 regions in total (including 0 suppressed)
+	  Metric value : Ratio : R-sum : Number of regions
+	            11 : 1.000 : 1.000 : 1	||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
