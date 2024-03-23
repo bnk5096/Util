@@ -1,0 +1,977 @@
+Excluded file in aliases: coccinelle/o-ndelay.occi
+Source file: coccinelle/o-ndelay.cocci
+Excluded file in aliases: udev.conf.in
+Source file: etc/udev/udev.conf
+Excluded file in aliases: etc/udev/udev.conf.in
+Source file: etc/udev/udev.conf
+Excluded file in aliases: extras/path_id
+Source file: extras/path_id/path_id.sh
+Excluded file in aliases: extras/path_id/path_id
+Source file: extras/path_id/path_id.sh
+Excluded file in aliases: .github/pull_request_template.md
+Source file: .github/pull_request_template.md.disabled
+Excluded file in aliases: mkosi.default
+Source file: mkosi.arch
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/10-centos.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-centos.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/10-centos.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-centos.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/10-centos.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/10-debian.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-debian.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/10-debian.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-debian.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/10-debian.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/10-extra-search-paths.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-extra-search-paths.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/10-extra-search-paths.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-extra-search-paths.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/10-extra-search-paths.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/11-centos-8/mkosi.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/11-centos-8/mkosi.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/11-centos-8/mkosi.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/11-centos-8/mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/11-centos-8/mkosi.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/20-arch.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/20-centos-fedora.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/20-centos-fedora.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/20-centos-fedora.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/20-centos-fedora.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/20-centos-fedora.conf
+Excluded file in aliases: mkosi.default.d/debian/mkosi.debian
+Source file: mkosi.conf.d/20-debian.conf
+Excluded file in aliases: mkosi.conf.d/debian/10-mkosi.debian
+Source file: mkosi.conf.d/20-debian.conf
+Excluded file in aliases: mkosi.default.d/debian/10-mkosi.debian
+Source file: mkosi.conf.d/20-debian.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.conf.d/20-debian.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/20-debian.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/20-debian.conf
+Excluded file in aliases: mkosi.default.d/debian/mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu.conf
+Excluded file in aliases: mkosi.conf.d/debian/10-mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/debian/10-mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/20-debian-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/20-debian-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/debian/mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.conf.d/debian/10-mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.default.d/debian/10-mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu/mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.conf.d/20-debian-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/20-debian-ubuntu/mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/20-debian-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/20-fedora.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/20-fedora.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/20-fedora.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/20-fedora.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/20-fedora.conf
+Excluded file in aliases: mkosi.default.d/opensuse/10-mkosi.opensuse
+Source file: mkosi.conf.d/20-opensuse.conf
+Excluded file in aliases: .mkosi/mkosi.opensuse
+Source file: mkosi.conf.d/20-opensuse.conf
+Excluded file in aliases: mkosi.conf.d/opensuse/10-mkosi.opensuse
+Source file: mkosi.conf.d/20-opensuse.conf
+Excluded file in aliases: mkosi.default.d/opensuse/mkosi.opensuse
+Source file: mkosi.conf.d/20-opensuse.conf
+Excluded file in aliases: .mkosi/mkosi.ubuntu
+Source file: mkosi.conf.d/20-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/ubuntu/10-mkosi.ubuntu
+Source file: mkosi.conf.d/20-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/ubuntu/mkosi.ubuntu
+Source file: mkosi.conf.d/20-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.conf.d/20-ubuntu.conf
+Excluded file in aliases: mkosi.conf.d/ubuntu/10-mkosi.ubuntu
+Source file: mkosi.conf.d/20-ubuntu.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/20-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/20-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/centos_epel/10-mkosi.centos_epel
+Source file: mkosi.conf.d/centos/10-centos.conf
+Excluded file in aliases: mkosi.conf.d/centos_epel/10-mkosi.centos_epel
+Source file: mkosi.conf.d/centos/10-centos.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.conf.d/centos/10-centos.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.conf.d/centos/10-centos.conf
+Excluded file in aliases: mkosi.conf.d/centos/10-mkosi.centos
+Source file: mkosi.conf.d/centos/10-centos.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.conf.d/centos/10-centos.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.conf.d/centos/10-centos.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos-fedora.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos-fedora.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-centos-fedora.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos-fedora.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos-fedora.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos/mkosi.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos/mkosi.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-centos/mkosi.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos/mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-centos/mkosi.conf
+Excluded file in aliases: mkosi.default.d/debian/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian.conf
+Excluded file in aliases: mkosi.conf.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian.conf
+Excluded file in aliases: mkosi.default.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-debian.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-debian.conf
+Excluded file in aliases: test/test-network/conf/21-vlan.network
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf
+Excluded file in aliases: test/test-network/conf/21-vlan-test1.network
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf
+Excluded file in aliases: mkosi.default.d/debian/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/amd64.conf
+Excluded file in aliases: mkosi.conf.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/amd64.conf
+Excluded file in aliases: mkosi.default.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/amd64.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/amd64.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/amd64.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/amd64.conf
+Excluded file in aliases: mkosi.default.d/debian/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/arm64.conf
+Excluded file in aliases: mkosi.conf.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/arm64.conf
+Excluded file in aliases: mkosi.default.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/arm64.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/arm64.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/arm64.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-debian/mkosi.conf.d/arm64.conf
+Excluded file in aliases: mkosi.default.d/debian/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian-ubuntu.conf
+Excluded file in aliases: mkosi.conf.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/debian/10-mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-debian-ubuntu.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-debian-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-debian-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora/mkosi.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora/mkosi.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora/mkosi.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora/mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-fedora/mkosi.conf
+Excluded file in aliases: mkosi.default.d/opensuse/10-mkosi.opensuse
+Source file: mkosi.images/base/mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: .mkosi/mkosi.opensuse
+Source file: mkosi.images/base/mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: mkosi.conf.d/opensuse/10-mkosi.opensuse
+Source file: mkosi.images/base/mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: mkosi.default.d/opensuse/mkosi.opensuse
+Source file: mkosi.images/base/mkosi.conf.d/10-opensuse.conf
+Excluded file in aliases: .mkosi/mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/ubuntu/10-mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.default.d/ubuntu/mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.conf.d/ubuntu/10-mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu.conf
+Excluded file in aliases: .mkosi/mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.default.d/ubuntu/10-mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.default.d/ubuntu/mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu/mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.debian
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.conf.d/ubuntu/10-mkosi.ubuntu
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu/mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.conf.d/10-ubuntu/mkosi.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.images/base/mkosi.extra/usr/lib/tmpfiles.d/99-mkosi.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.extra/usr/lib/tmpfiles.d/99-mkosi.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/base/mkosi.extra/usr/lib/tmpfiles.d/99-mkosi.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/base/mkosi.extra/usr/lib/tmpfiles.d/99-mkosi.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/base/mkosi.extra/usr/lib/tmpfiles.d/99-mkosi.conf
+Excluded file in aliases: mkosi.default.d/fedora/mkosi.fedora
+Source file: mkosi.images/system/mkosi.conf.d/10-centos/mkosi.conf.d/10-centos9.conf
+Excluded file in aliases: mkosi.default.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/system/mkosi.conf.d/10-centos/mkosi.conf.d/10-centos9.conf
+Excluded file in aliases: mkosi.default
+Source file: mkosi.images/system/mkosi.conf.d/10-centos/mkosi.conf.d/10-centos9.conf
+Excluded file in aliases: mkosi.conf.d/fedora/10-mkosi.fedora
+Source file: mkosi.images/system/mkosi.conf.d/10-centos/mkosi.conf.d/10-centos9.conf
+Excluded file in aliases: .mkosi/mkosi.fedora
+Source file: mkosi.images/system/mkosi.conf.d/10-centos/mkosi.conf.d/10-centos9.conf
+Excluded file in aliases: network/80-wifi-station.network
+Source file: network/80-auto-link-local.network.example
+Excluded file in aliases: network/80-wifi-ap.network
+Source file: network/80-wifi-ap.network.example
+Excluded file in aliases: network/80-wifi-station.network
+Source file: network/89-ethernet.network.example
+Excluded file in aliases: test/test-umount/empty.mountinfo
+Source file: network/networkd-dhcp-server.c
+Excluded file in aliases: test/TEST-24-UNIT-TESTS/blacklist-ubuntu-ci-ppc64el
+Source file: network/networkd-dhcp-server.c
+Excluded file in aliases: units/swap.target
+Source file: src/bootchart/bootchart.conf
+Excluded file in aliases: units/session/default.target
+Source file: src/bootchart/bootchart.conf
+Excluded file in aliases: src/org.freedesktop.systemd1.service
+Source file: src/bootchart/bootchart.conf
+Excluded file in aliases: units/paths.target
+Source file: src/coredump/coredump.conf
+Excluded file in aliases: units/busnames.target
+Source file: src/coredump/coredump.conf
+Excluded file in aliases: src/timesync/timesyncd.conf.in
+Source file: src/coredump/coredump.conf
+Excluded file in aliases: src/resolve/resolved.conf.in
+Source file: src/coredump/coredump.conf
+Excluded file in aliases: units/swap.target
+Source file: src/coredump/coredump.conf
+Excluded file in aliases: src/network/networkd.conf.in
+Source file: src/coredump/coredump.conf
+Excluded file in aliases: units/swap.target
+Source file: src/core/system.conf
+Excluded file in aliases: units/session/default.target
+Source file: src/core/system.conf
+Excluded file in aliases: src/org.freedesktop.systemd1.service
+Source file: src/core/system.conf
+Excluded file in aliases: units/paths.target
+Source file: src/home/homed.conf
+Excluded file in aliases: units/busnames.target
+Source file: src/home/homed.conf
+Excluded file in aliases: src/timesync/timesyncd.conf.in
+Source file: src/home/homed.conf
+Excluded file in aliases: units/swap.target
+Source file: src/home/homed.conf
+Excluded file in aliases: units/swap.target
+Source file: src/journal/journald.conf
+Excluded file in aliases: units/session/default.target
+Source file: src/journal/journald.conf
+Excluded file in aliases: src/org.freedesktop.systemd1.service
+Source file: src/journal/journald.conf
+Excluded file in aliases: units/swap.target
+Source file: src/login/logind.conf
+Excluded file in aliases: units/session/default.target
+Source file: src/login/logind.conf
+Excluded file in aliases: src/org.freedesktop.systemd1.service
+Source file: src/login/logind.conf
+Excluded file in aliases: units/fedora/poweroff.service
+Source file: src/Makefile
+Excluded file in aliases: units/emergency.service
+Source file: src/Makefile
+Excluded file in aliases: units/swap.target
+Source file: src/network/networkd-wait-online.conf
+Excluded file in aliases: units/paths.target
+Source file: src/network/networkd-wait-online.conf
+Excluded file in aliases: units/busnames.target
+Source file: src/network/networkd-wait-online.conf
+Excluded file in aliases: units/paths.target
+Source file: src/oom/oomd.conf
+Excluded file in aliases: units/busnames.target
+Source file: src/oom/oomd.conf
+Excluded file in aliases: src/timesync/timesyncd.conf.in
+Source file: src/oom/oomd.conf
+Excluded file in aliases: units/swap.target
+Source file: src/oom/oomd.conf
+Excluded file in aliases: test/units/sockets.target
+Source file: src/partition/definitions/confext.repart.d/10-root.conf
+Excluded file in aliases: units/user/paths.target
+Source file: src/partition/definitions/confext.repart.d/20-root-verity.conf
+Excluded file in aliases: test/units/sockets.target
+Source file: src/partition/definitions/confext.repart.d/30-root-verity-sig.conf
+Excluded file in aliases: test/units/sockets.target
+Source file: src/partition/definitions/portable.repart.d/10-root.conf
+Excluded file in aliases: units/user/paths.target
+Source file: src/partition/definitions/portable.repart.d/20-root-verity.conf
+Excluded file in aliases: test/units/sockets.target
+Source file: src/partition/definitions/portable.repart.d/30-root-verity-sig.conf
+Excluded file in aliases: test/units/sockets.target
+Source file: src/partition/definitions/sysext.repart.d/10-root.conf
+Excluded file in aliases: units/user/paths.target
+Source file: src/partition/definitions/sysext.repart.d/20-root-verity.conf
+Excluded file in aliases: test/units/sockets.target
+Source file: src/partition/definitions/sysext.repart.d/30-root-verity-sig.conf
+Excluded file in aliases: units/emergency.service
+Source file: src/sabridge/Makefile
+Excluded file in aliases: units/fedora/poweroff.service
+Source file: src/sabridge/Makefile
+Excluded file in aliases: units/fedora/poweroff.service
+Source file: src/saproxy/Makefile
+Excluded file in aliases: units/emergency.service
+Source file: src/saproxy/Makefile
+Excluded file in aliases: units/paths.target
+Source file: src/sleep/sleep.conf
+Excluded file in aliases: units/busnames.target
+Source file: src/sleep/sleep.conf
+Excluded file in aliases: src/timesync/timesyncd.conf.in
+Source file: src/sleep/sleep.conf
+Excluded file in aliases: src/resolve/resolved.conf.in
+Source file: src/sleep/sleep.conf
+Excluded file in aliases: units/swap.target
+Source file: src/sleep/sleep.conf
+Excluded file in aliases: src/network/networkd.conf.in
+Source file: src/sleep/sleep.conf
+Excluded file in aliases: units/fedora/poweroff.service
+Source file: src/socket-proxy/Makefile
+Excluded file in aliases: units/emergency.service
+Source file: src/socket-proxy/Makefile
+Excluded file in aliases: etc/udev/udev.conf.in
+Source file: src/udev.conf
+Excluded file in aliases: udev.conf.in
+Source file: src/udev.conf
+Excluded file in aliases: units/paths.target
+Source file: src/udev/iocost/iocost.conf
+Excluded file in aliases: units/busnames.target
+Source file: src/udev/iocost/iocost.conf
+Excluded file in aliases: src/timesync/timesyncd.conf.in
+Source file: src/udev/iocost/iocost.conf
+Excluded file in aliases: units/swap.target
+Source file: src/udev/iocost/iocost.conf
+Excluded file in aliases: src/udev/keymap/keyboard-force-release.sh.in
+Source file: src/udev/keymap/keyboard-force-release.sh
+Excluded file in aliases: sysctl.d/coredump.conf.in
+Source file: sysctl.d/50-default.conf
+Excluded file in aliases: units/cryptsetup.target
+Source file: sysctl.d/50-default.conf
+Excluded file in aliases: units/local-fs.target
+Source file: sysctl.d/50-default.conf
+Excluded file in aliases: sysctl.d/50-coredump.conf.in
+Source file: sysctl.d/50-default.conf
+Excluded file in aliases: units/paths.target
+Source file: sysusers.d/systemd-coredump.conf
+Excluded file in aliases: units/swap.target
+Source file: sysusers.d/systemd-coredump.conf
+Excluded file in aliases: units/paths.target
+Source file: sysusers.d/systemd-oom.conf
+Excluded file in aliases: units/swap.target
+Source file: sysusers.d/systemd-oom.conf
+Excluded file in aliases: sysusers.d/systemd-remote.conf.in
+Source file: sysusers.d/systemd-remote.conf
+Excluded file in aliases: units/remote-fs.target
+Source file: sysusers.d/systemd-remote.conf
+Excluded file in aliases: units/printer.target
+Source file: sysusers.d/systemd-remote.conf
+Excluded file in aliases: sysusers.d/systemd-remote.conf.m4
+Source file: sysusers.d/systemd-remote.conf
+Excluded file in aliases: units/systemd-journal-gatewayd.socket
+Source file: sysusers.d/systemd-remote.conf
+Excluded file in aliases: units/systemd-bus-proxyd.socket
+Source file: sysusers.d/systemd-remote.conf
+Excluded file in aliases: units/local-fs.target
+Source file: sysusers.d/systemd-remote.conf
+Excluded file in aliases: units/systemd-logger.service.in
+Source file: test/fuzz-corpus/unit-file/proc-sys-fs-binfmt_misc.automount
+Excluded file in aliases: units/fedora/killall.service
+Source file: test/fuzz-corpus/unit-file/proc-sys-fs-binfmt_misc.automount
+Excluded file in aliases: catalog/systemd.pl.catalog.in
+Source file: test/fuzz/fuzz-catalog/systemd.pl.catalog
+Excluded file in aliases: units/systemd-logger.service.in
+Source file: test/fuzz/fuzz-unit-file/binfmt_misc.automount
+Excluded file in aliases: units/fedora/killall.service
+Source file: test/fuzz/fuzz-unit-file/binfmt_misc.automount
+Excluded file in aliases: test/test-fstab-generator/test-16-tmpfs.expected/sysroot.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected/mnt-automount1.automount
+Excluded file in aliases: test/test-fstab-generator/test-17-initrd-sysroot.fstab.expected/sysroot-usr.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected/mnt-automount1.automount
+Excluded file in aliases: test/test-fstab-generator/test-16-tmpfs.expected/sysroot.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected/mnt-automount2.automount
+Excluded file in aliases: test/test-fstab-generator/test-17-initrd-sysroot.fstab.expected/sysroot-usr.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected/mnt-automount2.automount
+Excluded file in aliases: test/test-fstab-generator/test-16-tmpfs.expected/sysroot.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected/mnt-wantedby-automount.automount
+Excluded file in aliases: test/test-fstab-generator/test-17-initrd-sysroot.fstab.expected/sysroot-usr.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected/mnt-wantedby-automount.automount
+Excluded file in aliases: test/test-fstab-generator/test-16-tmpfs.expected/sysroot.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected.sysroot/mnt-automount1.automount
+Excluded file in aliases: test/test-fstab-generator/test-17-initrd-sysroot.fstab.expected/sysroot-usr.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected.sysroot/mnt-automount1.automount
+Excluded file in aliases: test/test-fstab-generator/test-16-tmpfs.expected/sysroot.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected.sysroot/mnt-automount2.automount
+Excluded file in aliases: test/test-fstab-generator/test-17-initrd-sysroot.fstab.expected/sysroot-usr.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected.sysroot/mnt-automount2.automount
+Excluded file in aliases: test/test-fstab-generator/test-16-tmpfs.expected/sysroot.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected.sysroot/mnt-wantedby-automount.automount
+Excluded file in aliases: test/test-fstab-generator/test-17-initrd-sysroot.fstab.expected/sysroot-usr.mount
+Source file: test/test-fstab-generator/test-18-options.fstab.expected.sysroot/mnt-wantedby-automount.automount
+Excluded file in aliases: test/test-network/conf/25-wireguard-no-peer.network
+Source file: test/test-network/conf/11-test-unit-file.link.d/dropin.conf
+Excluded file in aliases: test/test-network/conf/25-ifb.netdev
+Source file: test/test-network/conf/11-test-unit-file.netdev.d/dropin.conf
+Excluded file in aliases: test/test-network/conf/25-wireguard-no-peer.network
+Source file: test/test-network/conf/11-test-unit-file.network.d/dropin.conf
+Excluded file in aliases: test/test-network/conf/21-vlan.netdev
+Source file: test/test-network/conf/21-vlan.netdev.d/override.conf
+Excluded file in aliases: test/fuzz/fuzz-netdev-parser/21-vlan.netdev
+Source file: test/test-network/conf/21-vlan.netdev.d/override.conf
+Excluded file in aliases: test/fuzz/fuzz-network-parser/21-vlan.network
+Source file: test/test-network/conf/21-vlan.network.d/override.conf
+Excluded file in aliases: test/test-network/conf/21-vlan.network
+Source file: test/test-network/conf/21-vlan.network.d/override.conf
+Excluded file in aliases: test/test-network/conf/25-address-dad-veth-peer.network
+Source file: test/test-network/conf/25-address-ipv4acd-veth99.network.d/conflict-address.conf
+Excluded file in aliases: test/test-network/conf/25-address-static.network
+Source file: test/test-network/conf/25-address-static.network.d/10-many-address.conf
+Excluded file in aliases: test/test-network/conf/25-link-local-addressing-yes.network
+Source file: test/test-network/conf/25-global-ipv6-privacy-extensions.conf
+Excluded file in aliases: test/test-network/conf/21-vlan.network
+Source file: test/test-network/conf/25-global-ipv6-privacy-extensions.conf
+Excluded file in aliases: test/fuzz/fuzz-network-parser/21-vlan.network
+Source file: test/test-network/conf/25-global-ipv6-privacy-extensions.conf
+Excluded file in aliases: test/test-network/conf/11-dummy.network
+Source file: test/test-network/conf/25-global-ipv6-privacy-extensions.conf
+Excluded file in aliases: test/test-network/conf/25-neighbor-section.network
+Source file: test/test-network/conf/25-neighbor-dummy.network.d/10-step1.conf
+Excluded file in aliases: test/test-network/conf/25-wireguard-no-peer.netdev
+Source file: test/test-network/conf/25-wireguard.netdev.d/private-key.conf
+Excluded file in aliases: test/TEST-21-SYSUSERS/test-12.initial-group
+Source file: test/test-sysusers/test-15.expected-group
+Excluded file in aliases: test/test-sysusers/test-12.initial-group
+Source file: test/test-sysusers/test-15.expected-group
+Excluded file in aliases: units/paths.target
+Source file: tmpfiles.d/credstore.conf
+Excluded file in aliases: units/swap.target
+Source file: tmpfiles.d/credstore.conf
+Excluded file in aliases: sysctl.d/coredump.conf.in
+Source file: tmpfiles.d/etc.conf
+Excluded file in aliases: units/cryptsetup.target
+Source file: tmpfiles.d/etc.conf
+Excluded file in aliases: units/local-fs.target
+Source file: tmpfiles.d/etc.conf
+Excluded file in aliases: sysctl.d/50-coredump.conf.in
+Source file: tmpfiles.d/etc.conf
+Excluded file in aliases: units/session/default.target
+Source file: tmpfiles.d/systemd.conf
+Excluded file in aliases: units/swap.target
+Source file: tmpfiles.d/systemd.conf
+Excluded file in aliases: src/org.freedesktop.systemd1.service
+Source file: tmpfiles.d/systemd.conf
+Excluded file in aliases: units/paths.target
+Source file: tmpfiles.d/systemd-network.conf
+Excluded file in aliases: units/swap.target
+Source file: tmpfiles.d/systemd-network.conf
+Excluded file in aliases: sysctl.d/coredump.conf.in
+Source file: tmpfiles.d/systemd-nologin.conf
+Excluded file in aliases: units/cryptsetup.target
+Source file: tmpfiles.d/systemd-nologin.conf
+Excluded file in aliases: units/local-fs.target
+Source file: tmpfiles.d/systemd-nologin.conf
+Excluded file in aliases: sysctl.d/50-coredump.conf.in
+Source file: tmpfiles.d/systemd-nologin.conf
+Excluded file in aliases: units/local-fs.target
+Source file: tmpfiles.d/systemd-tmp.conf
+Excluded file in aliases: units/bluetooth.target
+Source file: tmpfiles.d/systemd-tmp.conf
+Excluded file in aliases: src/login/70-power-switch.rules
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/arch/sysinit.service
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/systemd-readahead-drop.service
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/systemd-readahead-done.service.in
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/systemd-modules-load.service.in
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/systemd-random-seed-load.service.in
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/emergency.service
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/systemd-readahead-replay.service.in
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/fedora/sysinit.service
+Source file: tmpfiles.d/var.conf
+Excluded file in aliases: units/swap.target
+Source file: tmpfiles.d/x11.conf
+Excluded file in aliases: units/network.target
+Source file: units/dev-hugepages.automount
+Excluded file in aliases: units/network.target
+Source file: units/dev-mqueue.automount
+Excluded file in aliases: units/network.target
+Source file: units/sys-fs-fuse-connections.automount
+Excluded file in aliases: units/network.target
+Source file: units/sys-kernel-config.automount
+Excluded file in aliases: units/network.target
+Source file: units/sys-kernel-security.automount
+Excluded file in aliases: units/paths.target
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: units/busnames.target
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: rules.d/90-vconsole.rules.in
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: src/network/networkd.conf.in
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: src/timesync/timesyncd.conf.in
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: units/swap.target
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: src/vconsole/90-vconsole.rules.in
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: network/80-container-ve.network
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: src/vconsole/90-vconsole.rules
+Source file: units/user@0.service.d/10-login-barrier.conf
+Excluded file in aliases: units/cryptsetup.target
+Source file: units/user@.service.d/10-login-barrier.conf
+Excluded file in aliases: units/local-fs.target
+Source file: units/user@.service.d/10-login-barrier.conf
+Project: systemd
+Overall valid extensions - Tests Included
+2.637171980047712
+Total Non-Util Files: 4922
+Total Util Files: 492
+Util Offenders: 15
+Non-Util Offenders: 58
+Overall valid extensions - Tests Excluded
+2.507066565972597
+Total Non-Util Files: 3919
+Total Util Files: 415
+Util Offenders: 12
+Non-Util Offenders: 46
+Extension: .h Tests Included
+2.7560679611650487
+Total Non-Util Files: 1522
+Total Util Files: 209
+Util Offenders: 3
+Non-Util Offenders: 8
+Extension: .h Tests Excluded
+2.7794117647058822
+Total Non-Util Files: 1520
+Total Util Files: 207
+Util Offenders: 3
+Non-Util Offenders: 8
+Extension: .c Tests Included
+2.3157894736842106
+Total Non-Util Files: 2041
+Total Util Files: 278
+Util Offenders: 12
+Non-Util Offenders: 39
+Extension: .c Tests Excluded
+2.129504666188083
+Total Non-Util Files: 1683
+Total Util Files: 208
+Util Offenders: 9
+Non-Util Offenders: 35
+Extension: .sh Tests Included
+0.0
+Total Non-Util Files: 455
+Total Util Files: 4
+Util Offenders: 0
+Non-Util Offenders: 5
+Extension: .sh Tests Excluded
+Math Error
+Total Non-Util Files: 87
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: Makefile Tests Included
+0.0
+Total Non-Util Files: 274
+Total Util Files: 1
+Util Offenders: 0
+Non-Util Offenders: 2
+Extension: Makefile Tests Excluded
+Math Error
+Total Non-Util Files: 169
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: SKELETON Tests Included
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: SKELETON Tests Excluded
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .arch Tests Included
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .arch Tests Excluded
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .automount Tests Included
+Math Error
+Total Non-Util Files: 20
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .automount Tests Excluded
+Math Error
+Total Non-Util Files: 5
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .awk Tests Included
+Math Error
+Total Non-Util Files: 12
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .awk Tests Excluded
+Math Error
+Total Non-Util Files: 11
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .build Tests Included
+Math Error
+Total Non-Util Files: 135
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 3
+Extension: .build Tests Excluded
+Math Error
+Total Non-Util Files: 132
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 2
+Extension: .c Tests Included
+2.3157894736842106
+Total Non-Util Files: 2041
+Total Util Files: 278
+Util Offenders: 12
+Non-Util Offenders: 39
+Extension: .c Tests Excluded
+2.129504666188083
+Total Non-Util Files: 1683
+Total Util Files: 208
+Util Offenders: 9
+Non-Util Offenders: 35
+Extension: .catalog Tests Included
+Math Error
+Total Non-Util Files: 19
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .catalog Tests Excluded
+Math Error
+Total Non-Util Files: 18
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .clang-format Tests Included
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .clang-format Tests Excluded
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .cocci Tests Included
+Math Error
+Total Non-Util Files: 57
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .cocci Tests Excluded
+Math Error
+Total Non-Util Files: 57
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .conf Tests Included
+Math Error
+Total Non-Util Files: 233
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .conf Tests Excluded
+Math Error
+Total Non-Util Files: 153
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .configure Tests Included
+Math Error
+Total Non-Util Files: 0
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .configure Tests Excluded
+Math Error
+Total Non-Util Files: 0
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .css Tests Included
+Math Error
+Total Non-Util Files: 4
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .css Tests Excluded
+Math Error
+Total Non-Util Files: 4
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .ctags Tests Included
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .ctags Tests Excluded
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .dict Tests Included
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .dict Tests Excluded
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .disabled Tests Included
+Math Error
+Total Non-Util Files: 2
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .disabled Tests Excluded
+Math Error
+Total Non-Util Files: 2
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .el Tests Included
+Math Error
+Total Non-Util Files: 2
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .el Tests Excluded
+Math Error
+Total Non-Util Files: 2
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .example Tests Included
+Math Error
+Total Non-Util Files: 4
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .example Tests Excluded
+Math Error
+Total Non-Util Files: 4
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .expected-err Tests Included
+Math Error
+Total Non-Util Files: 6
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .expected-err Tests Excluded
+Math Error
+Total Non-Util Files: 0
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .expected-group Tests Included
+Math Error
+Total Non-Util Files: 30
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .expected-group Tests Excluded
+Math Error
+Total Non-Util Files: 0
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .expected-passwd Tests Included
+Math Error
+Total Non-Util Files: 31
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .expected-passwd Tests Excluded
+Math Error
+Total Non-Util Files: 0
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .fc Tests Included
+Math Error
+Total Non-Util Files: 1
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .fc Tests Excluded
+Math Error
+Total Non-Util Files: 0
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .gperf Tests Included
+Math Error
+Total Non-Util Files: 16
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 1
+Extension: .gperf Tests Excluded
+Math Error
+Total Non-Util Files: 16
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 1
+Extension: .h Tests Included
+2.7560679611650487
+Total Non-Util Files: 1522
+Total Util Files: 209
+Util Offenders: 3
+Non-Util Offenders: 8
+Extension: .h Tests Excluded
+2.7794117647058822
+Total Non-Util Files: 1520
+Total Util Files: 207
+Util Offenders: 3
+Non-Util Offenders: 8
+Extension: .hwdb Tests Included
+Math Error
+Total Non-Util Files: 53
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
+Extension: .hwdb Tests Excluded
+Math Error
+Total Non-Util Files: 51
+Total Util Files: 0
+Util Offenders: 0
+Non-Util Offenders: 0
